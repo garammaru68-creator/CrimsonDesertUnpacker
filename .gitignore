@@ -1,0 +1,18 @@
+# Build output
+build/
+
+# Large extracted data (544MB+)
+worldmap_extract/
+
+# Large rendered images (>10MB)
+worldmap_rendered_full.png
+worldmap_rendered.png
+
+# IDE / Editor
+.vs/
+.vscode/
+*.user
+*.suo
+
+# CMake
+CMakeSettings.json

@@ -1,0 +1,6 @@
+sector,resource_type,resource,x,y,z,resource_full
+01_nature-ground_mushroom_procedural_vine_wood,rubber,tree_broad_rubber_01_norender,5861.91,356.81,3490.82,object/01_nature/wood/tree_broad_rubber_01_norender.pami
+sector_-18_-10_sub_1_1,rubber,cd_gimmick_item_rubber_0001,-4415.87,468.57,-2433.05,object/00_common/gimmick/item/cd_gimmick_item_rubber_0001.pami
+sector_-18_-7_sub_1_1,rubber,tree_broad_rubber_01_norender,-4383.30,548.98,-1684.99,object/01_nature/wood/tree_broad_rubber_01_norender.pami
+sector_-18_-7_sub_1_1,rubber,tree_broad_rubber_01_norender,-4374.16,470.09,-1737.95,object/01_nature/wood/tree_broad_rubber_01_norender.pami
+sector_-19_-7_sub_1_2,rubber,tree_broad_rubber_01_norender,-4764.10,564.73,-1559.90,object/01_nature/wood/tree_broad_rubber_01_norender.pami
