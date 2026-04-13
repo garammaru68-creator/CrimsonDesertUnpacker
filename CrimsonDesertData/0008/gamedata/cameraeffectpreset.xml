@@ -1,0 +1,495 @@
+﻿<Root ReflectObjectXMLDataVersion="9">
+	<CameraEffectPreset _cameraEffectPresetName="CameraShake_Enhancement">
+		<CameraShakeParam Name="_cameraEffectData" _lifeTime="-1.000000" _shakeDirection="0 0 0" _shakeSpeed="10" _shakeRadius="0.020000" _shakeBlendInTime="0.3" _shakeBlendOutTime="0.3"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraShakeQuake">
+		<CameraShakeParam Name="_cameraEffectData" _lifeTime="0.3" _shakeBlendOutTime="0.3" _shakeDirection="0 1 0" _shakeSpeed="10" _shakeRadius="0.10000"/>
+	</CameraEffectPreset>	
+	<!-- 1. Hit (타격 용도) -->
+	<CameraEffectPreset _cameraEffectPresetName="CameraShake_Hit_Micro">
+		<CameraShakeParam Name="_cameraEffectData" _lifeTime="0.1" _shakeDirection="0 1 0" _shakeSpeed="10" _shakeRadius="0.01" _shakeBlendInTime="0" _shakeBlendOutTime="0.1"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraShake_Hit_Light">
+		<CameraShakeParam Name="_cameraEffectData" _lifeTime="0.2" _shakeDirection="0 1 0" _shakeSpeed="10" _shakeRadius="0.03" _shakeBlendInTime="0" _shakeBlendOutTime="0.18"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraShake_Hit_Medium">
+		<CameraShakeParam Name="_cameraEffectData" _lifeTime="0.3" _shakeDirection="0 1 0" _shakeSpeed="10" _shakeRadius="0.05" _shakeBlendInTime="0" _shakeBlendOutTime="0.2"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraShake_Hit_Heavy">
+		<CameraShakeParam Name="_cameraEffectData" _lifeTime="0.4" _shakeDirection="0 1 0" _shakeSpeed="8" _shakeRadius="0.18" _shakeBlendInTime="0" _shakeBlendOutTime="0.25"/>
+	</CameraEffectPreset>
+	<!-- 2. Explosion (폭발 용도)  -->
+	<CameraEffectPreset _cameraEffectPresetName="CameraShake_Explosion_Light">
+		<CameraShakeParam Name="_cameraEffectData" _lifeTime="0.27" _shakeDirection="0 1 0" _shakeSpeed="10" _shakeRadius="0.06" _shakeBlendInTime="0" _shakeBlendOutTime="0.24"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraShake_Explosion_Medium">
+		<CameraShakeParam Name="_cameraEffectData" _lifeTime="0.35" _shakeDirection="0 1 0" _shakeSpeed="10" _shakeRadius="0.1" _shakeBlendInTime="0" _shakeBlendOutTime="0.3"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraShake_Explosion_Heavy">
+		<CameraShakeParam Name="_cameraEffectData" _lifeTime="0.6" _shakeDirection="0 1 0" _shakeSpeed="10" _shakeRadius="0.2" _shakeBlendInTime="0" _shakeBlendOutTime="0.4"/>
+	</CameraEffectPreset>
+	<!-- 3. Fall (낙하,착지 용도) -->
+	<CameraEffectPreset _cameraEffectPresetName="CameraShake_Fall_Light">
+		<CameraShakeParam Name="_cameraEffectData" _lifeTime="0.5" _shakeDirection="0 1 0" _shakeSpeed="10" _shakeRadius="0.045" _shakeBlendInTime="0" _shakeBlendOutTime="0.4"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraShake_Fall_Medium">
+		<CameraShakeParam Name="_cameraEffectData" _lifeTime="0.4" _shakeDirection="0 1 0" _shakeSpeed="10" _shakeRadius="0.1" _shakeBlendInTime="0" _shakeBlendOutTime="0.3"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraShake_Fall_Heavy">
+		<CameraShakeParam Name="_cameraEffectData" _lifeTime="0.5" _shakeDirection="0 1 0" _shakeSpeed="10" _shakeRadius="0.12" _shakeBlendInTime="0" _shakeBlendOutTime="0.45"/>
+	</CameraEffectPreset>
+	<!-- 4. Quake (지진 용도) -->
+	<CameraEffectPreset _cameraEffectPresetName="CameraShake_Quake_Light">
+		<CameraShakeParam Name="_cameraEffectData" _lifeTime="0.8" _shakeDirection="0 1 0" _shakeSpeed="10" _shakeRadius="0.04" _shakeBlendInTime="0" _shakeBlendOutTime="0.5"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraShake_Quake_Medium">
+		<CameraShakeParam Name="_cameraEffectData" _lifeTime="1.0" _shakeDirection="0 1 0" _shakeSpeed="20" _shakeRadius="0.01" _shakeBlendInTime="0" _shakeBlendOutTime="0.2"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraShake_Quake_Heavy">
+		<CameraShakeParam Name="_cameraEffectData" _lifeTime="1.0" _shakeDirection="0 1 0" _shakeSpeed="20" _shakeRadius="0.01" _shakeBlendInTime="0" _shakeBlendOutTime="0.2"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="WorldImpulseCameraShake">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="1.000000" _shakeDirection="0.000000 1.000000 0.000000" _cameraShakeRadius="0.080000" _fadeOutStartTime="0.100000" _useFadeOut="True" _useDirection="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraPreset_Gimmick_BreakFoothold">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="1.100000" _shakeDirection="1.000000 1.000000 1.000000" _shakeDirectionRandomValue="0.300000" _cameraShakeRadius="0.020000" _targetShakeRadius="0.020000" _fallOffByDistance="5.000000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraPreset_Gimmick_Shake_PitchOnly">
+		<CameraShakeParam Name="_cameraEffectData" _lifeTime="1.100000" _shakeDirection="0.000000 1.000000 0.000000" _shakeDirectionRandomValue="0.300000" _cameraShakeRadius="0.020000" _targetShakeRadius="0.020000" _fallOffByDistance="5.000000" _useFadeOut="True" _useDirection="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraPreset_Gimmick_MovingStone">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="1.100000" _shakeDirection="1.000000 1.000000 1.000000" _shakeDirectionRandomValue="0.300000" _cameraShakeRadius="0.010000" _targetShakeRadius="0.012000" _fallOffByDistance="5.000000" _useFadeOut="True" _useDirection="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraPreset_Gimmick_Docking_Shake">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="2.000000" _cameraShakeRadius="0.100000" _fadeOutStartTime="0.150000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraEffectPreset_0">
+		<ActionShakeAttackParameter Name="_cameraEffectData"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraShakePreset_1" _cameraEffectType="SineShake">
+		<ActionShakeSineParameter Name="_cameraEffectData" _lifeTime="10000.000000" _shakeDirection="0.593112 -0.500000 -0.271685" _cameraShakeRadius="1.411052" _targetShakeRadius="-0.679387" _fallOffByDistance="1.728837" _useDirection="True" _changeFrequencyRate="3.238198" _changeFrequencyStartTime="0.091711" _changeFrequencyScale="5.184803" _baseFrequency="0.789373"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraShakePreset_2">
+		<ActionShakeAttackParameter Name="_cameraEffectData"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraShakePreset_3">
+		<ActionShakeAttackParameter Name="_cameraEffectData"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraShakePreset_5">
+		<ActionShakeAttackParameter Name="_cameraEffectData"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraPreset_Gimmick_Thunder">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="1.100000" _cameraShakeRadius="0.020000" _targetShakeRadius="0.010000" _fallOffByDistance="45.000000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraEffectPreset_6">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="10.000000" _cameraShakeRadius="10.000000" _targetShakeRadius="10.000000" _fadeOutStartTime="10.000000" _fallOffByDistance="10.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraEffectPreset_8">
+		<ActionShakeAttackParameter Name="_cameraEffectData"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraEffectPreset_10">
+		<ActionShakeAttackParameter Name="_cameraEffectData"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraHandHeld_0_0" _cameraEffectType="AnimationShake">
+		<CameraShakeAnimation Name="_cameraEffectData">
+			<ResourceReferencePath_Animation Name="_cameraShakeAnimationFileName" _path="character/motion/9_cutscene/c0000_camera_animation/handheldcamera_0_0.paa"/>
+		</CameraShakeAnimation>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraHandHeld_0_1" _cameraEffectType="AnimationShake">
+		<CameraShakeAnimation Name="_cameraEffectData">
+			<ResourceReferencePath_Animation Name="_cameraShakeAnimationFileName" _path="character/motion/9_cutscene/c0000_camera_animation/handheldcamera_0_1.paa"/>
+		</CameraShakeAnimation>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraHandHeld_0_2" _cameraEffectType="AnimationShake">
+		<CameraShakeAnimation Name="_cameraEffectData">
+			<ResourceReferencePath_Animation Name="_cameraShakeAnimationFileName" _path="character/motion/9_cutscene/c0000_camera_animation/handheldcamera_0_2.paa"/>
+		</CameraShakeAnimation>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraHandHeld_1_0" _cameraEffectType="AnimationShake">
+		<CameraShakeAnimation Name="_cameraEffectData">
+			<ResourceReferencePath_Animation Name="_cameraShakeAnimationFileName" _path="character/motion/9_cutscene/c0000_camera_animation/handheldcamera_1_0.paa"/>
+		</CameraShakeAnimation>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraHandHeld_1_1" _cameraEffectType="AnimationShake">
+		<CameraShakeAnimation Name="_cameraEffectData">
+			<ResourceReferencePath_Animation Name="_cameraShakeAnimationFileName" _path="character/motion/9_cutscene/c0000_camera_animation/handheldcamera_1_1.paa"/>
+		</CameraShakeAnimation>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraHandHeld_1_2" _cameraEffectType="AnimationShake">
+		<CameraShakeAnimation Name="_cameraEffectData">
+			<ResourceReferencePath_Animation Name="_cameraShakeAnimationFileName" _path="character/motion/9_cutscene/c0000_camera_animation/handheldcamera_1_2.paa"/>
+		</CameraShakeAnimation>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraHandHeld_2_0" _cameraEffectType="AnimationShake">
+		<CameraShakeAnimation Name="_cameraEffectData">
+			<ResourceReferencePath_Animation Name="_cameraShakeAnimationFileName" _path="character/motion/9_cutscene/c0000_camera_animation/handheldcamera_2_0.paa"/>
+		</CameraShakeAnimation>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraHandHeld_2_1" _cameraEffectType="AnimationShake">
+		<CameraShakeAnimation Name="_cameraEffectData">
+			<ResourceReferencePath_Animation Name="_cameraShakeAnimationFileName" _path="character/motion/9_cutscene/c0000_camera_animation/handheldcamera_2_1.paa"/>
+		</CameraShakeAnimation>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraHandHeld_2_2" _cameraEffectType="AnimationShake">
+		<CameraShakeAnimation Name="_cameraEffectData">
+			<ResourceReferencePath_Animation Name="_cameraShakeAnimationFileName" _path="character/motion/9_cutscene/c0000_camera_animation/handheldcamera_2_2.paa"/>
+		</CameraShakeAnimation>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="NoiseCamera_1_15" _cameraEffectType="AnimationShake">
+		<CameraShakeAnimation Name="_cameraEffectData">
+			<ResourceReferencePath_Animation Name="_cameraShakeAnimationFileName" _path="character/motion/9_cutscene/c0000_camera_animation/noisecamera_1_15.paa"/>
+		</CameraShakeAnimation>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraEyeRollEffect" _cameraEffectType="EyeRollingEffect">
+		<CameraEyeRollingEffect Name="_cameraEffectData" _useGlobalCameraEffectScaleOption="False"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraShakeSine_Normal_01" _cameraEffectType="SineShake">
+		<ActionShakeSineParameter Name="_cameraEffectData" _lifeTime="2.500000" _shakeDirection="0.000000 1.000000 0.000000" _cameraShakeRadius="0.120000" _targetShakeRadius="0.130000" _fallOffByDistance="20.000000" _useDirection="True" _changeFrequencyRate="1.000000" _changeFrequencyStartTime="0.100000" _changeFrequencyScale="-1.000000" _baseFrequency="7.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraShakeSine_Normal_02" _cameraEffectType="SineShake">
+		<ActionShakeSineParameter Name="_cameraEffectData" _lifeTime="1.500000" _shakeDirection="0.000000 1.000000 0.000000" _cameraShakeRadius="0.010000" _targetShakeRadius="0.005000" _fallOffByDistance="45.000000" _useDirection="True" _changeFrequencyRate="1.000000" _changeFrequencyStartTime="0.100000" _changeFrequencyScale="-1.000000" _baseFrequency="7.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraShake_Normal_01">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="1.000000" _cameraShakeRadius="0.010000" _targetShakeRadius="0.005000" _fallOffByDistance="45.000000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraShake_Normal_02">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="1.000000" _cameraShakeRadius="0.007000" _targetShakeRadius="0.004000" _fallOffByDistance="45.000000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraShake_Normal_03">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="1.000000" _cameraShakeRadius="0.005000" _targetShakeRadius="0.003000" _fallOffByDistance="45.000000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="0.6_Shake_R_0.012">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="0.600000" _cameraShakeRadius="0.012000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="0.6_Shake_R_0.018">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="0.600000" _cameraShakeRadius="0.018000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="1.0_Sine_Y_0.3_R_0.095" _cameraEffectType="SineShake">
+		<ActionShakeSineParameter Name="_cameraEffectData" _lifeTime="1.000000" _shakeDirection="0.000000 0.300000 0.000000" _cameraShakeRadius="0.095000" _fadeOutStartTime="0.200000" _useFadeOut="True" _useDirection="True" _changeFrequencyRate="1.000000" _changeFrequencyStartTime="0.100000" _changeFrequencyScale="-1.000000" _baseFrequency="7.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="1.5_Sine_Y_0.7_R_0.18" _cameraEffectType="SineShake">
+		<ActionShakeSineParameter Name="_cameraEffectData" _lifeTime="1.500000" _shakeDirection="0.000000 0.700000 0.000000" _cameraShakeRadius="0.180000" _useFadeOut="True" _useDirection="True" _changeFrequencyRate="1.000000" _changeFrequencyStartTime="0.100000" _changeFrequencyScale="-1.000000" _baseFrequency="7.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="1.5_Sine_Y_1.1_R_0.1" _cameraEffectType="SineShake">
+		<ActionShakeSineParameter Name="_cameraEffectData" _lifeTime="1.500000" _shakeDirection="0.000000 1.100000 0.000000" _cameraShakeRadius="0.100000" _fadeOutStartTime="0.200000" _useFadeOut="True" _useDirection="True" _changeFrequencyRate="1.000000" _changeFrequencyStartTime="0.100000" _changeFrequencyScale="-1.000000" _baseFrequency="7.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="2.0_Shake_R_0.09">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="2.000000" _cameraShakeRadius="0.090000" _fadeOutStartTime="0.200000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="2.0_Sine_Y_3.0_R_0.1" _cameraEffectType="SineShake">
+		<ActionShakeSineParameter Name="_cameraEffectData" _lifeTime="2.000000" _shakeDirection="0.000000 3.000000 0.000000" _cameraShakeRadius="0.100000" _fadeOutStartTime="0.200000" _useFadeOut="True" _useDirection="True" _changeFrequencyRate="1.000000" _changeFrequencyStartTime="0.100000" _changeFrequencyScale="-1.000000" _baseFrequency="7.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="2.0_Sine_Y_1.5_R_0.1" _cameraEffectType="SineShake">
+		<ActionShakeSineParameter Name="_cameraEffectData" _lifeTime="2.000000" _shakeDirection="0.000000 1.500000 0.000000" _cameraShakeRadius="0.100000" _fadeOutStartTime="0.200000" _useFadeOut="True" _useDirection="True" _changeFrequencyRate="1.000000" _changeFrequencyStartTime="0.100000" _changeFrequencyScale="-1.000000" _baseFrequency="7.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="2.5_Sine_X_2.0_R_0.1" _cameraEffectType="SineShake">
+		<ActionShakeSineParameter Name="_cameraEffectData" _lifeTime="2.500000" _shakeDirection="2.000000 0.000000 0.000000" _cameraShakeRadius="0.100000" _fadeOutStartTime="0.200000" _useFadeOut="True" _useDirection="True" _changeFrequencyRate="1.000000" _changeFrequencyStartTime="0.100000" _changeFrequencyScale="-1.000000" _baseFrequency="7.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="3.0_Shake_R_0.2">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="3.000000" _cameraShakeRadius="0.200000" _fadeOutStartTime="0.100000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="4.0_Shake_R_0.15">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="4.000000" _cameraShakeRadius="0.150000" _fadeOutStartTime="0.200000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="3.0_Shake_R_0.08">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="3.000000" _cameraShakeRadius="0.080000" _fadeOutStartTime="0.500000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="1.0_Sine_Y_0.1_R_0.05" _cameraEffectType="SineShake">
+		<ActionShakeSineParameter Name="_cameraEffectData" _lifeTime="1.000000" _shakeDirection="0.000000 0.100000 0.000000" _cameraShakeRadius="0.050000" _useFadeOut="True" _useDirection="True" _changeFrequencyRate="1.000000" _changeFrequencyStartTime="0.100000" _changeFrequencyScale="-1.000000" _baseFrequency="7.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="1.0_Sine_Y_0.2_R_0.05" _cameraEffectType="SineShake">
+		<ActionShakeSineParameter Name="_cameraEffectData" _lifeTime="1.000000" _shakeDirection="0.000000 0.200000 0.000000" _cameraShakeRadius="0.050000" _useFadeOut="True" _useDirection="True" _changeFrequencyRate="1.000000" _changeFrequencyStartTime="0.100000" _changeFrequencyScale="-1.000000" _baseFrequency="7.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="6.0_Shake_R_0.03">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="6.000000" _cameraShakeRadius="0.030000" _fadeOutStartTime="1.000000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="5.0_Shake_R_0.01">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="5.000000" _cameraShakeRadius="0.010000" _fadeOutStartTime="1.000000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="3.0_Sine_Y_1.5_R_0.05" _cameraEffectType="SineShake">
+		<ActionShakeSineParameter Name="_cameraEffectData" _lifeTime="3.000000" _shakeDirection="0.000000 1.500000 0.000000" _cameraShakeRadius="0.050000" _fadeOutStartTime="0.350000" _useFadeOut="True" _useDirection="True" _changeFrequencyRate="1.000000" _changeFrequencyStartTime="0.100000" _changeFrequencyScale="-1.000000" _baseFrequency="7.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="1.5_Shake_R_0.05">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="1.500000" _cameraShakeRadius="0.050000" _fadeOutStartTime="0.200000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="1.5_Shake_R_0.1">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="1.500000" _cameraShakeRadius="0.100000" _fadeOutStartTime="0.200000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="1.5_Shake_R_0.15">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="1.500000" _cameraShakeRadius="0.150000" _fadeOutStartTime="0.200000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="1.0_Shake_R_0.05">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="1.500000" _cameraShakeRadius="0.050000" _fadeOutStartTime="0.200000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="1.5_Shake_R_0.07">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="1.500000" _cameraShakeRadius="0.070000" _fadeOutStartTime="0.200000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="5.0_Shake_R_0.05">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="5.000000" _cameraShakeRadius="0.050000" _fadeOutStartTime="0.500000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="1.5_Sing_Y_1.0_R_0.05" _cameraEffectType="SineShake">
+		<ActionShakeSineParameter Name="_cameraEffectData" _lifeTime="1.500000" _shakeDirection="0.000000 1.000000 0.000000" _cameraShakeRadius="0.050000" _fadeOutStartTime="0.300000" _useFadeOut="True" _useDirection="True" _changeFrequencyRate="1.000000" _changeFrequencyStartTime="0.100000" _changeFrequencyScale="-1.000000" _baseFrequency="7.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="1.0_Shake_R_0.07">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="1.000000" _cameraShakeRadius="0.070000" _fadeOutStartTime="0.200000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="1.0_Sine_Y_0.3_R_0.05" _cameraEffectType="SineShake">
+		<ActionShakeSineParameter Name="_cameraEffectData" _lifeTime="1.000000" _shakeDirection="0.000000 0.300000 0.000000" _cameraShakeRadius="0.050000" _fadeOutStartTime="0.200000" _useFadeOut="True" _useDirection="True" _changeFrequencyRate="1.000000" _changeFrequencyStartTime="0.100000" _changeFrequencyScale="-1.000000" _baseFrequency="5.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="2.0_Shake_R_0.02">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="2.000000" _cameraShakeRadius="0.020000" _fadeOutStartTime="0.200000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="1.5_Shake_R_0.2_T_0">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="1.500000" _cameraShakeRadius="0.200000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="1.5_Shake_R_0.15_T_0">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="1.500000" _cameraShakeRadius="0.150000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="1.0_Sine_Y_0.5_R_0.05" _cameraEffectType="SineShake">
+		<ActionShakeSineParameter Name="_cameraEffectData" _lifeTime="1.000000" _shakeDirection="0.000000 0.500000 0.000000" _cameraShakeRadius="0.050000" _fadeOutStartTime="0.200000" _useFadeOut="True" _useDirection="True" _changeFrequencyRate="1.000000" _changeFrequencyStartTime="0.100000" _changeFrequencyScale="-1.000000" _baseFrequency="7.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="1.0_Shake_R_0.1">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="1.000000" _cameraShakeRadius="0.100000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="1.0_Shake_R_0.15">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="1.000000" _cameraShakeRadius="0.150000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="2.5_Sine_X_1.0_R_0.1" _cameraEffectType="SineShake">
+		<ActionShakeSineParameter Name="_cameraEffectData" _lifeTime="2.500000" _shakeDirection="1.000000 0.000000 0.000000" _cameraShakeRadius="0.100000" _fadeOutStartTime="0.200000" _useFadeOut="True" _useDirection="True" _changeFrequencyRate="1.000000" _changeFrequencyStartTime="0.100000" _changeFrequencyScale="-1.000000" _baseFrequency="7.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="2.0_Shake_R_0.12_T_0">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="2.000000" _cameraShakeRadius="0.120000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="3.0_Shake_R_0.007">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="3.000000" _cameraShakeRadius="0.007000" _fadeOutStartTime="0.550000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="0.4_Shake_R_0.01_T_0">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="0.400000" _cameraShakeRadius="0.010000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="2.0_Sine_Y_0.1_R_0.1" _cameraEffectType="SineShake">
+		<ActionShakeSineParameter Name="_cameraEffectData" _lifeTime="2.000000" _shakeDirection="0.000000 0.100000 0.000000" _cameraShakeRadius="0.100000" _useDirection="True" _changeFrequencyRate="1.000000" _changeFrequencyStartTime="0.100000" _changeFrequencyScale="-1.000000" _baseFrequency="5.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="1.5_Sine_Y_0.3_R_01_T_0.1" _cameraEffectType="SineShake">
+		<ActionShakeSineParameter Name="_cameraEffectData" _lifeTime="1.500000" _shakeDirection="0.000000 0.200000 0.000000" _cameraShakeRadius="0.100000" _fadeOutStartTime="0.100000" _useFadeOut="True" _useDirection="True" _changeFrequencyRate="1.000000" _changeFrequencyStartTime="0.100000" _changeFrequencyScale="-1.000000" _baseFrequency="5.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraEffectPreset_62">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="1.000000" _shakeDirection="0.000000 0.750000 0.000000" _cameraShakeRadius="0.050000" _fadeOutStartTime="0.200000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="2.5_Shake_R_0.065_T_0">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="2.500000" _cameraShakeRadius="0.065000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="3.0_Shake_R_0.03_T_0.8">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="3.000000" _cameraShakeRadius="0.030000" _fadeOutStartTime="0.800000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="3.0_Sine_Y_0.7_R_0.1_T_0.6" _cameraEffectType="SineShake">
+		<ActionShakeSineParameter Name="_cameraEffectData" _lifeTime="3.000000" _shakeDirection="0.000000 0.700000 0.000000" _cameraShakeRadius="0.100000" _fadeOutStartTime="0.600000" _useFadeOut="True" _useDirection="True" _changeFrequencyRate="1.000000" _changeFrequencyStartTime="0.100000" _changeFrequencyScale="-1.000000" _baseFrequency="5.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="3.0_Shake_R_0.02_T_1">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="3.000000" _cameraShakeRadius="0.020000" _fadeOutStartTime="1.000000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="3.0_Shake_Y_1.0_R_0.4_T_0.1">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="3.000000" _shakeDirection="0.000000 1.000000 0.000000" _cameraShakeRadius="0.400000" _fadeOutStartTime="0.200000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="2.0_Shake_R_0.05_T_0.3">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="2.000000" _cameraShakeRadius="0.050000" _fadeOutStartTime="0.300000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="3.0_Shake_R_0.15_T_0.2">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="3.000000" _cameraShakeRadius="0.150000" _fadeOutStartTime="0.200000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="3.0_Shake_R_0.175_T_0.2">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="3.000000" _cameraShakeRadius="0.175000" _fadeOutStartTime="0.200000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="1.5_Shake_R_0.25_T_0">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="1.500000" _cameraShakeRadius="0.250000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="2.0_Shake_R_0.3_T_0.2">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="3.000000" _cameraShakeRadius="0.300000" _fadeOutStartTime="0.200000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="3.0_Sine_Y_0.7_R_0.1_T_0.2" _cameraEffectType="SineShake">
+		<ActionShakeSineParameter Name="_cameraEffectData" _lifeTime="3.000000" _shakeDirection="0.000000 0.700000 0.000000" _cameraShakeRadius="0.100000" _fadeOutStartTime="0.200000" _useFadeOut="True" _useDirection="True" _changeFrequencyRate="1.000000" _changeFrequencyStartTime="0.100000" _changeFrequencyScale="-1.000000" _baseFrequency="5.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="2.0_Shake_R_0.4_T_0.2">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="2.000000" _cameraShakeRadius="0.400000" _fadeOutStartTime="0.200000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="2.0_Shine_Y_2.0_R_0.1" _cameraEffectType="SineShake">
+		<ActionShakeSineParameter Name="_cameraEffectData" _lifeTime="2.000000" _shakeDirection="0.000000 2.000000 0.000000" _cameraShakeRadius="0.100000" _fadeOutStartTime="0.200000" _useFadeOut="True" _useDirection="True" _changeFrequencyRate="1.000000" _changeFrequencyStartTime="0.100000" _changeFrequencyScale="-1.000000" _baseFrequency="7.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="4.0_Shine_Y_2.0_R_0.1" _cameraEffectType="SineShake">
+		<ActionShakeSineParameter Name="_cameraEffectData" _lifeTime="4.000000" _shakeDirection="0.000000 2.500000 0.000000" _cameraShakeRadius="0.100000" _fadeOutStartTime="0.150000" _useFadeOut="True" _useDirection="True" _changeFrequencyRate="1.000000" _changeFrequencyStartTime="0.100000" _changeFrequencyScale="-1.000000" _baseFrequency="7.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="0.4_Shake_R_0.03_T_0">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="0.400000" _cameraShakeRadius="0.030000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="1.0_Shake_R_0.4_T_0">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="1.000000" _cameraShakeRadius="0.400000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="1.0_Shake_R_0.05_T_1">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="1.000000" _cameraShakeRadius="0.050000" _fadeOutStartTime="1.000000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="2.0_Shake_R_0.05_T_1">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="2.000000" _cameraShakeRadius="0.050000" _fadeOutStartTime="1.000000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="1.0_Shake_R_0.05_T_0">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="1.000000" _cameraShakeRadius="0.050000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="1.0_Shake_R_0.1_T_0">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="1.000000" _cameraShakeRadius="0.100000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="7.0_Shake_R_0.05_T_1">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="7.000000" _cameraShakeRadius="0.050000" _fadeOutStartTime="1.000000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="4.0_Shake_R_0.03_T_1">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="4.000000" _cameraShakeRadius="0.030000" _fadeOutStartTime="1.000000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="1.0_Shake_R_0.15_T_0">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="1.000000" _cameraShakeRadius="0.150000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="1.0_Shake_R_0.075_T_0">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="1.000000" _cameraShakeRadius="0.075000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="2.0_Sine_Y_1.0_R_0.1" _cameraEffectType="SineShake">
+		<ActionShakeSineParameter Name="_cameraEffectData" _lifeTime="2.000000" _shakeDirection="0.000000 1.000000 0.000000" _cameraShakeRadius="0.100000" _fadeOutStartTime="0.200000" _useFadeOut="True" _useDirection="True" _changeFrequencyRate="1.000000" _changeFrequencyStartTime="0.100000" _changeFrequencyScale="-1.000000" _baseFrequency="7.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="1.5_Sine_Y_0.8_R_0.1" _cameraEffectType="SineShake">
+		<ActionShakeSineParameter Name="_cameraEffectData" _lifeTime="1.500000" _shakeDirection="0.000000 0.800000 0.000000" _cameraShakeRadius="0.100000" _fadeOutStartTime="0.200000" _useFadeOut="True" _useDirection="True" _changeFrequencyRate="1.000000" _changeFrequencyStartTime="0.100000" _changeFrequencyScale="-1.000000" _baseFrequency="7.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="1.5_Sine_Y_0.5_R_0.1" _cameraEffectType="SineShake">
+		<ActionShakeSineParameter Name="_cameraEffectData" _lifeTime="1.500000" _shakeDirection="0.000000 0.500000 0.000000" _cameraShakeRadius="0.100000" _useFadeOut="True" _useDirection="True" _changeFrequencyRate="1.000000" _changeFrequencyStartTime="0.100000" _changeFrequencyScale="-1.000000" _baseFrequency="7.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="2.0_Sine_Y_0.07_R_0.1_T_0" _cameraEffectType="SineShake">
+		<ActionShakeSineParameter Name="_cameraEffectData" _lifeTime="2.000000" _shakeDirection="0.000000 0.070000 0.000000" _cameraShakeRadius="0.100000" _useFadeOut="True" _useDirection="True" _changeFrequencyRate="1.000000" _changeFrequencyStartTime="0.100000" _changeFrequencyScale="-1.000000" _baseFrequency="5.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="2.0_Sine_Z_1.5_R_0.1" _cameraEffectType="SineShake">
+		<ActionShakeSineParameter Name="_cameraEffectData" _lifeTime="2.000000" _shakeDirection="0.000000 0.000000 1.500000" _cameraShakeRadius="0.100000" _fadeOutStartTime="0.200000" _useFadeOut="True" _useDirection="True" _changeFrequencyRate="1.000000" _changeFrequencyStartTime="0.100000" _changeFrequencyScale="-1.000000" _baseFrequency="5.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="3.0_Shake_R_0.1_T_0">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="3.000000" _cameraShakeRadius="0.100000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="2.0_Shake_R_0.3_T_0">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="2.000000" _cameraShakeRadius="0.300000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="2.0_Shake_R_0.25_T_0">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="2.000000" _cameraShakeRadius="0.250000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="2.0_Sine_Y_2.0_R_0.1" _cameraEffectType="SineShake">
+		<ActionShakeSineParameter Name="_cameraEffectData" _lifeTime="2.000000" _shakeDirection="0.000000 2.000000 0.000000" _cameraShakeRadius="0.100000" _fadeOutStartTime="0.200000" _useFadeOut="True" _useDirection="True" _changeFrequencyRate="1.000000" _changeFrequencyStartTime="0.100000" _changeFrequencyScale="-1.000000" _baseFrequency="7.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="8.0_Shake_R_0.3_T_1">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="8.000000" _cameraShakeRadius="0.300000" _fadeOutStartTime="1.000000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="10.0_Shake_R_0.001">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="10.000000" _cameraShakeRadius="0.001000" _fadeOutStartTime="1.000000" _fallOffByDistance="40.000000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="10.0_Shake_R_0.003">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="10.000000" _cameraShakeRadius="0.003000" _fadeOutStartTime="1.000000" _fallOffByDistance="150.000000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="3.0_Shine_Y_2.5_R_0.1_T_0.15" _cameraEffectType="SineShake">
+		<ActionShakeSineParameter Name="_cameraEffectData" _lifeTime="3.000000" _shakeDirection="0.000000 2.500000 0.000000" _cameraShakeRadius="0.100000" _fadeOutStartTime="0.150000" _useFadeOut="True" _useDirection="True" _changeFrequencyRate="1.000000" _changeFrequencyStartTime="0.100000" _changeFrequencyScale="-1.000000" _baseFrequency="7.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="2.0_Shake_R_0.04_T_0.1">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="2.000000" _cameraShakeRadius="0.040000" _fadeOutStartTime="0.100000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="2.0_Shake_R_0.05_T_0">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="2.000000" _cameraShakeRadius="0.050000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="4.0_Shake_R_0.3_T_1">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="4.000000" _cameraShakeRadius="0.300000" _fadeOutStartTime="1.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="3.0_Shake_R_0.3_T_0">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="3.000000" _cameraShakeRadius="0.300000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="3.0_Sine_Y_2.5_R_0.1_T_0.1" _cameraEffectType="SineShake">
+		<ActionShakeSineParameter Name="_cameraEffectData" _lifeTime="3.000000" _shakeDirection="0.000000 2.500000 0.000000" _cameraShakeRadius="0.100000" _fadeOutStartTime="0.100000" _useFadeOut="True" _useDirection="True" _changeFrequencyRate="1.000000" _changeFrequencyStartTime="0.100000" _changeFrequencyScale="-1.000000" _baseFrequency="7.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="3.0_Sine_Y_2.0_R_0.1_T_0.3" _cameraEffectType="SineShake">
+		<ActionShakeSineParameter Name="_cameraEffectData" _lifeTime="3.000000" _shakeDirection="0.000000 2.000000 0.000000" _cameraShakeRadius="0.100000" _fadeOutStartTime="0.300000" _useFadeOut="True" _useDirection="True" _changeFrequencyRate="0.100000" _changeFrequencyStartTime="1.000000" _changeFrequencyScale="-1.000000" _baseFrequency="7.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="3.0_Shake_R_0.00">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="3.000000" _cameraShakeRadius="0.003000" _fadeOutStartTime="1.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="3.0_Shake_R_0.12_T_0">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="3.000000" _cameraShakeRadius="0.120000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="2.0_Shake_R_0.1_T_1">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="2.000000" _cameraShakeRadius="0.100000" _fadeOutStartTime="1.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="4.0_Sine_Y_4.0_R_0.1_T_0" _cameraEffectType="SineShake">
+		<ActionShakeSineParameter Name="_cameraEffectData" _lifeTime="4.000000" _shakeDirection="0.000000 4.000000 0.000000" _cameraShakeRadius="0.100000" _useFadeOut="True" _useDirection="True" _changeFrequencyRate="1.000000" _changeFrequencyStartTime="0.100000" _changeFrequencyScale="-1.000000" _baseFrequency="7.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="3.0_Shake_R_0.08_T_1">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="3.000000" _cameraShakeRadius="0.080000" _fadeOutStartTime="1.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="3.0_Sine_Y_0.5_R_0.1_T_0" _cameraEffectType="SineShake">
+		<ActionShakeSineParameter Name="_cameraEffectData" _lifeTime="3.000000" _shakeDirection="0.000000 0.500000 0.000000" _cameraShakeRadius="0.100000" _useFadeOut="True" _useDirection="True" _changeFrequencyRate="1.000000" _changeFrequencyStartTime="0.100000" _changeFrequencyScale="-1.000000" _baseFrequency="7.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="2.0_Shake_R_0.01_T_1">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="2.000000" _cameraShakeRadius="0.010000" _fadeOutStartTime="1.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="3.0_R_0.003_T_1">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="3.000000" _cameraShakeRadius="0.003000" _fadeOutStartTime="1.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="L_Shake_R_0.1_T_0">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _cameraShakeRadius="0.100000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="2.5_Shake_R_0.18_T_0.1">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="2.500000" _cameraShakeRadius="0.180000" _fadeOutStartTime="0.100000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraEffectPreset_122">
+		<ActionShakeAttackParameter Name="_cameraEffectData"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="WeaponHit_Metal_Mid_00" _cameraEffectType="SequencerShake">
+		<CameraShake2Params Name="_cameraEffectData" _lifeTime="0.500000" _fadeOutEaseType="OutQuart" _shakeMethod="Perlin" _fadeOutTime="0.300000" _shakeTime="0.200000" _frequency="20.000000" _rotationAmplitude="0.060000 0.060000 0.060000" _positionAmplitude="0.060000 0.060000 0.060000" _fovAmplitude="5.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="WeaponHit_Metal_Mid_01" _cameraEffectType="SequencerShake">
+		<CameraShake2Params Name="_cameraEffectData" _lifeTime="0.500000" _fadeOutEaseType="OutQuart" _shakeMethod="Perlin" _fadeOutTime="0.100000" _shakeTime="0.050000" _frequency="15.000000" _rotationAmplitude="0.070000 0.070000 0.070000" _positionAmplitude="0.080000 0.080000 0.080000" _fovAmplitude="5.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="WeaponHit_Metal_Mid_02_NoLife" _cameraEffectType="SequencerShake">
+		<CameraShake2Params Name="_cameraEffectData" _fadeOutEaseType="OutQuart" _shakeMethod="Perlin" _fadeOutTime="0.100000" _shakeTime="0.050000" _frequency="15.000000" _rotationAmplitude="0.030000 0.030000 0.030000" _positionAmplitude="0.030000 0.030000 0.030000" _fovAmplitude="5.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="PShake_A0.03_L0.5" _cameraEffectType="SequencerShake">
+		<CameraShake2Params Name="_cameraEffectData" _lifeTime="0.500000" _fadeOutEaseType="OutQuart" _shakeMethod="Perlin" _fadeOutTime="0.300000" _shakeTime="0.200000" _frequency="50.000000" _rotationAmplitude="0.030000 0.030000 0.030000" _positionAmplitude="0.030000 0.030000 0.030000" _fovAmplitude="5.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="PShake_A0.06_L0.5" _cameraEffectType="SequencerShake">
+		<CameraShake2Params Name="_cameraEffectData" _lifeTime="0.400000" _fadeOutEaseType="OutQuart" _shakeMethod="Perlin" _fadeOutTime="0.300000" _shakeTime="0.200000" _frequency="50.000000" _rotationAmplitude="0.060000 0.060000 0.060000" _positionAmplitude="0.060000 0.060000 0.060000" _fovAmplitude="5.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="PShake_A0.1_L0.7" _cameraEffectType="SequencerShake">
+		<CameraShake2Params Name="_cameraEffectData" _lifeTime="0.800000" _fadeOutEaseType="OutQuart" _shakeMethod="Perlin" _fadeOutTime="0.500000" _shakeTime="0.200000" _frequency="30.000000" _rotationAmplitude="0.100000 0.100000 0.100000" _positionAmplitude="0.100000 0.100000 0.100000" _fovAmplitude="5.000000"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="0.4_Shake_R_0.04_T_0">
+		<ActionShakeAttackParameter Name="_cameraEffectData" _lifeTime="0.400000" _cameraShakeRadius="0.040000" _useFadeOut="True"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraShake_Lv1">
+		<CameraShakeParam Name="_cameraEffectData" _lifeTime="0.25" _shakeRadius="0.015" _shakeSpeed="12" _shakeDirection="0 1 0" _worldSpace="true"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraShake_Lv2">
+		<CameraShakeParam Name="_cameraEffectData" _lifeTime="0.25" _shakeRadius="0.04" _shakeSpeed="12" _shakeDirection="0 1 0" _worldSpace="true"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraShake_Lv3">
+		<CameraShakeParam Name="_cameraEffectData" _lifeTime="0.5" _shakeRadius="0.1" _shakeSpeed="10" _shakeDirection="0 1 0" _worldSpace="true"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraShake_Lv4">
+		<CameraShakeParam Name="_cameraEffectData" _lifeTime="0.5" _shakeRadius="0.15" _shakeSpeed="10" _shakeDirection="0 1 0" _worldSpace="true"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraShake_Lv5">
+		<CameraShakeParam Name="_cameraEffectData" _lifeTime="0.7" _shakeRadius="0.25" _shakeSpeed="12" _shakeDirection="0 1 0" _worldSpace="true"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraShake_Lv5_Explosion">
+		<CameraShakeParam Name="_cameraEffectData" _lifeTime="0.8" _shakeRadius="0.45" _shakeSpeed="20" _shakeDirection="0 0 0" _worldSpace="true"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraShakeSwitch_Lv1">
+		<CameraShakeParam Name="_cameraEffectData" _lifeTime="-1" _shakeRadius="0.01" _shakeSpeed="10" _shakeDirection="0 1 0" _worldSpace="true"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraShakeSwitch_Lv2">
+		<CameraShakeParam Name="_cameraEffectData" _lifeTime="-1" _shakeRadius="0.02" _shakeSpeed="10" _shakeDirection="0 1 0" _worldSpace="true"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraShakeSwitch_Lv3">
+		<CameraShakeParam Name="_cameraEffectData" _lifeTime="-1" _shakeRadius="0.03" _shakeSpeed="10" _shakeDirection="0 1 0" _worldSpace="true"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraShakeSwitch_Lv4">
+		<CameraShakeParam Name="_cameraEffectData" _lifeTime="-1" _shakeRadius="0.05" _shakeSpeed="12" _shakeDirection="0 1 0" _worldSpace="true"/>
+	</CameraEffectPreset>
+	<CameraEffectPreset _cameraEffectPresetName="CameraShakeSwitch_Lv5">
+		<CameraShakeParam Name="_cameraEffectData" _lifeTime="-1" _shakeRadius="0.05" _shakeSpeed="12" _shakeDirection="0 1 0" _worldSpace="true"/>
+	</CameraEffectPreset>
+</Root>
+

@@ -1,0 +1,133 @@
+﻿<!-- Schedule = Custom 타입으로 설정 가능한 것들 -->
+
+<!--
+    Crowd : 대기하면서 CROWD_WAIT 액션 실행
+    Soldier : 대기하면서 SOLDIER_WAIT 액션 실행
+    CheerUp : WAIT으로 대기하면서 간헐적으로 CHEERUP 액션 실행
+    Cannon : 5미터 내에 대포 탑승 후 대기, 목적지가 있다면 목적지를 향해 발사(사용하는 SplineFolderName : DestinationSpline)
+    BattleLoop_GroupA_Advance : BattleLoop 세팅 후 대기, 메인 스테이지의 이벤트를 받아서 스플라인 이동(사용하는 SplineFolderName : UseSpline_BattleLoop_GroupA)
+    BattleLoop_GroupB_Advance : BattleLoop 세팅 후 대기, 메인 스테이지의 이벤트를 받아서 스플라인 이동(사용하는 SplineFolderName : UseSpline_BattleLoop_GroupB)
+    BattleLoop_Group_NearWait : BattleLoop 세팅 후 대기, 메인 스테이지의 이벤트를 받으면 대기하다가 가까이 오면 전투
+    Func_BattleLoop_GroupA : 아군
+    Func_BattleLoop_GroupB : 적군
+    Func_BattleLoopType_Siege : 원거리 무기용, 위치 고정된 채 공격, 근거리 무기 사용불가
+-->
+
+<!-- 배틀루프 관련 -->
+<ScheduleSpawnOption Type="BattleTarget" TagNameList="Func_BattleLoop_GroupA"       TargetTagList="Func_BattleLoop_GroupB"/>
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_BattleLoopType_Siege"    SkillList="Passive_BattleLoopType_Siege(1)"/>
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_BattleLoop_GroupA"       SkillList="Passive_AiTask_BattleLoop(1)"/>
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_BattleLoop_GroupB"       SkillList="Passive_AiTask_BattleLoop(1)"/>
+<ScheduleSpawnOption Type="SpawnRatio_Fixed" TagNameList="Func_BattleLoop_GroupA"/>
+<ScheduleSpawnOption Type="SpawnRatio_Fixed" TagNameList="Func_BattleLoop_GroupB"/>
+
+<!-- OperationSchedule - Battle 용도, 절대 다른데서 사용하지 않는다. -->
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_ObserverBattle"       SkillList="Passive_CheckObserverBattle(1)"/>
+
+<!-- 스테이지에서 사용할때만 사용 사용에 주의 필요 -->
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_PlayerAlly"              SkillList="Passive_PlayerAlly(1)"/>
+
+<!-- 상태이상 -->
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_ReturnRunaway"           SkillList="Passive_ReturnRunaway(1)"/>
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_Drunken"                 SkillList="Passive_AIType_Drunken(1)"/>    <!-- Schedule ActionName Keyword = DRUNK -->
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_InjuryLeg"               SkillList="Passive_AIType_InjuryLeg(1)"/>  <!-- Schedule ActionName Keyword = INJURYLEG -->
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_InjuryArm"               SkillList="Passive_AIType_InjuryArm(1)"/>  <!-- Schedule ActionName Keyword = INJURYARM -->
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_Cough"                   SkillList="Passive_AIType_Cough(1)"/>      <!-- Schedule ActionName Keyword = PATIENT / COUGH -->
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_Drugged"                 SkillList="Passive_AIType_Drugged(1)"/>
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_Hot"                     SkillList="Passive_AIType_Hot(1)"/>
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_Cold"                    SkillList="Passive_AIType_Cold(1)"/>
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_Steal"                   SkillList="Passive_PickPocket(1)"/>
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_Welcome"                 SkillList="Passive_DetectBuff_Welcome(1)"/>
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_Conceal"                 SkillList="Passive_AIType_Concealment(1)"/>
+
+<!-- 범죄 대상 제외 -->
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_noCrime"                 SkillList="Passive_BlockCrimeNPC(1)"/>
+
+<!-- 달리기 속도 증가 -->
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_RunFast"                 SkillList="Passive_ScheduleRunFast(1)"/>
+
+<!-- 호위 -->
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_FollowPlayer"            SkillList="Passive_FollowPlayer(1)"/>
+
+<!-- 대상을 보고 두려워함 -->
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_Fear"                    SkillList="Passive_DetectBuff_FearTarget(1)"/>
+
+<!-- 디텍트/리액션 끄기 -->
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_DisableDetect"           SkillList="Passive_DisableDetect(1)"/>
+
+<!-- 디텍트 줄이기 -->
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_DetectHalf"              SkillList="Skill_DetectDistance_Reduce(1)"/>
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_DetectHalf_2lv"          SkillList="Skill_DetectDistance_Reduce(2)"/>
+
+<!-- 미장센에서 인사하기 허용 -->
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_QuestDialog_InMiseenscene"    SkillList="Passive_QuestDialog_InMiseenscene(1)"/>
+
+<!-- 플레이어 상대로 전투 반응 시작 -->
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_Battle_PlayerOnly"       SkillList="Skill_Detect_MustBattle_Half(1)"/>
+
+<!-- 플레이어 상대로 하는 액터별 기본 반응 막기(트롤 외면하기 / 자동 인사 / Glance 등) -->
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_NoUse_CustomReaction"    SkillList="Passive_NoUse_CustomReaction(1)"/>
+
+<!-- 본인이 발견해서 하는 인터랙션을 막는다.(솥단지 먹기 / 좋아하는 음식 줍기 등) -->
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_NoUse_DetectInteraction"    SkillList="Passive_NoUse_DetectInteraction(1)"/>
+
+<!-- 구출 후 엎드려 두려워하기 -->
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_SaveAfter_FearCrouch"    SkillList="Passive_SaveAfter_FearCrouch(1)"/>
+
+<!-- 구출 후 탈진상태로 앉아있기 -->
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_SaveAfter_Exhaustion"    SkillList="Passive_SaveAfter_Exhaustion(1)"/>
+
+<!-- 스케줄 액션 하는 동안 디텍트 끄기 -->
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_ScheduleNoDetect"        SkillList="Passive_CheckScheduleNoDetect(1)"/>
+
+<!-- 거지 적선 방지 -->
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_NoUseDonate"             SkillList="Passive_NoUse_Donate(1)"/>
+
+<!-- 광기 - 폭발/불/시체 반응 막기 -->
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_Madness"                 SkillList="Passive_AIType_Madness(1)"/>
+
+<!-- 구경꾼 상태가 될 경우 - 돌 던지기 -->
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_Spectator_StoneThrow"    SkillList="Passive_Spectator_StoneThrow(1)"/>
+
+<!-- 플레이어가 스케줄 위치 기준 50미터 내에 들어오면 찾아오도록 세팅, 80미터 이상 벗어나면 포기 -->
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_ComeToPlayer"            SkillList="Skill_ComeToPlayer(1)"/>
+
+<!-- 암살 대상 세팅(암살 스테이지에서만 사용) -->
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_SetAssassinateTarget"    SkillList="Passive_SetAssassinateTarget(1)"/>
+
+<!-- StealthMountTarget 즉시 신고 버프 -->
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_ReportMountTarget"       SkillList="Passive_AIType_ReportMountTarget(1)"/>
+
+<!-- 인간 장애물 세팅 -->
+<!-- 비난하며 밀침 -->
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_Blocker_Blame"           SkillList="Passive_Blocker_Blame(1)"/>
+<!-- 전염병 옮기기 -->
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_Blocker_Disease"         SkillList="Passive_Blocker_Disease(1)"/>
+<!-- 경비 길막 -->
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_Blocker_Guard"           SkillList="Passive_Blocker_Guard(1)"/>
+<!-- 그로기 -->
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_Groggy"                  SkillList="Passive_MinHpPercent_10(1)"/>
+<!-- 진입 불가 -->
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_Blocker_NoEntry_Left_FromDoor"    SkillList="Passive_Blocker_NoEntry_Left_FromDoor(1)"/>
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_Blocker_NoEntry_Right_FromDoor"   SkillList="Passive_Blocker_NoEntry_Right_FromDoor(1)"/>
+<!-- 구걸 들러붙기 -->
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_Blocker_Poor"            SkillList="Passive_Blocker_Poor(1)"/>
+<!-- 환영 길막 -->
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_Blocker_Welcome"         SkillList="Passive_Blocker_Welcome(1)"/>
+<!-- 불량배 길막 -->
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_Blocker_Bully"           SkillList="Passive_Blocker_Bully(1)"/>
+<!-- 덮치기 길막 -->
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_ReactPC_Mount"           SkillList="Passive_Blocker_Mount(1)"/>
+
+<!-- 발견 버프 마운트 -->
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_DetectBuff_Mount"        SkillList="Passive_DetectBuff_Mount(1)"/>
+
+<!-- 대사 막기용 버프 -->
+<!-- BindBack -->
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_BlockAiDialog_BindBack"  SkillList="Passive_BlockAiDialog_BindBack(1)"/>
+
+<!-- 플레이어 반응 -->
+<!-- 쳐다보기 -->
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_ReactPC_Stare"           SkillList="Passive_ReactPC_Stare(1)"/>
+<!-- 떠나기 -->
+<ScheduleSpawnOption Type="PassiveSkill" TagNameList="Func_ReactPC_Faraway"         SkillList="Passive_ReactPC_Faraway(1)"/>

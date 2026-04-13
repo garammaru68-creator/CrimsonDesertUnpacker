@@ -1,0 +1,7 @@
+﻿<!-- 리드데빌 QTE -->
+<QTE_Basic>
+	<TimeScale Frame="0"  Value="1.1"/>
+  <TimeScale Frame="5"  Value="0.2"/>
+  <TimeScale Frame="12" Value="0.05"/>
+  <TimeScale Frame="13" Value="0.01"/>
+</QTE_Basic>

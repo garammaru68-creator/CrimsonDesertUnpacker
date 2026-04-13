@@ -1,0 +1,148 @@
+﻿<Root>
+	<CameraParameterPreset>
+		<_name type="staticstringA">200mm Prime f/2.0</_name>
+		<_cameraParameterData type="ReflectObject">
+			<CameraParameterData>
+				<_useDepthOfField type="bool">True</_useDepthOfField>
+				<_focalLength type="float">200.000000</_focalLength>
+				<_aperture type="float">2.000000</_aperture>
+			</CameraParameterData>
+		</_cameraParameterData>
+	</CameraParameterPreset>
+	<CameraParameterPreset>
+		<_name type="staticstringA">30mm Prime f/1.4</_name>
+		<_cameraParameterData type="ReflectObject">
+			<CameraParameterData>
+				<_useDepthOfField type="bool">True</_useDepthOfField>
+				<_focalLength type="float">30.000000</_focalLength>
+				<_aperture type="float">1.400000</_aperture>
+			</CameraParameterData>
+		</_cameraParameterData>
+	</CameraParameterPreset>
+	<CameraParameterPreset>
+		<_name type="staticstringA">12mm Prime f/2.8</_name>
+		<_cameraParameterData type="ReflectObject">
+			<CameraParameterData>
+				<_useDepthOfField type="bool">True</_useDepthOfField>
+				<_focalLength type="float">12.000000</_focalLength>
+				<_aperture type="float">2.800000</_aperture>
+			</CameraParameterData>
+		</_cameraParameterData>
+	</CameraParameterPreset>
+	<CameraParameterPreset>
+		<_name type="staticstringA">50mm Prime f/1.8</_name>
+		<_cameraParameterData type="ReflectObject">
+			<CameraParameterData>
+				<_useDepthOfField type="bool">True</_useDepthOfField>
+				<_focalLength type="float">50.000000</_focalLength>
+				<_aperture type="float">1.800000</_aperture>
+			</CameraParameterData>
+		</_cameraParameterData>
+	</CameraParameterPreset>
+	<CameraParameterPreset>
+		<_name type="staticstringA">85mm Prime f/1.8</_name>
+		<_cameraParameterData type="ReflectObject">
+			<CameraParameterData>
+				<_useDepthOfField type="bool">True</_useDepthOfField>
+				<_focalLength type="float">85.000000</_focalLength>
+				<_aperture type="float">1.800000</_aperture>
+			</CameraParameterData>
+		</_cameraParameterData>
+	</CameraParameterPreset>
+	<CameraParameterPreset>
+		<_name type="staticstringA">105mm Prime f/2.0</_name>
+		<_cameraParameterData type="ReflectObject">
+			<CameraParameterData>
+				<_useDepthOfField type="bool">True</_useDepthOfField>
+				<_focalLength type="float">105.000000</_focalLength>
+				<_aperture type="float">2.000000</_aperture>
+			</CameraParameterData>
+		</_cameraParameterData>
+	</CameraParameterPreset>
+	<CameraParameterPreset>
+		<_name type="staticstringA">ExWide60</_name>
+		<_cameraParameterData type="ReflectObject">
+			<CameraParameterData>
+				<_fovDegree type="float">60.000000</_fovDegree>
+				<_useDepthOfField type="bool">True</_useDepthOfField>
+				<_focusDistance type="float">3.300000</_focusDistance>
+				<_focalLength type="float">20.000000</_focalLength>
+				<_aperture type="float">16.000000</_aperture>
+			</CameraParameterData>
+		</_cameraParameterData>
+	</CameraParameterPreset>
+	<CameraParameterPreset>
+		<_name type="staticstringA">Fov_60_ExWide</_name>
+		<_cameraParameterData type="ReflectObject">
+			<CameraParameterData>
+				<_fovDegree type="float">60.000000</_fovDegree>
+				<_useDepthOfField type="bool">True</_useDepthOfField>
+				<_focusDistance type="float">3.300000</_focusDistance>
+				<_focalLength type="float">20.000000</_focalLength>
+				<_aperture type="float">16.000000</_aperture>
+			</CameraParameterData>
+		</_cameraParameterData>
+	</CameraParameterPreset>
+	<CameraParameterPreset>
+		<_name type="staticstringA">Fov_50_Wide</_name>
+		<_cameraParameterData type="ReflectObject">
+			<CameraParameterData>
+				<_fovDegree type="float">50.000000</_fovDegree>
+				<_useDepthOfField type="bool">True</_useDepthOfField>
+				<_focusDistance type="float">3.300000</_focusDistance>
+				<_focalLength type="float">40.000000</_focalLength>
+				<_aperture type="float">11.000000</_aperture>
+			</CameraParameterData>
+		</_cameraParameterData>
+	</CameraParameterPreset>
+	<CameraParameterPreset>
+		<_name type="staticstringA">Fov_40_Full</_name>
+		<_cameraParameterData type="ReflectObject">
+			<CameraParameterData>
+				<_fovDegree type="float">40.000000</_fovDegree>
+				<_useDepthOfField type="bool">True</_useDepthOfField>
+				<_focusDistance type="float">3.000000</_focusDistance>
+				<_focalLength type="float">45.000000</_focalLength>
+				<_aperture type="float">8.000000</_aperture>
+			</CameraParameterData>
+		</_cameraParameterData>
+	</CameraParameterPreset>
+	<CameraParameterPreset>
+		<_name type="staticstringA">Fov_40_External</_name>
+		<_cameraParameterData type="ReflectObject">
+			<CameraParameterData>
+				<_fovDegree type="float">40.000000</_fovDegree>
+				<_useDepthOfField type="bool">False</_useDepthOfField>
+				<_focusDistance type="float">3.000000</_focusDistance>
+				<_focalLength type="float">45.000000</_focalLength>
+				<_aperture type="float">8.000000</_aperture>
+			</CameraParameterData>
+		</_cameraParameterData>
+	</CameraParameterPreset>
+	<CameraParameterPreset>
+		<_name type="staticstringA">Fov_35_Medium</_name>
+		<_cameraParameterData type="ReflectObject">
+			<CameraParameterData>
+				<_fovDegree type="float">35.000000</_fovDegree>
+				<_useDepthOfField type="bool">True</_useDepthOfField>
+				<_focusDistance type="float">3.000000</_focusDistance>
+				<_focalLength type="float">45.000000</_focalLength>
+				<_aperture type="float">5.600000</_aperture>
+			</CameraParameterData>
+		</_cameraParameterData>
+	</CameraParameterPreset>
+	<CameraParameterPreset>
+		<_name type="staticstringA">Fov_30_Bust</_name>
+		<_cameraParameterData type="ReflectObject">
+			<CameraParameterData>
+				<_fovDegree type="float">30.000000</_fovDegree>
+				<_useDepthOfField type="bool">True</_useDepthOfField>
+				<_focusDistance type="float">3.000000</_focusDistance>
+				<_focalLength type="float">60.000000</_focalLength>
+				<_aperture type="float">5.600000</_aperture>
+			</CameraParameterData>
+		</_cameraParameterData>
+	</CameraParameterPreset>
+	
+</Root>
+

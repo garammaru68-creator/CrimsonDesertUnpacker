@@ -1,0 +1,43 @@
+﻿<Control_AI_End_Preset>
+	<IdleAction EndBehaviorType="IdleAction" RandomDelay="0"/>
+		<!-- <NoDelay RandomDelayMin="0" RandomDelay="0"/>
+		<Delay_Short RandomDelayMin="0" RandomDelay="1"/>
+		<Delay_Mid RandomDelayMin="0" RandomDelay="4"/>
+		<Delay_Long RandomDelayMin="0" RandomDelay="8"/> -->
+
+		<AI_End_BattleLoop EndBehaviorType="BattleLoop"/>
+		<AI_End_BattleLoop_CheerUp EndBehaviorType="Event" AIEventName="OnSequencer_CheerUp"/>
+
+		<AI_End_Wait EndBehaviorType="Event" AIEventName="OnSequencer_Wait"/>
+   		<AI_End_Wait_NoReturn EndBehaviorType="Event" AIEventName="OnSequencer_Wait_NoReturn"/>
+		<AI_End_Crowd EndBehaviorType="Event" AIEventName="OnSequencer_Crowd"/>
+		<AI_End_CheerUp EndBehaviorType="Event" AIEventName="OnSequencer_CheerUp"/>
+		<AI_End_CrowdLookAt EndBehaviorType="Event" AIEventName="OnSequencer_CrowdLookAt"/>
+		<AI_End_Nervous EndBehaviorType="Event" AIEventName="OnSequencer_Nervous"/>
+		<AI_End_Warning EndBehaviorType="Event" AIEventName="OnSequencer_Warning"/>
+		<AI_End_RandomMove EndBehaviorType="Event" AIEventName="OnSequencer_RandomMove"/>
+
+		<NPCRoaming_Walk_NoDelay EndBehaviorType="Roaming" AIMovePathFindType="Spline" RoadGroupType="SideWalk" RandomDelayMin="0" RandomDelay="0" ShareValue="c_Sequencer_MoveType=Level1"/>
+		<NPCRoaming_Walk_ShortDelay EndBehaviorType="Roaming" AIMovePathFindType="Spline" RoadGroupType="SideWalk" RandomDelayMin="3" RandomDelay="8" ShareValue="c_Sequencer_MoveType=Level1"/>
+		<NPCRoaming_Walk_MidDelay EndBehaviorType="Roaming" AIMovePathFindType="Spline" RoadGroupType="SideWalk" RandomDelayMin="8" RandomDelay="15" ShareValue="c_Sequencer_MoveType=Level1"/>
+		<NPCRoaming_Walk_LongDelay EndBehaviorType="Roaming" AIMovePathFindType="Spline" RoadGroupType="SideWalk" RandomDelayMin="15" RandomDelay="30" ShareValue="c_Sequencer_MoveType=Level1"/>
+		<NPCRoaming_Walk_FullDelay EndBehaviorType="Roaming" AIMovePathFindType="Spline" RoadGroupType="SideWalk" RandomDelayMin="0" RandomDelay="30" ShareValue="c_Sequencer_MoveType=Level1"/>
+
+		<NPCRoaming_WalkFast_NoDelay EndBehaviorType="Roaming" AIMovePathFindType="Spline" RoadGroupType="SideWalk" RandomDelayMin="0" RandomDelay="0" ShareValue="c_Sequencer_MoveType=Level2"/>
+		<NPCRoaming_WalkFast_ShortDelay EndBehaviorType="Roaming" AIMovePathFindType="Spline" RoadGroupType="SideWalk" RandomDelayMin="3" RandomDelay="8" ShareValue="c_Sequencer_MoveType=Level2"/>
+		<NPCRoaming_WalkFast_MidDelay EndBehaviorType="Roaming" AIMovePathFindType="Spline" RoadGroupType="SideWalk" RandomDelayMin="8" RandomDelay="15" ShareValue="c_Sequencer_MoveType=Level2"/>
+		<NPCRoaming_WalkFast_LongDelay EndBehaviorType="Roaming" AIMovePathFindType="Spline" RoadGroupType="SideWalk" RandomDelayMin="15" RandomDelay="30" ShareValue="c_Sequencer_MoveType=Level2"/>
+		<NPCRoaming_WalkFast_FullDelay EndBehaviorType="Roaming" AIMovePathFindType="Spline" RoadGroupType="SideWalk" RandomDelayMin="0" RandomDelay="30" ShareValue="c_Sequencer_MoveType=Level2"/>
+
+		<NPCRoaming_Run_NoDelay EndBehaviorType="Roaming" AIMovePathFindType="Spline" RoadGroupType="SideWalk" RandomDelayMin="0" RandomDelay="0" ShareValue="c_Sequencer_MoveType=Level3"/>
+		<NPCRoaming_Run_ShortDelay EndBehaviorType="Roaming" AIMovePathFindType="Spline" RoadGroupType="SideWalk" RandomDelayMin="3" RandomDelay="8" ShareValue="c_Sequencer_MoveType=Level3"/>
+		<NPCRoaming_Run_MidDelay EndBehaviorType="Roaming" AIMovePathFindType="Spline" RoadGroupType="SideWalk" RandomDelayMin="8" RandomDelay="15" ShareValue="c_Sequencer_MoveType=Level3"/>
+		<NPCRoaming_Run_LongDelay EndBehaviorType="Roaming" AIMovePathFindType="Spline" RoadGroupType="SideWalk" RandomDelayMin="15" RandomDelay="30" ShareValue="c_Sequencer_MoveType=Level3"/>
+		<NPCRoaming_Run_FullDelay EndBehaviorType="Roaming" AIMovePathFindType="Spline" RoadGroupType="SideWalk" RandomDelayMin="0" RandomDelay="30" ShareValue="c_Sequencer_MoveType=Level3"/>
+
+		<NPCRoaming_RunFast_NoDelay EndBehaviorType="Roaming" AIMovePathFindType="Spline" RoadGroupType="SideWalk" RandomDelayMin="0" RandomDelay="0" ShareValue="c_Sequencer_MoveType=Level4"/>
+		<NPCRoaming_RunFast_ShortDelay EndBehaviorType="Roaming" AIMovePathFindType="Spline" RoadGroupType="SideWalk" RandomDelayMin="3" RandomDelay="8" ShareValue="c_Sequencer_MoveType=Level4"/>
+		<NPCRoaming_RunFast_MidDelay EndBehaviorType="Roaming" AIMovePathFindType="Spline" RoadGroupType="SideWalk" RandomDelayMin="8" RandomDelay="15" ShareValue="c_Sequencer_MoveType=Level4"/>
+		<NPCRoaming_RunFast_LongDelay EndBehaviorType="Roaming" AIMovePathFindType="Spline" RoadGroupType="SideWalk" RandomDelayMin="15" RandomDelay="30" ShareValue="c_Sequencer_MoveType=Level4"/>
+		<NPCRoaming_RunFast_FullDelay EndBehaviorType="Roaming" AIMovePathFindType="Spline" RoadGroupType="SideWalk" RandomDelayMin="0" RandomDelay="30" ShareValue="c_Sequencer_MoveType=Level4"/>
+</Control_AI_End_Preset>

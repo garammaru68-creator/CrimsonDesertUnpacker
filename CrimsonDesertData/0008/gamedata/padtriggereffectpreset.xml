@@ -1,0 +1,109 @@
+﻿<PadTriggerEffectPresets>
+    <!--
+	#[PadTriggerEffectPreset Type 종류]
+	# - "OFF"
+	# - "WEAPON"
+	# - "VIBRATION"
+    # - "MULTIPLE_POSITION_FEEDBACK"
+    # - "SLOPE_FEEDBACK"
+    # - "MULTIPLE_POSITION_VIBRATION"
+	-->
+    <PadTriggerEffectPreset Name="off" Type="OFF">
+    </PadTriggerEffectPreset>
+    <PadTriggerEffectPreset Name="feedback_example" Type="FEEDBACK">
+        <Position Value="1"/> <!-- position - 0~9의 값을 입력해야 합니다. -->
+        <Strength Value="7"/> <!-- Strength - 0~8의 값을 입력해야 합니다. -->
+    </PadTriggerEffectPreset>
+    <PadTriggerEffectPreset Name="weapon_example" Type="WEAPON">
+        <StartPosition Value="2"/> <!-- StartPosition - 2~7의 값을 입력해야 하고, EndPosition 보다 작아야 합니다. -->
+        <EndPosition Value="5"/> <!-- EndPosition - 3~8의 값을 입력해야 하고, StartPosition 보다 커야 합니다. -->
+        <Strength Value="8"/> <!-- Strength - 0~8의 값을 입력해야 합니다. -->
+    </PadTriggerEffectPreset>
+    <PadTriggerEffectPreset Name="vibration_example" Type="VIBRATION">
+        <Position Value="1"/> <!-- Position - 0~9의 값을 입력해야 합니다. -->
+        <Amplitude Value="8"/> <!-- Amplitude - 0~8의 값을 입력해야 합니다. -->
+        <Frequency Value="10"/> <!-- Frequency - 0~255의 값을 입력해야 합니다. -->
+    </PadTriggerEffectPreset>
+    <PadTriggerEffectPreset Name="multiple_position_feedback_example" Type="MULTIPLE_POSITION_FEEDBACK">
+        <Strength0 Value="1"/> <!-- Strength0~9 - 0~8의 값을 입력해야 합니다. -->
+        <Strength1 Value="1"/>
+        <Strength2 Value="8"/>
+        <Strength3 Value="8"/>
+        <Strength4 Value="1"/>
+        <Strength5 Value="1"/>
+        <Strength6 Value="8"/>
+        <Strength7 Value="8"/>
+        <Strength8 Value="1"/>
+        <Strength9 Value="1"/>
+    </PadTriggerEffectPreset>
+    <PadTriggerEffectPreset Name="slope_feedback_example" Type="SLOPE_FEEDBACK">
+        <StartPosition Value="0"/> <!-- StartPosition - 0~8의 값을 입력해야 하고, EndPosition 보다 작아야 합니다. -->
+        <EndPosition Value="5"/> <!-- EndPosition - 1~9의 값을 입력해야 하고, StartPosition 보다 커야 합니다. -->
+        <StartStrength Value="1"/> <!-- StartStrength - 1~8의 값을 입력해야 합니다. -->
+        <EndStrength Value="8"/> <!-- EndStrength - 1~8의 값을 입력해야 합니다. -->
+    </PadTriggerEffectPreset>
+    <PadTriggerEffectPreset Name="multiple_position_vibration_example" Type="MULTIPLE_POSITION_VIBRATION">
+        <Frequency Value="10"/> <!-- Frequency - 0~255의 값을 입력해야 합니다. -->
+        <Amplitude0 Value="0"/> <!-- Amplitude0~9 - 0~8의 값을 입력해야 합니다. -->
+        <Amplitude1 Value="1"/>
+        <Amplitude2 Value="2"/>
+        <Amplitude3 Value="3"/>
+        <Amplitude4 Value="4"/>
+        <Amplitude5 Value="5"/>
+        <Amplitude6 Value="6"/>
+        <Amplitude7 Value="7"/>
+        <Amplitude8 Value="8"/>
+        <Amplitude9 Value="8"/>
+    </PadTriggerEffectPreset>
+
+    <PadTriggerEffectPreset Name="vibration_rough_weak" Type="VIBRATION">
+        <Position Value="6"/>
+        <Amplitude Value="4"/>
+        <Frequency Value="16"/>
+    </PadTriggerEffectPreset>
+
+    <PadTriggerEffectPreset Name="vibration_rough_strong" Type="VIBRATION">
+        <Position Value="6"/>
+        <Amplitude Value="7"/>
+        <Frequency Value="16"/>
+    </PadTriggerEffectPreset>
+
+    <PadTriggerEffectPreset Name="vibration_smooth_weak" Type="VIBRATION">
+        <Position Value="6"/>
+        <Amplitude Value="2"/>
+        <Frequency Value="94"/>
+    </PadTriggerEffectPreset>
+
+    <PadTriggerEffectPreset Name="vibration_smooth_middle" Type="VIBRATION">
+        <Position Value="6"/>
+        <Amplitude Value="1"/>
+        <Frequency Value="30"/>
+    </PadTriggerEffectPreset>
+
+    <PadTriggerEffectPreset Name="vibration_smooth_strong" Type="VIBRATION">
+        <Position Value="6"/>
+        <Amplitude Value="2"/>
+        <Frequency Value="85"/>
+    </PadTriggerEffectPreset>
+
+    <PadTriggerEffectPreset Name="slope_aim_start" Type="SLOPE_FEEDBACK">
+        <StartPosition Value="1"/> 
+        <EndPosition Value="8"/>
+        <StartStrength Value="8"/>
+        <EndStrength Value="1"/>
+    </PadTriggerEffectPreset>
+
+    <PadTriggerEffectPreset Name="slope_cannon_trigger_weak" Type="SLOPE_FEEDBACK">
+        <StartPosition Value="1"/> 
+        <EndPosition Value="3"/>
+        <StartStrength Value="3"/>
+        <EndStrength Value="3"/>
+    </PadTriggerEffectPreset>
+
+    <PadTriggerEffectPreset Name="slope_ballista_trigger_strong" Type="SLOPE_FEEDBACK">
+        <StartPosition Value="1"/> 
+        <EndPosition Value="7"/>
+        <StartStrength Value="7"/>
+        <EndStrength Value="3"/>
+    </PadTriggerEffectPreset>
+</PadTriggerEffectPresets>

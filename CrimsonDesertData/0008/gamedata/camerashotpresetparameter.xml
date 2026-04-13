@@ -1,0 +1,19 @@
+﻿<RootNode>
+	<CameraCommonShotPreset HighAngle_Offset="0.3" LowAngle_Offset="-0.3" Lookdirection="-0.3"/>
+	<CameraOneShotPreset_CloseUp ShotDist="0.7" ShotYOffset="0" ScreenXOffset="0.45" ScreenYOffset="0.5" SoftZoneX="0.2" SoftZoneY="0.1"/>
+	<CameraOneShotPreset_BustShot ShotDist="1.5" ShotYOffset="-0.08" ScreenXOffset="0.45" ScreenYOffset="0.4" SoftZoneX="0.2" SoftZoneY="0.1"/>
+	<CameraOneShotPreset_MediumShot ShotDist="2" ShotYOffset="-0.125" ScreenXOffset="0.45" ScreenYOffset="0.35" SoftZoneX="0.2" SoftZoneY="0.1"/>
+	<CameraOneShotPreset_MediumFullShot ShotDist="2.5" ShotYOffset="-0.28" ScreenXOffset="0.4" ScreenYOffset="0.4" SoftZoneX="0.2" SoftZoneY="0.1"/>
+	<CameraOneShotPreset_FullShot ShotDist="3.2" ShotYOffset="-0.42" ScreenXOffset="0.45" ScreenYOffset="0.3" SoftZoneX="0.2" SoftZoneY="0.1"/>
+	<CameraOneShotPreset_WideShot ShotDist="5" ShotYOffset="-0.5" ScreenXOffset="0.37" ScreenYOffset="0.44" SoftZoneX="0.2" SoftZoneY="0.1"/>
+	<CameraTwoShotPreset_MediumFullShot ShotDist="2" ScreenYOffset="0.34" SoftZoneX="0.2" SoftZoneY="0.1"/>
+	<CameraTwoShotPreset_SideFullShot ShotDist ="2.5" ScreenYOffset="0.33" SoftZoneX="0.2" SoftZoneY="0.1"/>
+	<CameraTwoShotPreset_SideShot ScreenXOffset="0.5" SoftZoneX="0.2" SoftZoneY="0.1"/>
+	<CameraOTSShotPreset_Medium FollowOffsetX="0.8" FollowOffsetY="0.05" FollowOffsetZ="-0.7" ScreenXOffset="0.62" ScreenYOffset="0.4" SoftZoneX="0.2" SoftZoneY="0.1"/>
+	<CameraOTSShotPreset_MediumFull FollowOffsetX="1.8" FollowOffsetY="0.05" FollowOffsetZ="-1" ScreenXOffset="0.37" ScreenYOffset="0.64" SoftZoneX="0.2" SoftZoneY="0.1"/>
+	<CameraMultiShotCommonPreset ShotDist="5" ShotYOffset="0" ScreenYOffset="0.35" HighAngle="0.5" LowAngle="-0.5"/>
+	<CameraMultiMediumShotPreset DistOffset="0" MinDist="-0.8" SoftZoneX="0.1" SoftZoneY="0.1"/>
+	<CameraMultiMediumFullShotPreset DistOffset="0" MinDist="0" SoftZoneX="0.1" SoftZoneY="0.1"/>
+	<CameraMultiMediumTopDownShotPreset DistOffset="2" SoftZoneX="0.1" SoftZoneY="0.1"/>
+</RootNode>
+
