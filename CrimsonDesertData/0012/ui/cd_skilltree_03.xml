@@ -1,0 +1,18 @@
+﻿<Texture Name="cd_skilltree_bg_frame_deco_mask_left_bottom" Filename="UI/texture/cd_skilltree_03.dds" Type="Image" GetRect="1,546,256,256"/>
+<Texture Name="cd_skilltree_bg_frame_deco_mask_left_top" Filename="UI/texture/cd_skilltree_03.dds" Type="Image" GetRect="259,546,256,256"/>
+<Texture Name="cd_skilltree_bg_frame_deco_mask_right_bottom" Filename="UI/texture/cd_skilltree_03.dds" Type="Image" GetRect="505,1,256,256"/>
+<Texture Name="cd_skilltree_bg_frame_deco_mask_right_top" Filename="UI/texture/cd_skilltree_03.dds" Type="Image" GetRect="505,259,256,256"/>
+<Texture Name="cd_skilltree_bg_frame_line_deco_mask_left" Filename="UI/texture/cd_skilltree_03.dds" Type="Image" GetRect="1,1,250,543"/>
+<Texture Name="cd_skilltree_bg_frame_line_deco_mask_right" Filename="UI/texture/cd_skilltree_03.dds" Type="Image" GetRect="253,1,250,543"/>
+<Texture Name="cd_skilltree_bg_line_pattern" Filename="UI/texture/cd_skilltree_03.dds" Type="Image" GetRect="1,914,140,100"/>
+<Texture Name="cd_skilltree_frame_deco_pattern_00" Filename="UI/texture/cd_skilltree_03.dds" Type="Image" GetRect="1,804,240,108"/>
+<Texture Name="cd_skilltree_frame_deco_pattern_01" Filename="UI/texture/cd_skilltree_03.dds" Type="Image" GetRect="381,804,104,148"/>
+<Texture Name="cd_skilltree_frame_deco_pattern_02" Filename="UI/texture/cd_skilltree_03.dds" Type="Image" GetRect="243,804,136,173"/>
+<Texture Name="cd_skilltree_line_deco_00" Filename="UI/texture/cd_skilltree_03.dds" Type="Image" GetRect="971,1,17,1020"/>
+<Texture Name="cd_skilltree_line_deco_01" Filename="UI/texture/cd_skilltree_03.dds" Type="Image" GetRect="921,1,23,1020"/>
+<Texture Name="cd_skilltree_line_deco_02" Filename="UI/texture/cd_skilltree_03.dds" Type="Image" GetRect="775,1,71,1020"/>
+<Texture Name="cd_skilltree_line_deco_short_00" Filename="UI/texture/cd_skilltree_03.dds" Type="Image" GetRect="990,1,17,1020"/>
+<Texture Name="cd_skilltree_line_deco_short_01" Filename="UI/texture/cd_skilltree_03.dds" Type="Image" GetRect="946,1,23,1020"/>
+<Texture Name="cd_skilltree_line_deco_short_02" Filename="UI/texture/cd_skilltree_03.dds" Type="Image" GetRect="848,1,71,1020"/>
+<Texture Name="cd_skilltree_noise_pattern_mask" Filename="UI/texture/cd_skilltree_03.dds" Type="Image" GetRect="517,517,256,256"/>
+

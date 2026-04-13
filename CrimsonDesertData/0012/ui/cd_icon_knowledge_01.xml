@@ -1,0 +1,26 @@
+﻿<Texture Name="cd_icon_challenge_69" Filename="UI/texture/cd_icon_knowledge_01.dds" Type="Image" GetRect="1,1,200,200"/>
+<Texture Name="cd_icon_challenge_70" Filename="UI/texture/cd_icon_knowledge_01.dds" Type="Image" GetRect="1,203,200,200"/>
+<Texture Name="cd_icon_challenge_71" Filename="UI/texture/cd_icon_knowledge_01.dds" Type="Image" GetRect="1,405,200,200"/>
+<Texture Name="cd_icon_challenge_72" Filename="UI/texture/cd_icon_knowledge_01.dds" Type="Image" GetRect="1,607,200,200"/>
+<Texture Name="cd_icon_challenge_73" Filename="UI/texture/cd_icon_knowledge_01.dds" Type="Image" GetRect="1,809,200,200"/>
+<Texture Name="cd_icon_challenge_74" Filename="UI/texture/cd_icon_knowledge_01.dds" Type="Image" GetRect="203,1,200,200"/>
+<Texture Name="cd_icon_challenge_75" Filename="UI/texture/cd_icon_knowledge_01.dds" Type="Image" GetRect="405,1,200,200"/>
+<Texture Name="cd_icon_knowledge_category_26" Filename="UI/texture/cd_icon_knowledge_01.dds" Type="Image" GetRect="607,1,200,200"/>
+<Texture Name="cd_icon_knowledge_category_27" Filename="UI/texture/cd_icon_knowledge_01.dds" Type="Image" GetRect="809,1,200,200"/>
+<Texture Name="cd_icon_knowledge_category_28" Filename="UI/texture/cd_icon_knowledge_01.dds" Type="Image" GetRect="203,203,200,200"/>
+<Texture Name="cd_icon_knowledge_category_29" Filename="UI/texture/cd_icon_knowledge_01.dds" Type="Image" GetRect="203,405,200,200"/>
+<Texture Name="cd_icon_knowledge_category_30" Filename="UI/texture/cd_icon_knowledge_01.dds" Type="Image" GetRect="203,607,200,200"/>
+<Texture Name="cd_icon_knowledge_category_31" Filename="UI/texture/cd_icon_knowledge_01.dds" Type="Image" GetRect="203,809,200,200"/>
+<Texture Name="cd_icon_knowledge_category_32" Filename="UI/texture/cd_icon_knowledge_01.dds" Type="Image" GetRect="405,203,200,200"/>
+<Texture Name="cd_icon_knowledge_category_33" Filename="UI/texture/cd_icon_knowledge_01.dds" Type="Image" GetRect="607,203,200,200"/>
+<Texture Name="cd_icon_knowledge_category_34" Filename="UI/texture/cd_icon_knowledge_01.dds" Type="Image" GetRect="809,203,200,200"/>
+<Texture Name="cd_icon_knowledge_category_40" Filename="UI/texture/cd_icon_knowledge_01.dds" Type="Image" GetRect="405,405,200,200"/>
+<Texture Name="cd_icon_knowledge_category_41" Filename="UI/texture/cd_icon_knowledge_01.dds" Type="Image" GetRect="405,607,200,200"/>
+<Texture Name="cd_icon_knowledge_category_42" Filename="UI/texture/cd_icon_knowledge_01.dds" Type="Image" GetRect="405,809,200,200"/>
+<Texture Name="cd_icon_knowledge_category_43" Filename="UI/texture/cd_icon_knowledge_01.dds" Type="Image" GetRect="607,405,200,200"/>
+<Texture Name="cd_icon_knowledge_category_44" Filename="UI/texture/cd_icon_knowledge_01.dds" Type="Image" GetRect="809,405,200,200"/>
+<Texture Name="cd_icon_knowledge_category_45" Filename="UI/texture/cd_icon_knowledge_01.dds" Type="Image" GetRect="607,607,200,200"/>
+<Texture Name="cd_icon_knowledge_category_46" Filename="UI/texture/cd_icon_knowledge_01.dds" Type="Image" GetRect="607,809,200,200"/>
+<Texture Name="cd_icon_knowledge_category_47" Filename="UI/texture/cd_icon_knowledge_01.dds" Type="Image" GetRect="809,607,200,200"/>
+<Texture Name="cd_icon_knowledge_category_48" Filename="UI/texture/cd_icon_knowledge_01.dds" Type="Image" GetRect="809,809,200,200"/>
+

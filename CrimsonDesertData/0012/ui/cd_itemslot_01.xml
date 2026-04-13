@@ -1,0 +1,5 @@
+﻿<Texture Name="cd_itemslot_equipment_bg" Filename="UI/texture/cd_itemslot_01.dds" Type="Image" GetRect="1,311,170,170"/>
+<Texture Name="cd_itemslot_equipment_bg_00" Filename="UI/texture/cd_itemslot_01.dds" Type="Image" GetRect="311,1,120,120"/>
+<Texture Name="cd_itemslot_inventory_slot_bg_00" Filename="UI/texture/cd_itemslot_01.dds" Type="Image" GetRect="173,311,160,160"/>
+<Texture Name="cd_itemslot_inventory_slot_bg_01" Filename="UI/texture/cd_itemslot_01.dds" Type="Image" GetRect="1,1,308,308"/>
+

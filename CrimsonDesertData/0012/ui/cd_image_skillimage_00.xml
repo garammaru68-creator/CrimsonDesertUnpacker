@@ -1,0 +1,125 @@
+﻿<!-- 스킬이미지 위키 795826865 -->
+<Texture Name="cd_knowledgeimage_00040001"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00001001.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040002"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00001002.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040003"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040004"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040005"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040006"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040007"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040008"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040009"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040010"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040011"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040012"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040013"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040014"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040015"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040016"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040017"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040018"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040019"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040020"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040021"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040022"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040023"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040024"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040025"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040026"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040027"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040028"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040029"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040030"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040031"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040032"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040033"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040034"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040035"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040036"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040037"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040038"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040039"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040040"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040041"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040042"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040043"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040044"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040045"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040046"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040047"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040048"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040049"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040050"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040051"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040052"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040053"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040054"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040055"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040056"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040057"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040058"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040059"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040060"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040061"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040062"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040063"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040064"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040065"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040066"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040501"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040502"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040503"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040504"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00040505"	Filename="UI/texture/Image/Skillimage/cd_skillimage_00001021.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- 250612스킬트리 이미지 -->
+<Texture Name="cd_skilltree_bg_circle_deco_00_1336x215"	Filename="UI/texture/Image/Skillimage/cd_skilltree_bg_circle_deco_00_1336x215.dds" Type="Image" GetRect="0,0,1336,215"/>
+<Texture Name="cd_icon_bg_skilltree_circle_deco"	Filename="UI/texture/Image/Skillimage/cd_icon_bg_skilltree_circle_deco.dds" Type="Image" GetRect="0,0,1000,1000"/>
+<Texture Name="cd_icon_skilltree_category_abyss"	Filename="UI/texture/Image/Skillimage/cd_icon_skilltree_category_abyss.dds" Type="Image" GetRect="0,0,500,500"/>
+<Texture Name="cd_icon_skilltree_category_Greywolf"	Filename="UI/texture/Image/Skillimage/cd_icon_skilltree_category_Greywolf.dds" Type="Image" GetRect="0,0,500,500"/>
+<Texture Name="cd_icon_skilltree_category_Shai"	Filename="UI/texture/Image/Skillimage/cd_icon_skilltree_category_Shai.dds" Type="Image" GetRect="0,0,500,500"/>
+<!-- 250625스킬트리 이미지 -->
+<Texture Name="cd_skilltree_bg_deco_circle_dotted_pattern_00_1833x129"	Filename="UI/texture/Image/Skillimage/cd_skilltree_bg_deco_circle_dotted_pattern_00_1833x129.dds" Type="Image" GetRect="0,0,1833,129"/>
+<Texture Name="cd_skilltree_bg_deco_circle_line_pattern_00_1420x103"	Filename="UI/texture/Image/Skillimage/cd_skilltree_bg_deco_circle_line_pattern_00_1420x103.dds" Type="Image" GetRect="0,0,1420,103"/>
+<Texture Name="cd_skilltree_bg_deco_circle_rune_pattern_00_1330x136"	Filename="UI/texture/Image/Skillimage/cd_skilltree_bg_deco_circle_rune_pattern_00_1330x136.dds" Type="Image" GetRect="0,0,1330,136"/>
+<!-- 250724 이미지 -->
+<Texture Name="cd_icon_skilltree_ability_fire"	Filename="UI/texture/Image/Skillimage/cd_icon_skilltree_ability_fire.dds" Type="Image" GetRect="0,0,350,350"/>
+<Texture Name="cd_icon_skilltree_ability_ice"	Filename="UI/texture/Image/Skillimage/cd_icon_skilltree_ability_ice.dds" Type="Image" GetRect="0,0,350,350"/>
+<Texture Name="cd_icon_skilltree_ability_Lightning"	Filename="UI/texture/Image/Skillimage/cd_icon_skilltree_ability_Lightning.dds" Type="Image" GetRect="0,0,350,350"/>
+<Texture Name="cd_icon_skilltree_ability_mana"	Filename="UI/texture/Image/Skillimage/cd_icon_skilltree_ability_mana.dds" Type="Image" GetRect="0,0,350,350"/>
+<Texture Name="cd_icon_skilltree_ability_stamina"	Filename="UI/texture/Image/Skillimage/cd_icon_skilltree_ability_stamina.dds" Type="Image" GetRect="0,0,350,350"/>
+<Texture Name="cd_icon_skilltree_ability_vitality"	Filename="UI/texture/Image/Skillimage/cd_icon_skilltree_ability_vitality.dds" Type="Image" GetRect="0,0,350,350"/>
+
+<!-- 250911 큰 아이콘BG -->
+<Texture Name="cd_icon_bg_skilltree_gauge_category_circle_00"	Filename="UI/texture/Image/Skillimage/cd_icon_bg_skilltree_gauge_category_circle_00.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_icon_bg_skilltree_category_circle_00"	Filename="UI/texture/Image/Skillimage/cd_icon_bg_skilltree_category_circle_00.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<!-- 251014 퀵슬롯 속성아이콘 -->
+<Texture Name="cd_icon_quickslot_atribute_fire"	Filename="UI/texture/Image/Skillimage/cd_icon_quickslot_atribute_fire.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_icon_quickslot_atribute_ice"	Filename="UI/texture/Image/Skillimage/cd_icon_quickslot_atribute_ice.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_icon_quickslot_atribute_lightning"	Filename="UI/texture/Image/Skillimage/cd_icon_quickslot_atribute_lightning.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_icon_quickslot_atribute_natural"	Filename="UI/texture/Image/Skillimage/cd_icon_quickslot_atribute_natural.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_icon_quickslot_atribute_wind"	Filename="UI/texture/Image/Skillimage/cd_icon_quickslot_atribute_wind.dds" Type="Image" GetRect="0,0,256,256"/>
+
+<!-- 251023 스킬트리bg deco -->
+<Texture Name="cd_skilltree_bg_image_deco_00_1024x1024"	Filename="UI/texture/Image/Skillimage/cd_skilltree_bg_image_deco_00_1024x1024.dds" Type="Image" GetRect="0,0,1024,1024"/>
+
+<!-- 251029 skillpoint_icon_bg  -->
+<Texture Name="cd_skilltree_icon_skillpoint_00"	Filename="UI/texture/Image/Skillimage/cd_skilltree_icon_skillpoint_00.dds" Type="Image" GetRect="0,0,256,256"/>
+
+<!-- 251105 쿠쿠새무쇠솥 icon_bg -->
+<Texture Name="cd_icon_bg_kukupot_itemtree_category_00"	Filename="UI/texture/Image/Skillimage/cd_icon_bg_kukupot_itemtree_category_00.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_icon_bg_kukupot_itemtree_main_00"	Filename="UI/texture/Image/Skillimage/cd_icon_bg_kukupot_itemtree_main_00.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_icon_bg_kukupot_itemtree_category_Riding_00"	Filename="UI/texture/Image/Skillimage/cd_icon_bg_kukupot_itemtree_category_Riding_00.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_icon_bg_kukupot_itemtree_main_deco_frame_00"	Filename="UI/texture/Image/Skillimage/cd_icon_bg_kukupot_itemtree_main_deco_frame_00.dds" Type="Image" GetRect="0,0,1024,1024"/>
+
+<!-- 260107_스킬트리 자세히보기bg -->
+<Texture Name="cd_skilltree_circle_deco_bg_00"	Filename="UI/texture/Image/Skillimage/cd_skilltree_circle_deco_bg_00.dds" Type="Image" GetRect="0,0,1024,1024"/>
+<Texture Name="cd_skilltree_circle_deco_bg_01"	Filename="UI/texture/Image/Skillimage/cd_skilltree_circle_deco_bg_01.dds" Type="Image" GetRect="0,0,1024,1024"/>
+<Texture Name="cd_skilltree_circle_deco_bg_02"	Filename="UI/texture/Image/Skillimage/cd_skilltree_circle_deco_bg_02.dds" Type="Image" GetRect="0,0,1024,1024"/>
+<Texture Name="cd_skilltree_circle_deco_bg_03"	Filename="UI/texture/Image/Skillimage/cd_skilltree_circle_deco_bg_03.dds" Type="Image" GetRect="0,0,1024,1024"/>
+<Texture Name="cd_skilltree_circle_deco_bg_04"	Filename="UI/texture/Image/Skillimage/cd_skilltree_circle_deco_bg_04.dds" Type="Image" GetRect="0,0,1024,1024"/>
+
+
+<!-- 2602237_스킬 카테고리 이미지 추가 -->
+<Texture Name="cd_image_knowledgeimage_skill_category_Abyss"	Filename="UI/texture/Image/Skillimage/cd_image_knowledgeimage_skill_category_Abyss.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_image_knowledgeimage_skill_category_Greywolf"	Filename="UI/texture/Image/Skillimage/cd_image_knowledgeimage_skill_category_Greywolf.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_image_knowledgeimage_skill_category_Shai"	Filename="UI/texture/Image/Skillimage/cd_image_knowledgeimage_skill_category_Shai.dds" Type="Image" GetRect="0,0,512,512"/>

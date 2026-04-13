@@ -1,0 +1,26 @@
+﻿<Texture Name="cd_icon_Skill_BasicBow" Filename="UI/texture/cd_icon_skill_00.dds" Type="Image" GetRect="1,1,200,200"/>
+<Texture Name="cd_icon_Skill_CatchAndThrow" Filename="UI/texture/cd_icon_skill_00.dds" Type="Image" GetRect="1,203,200,200"/>
+<Texture Name="cd_icon_Skill_CrowDash" Filename="UI/texture/cd_icon_skill_00.dds" Type="Image" GetRect="1,405,200,200"/>
+<Texture Name="cd_icon_Skill_CrowWing" Filename="UI/texture/cd_icon_skill_00.dds" Type="Image" GetRect="1,607,200,200"/>
+<Texture Name="cd_icon_Skill_Damian_Lunge" Filename="UI/texture/cd_icon_skill_00.dds" Type="Image" GetRect="1,809,200,200"/>
+<Texture Name="cd_icon_Skill_Damian_Lunge_Expert" Filename="UI/texture/cd_icon_skill_00.dds" Type="Image" GetRect="203,1,200,200"/>
+<Texture Name="cd_icon_Skill_DeadEyes" Filename="UI/texture/cd_icon_skill_00.dds" Type="Image" GetRect="405,1,200,200"/>
+<Texture Name="cd_icon_Skill_Detect" Filename="UI/texture/cd_icon_skill_00.dds" Type="Image" GetRect="607,1,200,200"/>
+<Texture Name="cd_icon_Skill_DoubleKick" Filename="UI/texture/cd_icon_skill_00.dds" Type="Image" GetRect="809,1,200,200"/>
+<Texture Name="cd_icon_Skill_DoubleKick_Jump_I" Filename="UI/texture/cd_icon_skill_00.dds" Type="Image" GetRect="203,203,200,200"/>
+<Texture Name="cd_icon_Skill_DoubleKick_Jump_II" Filename="UI/texture/cd_icon_skill_00.dds" Type="Image" GetRect="203,405,200,200"/>
+<Texture Name="cd_icon_Skill_DropKick" Filename="UI/texture/cd_icon_skill_00.dds" Type="Image" GetRect="203,607,200,200"/>
+<Texture Name="cd_icon_Skill_EvadeAttack" Filename="UI/texture/cd_icon_skill_00.dds" Type="Image" GetRect="203,809,200,200"/>
+<Texture Name="cd_icon_Skill_Evade_Shot" Filename="UI/texture/cd_icon_skill_00.dds" Type="Image" GetRect="405,203,200,200"/>
+<Texture Name="cd_icon_Skill_JiJeongTa_Air" Filename="UI/texture/cd_icon_skill_00.dds" Type="Image" GetRect="607,203,200,200"/>
+<Texture Name="cd_icon_Skill_JiJeongTa_I" Filename="UI/texture/cd_icon_skill_00.dds" Type="Image" GetRect="809,203,200,200"/>
+<Texture Name="cd_icon_Skill_JiJeongTa_II" Filename="UI/texture/cd_icon_skill_00.dds" Type="Image" GetRect="405,405,200,200"/>
+<Texture Name="cd_icon_Skill_JiJeongTa_III" Filename="UI/texture/cd_icon_skill_00.dds" Type="Image" GetRect="405,607,200,200"/>
+<Texture Name="cd_icon_Skill_JumpStep" Filename="UI/texture/cd_icon_skill_00.dds" Type="Image" GetRect="405,809,200,200"/>
+<Texture Name="cd_icon_Skill_JumpStepBodySlam" Filename="UI/texture/cd_icon_skill_00.dds" Type="Image" GetRect="607,405,200,200"/>
+<Texture Name="cd_icon_Skill_LightReflection" Filename="UI/texture/cd_icon_skill_00.dds" Type="Image" GetRect="809,405,200,200"/>
+<Texture Name="cd_icon_Skill_LungeAir" Filename="UI/texture/cd_icon_skill_00.dds" Type="Image" GetRect="607,607,200,200"/>
+<Texture Name="cd_icon_Skill_Lunge_I" Filename="UI/texture/cd_icon_skill_00.dds" Type="Image" GetRect="607,809,200,200"/>
+<Texture Name="cd_icon_Skill_Lunge_II" Filename="UI/texture/cd_icon_skill_00.dds" Type="Image" GetRect="809,607,200,200"/>
+<Texture Name="cd_icon_Skill_MoveCutting_I" Filename="UI/texture/cd_icon_skill_00.dds" Type="Image" GetRect="809,809,200,200"/>
+

@@ -1,0 +1,16 @@
+﻿<Texture Name="cd_uitexture_hud_gauge_combo_bg" Filename="UI/texture/cd_uitexture_hud_combo.dds" Type="Image" GetRect="1,297,374,9"/>
+<Texture Name="cd_uitexture_hud_gauge_combo_value" Filename="UI/texture/cd_uitexture_hud_combo.dds" Type="Image" GetRect="1,308,374,9"/>
+<Texture Name="cd_uitexture_hud_ink_combo_bg" Filename="UI/texture/cd_uitexture_hud_combo.dds" Type="Image" GetRect="1,1,396,122"/>
+<Texture Name="cd_uitexture_hud_text_combo" Filename="UI/texture/cd_uitexture_hud_combo.dds" Type="Image" GetRect="1,125,190,53"/>
+<Texture Name="cd_uitexture_hud_text_combo_0" Filename="UI/texture/cd_uitexture_hud_combo.dds" Type="Image" GetRect="399,1,60,84"/>
+<Texture Name="cd_uitexture_hud_text_combo_1" Filename="UI/texture/cd_uitexture_hud_combo.dds" Type="Image" GetRect="399,87,60,84"/>
+<Texture Name="cd_uitexture_hud_text_combo_2" Filename="UI/texture/cd_uitexture_hud_combo.dds" Type="Image" GetRect="332,125,60,84"/>
+<Texture Name="cd_uitexture_hud_text_combo_3" Filename="UI/texture/cd_uitexture_hud_combo.dds" Type="Image" GetRect="394,173,60,84"/>
+<Texture Name="cd_uitexture_hud_text_combo_4" Filename="UI/texture/cd_uitexture_hud_combo.dds" Type="Image" GetRect="193,167,60,84"/>
+<Texture Name="cd_uitexture_hud_text_combo_5" Filename="UI/texture/cd_uitexture_hud_combo.dds" Type="Image" GetRect="255,167,60,84"/>
+<Texture Name="cd_uitexture_hud_text_combo_6" Filename="UI/texture/cd_uitexture_hud_combo.dds" Type="Image" GetRect="317,211,60,84"/>
+<Texture Name="cd_uitexture_hud_text_combo_7" Filename="UI/texture/cd_uitexture_hud_combo.dds" Type="Image" GetRect="379,259,60,84"/>
+<Texture Name="cd_uitexture_hud_text_combo_8" Filename="UI/texture/cd_uitexture_hud_combo.dds" Type="Image" GetRect="441,259,60,84"/>
+<Texture Name="cd_uitexture_hud_text_combo_9" Filename="UI/texture/cd_uitexture_hud_combo.dds" Type="Image" GetRect="1,180,60,84"/>
+<Texture Name="cd_uitexture_hud_text_Hits" Filename="UI/texture/cd_uitexture_hud_combo.dds" Type="Image" GetRect="193,125,137,40"/>
+

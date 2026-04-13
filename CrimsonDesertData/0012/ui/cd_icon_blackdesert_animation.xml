@@ -1,0 +1,52 @@
+﻿<Texture Name="cd_icon_bd_logo_anitexture_01" Filename="UI/texture/cd_icon_blackdesert.dds" Type="Image" GetRect="1,1,48,48"/>
+<Texture Name="cd_icon_bd_logo_anitexture_02" Filename="UI/texture/cd_icon_blackdesert.dds" Type="Image" GetRect="1,51,48,48"/>
+<Texture Name="cd_icon_bd_logo_anitexture_03" Filename="UI/texture/cd_icon_blackdesert.dds" Type="Image" GetRect="1,101,48,48"/>
+<Texture Name="cd_icon_bd_logo_anitexture_04" Filename="UI/texture/cd_icon_blackdesert.dds" Type="Image" GetRect="1,151,48,48"/>
+<Texture Name="cd_icon_bd_logo_anitexture_05" Filename="UI/texture/cd_icon_blackdesert.dds" Type="Image" GetRect="1,201,48,48"/>
+<Texture Name="cd_icon_bd_logo_anitexture_06" Filename="UI/texture/cd_icon_blackdesert.dds" Type="Image" GetRect="51,1,48,48"/>
+<Texture Name="cd_icon_bd_logo_anitexture_07" Filename="UI/texture/cd_icon_blackdesert.dds" Type="Image" GetRect="101,1,48,48"/>
+<Texture Name="cd_icon_bd_logo_anitexture_08" Filename="UI/texture/cd_icon_blackdesert.dds" Type="Image" GetRect="151,1,48,48"/>
+<Texture Name="cd_icon_bd_logo_anitexture_09" Filename="UI/texture/cd_icon_blackdesert.dds" Type="Image" GetRect="201,1,48,48"/>
+<Texture Name="cd_icon_bd_logo_anitexture_10" Filename="UI/texture/cd_icon_blackdesert.dds" Type="Image" GetRect="51,51,48,48"/>
+<Texture Name="cd_icon_bd_logo_anitexture_11" Filename="UI/texture/cd_icon_blackdesert.dds" Type="Image" GetRect="51,101,48,48"/>
+<Texture Name="cd_icon_bd_logo_anitexture_12" Filename="UI/texture/cd_icon_blackdesert.dds" Type="Image" GetRect="51,151,48,48"/>
+<Texture Name="cd_icon_bd_logo_anitexture_13" Filename="UI/texture/cd_icon_blackdesert.dds" Type="Image" GetRect="51,201,48,48"/>
+<Texture Name="cd_icon_bd_logo_anitexture_14" Filename="UI/texture/cd_icon_blackdesert.dds" Type="Image" GetRect="101,51,48,48"/>
+<Texture Name="cd_icon_bd_logo_anitexture_15" Filename="UI/texture/cd_icon_blackdesert.dds" Type="Image" GetRect="151,51,48,48"/>
+<Texture Name="cd_icon_bd_logo_anitexture_16" Filename="UI/texture/cd_icon_blackdesert.dds" Type="Image" GetRect="201,51,48,48"/>
+<Texture Name="cd_icon_bd_logo_anitexture_17" Filename="UI/texture/cd_icon_blackdesert.dds" Type="Image" GetRect="101,101,48,48"/>
+<Texture Name="cd_icon_bd_logo_anitexture_18" Filename="UI/texture/cd_icon_blackdesert.dds" Type="Image" GetRect="101,151,48,48"/>
+<Texture Name="cd_icon_bd_logo_anitexture_19" Filename="UI/texture/cd_icon_blackdesert.dds" Type="Image" GetRect="101,201,48,48"/>
+<Texture Name="cd_icon_bd_logo_anitexture_20" Filename="UI/texture/cd_icon_blackdesert.dds" Type="Image" GetRect="151,101,48,48"/>
+<Texture Name="cd_icon_bd_logo_anitexture_21" Filename="UI/texture/cd_icon_blackdesert.dds" Type="Image" GetRect="201,101,48,48"/>
+<Texture Name="cd_icon_bd_logo_anitexture_22" Filename="UI/texture/cd_icon_blackdesert.dds" Type="Image" GetRect="151,151,48,48"/>
+<Texture Name="cd_icon_bd_logo_anitexture_23" Filename="UI/texture/cd_icon_blackdesert.dds" Type="Image" GetRect="151,201,48,48"/>
+<Texture Name="cd_icon_bd_logo_anitexture_24" Filename="UI/texture/cd_icon_blackdesert.dds" Type="Image" GetRect="201,151,48,48"/>
+
+<Animation name="cd_icon_bd_logo_anitexture_animation" size="256,256">
+    <Frame Texturename="cd_icon_bd_logo_anitexture_08"  Time="0.08" />
+    <Frame Texturename="cd_icon_bd_logo_anitexture_09"  Time="0.08" />
+    <Frame Texturename="cd_icon_bd_logo_anitexture_10"  Time="0.08" />
+    <Frame Texturename="cd_icon_bd_logo_anitexture_11"  Time="0.08" />
+    <Frame Texturename="cd_icon_bd_logo_anitexture_12"  Time="0.08" />
+    <Frame Texturename="cd_icon_bd_logo_anitexture_13"  Time="0.08" />
+    <Frame Texturename="cd_icon_bd_logo_anitexture_14"  Time="0.08" />
+    <Frame Texturename="cd_icon_bd_logo_anitexture_15"  Time="0.08" />
+    <Frame Texturename="cd_icon_bd_logo_anitexture_16"  Time="0.08" />
+    <Frame Texturename="cd_icon_bd_logo_anitexture_17"  Time="0.08" />
+    <Frame Texturename="cd_icon_bd_logo_anitexture_18"  Time="0.08" />
+    <Frame Texturename="cd_icon_bd_logo_anitexture_19"  Time="0.08" />
+    <Frame Texturename="cd_icon_bd_logo_anitexture_20"  Time="0.08" />
+    <Frame Texturename="cd_icon_bd_logo_anitexture_21"  Time="0.08" />
+    <Frame Texturename="cd_icon_bd_logo_anitexture_22"  Time="0.08" />
+    <Frame Texturename="cd_icon_bd_logo_anitexture_23"  Time="0.08" />
+    <Frame Texturename="cd_icon_bd_logo_anitexture_24"  Time="0.08" />
+    <Frame Texturename="cd_icon_bd_logo_anitexture_01"  Time="0.08" />
+    <Frame Texturename="cd_icon_bd_logo_anitexture_02"  Time="0.08" />
+    <Frame Texturename="cd_icon_bd_logo_anitexture_03"  Time="0.08" />
+    <Frame Texturename="cd_icon_bd_logo_anitexture_04"  Time="0.08" />
+    <Frame Texturename="cd_icon_bd_logo_anitexture_05"  Time="0.08" />
+    <Frame Texturename="cd_icon_bd_logo_anitexture_06"  Time="0.08" />
+    <Frame Texturename="cd_icon_bd_logo_anitexture_07"  Time="0.08" />
+</Animation>
+

@@ -1,0 +1,8 @@
+﻿<Texture Name="common_matarial_alpha" Filename="texture/NoneTexture0xffffffff.dds" Type="Image" GetRect="0,0,4,4"/> <!-- UI머터리얼 투명  -->
+<Texture Name="common_matarial_default" Filename="texture/NoneTexture0x00ffffff.dds" Type="Image" GetRect="0,0,4,4"/> <!-- UI머터리얼 흰색 / 머터리얼 기본텍스쳐  -->
+<Texture Name="common_matarial_black" Filename="texture/NoneTexture0x000000.dds" Type="Image" GetRect="0,0,4,4"/> <!-- UI머터리얼 검정색 / 머터리얼 기본텍스쳐  -->
+<Texture Name="common_matarial_ui_mask_down" Filename="texture/ui_mask_down.dds" Type="Image" GetRect="0,0,256,256"/> <!-- UI마스킹용 그라데이션  -->
+<Texture Name="common_matarial_ui_mask_left" Filename="texture/ui_mask_left.dds" Type="Image" GetRect="0,0,256,256"/> <!-- UI마스킹용 그라데이션  -->
+<Texture Name="common_matarial_ui_mask_right" Filename="texture/ui_mask_right.dds" Type="Image" GetRect="0,0,256,256"/> <!-- UI마스킹용 그라데이션  -->
+<Texture Name="common_matarial_ui_mask_up" Filename="texture/ui_mask_up.dds" Type="Image" GetRect="0,0,256,256"/> <!-- UI마스킹용 그라데이션  -->
+

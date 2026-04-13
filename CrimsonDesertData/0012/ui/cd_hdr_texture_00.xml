@@ -1,0 +1,5 @@
+﻿<Texture Name="cd_hdr_dark" Filename="UI/texture/hdr_dark.dds" Type="Image" GetRect="0,0,2000,1800"/>
+<Texture Name="cd_hdr_bright" Filename="UI/texture/hdr_bright.dds" Type="Image" GetRect="0,0,2000,1800"/>
+<Texture Name="cd_gamma_dark" Filename="UI/texture/gamma_dark.dds" Type="Image" GetRect="0,0,2000,1800"/>
+<Texture Name="cd_gamma_bright" Filename="UI/texture/gamma_bright.dds" Type="Image" GetRect="0,0,2000,1800"/>
+<Texture Name="cd_playguideimage_Setting_Logo_256" Filename="ui\texture\Image\playguideimage\cd_playguideimage_Setting_Logo_256.dds" Type="Image" GetRect="0,0,256,256"/>

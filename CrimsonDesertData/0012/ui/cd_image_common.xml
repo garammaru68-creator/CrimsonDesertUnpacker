@@ -1,0 +1,77 @@
+﻿<Texture Name="CommonImage_pearlabyss_CI"	    Filename="UI/texture/Image/CommonImage/CommonImage_pearlabyss_CI.dds" Type="Image" GetRect="0,0,1024,256"/>
+<Texture Name="cd_image_church_donation_popup_title_bg_00"	Filename="UI/texture/Image/CommonImage/cd_image_church_donation_popup_title_bg_00.dds" Type="Image" GetRect="0,0,908,64"/>
+<Texture Name="cd_image_church_donation_box_00"	Filename="UI/texture/Image/CommonImage/cd_image_church_donation_box_00.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_image_minigame_tujeon_paper_00"	Filename="UI/texture/Image/CommonImage/cd_image_minigame_tujeon_paper_00.dds" Type="Image" GetRect="0,0,1024,1024"/>
+<Texture Name="cd_image_minigame_tujeon_paper_01"	Filename="UI/texture/Image/CommonImage/cd_image_minigame_tujeon_paper_01.dds" Type="Image" GetRect="0,0,1024,1024"/>
+<Texture Name="cd_image_minigame_ceelo_paper_00"	Filename="UI/texture/Image/CommonImage/cd_image_minigame_ceelo_paper_00.dds" Type="Image" GetRect="0,0,1024,1024"/>
+<Texture Name="cd_image_minigame_ceelo_paper_01"	Filename="UI/texture/Image/CommonImage/cd_image_minigame_ceelo_paper_01.dds" Type="Image" GetRect="0,0,1024,1024"/>
+<Texture Name="cd_image_worldmap_crime_fog_00"	Filename="UI/texture/Image/CommonImage/cd_image_worldmap_crime_fog_00.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_image_node_message_image_00"	Filename="UI/texture/Image/CommonImage/cd_image_node_message_image_00.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_image_node_message_image_01"	Filename="UI/texture/Image/CommonImage/cd_image_node_message_image_01.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_image_node_message_image_02"	Filename="UI/texture/Image/CommonImage/cd_image_node_message_image_02.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_image_shop_item_emptyslot_00"	Filename="UI/texture/Image/CommonImage/cd_image_shop_item_emptyslot_00.dds" Type="Image" GetRect="0,0,1024,190"/>
+<Texture Name="cd_image_chaper_change_bg_deco"	Filename="UI/texture/Image/CommonImage/cd_image_chaper_change_bg_deco.dds" Type="Image" GetRect="0,0,1024,1024"/>
+<Texture Name="cd_image_squencer_message_deco_bg"	Filename="UI/texture/Image/CommonImage/cd_image_squencer_message_deco_bg.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_ink_bg_worldmap_area_01"	Filename="UI/texture/Image/CommonImage/cd_ink_bg_worldmap_area_01.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_ink_bg_worldmap_quest_01"	Filename="UI/texture/Image/CommonImage/cd_ink_bg_worldmap_quest_01.dds" Type="Image" GetRect="0,0,490,490"/>
+<Texture Name="cd_ink_bg_worldmap_quest_01_simple"	Filename="UI/texture/Image/CommonImage/cd_ink_bg_worldmap_quest_01_simple.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_ink_bg_worldmap_quest_01_simple_abyss"	Filename="UI/texture/Image/CommonImage/cd_ink_bg_worldmap_quest_01_simple_abyss.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_image_minigame_slotmachine_paper_00"	Filename="UI/texture/Image/CommonImage/cd_image_minigame_slotmachine_paper_00.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_wanted_oongka_01" Filename="UI/texture/Image/CommonImage/cd_wanted_oongka_01.dds" Type="Image" GetRect="0,0,254,359"/>
+<Texture Name="cd_wanted_oongka_02" Filename="UI/texture/Image/CommonImage/cd_wanted_oongka_02.dds" Type="Image" GetRect="0,0,254,359"/>
+<Texture Name="cd_wanted_oongka_03" Filename="UI/texture/Image/CommonImage/cd_wanted_oongka_03.dds" Type="Image" GetRect="0,0,254,359"/>
+<Texture Name="cd_wanted_oongka_04" Filename="UI/texture/Image/CommonImage/cd_wanted_oongka_04.dds" Type="Image" GetRect="0,0,254,359"/>
+<Texture Name="cd_wanted_oongka_05" Filename="UI/texture/Image/CommonImage/cd_wanted_oongka_05.dds" Type="Image" GetRect="0,0,254,359"/>
+<Texture Name="cd_wanted_damian_01" Filename="UI/texture/Image/CommonImage/cd_wanted_damian_01.dds" Type="Image" GetRect="0,0,254,359"/>
+<Texture Name="cd_wanted_damian_02" Filename="UI/texture/Image/CommonImage/cd_wanted_damian_02.dds" Type="Image" GetRect="0,0,254,359"/>
+<Texture Name="cd_wanted_damian_03" Filename="UI/texture/Image/CommonImage/cd_wanted_damian_03.dds" Type="Image" GetRect="0,0,254,359"/>
+<Texture Name="cd_wanted_damian_04" Filename="UI/texture/Image/CommonImage/cd_wanted_damian_04.dds" Type="Image" GetRect="0,0,254,359"/>
+<Texture Name="cd_wanted_damian_05" Filename="UI/texture/Image/CommonImage/cd_wanted_damian_05.dds" Type="Image" GetRect="0,0,254,359"/>
+<Texture Name="cd_image_ui_help_keyguide_xbox"		 Filename="UI/texture/Image/CommonImage/cd_image_ui_help_keyguide_xbox.dds" 		Type="Image" GetRect="0,0,1024,1024"/>
+<Texture Name="cd_image_ui_help_keyguide_PS"		 Filename="UI/texture/Image/CommonImage/cd_image_ui_help_keyguide_PS.dds" 			Type="Image" GetRect="0,0,1024,1024"/>
+<Texture Name="cd_image_ui_help_keyguide_PC" 		 Filename="UI/texture/Image/CommonImage/cd_image_ui_help_keyguide_PC.dds" 			Type="Image" GetRect="0,0,1024,1024"/>
+<Texture Name="cd_image_ui_help_keyguide_PC_azerty"  Filename="UI/texture/Image/CommonImage/cd_image_ui_help_keyguide_PC_azerty.dds" 	Type="Image" GetRect="0,0,1024,1024"/>
+<Texture Name="cd_image_ui_help_keyguide_MAC" 		 Filename="UI/texture/Image/CommonImage/cd_image_ui_help_keyguide_MAC.dds" 			Type="Image" GetRect="0,0,1024,1024"/>
+<Texture Name="cd_image_UI_Focus_Mask_SmallCircle_00" 		 Filename="UI/texture/Image/CommonImage/cd_image_UI_Focus_Mask_SmallCircle_00.dds" 			Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_image_abyss_worldmap_bg_hex_00" 		     Filename="UI/texture/Image/CommonImage/cd_image_abyss_worldmap_bg_hex_00.dds" 			Type="Image" GetRect="0,0,512,512"/>
+
+<Texture Name="cd_image_loading_gauge_bg00" Filename="UI/texture/Image/CommonImage/cd_image_loading_gauge_bg00.dds" Type="Image" GetRect="0,0,2048,4"/>
+<Texture Name="cd_image_loading_gauge_bg01" Filename="UI/texture/Image/CommonImage/cd_image_loading_gauge_bg01.dds" Type="Image" GetRect="0,0,2048,4"/>
+
+<Texture Name="cd_image_decoline_dragon_item_slot_bg_00" Filename="UI/texture/Image/CommonImage/cd_image_decoline_dragon_item_slot_bg_00.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_image_decoline_horse_item_slot_bg_00" Filename="UI/texture/Image/CommonImage/cd_image_decoline_horse_item_slot_bg_00.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<Texture Name="cd_image_bi_00"		 Filename="UI/texture/Image/CommonImage/cd_image_bi_00.dds" 		Type="Image" GetRect="0,0,1024,512"/>
+<Texture Name="cd_image_bi_01"		 Filename="UI/texture/Image/CommonImage/cd_image_bi_01.dds" 			Type="Image" GetRect="0,0,1024,512"/>
+<Texture Name="thirdparty_logo_1" 		 Filename="UI/texture/Image/CommonImage/thirdparty_logo_1.dds" 			Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="thirdparty_logo_2"  Filename="UI/texture/Image/CommonImage/thirdparty_logo_2.dds" 	Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="thirdparty_logo_3" 		 Filename="UI/texture/Image/CommonImage/thirdparty_logo_3.dds" 			Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="thirdparty_logo_4"  Filename="UI/texture/Image/CommonImage/thirdparty_logo_4.dds" 	Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="thirdparty_logo_5" 		 Filename="UI/texture/Image/CommonImage/thirdparty_logo_5.dds" 			Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="thirdparty_logo_6" 		 Filename="UI/texture/Image/CommonImage/thirdparty_logo_6.dds" 			Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_image_playguide_video_mask_bg00" 		 Filename="UI/texture/Image/CommonImage/cd_image_playguide_video_mask_bg00.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_commonimage_mainmenu_dimmed" 		 Filename="UI/texture/Image/CommonImage/cd_commonimage_mainmenu_dimmed.dds" Type="Image" GetRect="0,0,256,256"/>
+
+<Texture Name="cd_commonImage_bg_deco_symbol_00" 		 Filename="UI/texture/Image/CommonImage/cd_commonImage_bg_deco_symbol_00.dds" Type="Image" GetRect="0,0,1024,1024"/>
+<Texture Name="cd_credit_deco_stroke_00" 		 Filename="UI/texture/Image/CommonImage/cd_credit_deco_stroke_00.dds" Type="Image" GetRect="0,0,1024,256"/>
+
+<Texture Name="cd_commonImage_worldmap_icon_cannon_00" 		 Filename="UI/texture/Image/CommonImage/cd_commonImage_worldmap_icon_cannon_00.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_image_decoline_popup_00" 		 Filename="UI/texture/Image/CommonImage/cd_image_decoline_popup_00.dds" Type="Image" GetRect="0,0,1024,1024"/>
+<Texture Name="cd_image_decoline_popup_01" 		 Filename="UI/texture/Image/CommonImage/cd_image_decoline_popup_01.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_image_UI_Focus_mask_Center_circle" 		 Filename="UI/texture/Image/CommonImage/cd_image_UI_Focus_mask_Center_circle.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_slot_bg_small_abyssgear_socket_lock" 		 Filename="UI/texture/Image/CommonImage/cd_slot_bg_small_abyssgear_socket_lock.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="itemicon_prefab_cd_t0000_abyss_artifact_c_0001_effect" 		 Filename="UI/texture/Image/CommonImage/itemicon_prefab_cd_t0000_abyss_artifact_c_0001_effect.dds" Type="Image" GetRect="0,0,256,256"/>
+
+<Texture Name="cd_bitmap_trigervolume_Crim_EnlightenShrine" 		 Filename="UI/texture/Image/CommonImage/cd_bitmap_trigervolume_Crim_EnlightenShrine.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_bitmap_trigervolume_del_aimarni" 		 Filename="UI/texture/Image/CommonImage/cd_bitmap_trigervolume_del_aimarni.dds" Type="Image" GetRect="0,0,1024,1024"/>
+<Texture Name="cd_bitmap_trigervolume_Del_ClockTower" 		 Filename="UI/texture/Image/CommonImage/cd_bitmap_trigervolume_Del_ClockTower.dds" Type="Image" GetRect="0,0,1024,1024"/>
+<Texture Name="cd_bitmap_trigervolume_Del_GorthakIron" 		 Filename="UI/texture/Image/CommonImage/cd_bitmap_trigervolume_Del_GorthakIron.dds" Type="Image" GetRect="0,0,1024,1024"/>
+<Texture Name="cd_bitmap_trigervolume_Dem_HexeSanctuary" 		 Filename="UI/texture/Image/CommonImage/cd_bitmap_trigervolume_Dem_HexeSanctuary.dds" Type="Image" GetRect="0,0,1024,1024"/>
+<Texture Name="cd_bitmap_trigervolume_Dem_JiJeongTemple" 		 Filename="UI/texture/Image/CommonImage/cd_bitmap_trigervolume_Dem_JiJeongTemple.dds" Type="Image" GetRect="0,0,1024,1024"/>
+<Texture Name="cd_bitmap_trigervolume_her_greywolfcamp" 		 Filename="UI/texture/Image/CommonImage/cd_bitmap_trigervolume_her_greywolfcamp.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_bitmap_trigervolume_her_goldenfist_arena" 		 Filename="UI/texture/Image/CommonImage/cd_bitmap_trigervolume_her_goldenfist_arena.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_bitmap_trigervolume_Her_HalsiusHospital" 		 Filename="UI/texture/Image/CommonImage/cd_bitmap_trigervolume_Her_HalsiusHospital.dds" Type="Image" GetRect="0,0,1024,1024"/>
+<Texture Name="cd_bitmap_trigervolume_Her_KildenKuKuWorkshop" 		 Filename="UI/texture/Image/CommonImage/cd_bitmap_trigervolume_Her_KildenKuKuWorkshop.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_bitmap_trigervolume_Her_ReedDevil" 		 Filename="UI/texture/Image/CommonImage/cd_bitmap_trigervolume_Her_ReedDevil.dds" Type="Image" GetRect="0,0,1024,1024"/>
+<Texture Name="cd_bitmap_trigervolume_Her_ScholarStoneInstitute" 		 Filename="UI/texture/Image/CommonImage/cd_bitmap_trigervolume_Her_ScholarStoneInstitute.dds" Type="Image" GetRect="0,0,1024,1024"/>
+

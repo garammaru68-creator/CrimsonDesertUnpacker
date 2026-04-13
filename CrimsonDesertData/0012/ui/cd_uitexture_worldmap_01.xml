@@ -1,0 +1,6 @@
+﻿<Texture Name="cd_worldmap_node_mission_ink_frame_00" Filename="UI/texture/cd_uitexture_worldmap_01.dds" Type="Image" GetRect="991,454,25,443"/>
+<Texture Name="cd_worldmap_node_mission_ink_frame_01" Filename="UI/texture/cd_uitexture_worldmap_01.dds" Type="Image" GetRect="991,1,29,451"/>
+<Texture Name="cd_worldmap_node_tooltip_faction_title_bg" Filename="UI/texture/cd_uitexture_worldmap_01.dds" Type="Image" GetRect="1,899,932,91"/>
+<Texture Name="cd_worldmap_node_tooltip_ink_bg00" Filename="UI/texture/cd_uitexture_worldmap_01.dds" Type="Image" GetRect="1,1,988,693"/>
+<Texture Name="cd_worldmap_paper_list_bg_01" Filename="UI/texture/cd_uitexture_worldmap_01.dds" Type="Image" GetRect="1,696,859,146"/>
+

@@ -1,0 +1,3 @@
+﻿<Texture Name="cd_system_guide_pc_keyboard" Filename="UI/texture/cd_system_01.dds" Type="Image" GetRect="1,1,850,340"/>
+<Texture Name="cd_system_guide_pc_keyboard_mac" Filename="UI/texture/cd_system_01.dds" Type="Image" GetRect="1,343,850,340"/>
+

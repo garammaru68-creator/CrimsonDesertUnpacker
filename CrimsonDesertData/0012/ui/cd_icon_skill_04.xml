@@ -1,0 +1,26 @@
+﻿<Texture Name="cd_icon_Skill_BlackWolf_Swing" Filename="UI/texture/cd_icon_skill_04.dds" Type="Image" GetRect="1,1,200,200"/>
+<Texture Name="cd_icon_Skill_CloneAttack_Lunge" Filename="UI/texture/cd_icon_skill_04.dds" Type="Image" GetRect="1,203,200,200"/>
+<Texture Name="cd_icon_Skill_CloneAttack_MoveCutting" Filename="UI/texture/cd_icon_skill_04.dds" Type="Image" GetRect="1,405,200,200"/>
+<Texture Name="cd_icon_Skill_CloneAttack_TurnBash" Filename="UI/texture/cd_icon_skill_04.dds" Type="Image" GetRect="1,607,200,200"/>
+<Texture Name="cd_icon_Skill_DualWeaponMastery" Filename="UI/texture/cd_icon_skill_04.dds" Type="Image" GetRect="1,809,200,200"/>
+<Texture Name="cd_icon_Skill_ElementalReinforce_ChargeShot" Filename="UI/texture/cd_icon_skill_04.dds" Type="Image" GetRect="203,1,200,200"/>
+<Texture Name="cd_icon_Skill_ElementalReinforce_JiJeongTa" Filename="UI/texture/cd_icon_skill_04.dds" Type="Image" GetRect="405,1,200,200"/>
+<Texture Name="cd_icon_Skill_ElementalReinforce_RotationBash" Filename="UI/texture/cd_icon_skill_04.dds" Type="Image" GetRect="607,1,200,200"/>
+<Texture Name="cd_icon_Skill_JiJeongTa_Far" Filename="UI/texture/cd_icon_skill_04.dds" Type="Image" GetRect="809,1,200,200"/>
+<Texture Name="cd_icon_Skill_JiJeongTa_II_Finish" Filename="UI/texture/cd_icon_skill_04.dds" Type="Image" GetRect="203,203,200,200"/>
+<Texture Name="cd_icon_Skill_Lunge_Expert" Filename="UI/texture/cd_icon_skill_04.dds" Type="Image" GetRect="203,405,200,200"/>
+<Texture Name="cd_icon_Skill_MoveCutting_Expert" Filename="UI/texture/cd_icon_skill_04.dds" Type="Image" GetRect="203,607,200,200"/>
+<Texture Name="cd_icon_Skill_Rope_AirSwing" Filename="UI/texture/cd_icon_skill_04.dds" Type="Image" GetRect="203,809,200,200"/>
+<Texture Name="cd_icon_Skill_Rope_Swing" Filename="UI/texture/cd_icon_skill_04.dds" Type="Image" GetRect="405,203,200,200"/>
+<Texture Name="cd_icon_Skill_RotationBash_Expert" Filename="UI/texture/cd_icon_skill_04.dds" Type="Image" GetRect="607,203,200,200"/>
+<Texture Name="cd_icon_Skill_ShieldJustGuard" Filename="UI/texture/cd_icon_skill_04.dds" Type="Image" GetRect="809,203,200,200"/>
+<Texture Name="cd_icon_Skill_ShieldJustGuard_Attack" Filename="UI/texture/cd_icon_skill_04.dds" Type="Image" GetRect="405,405,200,200"/>
+<Texture Name="cd_icon_Skill_Sprint" Filename="UI/texture/cd_icon_skill_04.dds" Type="Image" GetRect="405,607,200,200"/>
+<Texture Name="cd_icon_Skill_Taeguk_Trap_I" Filename="UI/texture/cd_icon_skill_04.dds" Type="Image" GetRect="405,809,200,200"/>
+<Texture Name="cd_icon_Skill_Taeguk_Trap_II" Filename="UI/texture/cd_icon_skill_04.dds" Type="Image" GetRect="607,405,200,200"/>
+<Texture Name="cd_icon_Skill_Takedown" Filename="UI/texture/cd_icon_skill_04.dds" Type="Image" GetRect="809,405,200,200"/>
+<Texture Name="cd_icon_Skill_UnArmedCombination" Filename="UI/texture/cd_icon_skill_04.dds" Type="Image" GetRect="607,607,200,200"/>
+<Texture Name="cd_icon_Skill_UnArmedMastery_Expert" Filename="UI/texture/cd_icon_skill_04.dds" Type="Image" GetRect="607,809,200,200"/>
+<Texture Name="cd_icon_Skill_UnArmedMastery_I" Filename="UI/texture/cd_icon_skill_04.dds" Type="Image" GetRect="809,607,200,200"/>
+<Texture Name="cd_icon_Skill_Wrestle_Throw" Filename="UI/texture/cd_icon_skill_04.dds" Type="Image" GetRect="809,809,200,200"/>
+

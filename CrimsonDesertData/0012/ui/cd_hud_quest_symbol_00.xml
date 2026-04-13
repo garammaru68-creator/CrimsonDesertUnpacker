@@ -1,0 +1,9 @@
+﻿<Texture Name="cd_hud_quest_symbol_battleend" Filename="UI/texture/cd_hud_quest_symbol_00.dds" Type="Image" GetRect="1,1,124,124"/>
+<Texture Name="cd_hud_quest_symbol_clue" Filename="UI/texture/cd_hud_quest_symbol_00.dds" Type="Image" GetRect="1,127,124,124"/>
+<Texture Name="cd_hud_quest_symbol_complete" Filename="UI/texture/cd_hud_quest_symbol_00.dds" Type="Image" GetRect="127,127,71,71"/>
+<Texture Name="cd_hud_quest_symbol_discovery" Filename="UI/texture/cd_hud_quest_symbol_00.dds" Type="Image" GetRect="1,253,124,124"/>
+<Texture Name="cd_hud_quest_symbol_goal" Filename="UI/texture/cd_hud_quest_symbol_00.dds" Type="Image" GetRect="1,379,124,124"/>
+<Texture Name="cd_hud_quest_symbol_liberation" Filename="UI/texture/cd_hud_quest_symbol_00.dds" Type="Image" GetRect="127,1,124,124"/>
+<Texture Name="cd_hud_quest_symbol_plea" Filename="UI/texture/cd_hud_quest_symbol_00.dds" Type="Image" GetRect="253,1,124,124"/>
+<Texture Name="cd_hud_quest_symbol_rescue" Filename="UI/texture/cd_hud_quest_symbol_00.dds" Type="Image" GetRect="379,1,124,124"/>
+

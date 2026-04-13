@@ -1,0 +1,21 @@
+﻿<Texture Name="cd_icon_bg_skilltree_circle_00" Filename="UI/texture/cd_skilltree_01.dds" Type="Image" GetRect="1,1639,220,220"/>
+<Texture Name="cd_icon_bg_skilltree_circle_01" Filename="UI/texture/cd_skilltree_01.dds" Type="Image" GetRect="223,1639,220,220"/>
+<Texture Name="cd_icon_bg_skilltree_circle_center" Filename="UI/texture/cd_skilltree_01.dds" Type="Image" GetRect="245,907,220,220"/>
+<Texture Name="cd_icon_bg_skilltree_effect_blue" Filename="UI/texture/cd_skilltree_01.dds" Type="Image" GetRect="1,1861,150,150"/>
+<Texture Name="cd_icon_bg_skilltree_effect_green" Filename="UI/texture/cd_skilltree_01.dds" Type="Image" GetRect="153,1861,150,150"/>
+<Texture Name="cd_icon_bg_skilltree_effect_red" Filename="UI/texture/cd_skilltree_01.dds" Type="Image" GetRect="305,1861,150,150"/>
+<Texture Name="cd_icon_bg_skilltree_frame_circle_dotted" Filename="UI/texture/cd_skilltree_01.dds" Type="Image" GetRect="245,1129,220,220"/>
+<Texture Name="cd_icon_bg_skilltree_frame_circle_main" Filename="UI/texture/cd_skilltree_01.dds" Type="Image" GetRect="1,907,242,242"/>
+<Texture Name="cd_icon_bg_skilltree_frame_circle_ring" Filename="UI/texture/cd_skilltree_01.dds" Type="Image" GetRect="1,1151,242,242"/>
+<Texture Name="cd_icon_bg_skilltree_frame_hexagon_main" Filename="UI/texture/cd_skilltree_01.dds" Type="Image" GetRect="245,1351,220,220"/>
+<Texture Name="cd_icon_bg_skilltree_frame_hexagon_ring" Filename="UI/texture/cd_skilltree_01.dds" Type="Image" GetRect="445,1573,220,220"/>
+<Texture Name="cd_icon_bg_skilltree_gauge_circle" Filename="UI/texture/cd_skilltree_01.dds" Type="Image" GetRect="457,1795,220,220"/>
+<Texture Name="cd_icon_bg_skilltree_gauge_hexagon" Filename="UI/texture/cd_skilltree_01.dds" Type="Image" GetRect="303,1,220,220"/>
+<Texture Name="cd_icon_bg_skilltree_hexagon_00" Filename="UI/texture/cd_skilltree_01.dds" Type="Image" GetRect="1,1395,242,242"/>
+<Texture Name="cd_icon_bg_skilltree_ink_deco_blue" Filename="UI/texture/cd_skilltree_01.dds" Type="Image" GetRect="1,1,300,300"/>
+<Texture Name="cd_icon_bg_skilltree_ink_deco_green" Filename="UI/texture/cd_skilltree_01.dds" Type="Image" GetRect="1,303,300,300"/>
+<Texture Name="cd_icon_bg_skilltree_ink_deco_red" Filename="UI/texture/cd_skilltree_01.dds" Type="Image" GetRect="1,605,300,300"/>
+<Texture Name="cd_icon_skilltree_arrow_00" Filename="UI/texture/cd_skilltree_01.dds" Type="Image" GetRect="303,223,80,150"/>
+<Texture Name="cd_icon_skilltree_arrow_00_focus" Filename="UI/texture/cd_skilltree_01.dds" Type="Image" GetRect="303,375,80,150"/>
+<Texture Name="cd_icon_skilltree_crosshair" Filename="UI/texture/cd_skilltree_01.dds" Type="Image" GetRect="303,527,86,86"/>
+

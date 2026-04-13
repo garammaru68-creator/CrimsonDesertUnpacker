@@ -1,0 +1,11 @@
+﻿<Texture Name="cd_ink_bg_video_mask" Filename="UI/texture/cd_ink_bg_04.dds" Type="Image" GetRect="493,515,472,280"/>
+<Texture Name="cd_ink_bg_worldmap_faction_info_01" Filename="UI/texture/cd_ink_bg_04.dds" Type="Image" GetRect="493,930,410,58"/>
+<Texture Name="cd_ink_bg_worldmap_quest_abyss_01" Filename="UI/texture/cd_ink_bg_04.dds" Type="Image" GetRect="1,515,490,490"/>
+<Texture Name="cd_ink_tooltip_faction_Ink_bg_00" Filename="UI/texture/cd_ink_bg_04.dds" Type="Image" GetRect="1,1,512,512"/>
+<Texture Name="cd_worldmap_contribution_deco_line_circle" Filename="UI/texture/cd_ink_bg_04.dds" Type="Image" GetRect="967,1,18,18"/>
+<Texture Name="cd_worldmap_contribution_deco_line_height" Filename="UI/texture/cd_ink_bg_04.dds" Type="Image" GetRect="1,1015,243,6"/>
+<Texture Name="cd_worldmap_contribution_deco_line_width" Filename="UI/texture/cd_ink_bg_04.dds" Type="Image" GetRect="1,1007,416,6"/>
+<Texture Name="cd_worldmap_contribution_level_bg_mask_00" Filename="UI/texture/cd_ink_bg_04.dds" Type="Image" GetRect="493,797,420,131"/>
+<Texture Name="cd_worldmap_quest_ink_bg05_bottom" Filename="UI/texture/cd_ink_bg_04.dds" Type="Image" GetRect="515,1,255,144"/>
+<Texture Name="cd_worldmap_quest_ink_bg05_top" Filename="UI/texture/cd_ink_bg_04.dds" Type="Image" GetRect="493,990,252,27"/>
+

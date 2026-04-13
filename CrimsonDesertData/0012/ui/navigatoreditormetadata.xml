@@ -1,0 +1,278 @@
+﻿
+<!-- 
+	name = 자유 작성 ( goPosition filter에 마우스 올릴시 나올 툴팁 설명에 사용 )
+	icon = Icon_Navi.xml 의 Name을 작성하여 등록
+
+	folder 정보 추가한다면 EditorNavigator.html에서 EditorNavigatorIconBoxSec의 SpotFilterIcons를 추가하십시오.
+-->
+
+<NavigatorEditorMetaData>
+	<Folder name="지역"								   	icon="Group_Spot"/> 				
+		<SpotType name="임시"							icon="Sample"/>
+		<SpotType name="위상변화"						icon="ChangePhase"/>
+		<SpotType name="봉화대"							icon="Beacon"/>						
+		<SpotType name="거점"							icon="Mcduff_Base"/>				
+		<SpotType name="신전"							icon="Ruin_Navi"/> 					
+		<SpotType name="동굴"							icon="Cave_nature"/>				
+		<SpotType name="폭포"	 			   			icon="Waterfall"/>					
+		<SpotType name="아나모픽"	 			   		icon="Anamorphic"/>					
+		<SpotType name="깊은숲"	 						icon="Black_Forest"/>				
+		<SpotType name="마녀"	 	 					icon="witch"/>						
+		<SpotType name="유적"	 	 					icon="ruins"/>						
+		<SpotType name="선조의 던전"	 	 			icon="ancient_dungeon"/>			
+		<SpotType name="인공던전"	 	 				icon="artificial_dungeon"/>			
+		<SpotType name="자연던전"	 	 				icon="natural_dungeon"/>			
+		<SpotType name="늪지대"	 	 					icon="swamp"/>						
+		<SpotType name="용암지대"	 	 				icon="lava"/>						
+		<SpotType name="일반NPC거주"					icon="Farm_Navi" />
+		<SpotType name="성채 및 도시"					icon="Castle_Navi"/>
+		<SpotType name="요새폐허" 						icon="Mercenary_Main_Ruin"/>
+		<SpotType name="특수요새" 						icon="Mercenary_Main_Special"/>
+		<SpotType name="적용병단거점"					icon="Mercenary_Main" />
+		<SpotType name="인간형몬스터" 					icon="Rubber" />		
+				
+
+	<Folder name="시설"								   	icon="Group_Facility"/> 				
+		<SpotType name="다리" 							icon="Bridge"/>						
+		<SpotType name="상점" 							icon="Shop"/>						
+		<SpotType name="화장실"	 	 					icon="toilet"/>						
+		<SpotType name="은행"	 	 					icon="bank"/>						
+		<SpotType name="건설"							icon="Construction"/>				
+		<SpotType name="교회"	 	 					icon="Church"/>						
+		<SpotType name="풍차"	 			   			icon="windmill"/>					
+		<SpotType name="기도소"	 		   				icon="Prayer"/>						
+		<SpotType name="지하실"	 	 					icon="under"/>						
+		<SpotType name="관문"	 			   			icon="Gateway"/>					
+		<SpotType name="목장"	 			   			icon="Ranch01"/>					
+		<SpotType name="타워"		 					icon="Tower"/>
+		<SpotType name="나루터"	 	 					icon="ferry" />
+		<SpotType name="양봉"	 			   			icon="Honey" />
+		<SpotType name="감시탑"	 	 					icon="watchtowers"/>												
+
+	<Folder name="콘텐츠"								icon="Group_Contents"/>				
+		<SpotType name="사연"	 			    		icon="Story"/>						
+		<SpotType name="보물상자"	 	 				icon="treasure_box"/>				
+		<SpotType name="종"	 	 						icon="bell"/> 						
+		<SpotType name="장물아비"	 	 				icon="horsesstolen"/>				
+		<SpotType name="부활"	 	 					icon="Resurrection"/>				
+		<SpotType name="퍼즐"	 	 					icon="puzzle"/>
+		<SpotType name="기타"	 			    		icon="Etc"/>
+		<SpotType name="시퀀서스폰"	 			    	icon="SequencerSpawn"/>					
+
+
+	<Folder name="무역"									icon="Group_Trade"/>				
+		<SpotType name="왕실납품지"	 	 				icon="royalsupply"/>				
+		<SpotType name="금풍상회"	 	 				icon="tradingpost"/>				
+		<SpotType name="소금길상단"	 	 				icon="tradingpost_desert"/>			
+		<SpotType name="은월상단"	 	 				icon="tradingpost_troll"/>
+		<SpotType name="무역품 암시장"	 	 			icon="blackmarket"/>				
+
+
+	<Folder name="어비스"								icon="Group_Abyss"/>				
+		<SpotType name="어비스입구" 					icon="Abyss_Gate"/>					
+		<SpotType name="어비스흔적"		 				icon="Abyss_Trace"/>				
+
+	<Folder name="생성" 								icon="ReferenceViewer01"/>
+		<SpotType name="레퍼런스 뷰어" 					icon="ReferenceViewer01"/>
+
+
+<!-- /////////////////////////////////// 미사용 ///////////////////////////////////////				 -->
+
+		<!-- <SpotType name="고블린 보물"	 	 			icon="goblin_treasure"/>			 -->
+		<!-- <SpotType name="염색약"							icon="Dye"/>						 -->		
+	<!-- <Folder name="꿀"									icon="Group_Honey"/>				
+		<SpotType name="벌꿀"							icon="Honey"/>						
+		<SpotType name="파두꿀"							icon="Sagehoney"/>					
+		<SpotType name="벌집"							icon="Honeycomb"/>					
+		<SpotType name="석청"							icon="Wildhoney"/>					 -->
+	<!-- <Folder name="약재"									icon="Group_Herb"/>					
+		<SpotType name="파두" 							icon="crop_sage"/>					
+		<SpotType name="레드파두" 						icon="crop_sage_red"/>				
+		<SpotType name="협죽도"							icon="oleander"/>					
+		<SpotType name="박새" 						    icon="crop_veratrum"/>				
+		<SpotType name="인삼"							icon="Ginseng"/>					
+		<SpotType name="녹용"							icon="Antlers"/>					
+		<SpotType name="곰의 쓸개"						icon="BearGall"/>					 -->
+	<!-- <Folder name="견과류"								icon="Group_Nuts"/>					
+		<SpotType name="도토리"							icon="Acorn"/>						 -->
+	<!-- <Folder name="버섯"									icon="Group_Mushroom"/>				
+		<SpotType name="우산광대 버섯" 			    	icon="crop_Amanita_vaginata"/>		
+		<SpotType name="붉은사슴 뿔버섯" 				icon="crop_Podostroma_cornudamae"/>	
+		<SpotType name="싸리버섯" 					    icon="crop_hericium"/>				
+		<SpotType name="표고버섯" 						icon="crop_shiitake"/>				
+		<SpotType name="송이버섯" 						icon="crop_phellinus"/>				 -->
+	<!-- <Folder name="채소"									icon="Group_Vegetable"/>			
+		<SpotType name="아마"							icon="flax"	/>						
+		<SpotType name="파슬리"							icon="parsley"/>					
+		<SpotType name="아스파라거스"					icon="asparagus"/>					
+		<SpotType name="산마늘"							icon="victorialis"/>				
+		<SpotType name="펜넬"							icon="fennel"/>						
+		<SpotType name="라벤더" 						icon="crop_lavender"/>				
+		<SpotType name="라벤더 블루" 					icon="crop_lavender_blue"/>			
+		<SpotType name="라벤더 화이트" 					icon="crop_lavender_white"/>		
+		<SpotType name="라벤더 옐로우" 					icon="crop_lavender_yellow"/>		
+		<SpotType name="모란" 							icon="crop_peony"/>					
+		<SpotType name="팬지" 							icon="crop_pansy"/>					
+		<SpotType name="금어초" 						icon="crop_antirrhinum"/>			
+		<SpotType name="베고니아" 						icon="crop_begonia"/>				
+		<SpotType name="목련" 							icon="crop_magnolia"/>				
+		<SpotType name="방울꽃" 						icon="crop_oliganthus"/>			
+		<SpotType name="목화" 							icon="crop_cotton"/>				
+		<SpotType name="마늘" 							icon="crop_garlic"/>				
+		<SpotType name="오이"							icon="cucumber"/>					
+		<SpotType name="순무"							icon="navet"/>						
+		<SpotType name="비트"							icon="redbeet"/>					
+		<SpotType name="당근" 							icon="crop_carrot"/>				
+		<SpotType name="양파" 							icon="crop_onion"/>					
+		<SpotType name="감자" 							icon="crop_potato"/>				
+		<SpotType name="고구마" 						icon="crop_sweetpotato"/>			
+		<SpotType name="양배추"							icon="cabbage"/>					
+		<SpotType name="호박"							icon="pumpkin"/>					
+		<SpotType name="메리골드" 						icon="crop_marigold"/>				
+		<SpotType name="로즈마리" 						icon="crop_rosemary"/>				
+		<SpotType name="로즈마리 핑크" 					icon="crop_rosemary_pink"/>			
+		<SpotType name="로즈마리 화이트" 				icon="crop_rosemary_white"/>		
+		<SpotType name="로즈마리 옐로우" 				icon="crop_rosemary_yellow"/>		
+		<SpotType name="도둑놈의 지팡이꽃" 				icon="crop_sophora"/>				
+		<SpotType name="백모근" 						icon="crop_imperata"/>				
+		<SpotType name="여우팥꽃" 						icon="crop_villosa"/>				
+		<SpotType name="해아삼" 						icon="crop_heterophylla"/>			
+		<SpotType name="석곡" 							icon="crop_rock_orchids"/>			 -->
+	<!-- <Folder name="곡물"									icon="Group_Grain"/>				
+		<SpotType name="보리"							icon="barley"/>						
+		<SpotType name="밀"								icon="wheat"/>						
+		<SpotType name="옥수수" 						icon="crop_corn"/>					
+		<SpotType name="완두콩" 						icon="crop_peas"/>					
+		<SpotType name="렌틸콩"							icon="lentils"/>					
+		<SpotType name="콩"								icon="bean"/>						 -->
+	<!-- <Folder name="과일"									icon="Group_Fruit"/>				
+		<SpotType name="블랙베리" 						icon="crop_blackberry"/>			
+		<SpotType name="블루베리" 						icon="crop_blueberry"/>				
+		<SpotType name="엘더베리"						icon="elderberry"/>					
+		<SpotType name="라즈베리" 						icon="crop_raspberry"/>				
+		<SpotType name="토마토" 						icon="crop_tomato"/>				
+		<SpotType name="사과" 							icon="crop_apple"/>					
+		<SpotType name="포도" 							icon="crop_grape"/>					
+		<SpotType name="오렌지" 						icon="crop_orange"/>				
+		<SpotType name="딸기"							icon="strawberry"/>					
+		<SpotType name="석류"							icon="pomegranate"/>				
+		<SpotType name="복숭아" 						icon="crop_peach"/>					
+		<SpotType name="무화과"							icon="figs"/>						
+		<SpotType name="사막수박" 						icon="crop_desertwatermelon"/>		
+		<SpotType name="파인애플"						icon="pineapple"/>					 -->
+	<!-- <Folder name="스페셜"								icon="Group_SpacialVegetable"/>		
+		<SpotType name="카카오"							icon="cacao"/>						
+		<SpotType name="커피콩"							icon="coffeetree"/>					
+		<SpotType name="산삼" 							icon="crop_ginseng"/>				 -->
+	<!-- <Folder name="채광"									icon="Group_Mining"/>				
+		<SpotType name="구리" 							icon="crop_copper"/>				
+		<SpotType name="금" 							icon="crop_gold"/>					
+		<SpotType name="다이아몬드" 					icon="crop_Diamond"/>				
+		<SpotType name="루비" 							icon="crop_ruby"/>					
+		<SpotType name="은" 							icon="crop_Silver"/>				
+		<SpotType name="화염석"	 	 					icon="crop_firestone"/>				
+		<SpotType name="녹렴석" 						icon="crop_epidote"/>				
+		<SpotType name="철" 							icon="crop_ironstone"/>				
+		<SpotType name="비스무트" 						icon="crop_bismuth"/>				
+		<SpotType name="하얀광석" 						icon="crop_whitestone"/>			
+		<SpotType name="주사광석" 						icon="crop_redstone"/>				
+		<SpotType name="남동석" 						icon="crop_bluestone"/>				 -->			
+		<!-- <SpotType name="어비스원 Lv1" 					icon="AbyssoneStage_Lv1"/>			
+		<SpotType name="어비스원 Lv2" 					icon="AbyssoneStage_Lv2"/>			
+		<SpotType name="어비스원 Lv3" 					icon="AbyssoneStage_Lv3"/>			 -->		
+	<!-- <Folder name="요리도구"								icon="Group_Cook"/>					
+		<SpotType name="야전 요리솥"						icon="Field_CookingPot"/>			
+		<SpotType name="후라이팬"						icon="Frypan"/>						
+		<SpotType name="냄비" 							icon="CookingPot"/>					
+		<SpotType name="철판"							icon="Griddle"/>					
+		<SpotType name="약탕기"							icon="DecoctionPot"/>				
+		<SpotType name="양조기"							icon="Brewer"/>	 -->
+	<!-- <Folder name="네임드"								icon="Navi_QA_Group2" />
+		<SpotType name="안툼브라 추종자"				icon="Navi_QA_Group1"/>
+		<SpotType name="도적단"							icon="Navi_QA_Group2"/>
+		<SpotType name="떠돌이 용병"					icon="Navi_QA_Group3"/>
+		<SpotType name="붉은 칼날"						icon="Navi_QA_Group4"/>
+		<SpotType name="페르빈 붉은 칼날"				icon="Navi_QA_Group5"/>
+		<SpotType name="칼리번의 병사"					icon="Navi_QA_Group6"/>
+		<SpotType name="크리쳐"							icon="Navi_QA_Group7"/>
+		<SpotType name="창고지기"						icon="Navi_QA_Group8"/>
+		<SpotType name="지옥의 사냥개"					icon="Navi_QA_Group10"/>
+		<SpotType name="바르니아 경비대"				icon="Navi_QA_Group11"/>
+		<SpotType name="토마소 경비대"					icon="Navi_QA_Group12"/>
+		<SpotType name="술 취한 검은 곰"				icon="Navi_QA_Group13"/>
+		<SpotType name="에르난드 경비대"				icon="Navi_QA_Group14"/>
+		<SpotType name="타협없는 방패 수비대"			icon="Navi_QA_Group15"/>
+		<SpotType name="가면의 해방자"					icon="Navi_QA_Group16"/>
+		<SpotType name="델레시안의 친구들"				icon="Navi_QA_Group17"/>
+		<SpotType name="화염의 기사단"					icon="Navi_QA_Group18"/>
+		<SpotType name="디쉬렛 케미스트 경비대"			icon="Navi_QA_Group19"/>
+		<SpotType name="화염비룡단장 발타자르 (용 살해자 단장 발타르)"			icon="Navi_QA_Group20"/>
+		<SpotType name="웰스 사병"						icon="Navi_QA_Group22"/>
+		<SpotType name="설원 속 담비들"					icon="Navi_QA_Group23"/>
+		<SpotType name="이름없는 현자들"				icon="Navi_QA_Group24"/>
+		<SpotType name="델레시안 경비대"				icon="Navi_QA_Group25"/>
+		<SpotType name="채석기계"						icon="Navi_QA_Group26"/>
+		<SpotType name="마르니 생체실험 기계기사"		icon="Navi_QA_Group27"/>
+		<SpotType name="마르니 신봉자 병사"				icon="Navi_QA_Group28"/>
+		<SpotType name="침묵의 덩치들"					icon="Navi_QA_Group29"/>
+		<SpotType name="데메니스 경비대"				icon="Navi_QA_Group31"/>
+		<SpotType name="안개 속 올빼미"					icon="Navi_QA_Group32"/>
+		<SpotType name="델레시안 기계 경비대"			icon="Navi_QA_Group33"/>
+		<SpotType name="새벽달의 전령들"				icon="Navi_QA_Group34"/>
+		<SpotType name="마르니 노예 감독관 신봉자"		icon="Navi_QA_Group35"/>
+		<SpotType name="기계 요리사"					icon="Navi_QA_Group36"/>
+		<SpotType name="기계 재단사"					icon="Navi_QA_Group37"/>
+		<SpotType name="기계 농부"						icon="Navi_QA_Group38"/>
+		<SpotType name="기계 나무꾼"					icon="Navi_QA_Group39"/>
+		<SpotType name="떠돌이 용병 약탈자"				icon="Navi_QA_Group40"/>
+		<SpotType name="검투사"							icon="Navi_QA_Group41"/>
+		<SpotType name="고블린 상단 사병"				icon="Navi_QA_Group42"/>
+		<SpotType name="그룬가"							icon="Navi_QA_Group43"/>
+		<SpotType name="용기사"							icon="Navi_QA_Group44"/>
+		<SpotType name="데메니스 머스킷"				icon="Navi_QA_Group45"/>
+		<SpotType name="노래하는 황혼"					icon="Navi_QA_Group46"/>
+		<SpotType name="데메니스 동맹군"				icon="Navi_QA_Group47"/>
+		<SpotType name="반 데메니스 경비대"				icon="Navi_QA_Group48"/>
+		<SpotType name="오크 병사"						icon="Navi_QA_Group49"/>
+		<SpotType name="타워"							icon="Navi_QA_Group50"/>
+		<SpotType name="특수"							icon="Navi_QA_Group51"/>
+		<SpotType name="동물원 안내인"					icon="Navi_QA_Group52"/>
+		<SpotType name="미믹"							icon="Navi_QA_Group53"/>
+		<SpotType name="외눈박이 승냥이"				icon="Navi_QA_Group54"/>
+		<SpotType name="데메니스 채석장 경비대"			icon="Navi_QA_Group55"/>
+		<SpotType name="외눈박이 승냥이 깃발병"			icon="Navi_QA_Group56"/>
+		<SpotType name="페일룬 자경단"					icon="Navi_QA_Group57"/>
+		<SpotType name="회색갈기 패거리"				icon="Navi_QA_Group58"/>
+		<SpotType name="착랑갑사"						icon="Navi_QA_Group59"/>
+		<SpotType name="리벤타인 사제"					icon="Navi_QA_Group60"/>
+		<SpotType name="리벤타인 수녀"					icon="Navi_QA_Group61"/>
+		<SpotType name="거룩한 메아리"					icon="Navi_QA_Group62"/>
+		<SpotType name="리드데빌 추종 원리주의자"		icon="Navi_QA_Group63"/>
+		<SpotType name="원리주의자"						icon="Navi_QA_Group65"/>
+		<SpotType name="해적"							icon="Navi_QA_Group66"/>
+		<SpotType name="엔트 사냥꾼"					icon="Navi_QA_Group67"/>
+		<SpotType name="사슴왕 추종자"					icon="Navi_QA_Group68"/>
+		<SpotType name="하얀뿔 추종자"					icon="Navi_QA_Group69"/>
+		<SpotType name="어둠왕 유령 병사"				icon="Navi_QA_Group70"/>
+		<SpotType name="추노꾼"							icon="Navi_QA_Group71"/>
+		<SpotType name="카린 붉은 칼날"					icon="Navi_QA_Group72"/>
+		<SpotType name="칼리번의 공병"					icon="Navi_QA_Group74"/>
+		<SpotType name="록하이브 붉은 칼날"				icon="Navi_QA_Group75"/>
+		<SpotType name="멧돼지 라이더"					icon="Navi_QA_Group76"/>
+		<SpotType name="사막 약탈자"					icon="Navi_QA_Group77"/>
+		<SpotType name="왕가의 사냥터 경비대"			icon="Navi_QA_Group78"/>
+		<SpotType name="바람술사"						icon="Navi_QA_Group80"/>
+		<SpotType name="헥세 추종자"					icon="Navi_QA_Group81"/>
+		<SpotType name="까마귀 형제단"					icon="Navi_QA_Group82"/>
+		<SpotType name="늑대 추적자"					icon="Navi_QA_Group83"/>
+		<SpotType name="에르난드 경비군"				icon="Navi_QA_Group84"/> -->
+		<!-- <SpotType name="[EMPTY] (revolvingdoor_02)" 						icon="revolvingdoor_02"/>
+		<SpotType name="[EMPTY] (gimmick_door_doublearch_wood_04_right)" 	icon="gimmick_door_doublearch_wood_04_right"/>
+		<SpotType name="궤짝 (box_chest_02)" 								icon="box_chest_02"/>
+		<SpotType name="문 (gimmick_door_doublearch_wood_04)" 				icon="gimmick_door_doublearch_wood_04"/>
+		<SpotType name="쇠사슬 (chain_01_side_lamp_01)" 					icon="chain_01_side_lamp_01"/>
+		<SpotType name="[EMPTY] (gimmick_door_doublearch_wood_04_left)" 	icon="gimmick_door_doublearch_wood_04_left"/>
+		<SpotType name="벽화로 (hanger_side_lamp_01_on)" 					icon="hanger_side_lamp_01_on"/>
+		<SpotType name="행거용 등 (hanglamp_02_on)" 						icon="hanglamp_02_on"/> -->
+
+</NavigatorEditorMetaData>

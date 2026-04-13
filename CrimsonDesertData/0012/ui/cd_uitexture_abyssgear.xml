@@ -1,0 +1,4 @@
+﻿<Texture Name="cd_decoline_abyssgear_00" Filename="UI/texture/cd_uitexture_abyssgear.dds" Type="Image" GetRect="1,1,314,268"/>
+<Texture Name="cd_decoline_abyssgear_01" Filename="UI/texture/cd_uitexture_abyssgear.dds" Type="Image" GetRect="317,1,341,234"/>
+<Texture Name="cd_decoline_abyssgear_icon_frame_bg_00" Filename="UI/texture/cd_uitexture_abyssgear.dds" Type="Image" GetRect="660,1,230,233"/>
+

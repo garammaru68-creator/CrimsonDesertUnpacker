@@ -1,0 +1,35 @@
+﻿<Animation Name="Sprite_Loading_Animation0" size="1024,1024">
+    <Frame Texturename="Sprite_Loading_00" Time="0.03" />
+    <Frame Texturename="Sprite_Loading_01" Time="0.03" />
+    <Frame Texturename="Sprite_Loading_02" Time="0.03" />
+    <Frame Texturename="Sprite_Loading_03" Time="0.03" />
+    <Frame Texturename="Sprite_Loading_04" Time="0.03" />
+    <Frame Texturename="Sprite_Loading_05" Time="0.03" />
+    <Frame Texturename="Sprite_Loading_06" Time="0.03" />
+    <Frame Texturename="Sprite_Loading_07" Time="0.03" />
+    <Frame Texturename="Sprite_Loading_08" Time="0.03" />
+    <Frame Texturename="Sprite_Loading_09" Time="0.03" />
+    <Frame Texturename="Sprite_Loading_10" Time="0.03" />
+    <Frame Texturename="Sprite_Loading_11" Time="0.03" />
+    <Frame Texturename="Sprite_Loading_12" Time="0.03" />
+    <Frame Texturename="Sprite_Loading_13" Time="0.03" />
+    <Frame Texturename="Sprite_Loading_14" Time="0.03" />
+</Animation>
+
+<Animation Name="Sprite_Loading_Bottom_Animation" size="512,512">
+    <Frame Texturename="Sprite_Loading_Bottom_00" Time="0.03" />
+    <Frame Texturename="Sprite_Loading_Bottom_01" Time="0.03" />
+    <Frame Texturename="Sprite_Loading_Bottom_02" Time="0.03" />
+    <Frame Texturename="Sprite_Loading_Bottom_03" Time="0.03" />
+    <Frame Texturename="Sprite_Loading_Bottom_04" Time="0.03" />
+    <Frame Texturename="Sprite_Loading_Bottom_05" Time="0.03" />
+    <Frame Texturename="Sprite_Loading_Bottom_06" Time="0.03" />
+    <Frame Texturename="Sprite_Loading_Bottom_07" Time="0.03" />
+    <Frame Texturename="Sprite_Loading_Bottom_08" Time="0.03" />
+    <Frame Texturename="Sprite_Loading_Bottom_09" Time="0.03" />
+    <Frame Texturename="Sprite_Loading_Bottom_10" Time="0.03" />
+    <Frame Texturename="Sprite_Loading_Bottom_11" Time="0.03" />
+    <Frame Texturename="Sprite_Loading_Bottom_12" Time="0.03" />
+    <Frame Texturename="Sprite_Loading_Bottom_13" Time="0.03" />
+    <Frame Texturename="Sprite_Loading_Bottom_14" Time="0.03" />
+</Animation>

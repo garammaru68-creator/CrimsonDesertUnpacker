@@ -1,0 +1,26 @@
+﻿<Texture Name="cd_icon_Skill_Damian_Charge_Shot" Filename="UI/texture/cd_icon_skill_07.dds" Type="Image" GetRect="1,1,200,200"/>
+<Texture Name="cd_icon_Skill_Damian_DeadEyes" Filename="UI/texture/cd_icon_skill_07.dds" Type="Image" GetRect="1,203,200,200"/>
+<Texture Name="cd_icon_Skill_Damian_DeadEye_ChargeShot" Filename="UI/texture/cd_icon_skill_07.dds" Type="Image" GetRect="1,405,200,200"/>
+<Texture Name="cd_icon_Skill_Damian_ElementalReinforce_RotationBash" Filename="UI/texture/cd_icon_skill_07.dds" Type="Image" GetRect="1,607,200,200"/>
+<Texture Name="cd_icon_Skill_Damian_Evade_Shot" Filename="UI/texture/cd_icon_skill_07.dds" Type="Image" GetRect="1,809,200,200"/>
+<Texture Name="cd_icon_Skill_Damian_Evade_Shot_I" Filename="UI/texture/cd_icon_skill_07.dds" Type="Image" GetRect="203,1,200,200"/>
+<Texture Name="cd_icon_Skill_Damian_Evade_Shot_II" Filename="UI/texture/cd_icon_skill_07.dds" Type="Image" GetRect="405,1,200,200"/>
+<Texture Name="cd_icon_Skill_Damian_RotationBash_Expert" Filename="UI/texture/cd_icon_skill_07.dds" Type="Image" GetRect="607,1,200,200"/>
+<Texture Name="cd_icon_Skill_Damian_RotationBash_I" Filename="UI/texture/cd_icon_skill_07.dds" Type="Image" GetRect="809,1,200,200"/>
+<Texture Name="cd_icon_Skill_Damian_RotationBash_II" Filename="UI/texture/cd_icon_skill_07.dds" Type="Image" GetRect="203,203,200,200"/>
+<Texture Name="cd_icon_Skill_Damian_RotationBash_NoDelay" Filename="UI/texture/cd_icon_skill_07.dds" Type="Image" GetRect="203,405,200,200"/>
+<Texture Name="cd_icon_Skill_Damian_TurnBash_I" Filename="UI/texture/cd_icon_skill_07.dds" Type="Image" GetRect="203,607,200,200"/>
+<Texture Name="cd_icon_Skill_Oongka_Charge_Shot" Filename="UI/texture/cd_icon_skill_07.dds" Type="Image" GetRect="203,809,200,200"/>
+<Texture Name="cd_icon_Skill_Oongka_DeadEyes" Filename="UI/texture/cd_icon_skill_07.dds" Type="Image" GetRect="405,203,200,200"/>
+<Texture Name="cd_icon_Skill_Oongka_DeadEye_ChargeShot" Filename="UI/texture/cd_icon_skill_07.dds" Type="Image" GetRect="607,203,200,200"/>
+<Texture Name="cd_icon_Skill_Oongka_ElementalReinforce_ChargeShot" Filename="UI/texture/cd_icon_skill_07.dds" Type="Image" GetRect="809,203,200,200"/>
+<Texture Name="cd_icon_Skill_Oongka_Evade_Shot" Filename="UI/texture/cd_icon_skill_07.dds" Type="Image" GetRect="405,405,200,200"/>
+<Texture Name="cd_icon_Skill_Oongka_Evade_Shot_I" Filename="UI/texture/cd_icon_skill_07.dds" Type="Image" GetRect="405,607,200,200"/>
+<Texture Name="cd_icon_Skill_Oongka_Evade_Shot_II" Filename="UI/texture/cd_icon_skill_07.dds" Type="Image" GetRect="405,809,200,200"/>
+<Texture Name="cd_icon_Skill_Oongka_LowerDropKick" Filename="UI/texture/cd_icon_skill_07.dds" Type="Image" GetRect="607,405,200,200"/>
+<Texture Name="cd_icon_Skill_Oongka_RollShot" Filename="UI/texture/cd_icon_skill_07.dds" Type="Image" GetRect="809,405,200,200"/>
+<Texture Name="cd_icon_Skill_Oongka_RotationBash_Expert" Filename="UI/texture/cd_icon_skill_07.dds" Type="Image" GetRect="607,607,200,200"/>
+<Texture Name="cd_icon_Skill_Oongka_RotationBash_I" Filename="UI/texture/cd_icon_skill_07.dds" Type="Image" GetRect="607,809,200,200"/>
+<Texture Name="cd_icon_Skill_Oongka_RotationBash_II" Filename="UI/texture/cd_icon_skill_07.dds" Type="Image" GetRect="809,607,200,200"/>
+<Texture Name="cd_icon_Skill_Oongka_RotationBash_NoDelay" Filename="UI/texture/cd_icon_skill_07.dds" Type="Image" GetRect="809,809,200,200"/>
+

@@ -1,0 +1,8 @@
+﻿<Texture Name="cd_minigame_ceelo_dice_1" Filename="UI/texture/cd_minigame_03.dds" Type="Image" GetRect="1,109,102,102"/>
+<Texture Name="cd_minigame_ceelo_dice_2" Filename="UI/texture/cd_minigame_03.dds" Type="Image" GetRect="1,213,102,102"/>
+<Texture Name="cd_minigame_ceelo_dice_3" Filename="UI/texture/cd_minigame_03.dds" Type="Image" GetRect="1,317,102,102"/>
+<Texture Name="cd_minigame_ceelo_dice_4" Filename="UI/texture/cd_minigame_03.dds" Type="Image" GetRect="105,109,102,102"/>
+<Texture Name="cd_minigame_ceelo_dice_5" Filename="UI/texture/cd_minigame_03.dds" Type="Image" GetRect="109,1,102,102"/>
+<Texture Name="cd_minigame_ceelo_dice_6" Filename="UI/texture/cd_minigame_03.dds" Type="Image" GetRect="105,213,102,102"/>
+<Texture Name="cd_minigame_ceelo_dice_npc" Filename="UI/texture/cd_minigame_03.dds" Type="Image" GetRect="1,1,106,106"/>
+

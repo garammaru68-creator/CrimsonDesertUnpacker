@@ -1,0 +1,5 @@
+﻿<Texture Name="cd_uitexture_minigame_slotmachine_gauge_bar_00" Filename="UI/texture/cd_uitexture_minigame_slotmachine_00.dds" Type="Image" GetRect="1,296,807,37"/>
+<Texture Name="cd_uitexture_minigame_slotmachine_gauge_bg_00" Filename="UI/texture/cd_uitexture_minigame_slotmachine_00.dds" Type="Image" GetRect="1,335,807,37"/>
+<Texture Name="cd_uitexture_minigame_slotmachine_gauge_frame_00" Filename="UI/texture/cd_uitexture_minigame_slotmachine_00.dds" Type="Image" GetRect="1,374,807,37"/>
+<Texture Name="cd_uitexture_minigame_slotmachine_gauge_ink_bg_00" Filename="UI/texture/cd_uitexture_minigame_slotmachine_00.dds" Type="Image" GetRect="1,1,1018,293"/>
+

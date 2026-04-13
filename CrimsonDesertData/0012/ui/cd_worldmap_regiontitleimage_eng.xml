@@ -1,0 +1,175 @@
+﻿<!-- 테스트용 -->
+<Texture Name="cd_test_failed_sdf_512x512"  Filename="UI/texture/Image/WorldmapRegionTitle/cd_test_failed_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+
+<!-- 노드연결용 라인 마스크 -->
+<Texture Name="cd_worldmap_node_line_mask_sdf_1024x64"  Filename="UI/texture/cd_worldmap_node_line_mask_sdf_1024x64.dds" Type="Image" GetRect="0,0,1024,64"/>
+
+<!-- 영토 -->
+<Texture Name="cd_worldmap_regiontitle_2_eng_sdf_2048x2048"  Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_2_eng_sdf_2048x2048.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_worldmap_regiontitle_3_eng_sdf_2048x2048"  Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_3_eng_sdf_2048x2048.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_worldmap_regiontitle_4_eng_sdf_2048x256"  Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_4_eng_sdf_2048x256.dds" Type="Image" GetRect="0,0,512,64"/>
+<Texture Name="cd_worldmap_regiontitle_5_eng_sdf_2048x256"  Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_5_eng_sdf_2048x256.dds" Type="Image" GetRect="0,0,512,64"/>
+<Texture Name="cd_worldmap_regiontitle_6_eng_sdf_2048x256"  Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_6_eng_sdf_2048x256.dds" Type="Image" GetRect="0,0,512,64"/>
+
+
+<!-- 영지 -->
+<Texture Name="cd_worldmap_regiontitle_12_eng_sdf_1024x1024" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_12_eng_sdf_1024x1024.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_worldmap_regiontitle_13_eng_sdf_2048x256" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_13_eng_sdf_2048x256.dds" Type="Image" GetRect="0,0,512,64"/>
+<Texture Name="cd_worldmap_regiontitle_14_eng_sdf_2048x256" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_14_eng_sdf_2048x256.dds" Type="Image" GetRect="0,0,512,64"/>
+<Texture Name="cd_worldmap_regiontitle_15_eng_sdf_2048x256" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_15_eng_sdf_2048x256.dds" Type="Image" GetRect="0,0,512,64"/>
+<Texture Name="cd_worldmap_regiontitle_16_eng_sdf_2048x256" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_16_eng_sdf_2048x256.dds" Type="Image" GetRect="0,0,512,64"/>
+<Texture Name="cd_worldmap_regiontitle_17_eng_sdf_2048x256" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_17_eng_sdf_2048x256.dds" Type="Image" GetRect="0,0,512,64"/>
+<Texture Name="cd_worldmap_regiontitle_19_eng_sdf_2048x256" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_19_eng_sdf_2048x256.dds" Type="Image" GetRect="0,0,512,64"/>
+<Texture Name="cd_worldmap_regiontitle_20_eng_sdf_1024x1024" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_20_eng_sdf_1024x1024.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_worldmap_regiontitle_21_eng_sdf_1024x1024" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_21_eng_sdf_1024x1024.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_worldmap_regiontitle_22_eng_sdf_2048x256" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_22_eng_sdf_2048x256.dds" Type="Image" GetRect="0,0,512,64"/>
+
+<!-- 점령지 -->
+<Texture Name="cd_worldmap_regiontitle_101_eng_sdf_1024x256" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_101_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_102_eng_sdf_1024x256" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_102_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_103_eng_sdf_1024x256" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_103_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_104_eng_sdf_1024x128" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_104_eng_sdf_1024x128.dds" Type="Image" GetRect="0,0,256,32"/>
+<Texture Name="cd_worldmap_regiontitle_201_eng_sdf_1024x256" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_201_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_203_eng_sdf_1024x256" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_203_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_301_eng_sdf_1024x512"  Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_301_eng_sdf_1024x512.dds" Type="Image" GetRect="0,0,256,128"/>
+<Texture Name="cd_worldmap_regiontitle_302_eng_sdf_1024x256"  Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_302_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_303_eng_sdf_1024x256"  Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_303_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_304_eng_sdf_1024x256"  Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_304_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_305_eng_sdf_1024x256"  Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_305_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_403_eng_sdf_1024x256"  Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_403_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_401_eng_sdf_1024x256"  Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_401_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_402_eng_sdf_1024x256"  Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_402_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_501_eng_sdf_1024x256"  Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_501_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_502_eng_sdf_1024x256"  Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_502_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_107_eng_sdf_1024x256"  Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_107_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+
+<!-- 타운 -->
+<Texture Name="cd_worldmap_regiontitle_1102_eng_sdf_1024x512"  Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_1102_eng_sdf_1024x512.dds" Type="Image" GetRect="0,0,256,128"/>
+<Texture Name="cd_worldmap_regiontitle_1201_eng_sdf_1024x1024"  Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_1201_eng_sdf_1024x1024.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_worldmap_regiontitle_1202_eng_sdf_1024x128"  Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_1202_eng_sdf_1024x128.dds" Type="Image" GetRect="0,0,256,32"/>
+<Texture Name="cd_worldmap_regiontitle_1203_eng_sdf_1024x512"  Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_1203_eng_sdf_1024x512.dds" Type="Image" GetRect="0,0,256,128"/>
+<Texture Name="cd_worldmap_regiontitle_1204_eng_sdf_1024x512"  Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_1204_eng_sdf_1024x512.dds" Type="Image" GetRect="0,0,256,128"/>
+<Texture Name="cd_worldmap_regiontitle_1301_eng_sdf_1024x128" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_1301_eng_sdf_1024x128.dds" Type="Image" GetRect="0,0,256,32"/>
+<Texture Name="cd_worldmap_regiontitle_1302_eng_sdf_1024x128" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_1302_eng_sdf_1024x128.dds" Type="Image" GetRect="0,0,256,32"/>
+
+
+<!-- 마을 -->
+<Texture Name="cd_worldmap_regiontitle_51003_eng_sdf_1024x512"  Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_51003_eng_sdf_1024x512.dds" Type="Image" GetRect="0,0,256,128"/>
+<Texture Name="cd_worldmap_regiontitle_51004_eng_sdf_1024x128"  Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_51004_eng_sdf_1024x128.dds" Type="Image" GetRect="0,0,256,32"/>
+<Texture Name="cd_worldmap_regiontitle_51005_eng_sdf_1024x128"  Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_51005_eng_sdf_1024x128.dds" Type="Image" GetRect="0,0,256,32"/>
+<Texture Name="cd_worldmap_regiontitle_51006_eng_sdf_1024x128"  Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_51006_eng_sdf_1024x128.dds" Type="Image" GetRect="0,0,256,32"/>
+
+<!-- 크웨이덴 -->
+<Texture Name="cd_worldmap_regiontitle_10044_eng_sdf_1024x128"  Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10044_eng_sdf_1024x128.dds" Type="Image" GetRect="0,0,256,32"/>
+<Texture Name="cd_worldmap_regiontitle_10045_eng_sdf_2048x256"  Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10045_eng_sdf_2048x256.dds" Type="Image" GetRect="0,0,512,64"/>
+<Texture Name="cd_worldmap_regiontitle_10046_eng_sdf_1024x256" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10046_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10174_eng_sdf_512x2048" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10174_eng_sdf_512x2048.dds" Type="Image" GetRect="0,0,128,512"/>
+<Texture Name="cd_worldmap_regiontitle_10034_eng_sdf_1024x256" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10034_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10035_eng_sdf_1024x256" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10035_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10038_eng_sdf_1024x256" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10038_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10167_eng_sdf_1024x256" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10167_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10168_eng_sdf_1024x256" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10168_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10171_eng_sdf_1024x1024"  Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10171_eng_sdf_1024x1024.dds" Type="Image" GetRect="0,0,256,256"/>
+
+<Texture Name="cd_worldmap_regiontitle_10037_eng_sdf_2048x512" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10037_eng_sdf_2048x512.dds" Type="Image" GetRect="0,0,512,128"/>
+
+
+<!-- 붉은사막 -->
+<Texture Name="cd_worldmap_regiontitle_10131_eng_sdf_1024x256" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10131_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10101_eng_sdf_1024x256" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10101_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10113_eng_sdf_1024x256" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10113_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10163_eng_sdf_1024x256" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10163_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10111_eng_sdf_1024x256" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10111_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10057_eng_sdf_1024x256" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10057_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10062_eng_sdf_1024x256" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10062_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10066_eng_sdf_1024x256" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10066_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10108_eng_sdf_1024x256" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10108_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10110_eng_sdf_1024x256" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10110_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10112_eng_sdf_1024x256" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10112_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10116_eng_sdf_1024x256" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10116_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10123_eng_sdf_1024x256" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10123_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10125_eng_sdf_1024x256" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10125_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10165_eng_sdf_1024x256" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10165_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10166_eng_sdf_1024x512" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10166_eng_sdf_1024x512.dds" Type="Image" GetRect="0,0,256,128"/>
+<Texture Name="cd_worldmap_regiontitle_10169_eng_sdf_1024x256" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10169_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+
+<Texture Name="cd_worldmap_regiontitle_10124_eng_sdf_2048x512" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10124_eng_sdf_2048x512.dds" Type="Image" GetRect="0,0,512,128"/>
+<Texture Name="cd_worldmap_regiontitle_10109_eng_sdf_1024x2048" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10109_eng_sdf_1024x2048.dds" Type="Image" GetRect="0,0,256,512"/>
+<Texture Name="cd_worldmap_regiontitle_10058_eng_sdf_2048x512" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10058_eng_sdf_2048x512.dds" Type="Image" GetRect="0,0,512,128"/>
+<Texture Name="cd_worldmap_regiontitle_10056_eng_sdf_2048x512" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10056_eng_sdf_2048x512.dds" Type="Image" GetRect="0,0,512,128"/>
+<Texture Name="cd_worldmap_regiontitle_10127_eng_sdf_1024x512" Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10127_eng_sdf_1024x512.dds" Type="Image" GetRect="0,0,256,128"/>
+
+
+<Texture Name="cd_worldmap_regiontitle_10022_eng_sdf_1024x256"  Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10022_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10001_eng_sdf_2048x256"  Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10001_eng_sdf_2048x256.dds" Type="Image" GetRect="0,0,512,64"/>
+<Texture Name="cd_worldmap_regiontitle_10002_eng_sdf_1024x128"  Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10002_eng_sdf_1024x128.dds" Type="Image" GetRect="0,0,256,32"/>
+<Texture Name="cd_worldmap_regiontitle_10003_eng_sdf_1024x128"  Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10003_eng_sdf_1024x128.dds" Type="Image" GetRect="0,0,256,32"/>
+<Texture Name="cd_worldmap_regiontitle_10004_eng_sdf_1024x256"  Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10004_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10011_eng_sdf_1024x128"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10011_eng_sdf_1024x128.dds" Type="Image" GetRect="0,0,256,32"/>
+<Texture Name="cd_worldmap_regiontitle_10013_eng_sdf_2048x512"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10013_eng_sdf_2048x512.dds" Type="Image" GetRect="0,0,512,128"/>
+<Texture Name="cd_worldmap_regiontitle_10017_eng_sdf_1024x512"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10017_eng_sdf_1024x512.dds" Type="Image" GetRect="0,0,256,128"/>
+<Texture Name="cd_worldmap_regiontitle_10008_eng_sdf_1024x128"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10008_eng_sdf_1024x128.dds" Type="Image" GetRect="0,0,256,32"/>
+<Texture Name="cd_worldmap_regiontitle_10007_eng_sdf_1024x256"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10007_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10009_eng_sdf_1024x256"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10009_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10012_eng_sdf_1024x256"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10012_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10020_eng_sdf_1024x256"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10020_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10021_eng_sdf_1024x128"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10021_eng_sdf_1024x128.dds" Type="Image" GetRect="0,0,256,32"/>
+<Texture Name="cd_worldmap_regiontitle_10023_eng_sdf_1024x2048"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10023_eng_sdf_1024x2048.dds" Type="Image" GetRect="0,0,256,512"/>
+<Texture Name="cd_worldmap_regiontitle_10024_eng_sdf_1024x512"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10024_eng_sdf_1024x512.dds" Type="Image" GetRect="0,0,256,128"/>
+<Texture Name="cd_worldmap_regiontitle_10025_eng_sdf_1024x512"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10025_eng_sdf_1024x512.dds" Type="Image" GetRect="0,0,256,128"/>
+<Texture Name="cd_worldmap_regiontitle_10031_eng_sdf_1024x256"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10031_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10043_eng_sdf_1024x256"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10043_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10148_eng_sdf_1024x1024"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10148_eng_sdf_1024x1024.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_worldmap_regiontitle_10149_eng_sdf_2048x512"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10149_eng_sdf_2048x512.dds" Type="Image" GetRect="0,0,512,128"/>
+<Texture Name="cd_worldmap_regiontitle_10150_eng_sdf_1024x128"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10150_eng_sdf_1024x128.dds" Type="Image" GetRect="0,0,256,32"/>
+<Texture Name="cd_worldmap_regiontitle_10172_eng_sdf_1024x512"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10172_eng_sdf_1024x512.dds" Type="Image" GetRect="0,0,256,128"/>
+<Texture Name="cd_worldmap_regiontitle_10179_eng_sdf_1024x512"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10179_eng_sdf_1024x512.dds" Type="Image" GetRect="0,0,256,128"/>
+<Texture Name="cd_worldmap_regiontitle_10014_eng_sdf_2048x256"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10014_eng_sdf_2048x256.dds" Type="Image" GetRect="0,0,512,64"/>
+<Texture Name="cd_worldmap_regiontitle_10019_eng_sdf_1024x256"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10019_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10028_eng_sdf_1024x256"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10028_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10029_eng_sdf_1024x512"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10029_eng_sdf_1024x512.dds" Type="Image" GetRect="0,0,256,128"/>
+<Texture Name="cd_worldmap_regiontitle_10105_eng_sdf_1024x256"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10105_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10155_eng_sdf_1024x512"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10155_eng_sdf_1024x512.dds" Type="Image" GetRect="0,0,256,128"/>
+<Texture Name="cd_worldmap_regiontitle_10156_eng_sdf_1024x256"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10156_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10175_eng_sdf_1024x128"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10175_eng_sdf_1024x128.dds" Type="Image" GetRect="0,0,256,32"/>
+<Texture Name="cd_worldmap_regiontitle_10065_eng_sdf_1024x256"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10065_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10114_eng_sdf_1024x256"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10114_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10115_eng_sdf_1024x256"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10115_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10164_eng_sdf_1024x128"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10164_eng_sdf_1024x128.dds" Type="Image" GetRect="0,0,256,32"/>
+<Texture Name="cd_worldmap_regiontitle_10015_eng_sdf_1024x256"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10015_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10064_eng_sdf_2048x256"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10064_eng_sdf_2048x256.dds" Type="Image" GetRect="0,0,512,64"/>
+<Texture Name="cd_worldmap_regiontitle_10073_eng_sdf_1024x256"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10073_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10089_eng_sdf_1024x256"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10089_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10151_eng_sdf_1024x256"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10151_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10152_eng_sdf_1024x256"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10152_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10154_eng_sdf_1024x256"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10154_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10173_eng_sdf_1024x1024"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10173_eng_sdf_1024x1024.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_worldmap_regiontitle_10178_eng_sdf_1024x256"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10178_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10153_eng_sdf_1024x512"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10153_eng_sdf_1024x512.dds" Type="Image" GetRect="0,0,256,128"/>
+<Texture Name="cd_worldmap_regiontitle_10067_eng_sdf_1024x256"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10067_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10068_eng_sdf_1024x256"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10068_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10170_eng_sdf_1024x256"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10170_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10041_eng_sdf_1024x256"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10041_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10070_eng_sdf_1024x256"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10070_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10080_eng_sdf_1024x256"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10080_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10081_eng_sdf_1024x256"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10081_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10082_eng_sdf_1024x256"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10082_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10083_eng_sdf_1024x256"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10083_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10084_eng_sdf_1024x256"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10084_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10085_eng_sdf_2048x256"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10085_eng_sdf_2048x256.dds" Type="Image" GetRect="0,0,512,64"/>
+<Texture Name="cd_worldmap_regiontitle_10157_eng_sdf_1024x256"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10157_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10158_eng_sdf_1024x256"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10158_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10176_eng_sdf_1024x1024"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10176_eng_sdf_1024x1024.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_worldmap_regiontitle_10177_eng_sdf_512x1024"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10177_eng_sdf_512x1024.dds" Type="Image" GetRect="0,0,128,256"/>
+<Texture Name="cd_worldmap_regiontitle_10180_eng_sdf_1024x1024"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10180_eng_sdf_1024x1024.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_worldmap_regiontitle_10159_eng_sdf_1024x512"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10159_eng_sdf_1024x512.dds" Type="Image" GetRect="0,0,256,128"/>
+<Texture Name="cd_worldmap_regiontitle_10026_eng_sdf_1024x256"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10026_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+<Texture Name="cd_worldmap_regiontitle_10006_eng_sdf_1024x512"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10006_eng_sdf_1024x512.dds" Type="Image" GetRect="0,0,256,128"/>
+<Texture Name="cd_worldmap_regiontitle_10005_eng_sdf_1024x128"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10005_eng_sdf_1024x128.dds" Type="Image" GetRect="0,0,256,32"/>
+<Texture Name="cd_worldmap_regiontitle_10027_eng_sdf_1024x256"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10027_eng_sdf_1024x256.dds" Type="Image" GetRect="0,0,256,64"/>
+
+<Texture Name="cd_worldmap_regiontitle_10087_eng_sdf_2048x256"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10087_eng_sdf_2048x256.dds" Type="Image" GetRect="0,0,512,64"/>
+<Texture Name="cd_worldmap_regiontitle_10103_eng_sdf_1024x512"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10103_eng_sdf_1024x512.dds" Type="Image" GetRect="0,0,256,128"/>
+<Texture Name="cd_worldmap_regiontitle_10030_eng_sdf_2048x512"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10030_eng_sdf_2048x512.dds" Type="Image" GetRect="0,0,512,128"/>
+<Texture Name="cd_worldmap_regiontitle_10032_eng_sdf_2048x512"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10032_eng_sdf_2048x512.dds" Type="Image" GetRect="0,0,512,128"/>
+<Texture Name="cd_worldmap_regiontitle_10018_eng_sdf_2048x512"    Filename="UI/texture/Image/WorldmapRegionTitle/cd_worldmap_regiontitle_10018_eng_sdf_2048x512.dds" Type="Image" GetRect="0,0,512,128"/>

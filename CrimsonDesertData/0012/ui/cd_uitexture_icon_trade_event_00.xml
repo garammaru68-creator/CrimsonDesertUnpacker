@@ -1,0 +1,26 @@
+﻿<Texture Name="cd_icon_trade_event_info_An_Art_Fad" Filename="UI/texture/cd_uitexture_icon_trade_event_00.dds" Type="Image" GetRect="1,1,98,98"/>
+<Texture Name="cd_icon_trade_event_info_Appearance_Bear" Filename="UI/texture/cd_uitexture_icon_trade_event_00.dds" Type="Image" GetRect="1,101,98,98"/>
+<Texture Name="cd_icon_trade_event_info_appearance_of_rats" Filename="UI/texture/cd_uitexture_icon_trade_event_00.dds" Type="Image" GetRect="1,201,98,98"/>
+<Texture Name="cd_icon_trade_event_info_A_Horse_Race" Filename="UI/texture/cd_uitexture_icon_trade_event_00.dds" Type="Image" GetRect="1,301,98,98"/>
+<Texture Name="cd_icon_trade_event_info_A_Hunting_Contest" Filename="UI/texture/cd_uitexture_icon_trade_event_00.dds" Type="Image" GetRect="1,401,98,98"/>
+<Texture Name="cd_icon_trade_event_info_Bandit_Appearance" Filename="UI/texture/cd_uitexture_icon_trade_event_00.dds" Type="Image" GetRect="101,1,98,98"/>
+<Texture Name="cd_icon_trade_event_info_Church_Event" Filename="UI/texture/cd_uitexture_icon_trade_event_00.dds" Type="Image" GetRect="201,1,98,98"/>
+<Texture Name="cd_icon_trade_event_info_Coldwave" Filename="UI/texture/cd_uitexture_icon_trade_event_00.dds" Type="Image" GetRect="301,1,98,98"/>
+<Texture Name="cd_icon_trade_event_info_Decline_in_Public_Safety" Filename="UI/texture/cd_uitexture_icon_trade_event_00.dds" Type="Image" GetRect="401,1,98,98"/>
+<Texture Name="cd_icon_trade_event_info_Discovery_Of_Old_Relics" Filename="UI/texture/cd_uitexture_icon_trade_event_00.dds" Type="Image" GetRect="101,101,98,98"/>
+<Texture Name="cd_icon_trade_event_info_Drought" Filename="UI/texture/cd_uitexture_icon_trade_event_00.dds" Type="Image" GetRect="101,201,98,98"/>
+<Texture Name="cd_icon_trade_event_info_Earthquake" Filename="UI/texture/cd_uitexture_icon_trade_event_00.dds" Type="Image" GetRect="101,301,98,98"/>
+<Texture Name="cd_icon_trade_event_info_Epidemic" Filename="UI/texture/cd_uitexture_icon_trade_event_00.dds" Type="Image" GetRect="101,401,98,98"/>
+<Texture Name="cd_icon_trade_event_info_Flood" Filename="UI/texture/cd_uitexture_icon_trade_event_00.dds" Type="Image" GetRect="201,101,98,98"/>
+<Texture Name="cd_icon_trade_event_info_Future_Food" Filename="UI/texture/cd_uitexture_icon_trade_event_00.dds" Type="Image" GetRect="301,101,98,98"/>
+<Texture Name="cd_icon_trade_event_info_Ghost" Filename="UI/texture/cd_uitexture_icon_trade_event_00.dds" Type="Image" GetRect="401,101,98,98"/>
+<Texture Name="cd_icon_trade_event_info_Good_Harvest" Filename="UI/texture/cd_uitexture_icon_trade_event_00.dds" Type="Image" GetRect="201,201,98,98"/>
+<Texture Name="cd_icon_trade_event_info_HeatWave" Filename="UI/texture/cd_uitexture_icon_trade_event_00.dds" Type="Image" GetRect="201,301,98,98"/>
+<Texture Name="cd_icon_trade_event_info_HeavySnow" Filename="UI/texture/cd_uitexture_icon_trade_event_00.dds" Type="Image" GetRect="201,401,98,98"/>
+<Texture Name="cd_icon_trade_event_info_Increased_Pirate_Activity" Filename="UI/texture/cd_uitexture_icon_trade_event_00.dds" Type="Image" GetRect="301,201,98,98"/>
+<Texture Name="cd_icon_trade_event_info_Landslide" Filename="UI/texture/cd_uitexture_icon_trade_event_00.dds" Type="Image" GetRect="401,201,98,98"/>
+<Texture Name="cd_icon_trade_event_info_Large_Fish_Found" Filename="UI/texture/cd_uitexture_icon_trade_event_00.dds" Type="Image" GetRect="301,301,98,98"/>
+<Texture Name="cd_icon_trade_event_info_Volcanic_Eruption" Filename="UI/texture/cd_uitexture_icon_trade_event_00.dds" Type="Image" GetRect="301,401,98,98"/>
+<Texture Name="cd_icon_trade_event_info_Wildfire" Filename="UI/texture/cd_uitexture_icon_trade_event_00.dds" Type="Image" GetRect="401,301,98,98"/>
+<Texture Name="cd_icon_trade_event_info_YellowDust" Filename="UI/texture/cd_uitexture_icon_trade_event_00.dds" Type="Image" GetRect="401,401,98,98"/>
+

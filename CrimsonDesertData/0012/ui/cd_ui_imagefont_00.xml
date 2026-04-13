@@ -1,0 +1,11 @@
+﻿<Texture Name="Dialogue_Icon_Empty_0" Filename="UI/fonts/imageFont/cd_ui_imagefont_00.dds" Type="Image" GetRect="1,1,38,38"/>
+<Texture Name="Dialogue_Icon_Exit_1" Filename="UI/fonts/imageFont/cd_ui_imagefont_00.dds" Type="Image" GetRect="1,41,38,38"/>
+<Texture Name="Dialogue_Icon_Quest_2" Filename="UI/fonts/imageFont/cd_ui_imagefont_00.dds" Type="Image" GetRect="1,81,38,38"/>
+<Texture Name="Dialogue_Icon_Smithy_3" Filename="UI/fonts/imageFont/cd_ui_imagefont_00.dds" Type="Image" GetRect="1,121,38,38"/>
+<Texture Name="Dialogue_Icon_Empty_4" Filename="UI/fonts/imageFont/cd_ui_imagefont_00.dds" Type="Image" GetRect="1,1,38,38"/>
+<Texture Name="Dialogue_Icon_Empty_5" Filename="UI/fonts/imageFont/cd_ui_imagefont_00.dds" Type="Image" GetRect="1,1,38,38"/>
+<Texture Name="Dialogue_Icon_Empty_6" Filename="UI/fonts/imageFont/cd_ui_imagefont_00.dds" Type="Image" GetRect="1,1,38,38"/>
+<Texture Name="Dialogue_Icon_Empty_7" Filename="UI/fonts/imageFont/cd_ui_imagefont_00.dds" Type="Image" GetRect="1,1,38,38"/>
+<Texture Name="Dialogue_Icon_Empty_8" Filename="UI/fonts/imageFont/cd_ui_imagefont_00.dds" Type="Image" GetRect="1,1,38,38"/>
+<Texture Name="Dialogue_Icon_Empty_9" Filename="UI/fonts/imageFont/cd_ui_imagefont_00.dds" Type="Image" GetRect="1,1,38,38"/>
+<!--A~z까지 52개 더 할당 가능합니다.-->

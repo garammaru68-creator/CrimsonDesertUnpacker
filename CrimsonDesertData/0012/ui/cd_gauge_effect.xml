@@ -1,0 +1,9 @@
+﻿<Animation Name="gaugeAnimation" size="1024, 256" UVInterpolateType="interpolate">
+	<Frame Texturename="cd_common_pattern_flow_01" Time="10.0" />
+    <Frame Texturename="cd_common_pattern_flow_01_end" Time="0.0" />    	
+</Animation>
+<Animation Name="bossGaugeAnimation" size="1024, 256" UVInterpolateType="interpolate">
+	<Frame Texturename="cd_common_pattern_flow_01" Time="8.0" />
+    <Frame Texturename="cd_common_pattern_flow_01_end" Time="0.0" />    	
+</Animation>
+

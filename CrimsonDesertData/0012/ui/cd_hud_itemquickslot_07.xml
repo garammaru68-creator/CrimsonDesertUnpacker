@@ -1,0 +1,14 @@
+﻿<Texture Name="cd_hud_itemquickslot_catecory_img_backpack" Filename="UI/texture/cd_hud_itemquickslot_07.dds" Type="Image" GetRect="573,1,210,210"/>
+<Texture Name="cd_hud_itemquickslot_catecory_img_dagger" Filename="UI/texture/cd_hud_itemquickslot_07.dds" Type="Image" GetRect="785,1,210,210"/>
+<Texture Name="cd_hud_itemquickslot_catecory_img_fire" Filename="UI/texture/cd_hud_itemquickslot_07.dds" Type="Image" GetRect="573,213,210,210"/>
+<Texture Name="cd_hud_itemquickslot_catecory_img_food_buff" Filename="UI/texture/cd_hud_itemquickslot_07.dds" Type="Image" GetRect="785,213,210,210"/>
+<Texture Name="cd_hud_itemquickslot_catecory_img_food_circle" Filename="UI/texture/cd_hud_itemquickslot_07.dds" Type="Image" GetRect="573,425,210,210"/>
+<Texture Name="cd_hud_itemquickslot_catecory_img_food_HP" Filename="UI/texture/cd_hud_itemquickslot_07.dds" Type="Image" GetRect="785,425,210,210"/>
+<Texture Name="cd_hud_itemquickslot_catecory_img_food_MP" Filename="UI/texture/cd_hud_itemquickslot_07.dds" Type="Image" GetRect="1,535,210,210"/>
+<Texture Name="cd_hud_itemquickslot_catecory_img_food_SP" Filename="UI/texture/cd_hud_itemquickslot_07.dds" Type="Image" GetRect="213,535,210,210"/>
+<Texture Name="cd_hud_itemquickslot_catecory_img_ice" Filename="UI/texture/cd_hud_itemquickslot_07.dds" Type="Image" GetRect="425,637,210,210"/>
+<Texture Name="cd_hud_itemquickslot_catecory_img_lightning" Filename="UI/texture/cd_hud_itemquickslot_07.dds" Type="Image" GetRect="1,747,210,210"/>
+<Texture Name="cd_hud_itemquickslot_catecory_img_wind" Filename="UI/texture/cd_hud_itemquickslot_07.dds" Type="Image" GetRect="213,747,210,210"/>
+<Texture Name="cd_hud_itemquickslot_square_focus" Filename="UI/texture/cd_hud_itemquickslot_07.dds" Type="Image" GetRect="1,273,570,260"/>
+<Texture Name="cd_hud_itemquickslot_square_select" Filename="UI/texture/cd_hud_itemquickslot_07.dds" Type="Image" GetRect="1,1,570,270"/>
+

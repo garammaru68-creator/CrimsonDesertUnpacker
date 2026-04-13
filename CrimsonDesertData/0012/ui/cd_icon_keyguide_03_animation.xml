@@ -1,0 +1,66 @@
+﻿<Texture Name="Common_Icon_Keyguide_RS_Rotate_00" Filename="UI/texture/cd_icon_keyguide_03.dds" Type="Image" GetRect="1,1,80,80"/>
+<Texture Name="Common_Icon_Keyguide_RS_Rotate_01" Filename="UI/texture/cd_icon_keyguide_03.dds" Type="Image" GetRect="1,83,80,80"/>
+<Texture Name="Common_Icon_Keyguide_RS_Rotate_02" Filename="UI/texture/cd_icon_keyguide_03.dds" Type="Image" GetRect="1,165,80,80"/>
+<Texture Name="Common_Icon_Keyguide_RS_Rotate_03" Filename="UI/texture/cd_icon_keyguide_03.dds" Type="Image" GetRect="1,247,80,80"/>
+<Texture Name="Common_Icon_Keyguide_RS_Rotate_04" Filename="UI/texture/cd_icon_keyguide_03.dds" Type="Image" GetRect="1,329,80,80"/>
+<Texture Name="Common_Icon_Keyguide_RS_Rotate_05" Filename="UI/texture/cd_icon_keyguide_03.dds" Type="Image" GetRect="1,411,80,80"/>
+<Texture Name="Common_Icon_Keyguide_RS_Rotate_06" Filename="UI/texture/cd_icon_keyguide_03.dds" Type="Image" GetRect="83,1,80,80"/>
+<Texture Name="Common_Icon_Keyguide_RS_Rotate_07" Filename="UI/texture/cd_icon_keyguide_03.dds" Type="Image" GetRect="165,1,80,80"/>
+<Texture Name="Common_Icon_Keyguide_RS_Rotate_08" Filename="UI/texture/cd_icon_keyguide_03.dds" Type="Image" GetRect="247,1,80,80"/>
+<Texture Name="Common_Icon_Keyguide_RS_Rotate_09" Filename="UI/texture/cd_icon_keyguide_03.dds" Type="Image" GetRect="329,1,80,80"/>
+<Texture Name="Common_Icon_Keyguide_RS_Rotate_10" Filename="UI/texture/cd_icon_keyguide_03.dds" Type="Image" GetRect="411,1,80,80"/>
+<Texture Name="Common_Icon_Keyguide_RS_Rotate_11" Filename="UI/texture/cd_icon_keyguide_03.dds" Type="Image" GetRect="83,83,80,80"/>
+<Texture Name="Common_Icon_Keyguide_RS_Rotate_12" Filename="UI/texture/cd_icon_keyguide_03.dds" Type="Image" GetRect="83,165,80,80"/>
+<Texture Name="Common_Icon_Keyguide_RS_Rotate_13" Filename="UI/texture/cd_icon_keyguide_03.dds" Type="Image" GetRect="83,247,80,80"/>
+<Texture Name="Common_Icon_Keyguide_RS_Rotate_14" Filename="UI/texture/cd_icon_keyguide_03.dds" Type="Image" GetRect="83,329,80,80"/>
+<Texture Name="Common_Icon_Keyguide_RS_Rotate_15" Filename="UI/texture/cd_icon_keyguide_03.dds" Type="Image" GetRect="83,411,80,80"/>
+<Texture Name="Common_Icon_Keyguide_RS_Rotate_16" Filename="UI/texture/cd_icon_keyguide_03.dds" Type="Image" GetRect="165,83,80,80"/>
+<Texture Name="Common_Icon_Keyguide_RS_Rotate_17" Filename="UI/texture/cd_icon_keyguide_03.dds" Type="Image" GetRect="247,83,80,80"/>
+<Texture Name="Common_Icon_Keyguide_RS_Rotate_18" Filename="UI/texture/cd_icon_keyguide_03.dds" Type="Image" GetRect="329,83,80,80"/>
+<Texture Name="Common_Icon_Keyguide_RS_Rotate_19" Filename="UI/texture/cd_icon_keyguide_03.dds" Type="Image" GetRect="411,83,80,80"/>
+
+<Animation name="Common_Icon_Keyguide_RS_Rotate_Right_animation" size="512,512">
+    <Frame Texturename="Common_Icon_Keyguide_RS_Rotate_00"  Time="0.05" />
+    <Frame Texturename="Common_Icon_Keyguide_RS_Rotate_01"  Time="0.05" />
+    <Frame Texturename="Common_Icon_Keyguide_RS_Rotate_02"  Time="0.05" />
+    <Frame Texturename="Common_Icon_Keyguide_RS_Rotate_03"  Time="0.05" />
+    <Frame Texturename="Common_Icon_Keyguide_RS_Rotate_04"  Time="0.05" />
+    <Frame Texturename="Common_Icon_Keyguide_RS_Rotate_05"  Time="0.05" />
+    <Frame Texturename="Common_Icon_Keyguide_RS_Rotate_06"  Time="0.05" />
+    <Frame Texturename="Common_Icon_Keyguide_RS_Rotate_07"  Time="0.05" />
+    <Frame Texturename="Common_Icon_Keyguide_RS_Rotate_08"  Time="0.05" />
+    <Frame Texturename="Common_Icon_Keyguide_RS_Rotate_09"  Time="0.05" />
+    <Frame Texturename="Common_Icon_Keyguide_RS_Rotate_10"  Time="0.05" />
+    <Frame Texturename="Common_Icon_Keyguide_RS_Rotate_11"  Time="0.05" />
+    <Frame Texturename="Common_Icon_Keyguide_RS_Rotate_12"  Time="0.05" />
+    <Frame Texturename="Common_Icon_Keyguide_RS_Rotate_13"  Time="0.05" />
+    <Frame Texturename="Common_Icon_Keyguide_RS_Rotate_14"  Time="0.05" />
+    <Frame Texturename="Common_Icon_Keyguide_RS_Rotate_15"  Time="0.05" />
+    <Frame Texturename="Common_Icon_Keyguide_RS_Rotate_16"  Time="0.05" />
+    <Frame Texturename="Common_Icon_Keyguide_RS_Rotate_17"  Time="0.05" />
+    <Frame Texturename="Common_Icon_Keyguide_RS_Rotate_18"  Time="0.05" />
+    <Frame Texturename="Common_Icon_Keyguide_RS_Rotate_19"  Time="0.05" />
+</Animation>
+
+<Animation name="Common_Icon_Keyguide_RS_Rotate_Left_animation" size="512,512">
+    <Frame Texturename="Common_Icon_Keyguide_RS_Rotate_19"  Time="0.05" />
+    <Frame Texturename="Common_Icon_Keyguide_RS_Rotate_18"  Time="0.05" />
+    <Frame Texturename="Common_Icon_Keyguide_RS_Rotate_17"  Time="0.05" />
+    <Frame Texturename="Common_Icon_Keyguide_RS_Rotate_16"  Time="0.05" />
+    <Frame Texturename="Common_Icon_Keyguide_RS_Rotate_15"  Time="0.05" />
+    <Frame Texturename="Common_Icon_Keyguide_RS_Rotate_14"  Time="0.05" />
+    <Frame Texturename="Common_Icon_Keyguide_RS_Rotate_13"  Time="0.05" />
+    <Frame Texturename="Common_Icon_Keyguide_RS_Rotate_12"  Time="0.05" />
+    <Frame Texturename="Common_Icon_Keyguide_RS_Rotate_11"  Time="0.05" />
+    <Frame Texturename="Common_Icon_Keyguide_RS_Rotate_10"  Time="0.05" />
+    <Frame Texturename="Common_Icon_Keyguide_RS_Rotate_09"  Time="0.05" />
+    <Frame Texturename="Common_Icon_Keyguide_RS_Rotate_08"  Time="0.05" />
+    <Frame Texturename="Common_Icon_Keyguide_RS_Rotate_07"  Time="0.05" />
+    <Frame Texturename="Common_Icon_Keyguide_RS_Rotate_06"  Time="0.05" />
+    <Frame Texturename="Common_Icon_Keyguide_RS_Rotate_05"  Time="0.05" />
+    <Frame Texturename="Common_Icon_Keyguide_RS_Rotate_04"  Time="0.05" />
+    <Frame Texturename="Common_Icon_Keyguide_RS_Rotate_03"  Time="0.05" />
+    <Frame Texturename="Common_Icon_Keyguide_RS_Rotate_02"  Time="0.05" />
+    <Frame Texturename="Common_Icon_Keyguide_RS_Rotate_01"  Time="0.05" />
+    <Frame Texturename="Common_Icon_Keyguide_RS_Rotate_00"  Time="0.05" />
+</Animation>

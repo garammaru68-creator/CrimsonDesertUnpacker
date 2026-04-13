@@ -1,0 +1,10 @@
+﻿<Texture Name="cd_knowledge_learn_gauge_02" Filename="UI/texture/cd_hud_status_01.dds" Type="Image" GetRect="1,977,423,15"/>
+<Texture Name="cd_knowledge_learn_gauge_03" Filename="UI/texture/cd_hud_status_01.dds" Type="Image" GetRect="426,977,423,15"/>
+<Texture Name="cd_knowledge_learn_gauge_bg" Filename="UI/texture/cd_hud_status_01.dds" Type="Image" GetRect="1,956,429,19"/>
+<Texture Name="cd_status_hud_center_gauge" Filename="UI/texture/cd_hud_status_01.dds" Type="Image" GetRect="1,433,160,319"/>
+<Texture Name="cd_status_hud_center_gauge1" Filename="UI/texture/cd_hud_status_01.dds" Type="Image" GetRect="851,1,160,319"/>
+<Texture Name="cd_status_hud_center_gauge_bg" Filename="UI/texture/cd_hud_status_01.dds" Type="Image" GetRect="1,1,160,430"/>
+<Texture Name="cd_status_hud_center_gauge_Glow_mask" Filename="UI/texture/cd_hud_status_01.dds" Type="Image" GetRect="851,322,160,319"/>
+<Texture Name="cd_status_hud_center_gauge_Glow_Tip_mask" Filename="UI/texture/cd_hud_status_01.dds" Type="Image" GetRect="851,643,160,319"/>
+<Texture Name="cd_status_hud_center_gauge_tip" Filename="UI/texture/cd_hud_status_01.dds" Type="Image" GetRect="1,754,100,200"/>
+

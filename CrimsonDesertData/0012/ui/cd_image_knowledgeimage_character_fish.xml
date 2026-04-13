@@ -1,0 +1,68 @@
+﻿<!-- 물고기 -->
+<Texture Name="cd_knowledgeimage_Knowledge_Blackbrow_Bleak" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Blackbrow_Bleak.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_BaliOgluChub" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_BaliOgluChub.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Schneider" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Schneider.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Sammy" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Sammy.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Beyaz" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Beyaz.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Bass" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Bass.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Crab" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Crab.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Dolphin" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Dolphin.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Shrimp" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Shrimp.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Knowledge_Crayfish_I" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Crayfish_I.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Fish" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Fish.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Sole" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Sole.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Lamprey" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Lamprey.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Knowledge_Dover_Sole" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Dover_Sole.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Red_Seabream" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Red_Seabream.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Salmon" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Salmon.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Sockeye_Salmon" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Sockeye_Salmon.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_BlackSeaBream" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_BlackSeaBream.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Red_Snapper" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Red_Snapper.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Rock_Bream" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Rock_Bream.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Mackerel" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Mackerel.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Marlin" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Marlin.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Seahorse" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Seahorse.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Blue_Crab" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Blue_Crab.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Starfish" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Starfish.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Squid" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Squid.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Cuvier" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Cuvier.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Pikefish" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Pikefish.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Trout" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Trout.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Carp" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Carp.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Tench" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Tench.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Mudfish" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Mudfish.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Catfish" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Catfish.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Lenok" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Lenok.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Burbot" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Burbot.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Eel" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Eel.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Perch" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Perch.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Sturgeon" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Sturgeon.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Crayfish_II" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Crayfish_II.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Knowledge_Ssogari" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Ssogari.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Crucian_Carp" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Crucian_Carp.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Lethrinus_Nebulosus" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Lethrinus_Nebulosus.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_SevenGill" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_SevenGill.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_SailFish" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_SailFish.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_RedOpaleye" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_RedOpaleye.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_PagrusMajor" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_PagrusMajor.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_PaddleFish" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_PaddleFish.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_GoldenTench" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_GoldenTench.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_GoldenCarp" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_GoldenCarp.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_Giant_MudFish" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_Giant_MudFish.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_FootballFish" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_FootballFish.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_Electric_Eel" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_Electric_Eel.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_Coelacanth" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_Coelacanth.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Lamprey" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Lamprey.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Dolphin" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Dolphin.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_Giant_Octopus" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_Giant_Octopus.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_Giant_Whale" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_Giant_Whale.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Shrimp" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Shrimp.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Benjari" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Benjari.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Crucian_Carp" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Crucian_Carp.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Piranha" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Piranha.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_RiceFish" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_RiceFish.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_river_Crab" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_river_Crab.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Sea_Slater" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Sea_Slater.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_Golden_Coelacanth" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_Golden_Coelacanth.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Giant_Mudfish" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Giant_Mudfish.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_RazorClam" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_RazorClam.dds" Type="Image" GetRect="0,0,512,512"/>

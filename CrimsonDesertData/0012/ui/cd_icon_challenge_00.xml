@@ -1,0 +1,26 @@
+﻿<Texture Name="cd_icon_challenge_00" Filename="UI/texture/cd_icon_challenge_00.dds" Type="Image" GetRect="1,1,200,200"/>
+<Texture Name="cd_icon_challenge_01" Filename="UI/texture/cd_icon_challenge_00.dds" Type="Image" GetRect="1,203,200,200"/>
+<Texture Name="cd_icon_challenge_02" Filename="UI/texture/cd_icon_challenge_00.dds" Type="Image" GetRect="1,405,200,200"/>
+<Texture Name="cd_icon_challenge_03" Filename="UI/texture/cd_icon_challenge_00.dds" Type="Image" GetRect="1,607,200,200"/>
+<Texture Name="cd_icon_challenge_04" Filename="UI/texture/cd_icon_challenge_00.dds" Type="Image" GetRect="1,809,200,200"/>
+<Texture Name="cd_icon_challenge_05" Filename="UI/texture/cd_icon_challenge_00.dds" Type="Image" GetRect="203,1,200,200"/>
+<Texture Name="cd_icon_challenge_06" Filename="UI/texture/cd_icon_challenge_00.dds" Type="Image" GetRect="405,1,200,200"/>
+<Texture Name="cd_icon_challenge_07" Filename="UI/texture/cd_icon_challenge_00.dds" Type="Image" GetRect="607,1,200,200"/>
+<Texture Name="cd_icon_challenge_08" Filename="UI/texture/cd_icon_challenge_00.dds" Type="Image" GetRect="809,1,200,200"/>
+<Texture Name="cd_icon_challenge_09" Filename="UI/texture/cd_icon_challenge_00.dds" Type="Image" GetRect="203,203,200,200"/>
+<Texture Name="cd_icon_challenge_10" Filename="UI/texture/cd_icon_challenge_00.dds" Type="Image" GetRect="203,405,200,200"/>
+<Texture Name="cd_icon_challenge_11" Filename="UI/texture/cd_icon_challenge_00.dds" Type="Image" GetRect="203,607,200,200"/>
+<Texture Name="cd_icon_challenge_12" Filename="UI/texture/cd_icon_challenge_00.dds" Type="Image" GetRect="203,809,200,200"/>
+<Texture Name="cd_icon_challenge_13" Filename="UI/texture/cd_icon_challenge_00.dds" Type="Image" GetRect="405,203,200,200"/>
+<Texture Name="cd_icon_challenge_14" Filename="UI/texture/cd_icon_challenge_00.dds" Type="Image" GetRect="607,203,200,200"/>
+<Texture Name="cd_icon_challenge_15" Filename="UI/texture/cd_icon_challenge_00.dds" Type="Image" GetRect="809,203,200,200"/>
+<Texture Name="cd_icon_challenge_16" Filename="UI/texture/cd_icon_challenge_00.dds" Type="Image" GetRect="405,405,200,200"/>
+<Texture Name="cd_icon_challenge_17" Filename="UI/texture/cd_icon_challenge_00.dds" Type="Image" GetRect="405,607,200,200"/>
+<Texture Name="cd_icon_challenge_18" Filename="UI/texture/cd_icon_challenge_00.dds" Type="Image" GetRect="405,809,200,200"/>
+<Texture Name="cd_icon_challenge_19" Filename="UI/texture/cd_icon_challenge_00.dds" Type="Image" GetRect="607,405,200,200"/>
+<Texture Name="cd_icon_challenge_20" Filename="UI/texture/cd_icon_challenge_00.dds" Type="Image" GetRect="809,405,200,200"/>
+<Texture Name="cd_icon_challenge_21" Filename="UI/texture/cd_icon_challenge_00.dds" Type="Image" GetRect="607,607,200,200"/>
+<Texture Name="cd_icon_challenge_22" Filename="UI/texture/cd_icon_challenge_00.dds" Type="Image" GetRect="607,809,200,200"/>
+<Texture Name="cd_icon_challenge_23" Filename="UI/texture/cd_icon_challenge_00.dds" Type="Image" GetRect="809,607,200,200"/>
+<Texture Name="cd_icon_challenge_24" Filename="UI/texture/cd_icon_challenge_00.dds" Type="Image" GetRect="809,809,200,200"/>
+

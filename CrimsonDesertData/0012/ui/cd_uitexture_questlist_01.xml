@@ -1,0 +1,5 @@
+﻿<Texture Name="cd_icon_challenge_questlist_complete_00" Filename="UI/texture/cd_uitexture_questlist_01.dds" Type="Image" GetRect="1,901,49,43"/>
+<Texture Name="cd_ink_challenge_questimage_mask_00" Filename="UI/texture/cd_uitexture_questlist_01.dds" Type="Image" GetRect="357,1,202,205"/>
+<Texture Name="cd_ink_challenge_questlist_bg_00" Filename="UI/texture/cd_uitexture_questlist_01.dds" Type="Image" GetRect="1,1,354,448"/>
+<Texture Name="cd_ink_challenge_questlist_bg_01" Filename="UI/texture/cd_uitexture_questlist_01.dds" Type="Image" GetRect="1,451,354,448"/>
+

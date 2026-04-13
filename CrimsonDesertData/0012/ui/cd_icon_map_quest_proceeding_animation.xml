@@ -1,0 +1,204 @@
+﻿<Texture Name="cd_icon_map_quest_proceeding_animation_00" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="1,1,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_01" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="1,26,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_02" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="1,51,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_03" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="1,76,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_04" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="1,101,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_05" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="1,126,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_06" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="1,151,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_07" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="1,176,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_08" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="1,201,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_09" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="1,226,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_10" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="26,1,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_11" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="51,1,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_12" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="76,1,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_13" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="101,1,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_14" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="126,1,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_15" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="151,1,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_16" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="176,1,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_17" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="201,1,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_18" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="226,1,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_19" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="26,26,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_20" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="26,51,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_21" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="26,76,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_22" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="26,101,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_23" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="26,126,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_24" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="26,151,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_25" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="26,176,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_26" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="26,201,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_27" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="26,226,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_28" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="51,26,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_29" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="76,26,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_30" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="101,26,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_31" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="126,26,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_32" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="151,26,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_33" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="176,26,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_34" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="201,26,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_35" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="226,26,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_36" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="51,51,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_37" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="51,76,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_38" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="51,101,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_39" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="51,126,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_40" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="51,151,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_41" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="51,176,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_42" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="51,201,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_43" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="51,226,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_44" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="76,51,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_45" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="101,51,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_46" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="126,51,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_47" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="151,51,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_48" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="176,51,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_49" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="201,51,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_50" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="226,51,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_51" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="76,76,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_52" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="76,101,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_53" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="76,126,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_54" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="76,151,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_55" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="76,176,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_56" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="76,201,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_57" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="76,226,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_58" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="101,76,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_59" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="126,76,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_60" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="151,76,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_61" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="176,76,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_62" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="201,76,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_63" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="226,76,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_64" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="101,101,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_65" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="101,126,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_66" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="101,151,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_67" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="101,176,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_68" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="101,201,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_69" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="101,226,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_70" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="126,101,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_71" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="151,101,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_72" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="176,101,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_73" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="201,101,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_74" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="226,101,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_75" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="126,126,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_76" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="126,151,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_77" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="126,176,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_78" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="126,201,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_79" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="126,226,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_80" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="151,126,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_81" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="176,126,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_82" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="201,126,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_83" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="226,126,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_84" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="151,151,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_85" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="151,176,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_86" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="151,201,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_87" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="151,226,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_88" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="176,151,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_89" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="201,151,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_90" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="226,151,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_91" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="176,176,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_92" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="176,201,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_93" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="176,226,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_94" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="201,176,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_95" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="226,176,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_96" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="201,201,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_97" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="201,226,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_98" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="226,201,23,23"/>
+<Texture Name="cd_icon_map_quest_proceeding_animation_99" Filename="UI/texture/cd_icon_map_quest_proceeding_animation.dds" Type="Image" GetRect="226,226,23,23"/>
+
+
+<Animation Name="cd_icon_map_quest_proceeding_animation" size="256,256">
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_00" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_01" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_02" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_03" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_04" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_05" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_06" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_07" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_08" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_09" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_10" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_11" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_12" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_13" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_14" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_15" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_16" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_17" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_18" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_19" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_20" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_21" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_22" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_23" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_24" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_25" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_26" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_27" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_28" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_29" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_30" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_31" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_32" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_33" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_34" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_35" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_36" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_37" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_38" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_39" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_40" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_41" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_42" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_43" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_44" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_45" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_46" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_47" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_48" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_49" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_50" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_51" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_52" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_53" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_54" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_55" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_56" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_57" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_58" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_59" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_60" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_61" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_62" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_63" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_64" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_65" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_66" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_67" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_68" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_69" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_70" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_71" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_72" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_73" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_74" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_75" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_76" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_77" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_78" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_79" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_80" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_81" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_82" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_83" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_84" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_85" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_86" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_87" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_88" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_89" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_90" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_91" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_92" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_93" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_94" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_95" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_96" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_97" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_98" Time="0.02"/>
+    <Frame Texturename="cd_icon_map_quest_proceeding_animation_99" Time="0.02"/>
+</Animation>

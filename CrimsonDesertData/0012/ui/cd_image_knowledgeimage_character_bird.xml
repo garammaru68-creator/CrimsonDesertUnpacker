@@ -1,0 +1,83 @@
+﻿<!-- 새 -->
+<Texture Name="cd_knowledgeimage_Knowledge_KukuBird" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_KukuBird.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Crow" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Crow.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Eagle" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Eagle.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_BlueJay" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_BlueJay.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Condor" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Condor.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Duck" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Duck.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Hen" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Hen.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Goose" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Goose.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Pigeon" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Pigeon.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_WhiteBilled_Loon" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_WhiteBilled_Loon.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_WhiteWing_Flycatcher" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_WhiteWing_Flycatcher.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Longtailedtit" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Longtailedtit.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Rooster" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Rooster.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Duckling" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Duckling.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Common_Heron" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Common_Heron.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Hawk" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Hawk.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_White_Owl" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_White_Owl.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Sparrow" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Sparrow.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Chick" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Chick.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Parrot" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Parrot.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Seagull" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Seagull.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Spoonbill" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Spoonbill.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Flamingos" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Flamingos.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Oriole" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Oriole.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Bat" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Bat.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Domestic_Duck" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Domestic_Duck.dds" Type="Image" Getrect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_White_Hen" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_White_Hen.dds" Type="Image" Getrect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Black_Hen" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Black_Hen.dds" Type="Image" Getrect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_White_Rooster" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_White_Rooster.dds" Type="Image" Getrect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Black_Rooster" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Black_Rooster.dds" Type="Image" Getrect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Knowledge_BlackDuck" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_BlackDuck.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_EuropeanPartridge" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_EuropeanPartridge.dds" Type="Image" Getrect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_White_Pigeon" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_White_Pigeon.dds" Type="Image" Getrect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Light_Pigeon" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Light_Pigeon.dds" Type="Image" Getrect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Knowledge_Steppe_Eagle" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Steppe_Eagle.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Angry_Crow" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Angry_Crow.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_WoodPecker" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_WoodPecker.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Featherless_Chicken" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Featherless_Chicken.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Snowy_Plover" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Snowy_Plover.dds" Type="Image" Getrect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Black_Owl" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Black_Owl.dds" Type="Image" Getrect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Knowledge_BlackTail_Flycatcher" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_BlackTail_Flycatcher.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Bunting_Bird" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Bunting_Bird.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Red_Footed_Falcon" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Red_Footed_Falcon.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Collared_Dove" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Collared_Dove.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Cuckoo" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Cuckoo.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_ArcticTern" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_ArcticTern.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_EclectusParrot" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_EclectusParrot.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_SunConure" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_SunConure.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GrayParrot" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GrayParrot.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_SpixsMacaw" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_SpixsMacaw.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_RoseringedParakeet" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_RoseringedParakeet.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_CitronCockatoo" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_CitronCockatoo.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Oxpecker" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Oxpecker.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_WhiteHawk" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_WhiteHawk.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_FalcoCherrug" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_FalcoCherrug.dds" Type="Image" Getrect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Chicken" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Chicken.dds" Type="Image" Getrect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Knowledge_GaviaStellata" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GaviaStellata.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_MallardDuck" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_MallardDuck.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_RuddyshelDuck" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_RuddyshelDuck.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Mergellus" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Mergellus.dds" Type="Image" Getrect="0,0,512,512"/>
+
+<Texture Name="cd_knowledgeimage_Knowledge_Watercock" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Watercock.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Turkey" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Turkey.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Takahe" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Takahe.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Sterna" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Sterna.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Pheasant" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Pheasant.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Moa" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Moa.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Mesite" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Mesite.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Little_Grebe" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Little_Grebe.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Kiwi_Bird" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Kiwi_Bird.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_kakapo" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_kakapo.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Genyornis" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Genyornis.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Galapagos_Cormorant" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Galapagos_Cormorant.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Fulica" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Fulica.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Emu" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Emu.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Elephant_Bird" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Elephant_Bird.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Dodo_Bird" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Dodo_Bird.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Cassowary" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Cassowary.dds" Type="Image" Getrect="0,0,512,512"/>
+
+<Texture Name="cd_knowledgeimage_Animal_Whistling_Duck_Wild_1" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Animal_Whistling_Duck_Wild_1.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Animal_Pygmy_Teal_Wild_1" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Animal_Pygmy_Teal_Wild_1.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Animal_Desert_Goose_Wild_1" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Animal_Desert_Goose_Wild_1.dds" Type="Image" Getrect="0,0,512,512"/>

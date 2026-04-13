@@ -1,0 +1,18 @@
+﻿<Texture Name="cd_hud_domain_message_bg_mask_L" Filename="UI/texture/cd_ink_bg_05.dds" Type="Image" GetRect="614,353,241,100"/>
+<Texture Name="cd_hud_domain_message_bg_mask_R" Filename="UI/texture/cd_ink_bg_05.dds" Type="Image" GetRect="1,922,229,100"/>
+<Texture Name="cd_hud_domain_message_block1" Filename="UI/texture/cd_ink_bg_05.dds" Type="Image" GetRect="1,141,365,368"/>
+<Texture Name="cd_hud_domain_message_block2" Filename="UI/texture/cd_ink_bg_05.dds" Type="Image" GetRect="368,141,329,200"/>
+<Texture Name="cd_hud_domain_message_Block_bg_mask_L" Filename="UI/texture/cd_ink_bg_05.dds" Type="Image" GetRect="368,343,244,106"/>
+<Texture Name="cd_hud_domain_message_Block_bg_mask_R" Filename="UI/texture/cd_ink_bg_05.dds" Type="Image" GetRect="425,895,204,106"/>
+<Texture Name="cd_hud_play_guide_bg_bottom" Filename="UI/texture/cd_ink_bg_05.dds" Type="Image" GetRect="1,511,1000,105"/>
+<Texture Name="cd_hud_play_guide_bg_mid" Filename="UI/texture/cd_ink_bg_05.dds" Type="Image" GetRect="1,1,1000,138"/>
+<Texture Name="cd_hud_play_guide_bg_top" Filename="UI/texture/cd_ink_bg_05.dds" Type="Image" GetRect="1,618,1000,90"/>
+<Texture Name="cd_ink_bg_alert_broken_00" Filename="UI/texture/cd_ink_bg_05.dds" Type="Image" GetRect="699,141,210,210"/>
+<Texture Name="cd_ink_bg_alert_broken_01" Filename="UI/texture/cd_ink_bg_05.dds" Type="Image" GetRect="1,710,210,210"/>
+<Texture Name="cd_ink_bg_circle_ink_slot_bg" Filename="UI/texture/cd_ink_bg_05.dds" Type="Image" GetRect="213,710,210,210"/>
+<Texture Name="cd_ink_bg_circle_ink_slot_bg_mask" Filename="UI/texture/cd_ink_bg_05.dds" Type="Image" GetRect="760,710,120,120"/>
+<Texture Name="cd_ink_bg_circle_quest_icon_bg_00" Filename="UI/texture/cd_ink_bg_05.dds" Type="Image" GetRect="425,710,181,183"/>
+<Texture Name="cd_ink_bg_water_spot_00" Filename="UI/texture/cd_ink_bg_05.dds" Type="Image" GetRect="857,353,150,150"/>
+<Texture Name="cd_ink_bg_water_spot_01" Filename="UI/texture/cd_ink_bg_05.dds" Type="Image" GetRect="608,710,150,150"/>
+<Texture Name="cd_ink_slot_circle_effect_inkring_00" Filename="UI/texture/cd_ink_bg_05.dds" Type="Image" GetRect="631,862,150,150"/>
+

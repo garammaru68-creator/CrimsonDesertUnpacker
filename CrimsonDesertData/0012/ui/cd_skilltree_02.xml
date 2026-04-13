@@ -1,0 +1,7 @@
+﻿<Texture Name="cd_skilltree_bg_frame_deco" Filename="UI/texture/cd_skilltree_02.dds" Type="Image" GetRect="1,1,715,771"/>
+<Texture Name="cd_skilltree_bg_frame_mask" Filename="UI/texture/cd_skilltree_02.dds" Type="Image" GetRect="1,774,300,211"/>
+<Texture Name="cd_skilltree_bg_grid_line" Filename="UI/texture/cd_skilltree_02.dds" Type="Image" GetRect="505,774,130,130"/>
+<Texture Name="cd_skilltree_bg_vertical_pattern_mask" Filename="UI/texture/cd_skilltree_02.dds" Type="Image" GetRect="303,774,200,200"/>
+<Texture Name="cd_sktilltree_bg_horizontal_pattern" Filename="UI/texture/cd_skilltree_02.dds" Type="Image" GetRect="637,774,130,130"/>
+<Texture Name="cd_sktilltree_bg_vertical_pattern" Filename="UI/texture/cd_skilltree_02.dds" Type="Image" GetRect="718,1,130,130"/>
+

@@ -1,0 +1,88 @@
+﻿<!-- 스킬 :  256x256 -->
+<Texture Name="cd_knowledgeimage_Knowledge_Detect" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Detect.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_CrowWing" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_CrowWing.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_SwordMastery_I" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_SwordMastery_I.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_ShieldMastery_I" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_ShieldMastery_I.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_FistMastery_I" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_FistMastery_I.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Knowledge_SwordMastery_II" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_SwordMastery_II.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_FistMastery_II" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_FistMastery_II.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_FistMastery_III" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_FistMastery_III.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Knowledge_SwordShield_Combination_I" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_SwordShield_Combination_I.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_ShieldParrying" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_ShieldParrying.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_HardCutting" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_HardCutting.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Knowledge_RotationBash_II" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_RotationBash_II.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Lunge_I" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Lunge_I.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Lunge_II" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Lunge_II.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Lunge_III" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Lunge_III.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_DoubleKick" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_DoubleKick.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_RotationBash_Charge" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_RotationBash_Charge.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_RotationBash_Cancel" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_RotationBash_Cancel.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_RotationBash_Enchant_Property" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_RotationBash_Enchant_Property.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Knowledge_JumpStep" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_JumpStep.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Monster_Parkour_II" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Monster_Parkour_II.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Lunge_Combination" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Lunge_Combination.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Lunge_Enchant_Property" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Lunge_Enchant_Property.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Change_Berserker" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Change_Berserker.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Knowledge_Rush" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Rush.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Rush_Cancel" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Rush_Cancel.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Lunge_Bleed" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Lunge_Bleed.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Lunge_Kick_Combination" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Lunge_Kick_Combination.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Knowledge_Wrestle_Lariat" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Wrestle_Lariat.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Wrestle_PushKick" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Wrestle_PushKick.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Knowledge_Wrestle_GiantSwing" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Wrestle_GiantSwing.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Wrestle_HipDrop_I" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Wrestle_HipDrop_I.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Wrestle_BackDrop_I" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Wrestle_BackDrop_I.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Shield_Combination" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Shield_Combination.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Knowledge_DropKick" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_DropKick.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_TurnBash" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_TurnBash.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Knowledge_MoveCutting_I" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_MoveCutting_I.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_BottomKick" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_BottomKick.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Mounting" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Mounting.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Knowledge_Light_Reflection" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Light_Reflection.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Grab_KneeKick" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Grab_KneeKick.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Grab_Stringer" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Grab_Stringer.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Defence_Recover_Stamina" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Defence_Recover_Stamina.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_BowMastery" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_BowMastery.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Rush_Counter" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Rush_Counter.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Rush_Run_Cancel" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Rush_Run_Cancel.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Wrestle_BackDrop_II" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Wrestle_BackDrop_II.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Wrestle_Elbow" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Wrestle_Elbow.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Knowledge_RotationBash_NoDelay" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_RotationBash_NoDelay.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Wrestle_ReadyPose" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Wrestle_ReadyPose.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_SkyDive" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_SkyDive.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Wrestle_JumpNeck" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Wrestle_JumpNeck.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Wrestle_HipDrop_II" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Wrestle_HipDrop_II.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Summon_Crows" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Summon_Crows.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_RotationBash_Lightning" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_RotationBash_Lightning.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_RotationBash_Flame" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_RotationBash_Flame.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_RotationBash_Ice" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_RotationBash_Ice.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_RotationBash_Wind" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_RotationBash_Wind.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_StrongAttack_I" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_StrongAttack_I.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_StrongAttack_II" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_StrongAttack_II.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_StrongAttack_Combination" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_StrongAttack_Combination.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Knowledge_Combo_Shot" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Combo_Shot.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Screw_Shot" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Screw_Shot.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Multi_Shot" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Multi_Shot.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Evade_Shot" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Evade_Shot.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Knowledge_Charge_Shot" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Charge_Shot.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Hide" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Hide.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_LightningSword" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_LightningSword.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_BlackWolf" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_BlackWolf.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Knowledge_TurnBash_I" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_TurnBash_I.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_PushKick" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_PushKick.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_MoveCutting_III" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_MoveCutting_III.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Knowledge_RotationBash_I" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_RotationBash_I.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_DeepThrust" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_DeepThrust.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_DeepThrust_Catch" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_DeepThrust_Catch.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_DeepThrust_Consecutively" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_DeepThrust_Consecutively.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_CatchAndThrow" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_CatchAndThrow.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Leather_Working" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Leather_Working.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Abyss_Ruins" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Abyss_Ruins.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Knowledge_Domain" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Domain.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Indulgence" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Indulgence.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Bush_Hide" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Bush_Hide.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Knowledge_BlackWolf" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_BlackWolf.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_JiJeongTa_I" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_JiJeongTa_I.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_JiJeongTa_III" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_JiJeongTa_III.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Summon_Magnet_Floor" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Summon_Magnet_Floor.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_WhiteWolf" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_WhiteWolf.dds" Type="Image" GetRect="0,0,512,512"/>

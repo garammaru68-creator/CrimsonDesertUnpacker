@@ -1,0 +1,215 @@
+﻿<!-- UI 카테고리 아이콘 -->
+<Texture Name="cd_knowledgeinfo_categoryicon_all"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeinfo_categoryicon_all.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_knowledgeinfo_categoryicon_collect"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeinfo_categoryicon_collect.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_knowledgeinfo_categoryicon_compass"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeinfo_categoryicon_compass.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_knowledgeinfo_categoryicon_fish"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeinfo_categoryicon_fish.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_knowledgeinfo_categoryicon_person"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeinfo_categoryicon_person.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_knowledgeinfo_categoryicon_power"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeinfo_categoryicon_power.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_knowledgeinfo_categoryicon_quest"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeinfo_categoryicon_quest.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_knowledgeinfo_categoryicon_vehicle"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeinfo_categoryicon_vehicle.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_knowledgeinfo_categoryicon_node"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeinfo_categoryicon_node.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_knowledgeinfo_categoryicon_animal"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeinfo_categoryicon_animal.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_knowledgeinfo_categoryicon_craft"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeinfo_categoryicon_craft.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_knowledgeinfo_categoryicon_item"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeinfo_categoryicon_Item.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_knowledgeinfo_categoryicon_paper"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeinfo_categoryicon_paper.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_knowledgeinfo_categoryicon_Character_NonAnimal"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeinfo_categoryicon_Character_NonAnimal.dds" Type="Image" GetRect="0,0,256,256"/>
+
+
+
+<!-- 채집물 -->
+<Texture Name="cd_knowledgeimage_00000000"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00000000.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00000001"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00000001.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00000002"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00000002.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130001"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130001.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130002"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130002.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130003"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130003.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130004"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130004.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130005"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130005.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130006"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130006.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130007"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130007.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130008"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130008.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130009"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130009.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130010"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130010.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130011"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130011.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130012"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130012.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130013"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130013.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130015"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130015.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130016"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130016.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130017"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130017.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130018"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130018.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130019"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130019.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130020"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130020.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130021"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130021.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130022"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130022.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130024"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130024.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130026"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130026.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130027"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130027.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130028"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130028.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130029"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130029.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130030"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130030.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130031"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130031.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130032"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130032.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130034"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130034.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130035"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130035.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130036"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130036.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130039"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130039.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130042"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130042.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130043"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130043.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130044"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130044.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130046"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130046.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130047"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130047.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130048"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130048.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130049"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130049.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130050"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130050.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130051"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130051.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130053"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130053.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130054"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130054.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130055"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130055.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130056"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130056.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130057"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130057.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130058"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130058.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130059"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130059.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130060"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130060.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130061"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130061.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130062"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130062.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130063"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130063.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130064"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130064.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130065"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130065.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130066"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130066.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130067"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130067.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130068"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130068.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130069"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130069.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130070"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130070.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130071"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130071.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130072"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130072.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130073"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130073.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130074"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130074.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130075"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130075.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130076"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130076.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130077"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130077.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130078"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130078.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130079"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130079.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130080"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130080.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130081"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130081.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130082"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130082.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130083"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130083.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130084"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130084.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130085"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130085.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130086"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130086.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130087"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130087.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130088"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130088.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130089"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130089.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130090"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130090.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130091"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130091.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130092"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130092.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130093"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130093.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130094"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130094.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130095"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130095.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130096"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130096.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130097"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130097.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00130098"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00130098.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<!-- 동물 -->
+<Texture Name="cd_knowledgeimage_00190082"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190082.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190168"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190168.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190039"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190039.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190036"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190036.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190112"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190112.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190260"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190260.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190164"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190164.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190273"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190273.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190221"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190221.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190222"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190222.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190074"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190074.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190253"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190253.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190204"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190204.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190205"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190205.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190206"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190206.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190144"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190144.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190323"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190323.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190324"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190324.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190001"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190001.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190117"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190117.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190079"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190079.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190081"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190081.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190078"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190078.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190092"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190092.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190002"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190002.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190131"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190131.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190128"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190128.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190129"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190129.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190257"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190257.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190059"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190059.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190337"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190337.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190301"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190301.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190095"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190095.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190093"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190093.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190270"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190270.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190271"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190271.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190052"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190052.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190091"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190091.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190328"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190328.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190333"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190333.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190139"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190139.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190261"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190261.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190003"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190003.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190305"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190305.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190006"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190006.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190009"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190009.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190016"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190016.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190017"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190017.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190075"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190075.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00190020"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00190020.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<!-- 스킬 -->
+<!-- <Texture Name="cd_knowledgeimage_00001001"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00001001.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_00001002"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_00001002.dds" Type="Image" GetRect="0,0,512,512"/> -->
+
+
+<!-- 퀘스트 -->
+
+
+<!-- 세력 -->
+<Texture Name="CD_KnowledgeImage_Knowledge_Faction_RufusVenmort"	    Filename="UI/texture/Image/Knowledgeimage/CD_KnowledgeImage_Knowledge_Faction_RufusVenmort.dds"             Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="CD_KnowledgeImage_Knowledge_Faction_SplitHornGuard"	    Filename="UI/texture/Image/Knowledgeimage/CD_KnowledgeImage_Knowledge_Faction_SplitHornGuard.dds"           Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Faction_MoonReaper"	        Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Faction_MoonReaper.dds"               Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Faction_EntHunter"	        Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Faction_EntHunter.dds"                Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Faction_Antumbra"	        Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Faction_Antumbra.dds"                 Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_knowledge_Faction_WolfPursuer"	        Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_knowledge_Faction_WolfPursuer.dds"              Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_knowledge_Faction_LonelyJackal"	    Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_knowledge_Faction_LonelyJackal.dds"         Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Faction_Ancient_People"	    Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Faction_Ancient_People.dds"         Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Faction_Witch"	            Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Faction_Witch.dds"         Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Faction_Bandit1"	            Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Faction_Bandit1.dds"         Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Faction_Golems"	            Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Faction_Golems.dds"         Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_knowledge_Faction_RedfoxTrade"	        Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_knowledge_Faction_RedfoxTrade.dds"         Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Faction_SandSages"	        Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Faction_SandSages.dds"         Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Faction_Muiquun"	            Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Faction_Muiquun.dds"         Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Faction_Kutum"	            Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Faction_Kutum.dds"         Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_knowledge_faction_desert_villain"	    Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_knowledge_faction_desert_villain.dds"         Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Faction_East_Bandit"	        Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Faction_East_Bandit.dds"         Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Faction_North_Bandit"	    Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Faction_North_Bandit.dds"         Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Faction_BlueFang"	        Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Faction_BlueFang.dds"         Type="Image" GetRect="0,0,512,512"/>
+
+
+<!-- UI 이미지-->
+<Texture Name="cd_knowledgeimage_knowledge_ui_setting01" 	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_knowledge_ui_setting01.dds" Type="Image" GetRect="0,0,1024,163"/>
+<Texture Name="cd_knowledgeimage_knowledge_ui_setting02" 	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_knowledge_ui_setting02.dds" Type="Image" GetRect="0,0,1024,163"/>
+<Texture Name="cd_knowledgeimage_knowledge_ui_setting03" 	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_knowledge_ui_setting03.dds" Type="Image" GetRect="0,0,1024,163"/>
+<Texture Name="cd_knowledgeimage_knowledge_ui_setting04" 	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_knowledge_ui_setting04.dds" Type="Image" GetRect="0,0,1024,163"/>
+<Texture Name="cd_knowledgeimage_knowledge_ui_setting05" 	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_knowledge_ui_setting05.dds" Type="Image" GetRect="0,0,1024,163"/>
+<Texture Name="cd_knowledgeimage_knowledge_ui_setting06" 	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_knowledge_ui_setting06.dds" Type="Image" GetRect="0,0,1024,163"/>
+<Texture Name="cd_knowledgeimage_knowledge_ui_setting07" 	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_knowledge_ui_setting07.dds" Type="Image" GetRect="0,0,1024,163"/>
+<Texture Name="cd_knowledgeimage_knowledge_ui_setting08" 	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_knowledge_ui_setting08.dds" Type="Image" GetRect="0,0,1024,163"/>
+<Texture Name="cd_knowledgeimage_knowledge_ui_setting09" 	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_knowledge_ui_setting09.dds" Type="Image" GetRect="0,0,1024,163"/>
+<Texture Name="cd_knowledgeimage_knowledge_ui_empty"   		Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_knowledge_ui_empty.dds" 	Type="Image" GetRect="0,0,1024,163"/>
+
+<!-- 일상의뢰 -->
+<Texture Name="cd_knowledgeimage_Knowledge_Brondell_dailyquest" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Brondell_dailyquest.dds" Type="Image" GetRect="0,0,1024,1024"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Crimson_Desert_dailyquest" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Crimson_Desert_dailyquest.dds" Type="Image" GetRect="0,0,1024,1024"/>
+<Texture Name="cd_knowledgeimage_Knowledge_delpheon_dailyquest" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_delpheon_dailyquest.dds" Type="Image" GetRect="0,0,1024,1024"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Graywolf_dailyquest" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Graywolf_dailyquest.dds" Type="Image" GetRect="0,0,1024,1024"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Hernandian_dailyquest" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Hernandian_dailyquest.dds" Type="Image" GetRect="0,0,1024,1024"/>
+<Texture Name="cd_knowledgeimage_Knowledge_kweiden_dailyquest" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_kweiden_dailyquest.dds" Type="Image" GetRect="0,0,1024,1024"/>
+
+<!-- 지식 없는 경우 이미지 -->
+<Texture Name="cd_knowledgeimage_Knowledge_null"	            Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_null.dds"         Type="Image" GetRect="0,0,512,512"/>

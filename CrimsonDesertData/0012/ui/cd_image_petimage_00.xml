@@ -1,0 +1,15 @@
+﻿<Texture Name="cd_petimage_Baby_GreatDane_Domestic_31336"	Filename="UI/texture/Image/Petimage/cd_petimage_Baby_GreatDane_Domestic_31336.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_petimage_Dog_JijeongTemple_Unique_1"	Filename="UI/texture/Image/Petimage/cd_petimage_Dog_JijeongTemple_Unique_1.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_petimage_Dog_Pailune_Unique_1"	Filename="UI/texture/Image/Petimage/cd_petimage_Dog_Pailune_Unique_1.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_petimage_Dog_Hernand_Unique_1"	Filename="UI/texture/Image/Petimage/cd_petimage_Dog_Hernand_Unique_1.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_petimage_Dog_Demeniss_Unique_1"	Filename="UI/texture/Image/Petimage/cd_petimage_Dog_Demeniss_Unique_1.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_petimage_Dog_Tommaso_Unique_1"	Filename="UI/texture/Image/Petimage/cd_petimage_Dog_Tommaso_Unique_1.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_petimage_Dog_Delesyian_Unique_1"	Filename="UI/texture/Image/Petimage/cd_petimage_Dog_Delesyian_Unique_1.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="CD_PetImage_appearance_M0002_00_BritishKitten_0001_00003"	Filename="UI/texture/Image/Petimage/CD_PetImage_appearance_M0002_00_BritishKitten_0001_00003.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="CD_PetImage_appearance_M0002_00_Cat_0001_00000"	Filename="UI/texture/Image/Petimage/CD_PetImage_appearance_M0002_00_Cat_0001_00000.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="CD_PetImage_appearance_M0002_00_Cat_0001_00008"	Filename="UI/texture/Image/Petimage/CD_PetImage_appearance_M0002_00_Cat_0001_00008.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="CD_PetImage_appearance_M0002_00_Cat_0001_00017"	Filename="UI/texture/Image/Petimage/CD_PetImage_appearance_M0002_00_Cat_0001_00017.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="CD_PetImage_appearance_M0002_00_Cat_Kitten_0001_00001"	Filename="UI/texture/Image/Petimage/CD_PetImage_appearance_M0002_00_Cat_Kitten_0001_00001.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="CD_PetImage_appearance_M0002_00_NorwegianForest_0001_00000"	Filename="UI/texture/Image/Petimage/CD_PetImage_appearance_M0002_00_NorwegianForest_0001_00000.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="CD_PetImage_appearance_M0002_00_SandCat_0001_00000"	Filename="UI/texture/Image/Petimage/CD_PetImage_appearance_M0002_00_SandCat_0001_00000.dds" Type="Image" GetRect="0,0,512,512"/>
+

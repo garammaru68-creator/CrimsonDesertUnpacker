@@ -1,0 +1,1329 @@
+﻿<!-- 각 xml 노드와 속성은 대소문자를 구분합니다. -->
+<!--
+<cssBind type="">
+		<codeGroup>
+			<code></code>
+			<code></code> 
+		</codeGroup>
+		<commonCss>
+			<icon></icon>
+		</commonCss>
+		<themeCss>
+			<icon></icon>
+		</themeCss>
+		<spinnerCss> 
+			<back></back>
+			<cover></cover>
+		</spinnerCss> 
+</cssBind>
+-->
+
+
+<!-- 
+***********************************************************
+					싱글, 더블 그리고 스피너 
+***********************************************************				
+-->
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_0</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-0</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-0-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_1</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-1</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-1-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_2</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-2</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-2-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_3</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-3</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-3-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_4</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-4</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-4-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_5</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-5</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-5-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_6</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-6</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-6-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_7</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-7</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-7-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_8</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-8</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-8-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_9</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-9</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-9-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_LEFT</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-left</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-left-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_RIGHT</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-right</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-right-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_UP</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-up</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-up-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_DOWN</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-down</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-down-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_A</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-a</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-a-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_B</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-b</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-b-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_C</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-c</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-c-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_D</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-d</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-d-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_E</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-e</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-e-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_F</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-f</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-f-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_G</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-g</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-g-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_H</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-h</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-h-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_I</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-i</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-i-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_J</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-j</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-j-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_K</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-k</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-k-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_L</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-l</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-l-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_M</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-m</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-m-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_N</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-n</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-n-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_O</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-o</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-o-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_P</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-p</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-p-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_Q</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-q</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-q-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_R</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-r</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-r-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_S</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-s</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-s-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_T</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-t</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-t-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_U</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-u</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-u-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_V</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-v</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-v-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_W</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-w</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-w-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_X</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-x</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-x-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_Y</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-y</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-y-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_Z</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-z</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-z-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_F1</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-f1</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-f1-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_F2</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-f2</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-f2-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_F3</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-f3</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-f3-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_F4</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-f4</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-f4-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_F5</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-f5</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-f5-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_F6</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-f6</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-f6-black</icon>
+		</themeCss>
+		<spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_F7</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-f7</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-f7-black</icon>
+		</themeCss>
+        <spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_F8</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-f8</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-f8-black</icon>
+		</themeCss>
+        <spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_F9</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-f9</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-f9-black</icon>
+		</themeCss>
+        <spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_BACK</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-back</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-back-black</icon>
+		</themeCss>
+        <spinnerCss> 
+			<back>spinner-square-back</back> 
+			<cover>spinner-square-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_ALT</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-alt</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-alt-black</icon>
+		</themeCss>
+        <spinnerCss> 
+			<back>css-empty</back> 
+			<cover>css-empty</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_CONTROL</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-ctrl</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-ctrl-black</icon>
+		</themeCss>
+        <spinnerCss> 
+			<back>css-empty</back> 
+			<cover>css-empty</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_ESCAPE</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-esc</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-esc-black</icon>
+		</themeCss>
+        <spinnerCss> 
+			<back>css-empty</back> 
+			<cover>css-empty</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_SHIFT</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-shift</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-shift-black</icon>
+		</themeCss>
+        <spinnerCss> 
+			<back>css-empty</back> 
+			<cover>css-empty</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_SPACE</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-space</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-space-black</icon>
+		</themeCss>
+        <spinnerCss> 
+			<back>css-empty</back> 
+			<cover>css-empty</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_TAB</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-tab</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-tab-black</icon>
+		</themeCss>
+        <spinnerCss> 
+			<back>css-empty</back> 
+			<cover>css-empty</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_LBUTTON</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-mousel</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-mousel-black</icon>
+		</themeCss>
+        <spinnerCss> 
+			<back>spinner-circle-back</back> 
+			<cover>spinner-circle-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_RBUTTON</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-mouser</icon> 
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-mouser-black</icon>
+		</themeCss>
+        <spinnerCss> 
+			<back>spinner-circle-back</back> 
+			<cover>spinner-circle-cover</cover> 
+		</spinnerCss> 
+</cssBind>
+
+
+
+<!-- 
+***********************************************************
+		특별한 경우로 조합이 있다. 이건 각자가 필요할떄 정의하자
+***********************************************************				
+-->
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_UP</code>
+			<code>KeyCode_DOWN</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-updown</icon>
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-updown-black</icon>
+		</themeCss>
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_W</code>
+			<code>KeyCode_S</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-ws</icon>
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-ws-black</icon>
+		</themeCss>
+</cssBind>
+
+<cssBind type="pc">
+		<codeGroup>
+			<code>KeyCode_LEFT</code>
+			<code>KeyCode_RIGHT</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-pc-leftright</icon>
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-pc-leftright-black</icon>
+		</themeCss>
+</cssBind>
+<!-- 
+***********************************************************
+					싱글, 더블 그리고 스피너 
+***********************************************************				
+-->
+
+<cssBind type="xbox">
+		<codeGroup>
+			<code>GamePadButtonCode_DpadLeft</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-xbox-dpad-left</icon>
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-xbox-dpad-left-black</icon>
+		</themeCss>
+        <spinnerCss> 
+			<back>spinner-circle-back</back>
+			<cover>spinner-circle-cover</cover>
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="xbox">
+		<codeGroup>
+			<code>GamePadButtonCode_DpadRight</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-xbox-dpad-right</icon>
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-xbox-dpad-right-black</icon>
+		</themeCss>
+        <spinnerCss> 
+			<back>spinner-circle-back</back>
+			<cover>spinner-circle-cover</cover>
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="xbox">
+		<codeGroup>
+			<code>GamePadButtonCode_DpadUp</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-xbox-dpad-up</icon>
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-xbox-dpad-up-black</icon>
+		</themeCss>
+        <spinnerCss> 
+			<back>spinner-circle-back</back>
+			<cover>spinner-circle-cover</cover>
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="xbox">
+		<codeGroup>
+			<code>GamePadButtonCode_DpadDown</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-xbox-dpad-down</icon>
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-xbox-dpad-down-black</icon>
+		</themeCss>
+        <spinnerCss> 
+			<back>spinner-circle-back</back>
+			<cover>spinner-circle-cover</cover>
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="xbox">
+		<codeGroup>
+			<code>GamePadButtonCode_Button0</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-xbox-x</icon>
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-xbox-x-black</icon>
+		</themeCss>
+        <spinnerCss> 
+			<back>spinner-circle-back</back>
+			<cover>spinner-circle-cover</cover>
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="xbox">
+		<codeGroup>
+			<code>GamePadButtonCode_Button1</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-xbox-a</icon>
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-xbox-a-black</icon>
+		</themeCss>
+        <spinnerCss> 
+			<back>spinner-circle-back</back>
+			<cover>spinner-circle-cover</cover>
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="xbox">
+		<codeGroup>
+			<code>GamePadButtonCode_Button2</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-xbox-b</icon>
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-xbox-b-black</icon>
+		</themeCss>
+        <spinnerCss> 
+			<back>spinner-circle-back</back>
+			<cover>spinner-circle-cover</cover>
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="xbox">
+		<codeGroup>
+			<code>GamePadButtonCode_Button3</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-xbox-y</icon>
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-xbox-y-black</icon>
+		</themeCss>
+        <spinnerCss> 
+			<back>spinner-circle-back</back>
+			<cover>spinner-circle-cover</cover>
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="xbox">
+		<codeGroup>
+			<code>GamePadButtonCode_RightBumper</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-xbox-rb</icon>
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-xbox-rb-black</icon>
+		</themeCss>
+        <spinnerCss> 
+			<back>spinner-circle-back</back>
+			<cover>spinner-circle-cover</cover>
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="xbox">
+		<codeGroup>
+			<code>GamePadButtonCode_LeftBumper</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-xbox-lb</icon>
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-xbox-lb-black</icon>
+		</themeCss>
+        <spinnerCss> 
+			<back>spinner-circle-back</back>
+			<cover>spinner-circle-cover</cover>
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="xbox">
+		<codeGroup>
+			<code>GamePadButtonCode_RightTrigger</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-xbox-rt</icon>
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-xbox-rt-black</icon>
+		</themeCss>
+        <spinnerCss> 
+			<back>spinner-circle-back</back>
+			<cover>spinner-circle-cover</cover>
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="xbox">
+		<codeGroup>
+			<code>GamePadButtonCode_LeftTrigger</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-xbox-lt</icon>
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-xbox-lt-black</icon>
+		</themeCss>
+        <spinnerCss> 
+			<back>spinner-circle-back</back>
+			<cover>spinner-circle-cover</cover>
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="xbox">
+		<codeGroup>
+			<code>GamePadButtonCode_LeftThumb</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-xbox-ls-press</icon>
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-xbox-ls-press-black</icon>
+		</themeCss>
+        <spinnerCss> 
+			<back>spinner-circle-back</back>
+			<cover>spinner-circle-cover</cover>
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="xbox">
+		<codeGroup>
+			<code>GamePadButtonCode_RightThumb</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-xbox-rs-press</icon>
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-xbox-rs-press-black</icon>
+		</themeCss>
+        <spinnerCss> 
+			<back>spinner-circle-back</back>
+			<cover>spinner-circle-cover</cover>
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="xbox">
+		<codeGroup>
+			<code>GamePadButtonCode_Start</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-xbox-start</icon>
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-xbox-start-black</icon>
+		</themeCss>
+        <spinnerCss> 
+			<back>spinner-circle-back</back>
+			<cover>spinner-circle-cover</cover>
+		</spinnerCss> 
+</cssBind>
+
+<cssBind type="xbox">
+		<codeGroup>
+			<code>GamePadButtonCode_Select</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-xbox-esc</icon>
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-xbox-esc-black</icon>
+		</themeCss>
+        <spinnerCss> 
+			<back>spinner-circle-back</back>
+			<cover>spinner-circle-cover</cover>
+		</spinnerCss> 
+</cssBind>
+<!-- 
+***********************************************************
+		특별한 경우로 조합이 있다. 이건 각자가 필요할떄 정의하자
+***********************************************************				
+-->
+<cssBind type="xbox">
+		<codeGroup>
+			<code>GamePadButtonCode_LeftStickLeft</code>
+			<code>GamePadButtonCode_LeftStickRight</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-xbox-ls-scroll-horizontal</icon>
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-xbox-ls-scroll-horizontal-black</icon>
+		</themeCss>
+</cssBind>
+
+<cssBind type="xbox">
+		<codeGroup>
+			<code>GamePadButtonCode_LeftStickUp</code>
+			<code>GamePadButtonCode_LeftStickDown</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-xbox-ls-scroll-vertical</icon>
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-xbox-ls-scroll-vertical-black</icon>
+		</themeCss>
+</cssBind>
+
+<cssBind type="xbox">
+		<codeGroup>
+			<code>GamePadButtonCode_RightStickLeft</code>
+			<code>GamePadButtonCode_RightStickRight</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-xbox-rs-scroll-horizontal</icon>
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-xbox-rs-scroll-horizontal-black</icon>
+		</themeCss>
+</cssBind>
+
+<cssBind type="xbox">
+		<codeGroup>
+			<code>GamePadButtonCode_RightStickUp</code>
+			<code>GamePadButtonCode_RightStickDown</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-xbox-rs-scroll-vertical</icon>
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-xbox-rs-scroll-vertical-black</icon>
+		</themeCss>
+</cssBind>
+
+<cssBind type="xbox">
+		<codeGroup>
+			<code>GamePadButtonCode_DpadUp</code>
+			<code>GamePadButtonCode_DpadDown</code>
+		</codeGroup>
+		<commonCss>
+			<icon>keyguide-xbox-dpad-updown</icon>
+		</commonCss>
+		<themeCss>
+			<icon>keyguide-xbox-dpad-updown-black</icon>
+		</themeCss>
+</cssBind>

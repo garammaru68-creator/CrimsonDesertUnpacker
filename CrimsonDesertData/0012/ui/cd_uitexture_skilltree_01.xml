@@ -1,0 +1,12 @@
+﻿<Texture Name="cd_uitexture_icon_skilltree_weapon_category_OneHandRapier_00" Filename="UI/texture/cd_uitexture_skilltree_01.dds" Type="Image" GetRect="1,1,230,230"/>
+<Texture Name="cd_uitexture_icon_skilltree_weapon_category_OneHandSword_00" Filename="UI/texture/cd_uitexture_skilltree_01.dds" Type="Image" GetRect="1,233,230,230"/>
+<Texture Name="cd_uitexture_icon_skilltree_weapon_category_RapierDualWeapon_00" Filename="UI/texture/cd_uitexture_skilltree_01.dds" Type="Image" GetRect="1,465,230,230"/>
+<Texture Name="cd_uitexture_icon_skilltree_weapon_category_Spear_00" Filename="UI/texture/cd_uitexture_skilltree_01.dds" Type="Image" GetRect="1,697,230,230"/>
+<Texture Name="cd_uitexture_icon_skilltree_weapon_category_SwordDualWeapon_00" Filename="UI/texture/cd_uitexture_skilltree_01.dds" Type="Image" GetRect="233,1,230,230"/>
+<Texture Name="cd_uitexture_icon_skilltree_weapon_category_TwoHandAxe_00" Filename="UI/texture/cd_uitexture_skilltree_01.dds" Type="Image" GetRect="465,1,230,230"/>
+<Texture Name="cd_uitexture_icon_skilltree_weapon_category_TwoHandHammer_00" Filename="UI/texture/cd_uitexture_skilltree_01.dds" Type="Image" GetRect="697,1,230,230"/>
+<Texture Name="cd_uitexture_icon_skilltree_weapon_category_TwoHandSword_00" Filename="UI/texture/cd_uitexture_skilltree_01.dds" Type="Image" GetRect="233,233,230,230"/>
+<Texture Name="cd_uitexture_icon_skilltree_weapon_category_Unarmed_00" Filename="UI/texture/cd_uitexture_skilltree_01.dds" Type="Image" GetRect="233,465,230,230"/>
+<Texture Name="cd_uitexture_skilltree_weapon_category_bg_00" Filename="UI/texture/cd_uitexture_skilltree_01.dds" Type="Image" GetRect="233,697,230,230"/>
+<Texture Name="cd_uitexture_skilltree_weapon_category_mask_00" Filename="UI/texture/cd_uitexture_skilltree_01.dds" Type="Image" GetRect="465,233,115,115"/>
+

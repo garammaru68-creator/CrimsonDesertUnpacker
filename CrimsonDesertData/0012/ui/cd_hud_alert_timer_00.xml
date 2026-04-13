@@ -1,0 +1,6 @@
+﻿<Texture Name="cd_hud_alert_timer_hourglass_body_00" Filename="UI/texture/cd_hud_alert_timer_00.dds" Type="Image" GetRect="1,1,116,193"/>
+<Texture Name="cd_hud_alert_timer_hourglass_body_full_00" Filename="UI/texture/cd_hud_alert_timer_00.dds" Type="Image" GetRect="119,1,116,193"/>
+<Texture Name="cd_hud_alert_timer_hourglass_bottom_00" Filename="UI/texture/cd_hud_alert_timer_00.dds" Type="Image" GetRect="75,196,72,54"/>
+<Texture Name="cd_hud_alert_timer_hourglass_middle_00" Filename="UI/texture/cd_hud_alert_timer_00.dds" Type="Image" GetRect="237,1,5,60"/>
+<Texture Name="cd_hud_alert_timer_hourglass_top_00" Filename="UI/texture/cd_hud_alert_timer_00.dds" Type="Image" GetRect="1,196,72,59"/>
+

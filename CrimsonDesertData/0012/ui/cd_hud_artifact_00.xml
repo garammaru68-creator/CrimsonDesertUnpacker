@@ -1,0 +1,5 @@
+﻿<Texture Name="cd_artifact_deco_01" Filename="UI/texture/cd_hud_artifact_00.dds" Type="Image" GetRect="1,1,250,251"/>
+<Texture Name="cd_artifact_deco_arrow" Filename="UI/texture/cd_hud_artifact_00.dds" Type="Image" GetRect="253,1,250,69"/>
+<Texture Name="cd_artifact_deco_rune_01" Filename="UI/texture/cd_hud_artifact_00.dds" Type="Image" GetRect="1,254,250,251"/>
+<Texture Name="cd_artifact_icon_arrow" Filename="UI/texture/cd_hud_artifact_00.dds" Type="Image" GetRect="253,72,11,16"/>
+

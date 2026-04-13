@@ -1,0 +1,14 @@
+﻿<Texture Name="cd_common_beauty_tab_bg" Filename="UI/texture/cd_common_01.dds" Type="Image" GetRect="1,565,483,118"/>
+<Texture Name="cd_common_beauty_tab_bg_select" Filename="UI/texture/cd_common_01.dds" Type="Image" GetRect="1,685,483,118"/>
+<Texture Name="cd_common_list_icon_bg_00" Filename="UI/texture/cd_common_01.dds" Type="Image" GetRect="1,1,280,280"/>
+<Texture Name="cd_common_list_icon_bg_focus_00" Filename="UI/texture/cd_common_01.dds" Type="Image" GetRect="1,283,280,280"/>
+<Texture Name="cd_common_list_icon_unfold_side" Filename="UI/texture/cd_common_01.dds" Type="Image" GetRect="83,904,42,80"/>
+<Texture Name="cd_common_slot_circle_color_bg" Filename="UI/texture/cd_common_01.dds" Type="Image" GetRect="283,1,170,170"/>
+<Texture Name="cd_common_slot_circle_empty_glass" Filename="UI/texture/cd_common_01.dds" Type="Image" GetRect="283,173,161,161"/>
+<Texture Name="cd_common_slot_unknown_color" Filename="UI/texture/cd_common_01.dds" Type="Image" GetRect="1,904,80,80"/>
+<Texture Name="cd_worldmap_node_line_buff_00" Filename="UI/texture/cd_common_01.dds" Type="Image" GetRect="1,805,1020,32"/>
+<Texture Name="Hud_Nametag_Bg_Boss_CCBar_00" Filename="UI/texture/cd_common_01.dds" Type="Image" GetRect="1,890,1000,5"/>
+<Texture Name="Hud_Nametag_Bg_Boss_CCBar_01" Filename="UI/texture/cd_common_01.dds" Type="Image" GetRect="1,897,1000,5"/>
+<Texture Name="Hud_Nametag_Bg_Boss_CCBar_01_blur" Filename="UI/texture/cd_common_01.dds" Type="Image" GetRect="1,873,1010,15"/>
+<Texture Name="Hud_Nametag_Bg_Boss_CCBar_Bg_00" Filename="UI/texture/cd_common_01.dds" Type="Image" GetRect="1,839,1000,32"/>
+

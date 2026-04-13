@@ -1,0 +1,25 @@
+﻿<Texture Name="A" Filename="UI/texture/consolegamepad.dds" Type="Image" GetRect="764,262,49,49"/>
+<Texture Name="B" Filename="UI/texture/consolegamepad.dds" Type="Image" GetRect="815,262,49,49"/>
+<Texture Name="Base" Filename="UI/texture/consolegamepad.dds" Type="Image" GetRect="1,1,597,378"/>
+<Texture Name="Dpad_Down" Filename="UI/texture/consolegamepad.dds" Type="Image" GetRect="997,1,26,31"/>
+<Texture Name="Dpad_Left" Filename="UI/texture/consolegamepad.dds" Type="Image" GetRect="988,98,31,24"/>
+<Texture Name="Dpad_Right" Filename="UI/texture/consolegamepad.dds" Type="Image" GetRect="988,124,31,24"/>
+<Texture Name="Dpad_Up" Filename="UI/texture/consolegamepad.dds" Type="Image" GetRect="997,34,26,31"/>
+<Texture Name="ESC" Filename="UI/texture/consolegamepad.dds" Type="Image" GetRect="815,313,39,39"/>
+<Texture Name="LB" Filename="UI/texture/consolegamepad.dds" Type="Image" GetRect="600,1,148,65"/>
+<Texture Name="LT" Filename="UI/texture/consolegamepad.dds" Type="Image" GetRect="600,262,80,62"/>
+<Texture Name="MENU" Filename="UI/texture/consolegamepad.dds" Type="Image" GetRect="917,292,39,39"/>
+<Texture Name="RB" Filename="UI/texture/consolegamepad.dds" Type="Image" GetRect="750,1,148,65"/>
+<Texture Name="RT" Filename="UI/texture/consolegamepad.dds" Type="Image" GetRect="682,262,80,62"/>
+<Texture Name="Stick_0" Filename="UI/texture/consolegamepad.dds" Type="Image" GetRect="900,1,95,95"/>
+<Texture Name="Stick_1" Filename="UI/texture/consolegamepad.dds" Type="Image" GetRect="600,68,95,95"/>
+<Texture Name="Stick_2" Filename="UI/texture/consolegamepad.dds" Type="Image" GetRect="697,68,95,95"/>
+<Texture Name="Stick_3" Filename="UI/texture/consolegamepad.dds" Type="Image" GetRect="794,68,95,95"/>
+<Texture Name="Stick_4" Filename="UI/texture/consolegamepad.dds" Type="Image" GetRect="891,98,95,95"/>
+<Texture Name="Stick_5" Filename="UI/texture/consolegamepad.dds" Type="Image" GetRect="600,165,95,95"/>
+<Texture Name="Stick_6" Filename="UI/texture/consolegamepad.dds" Type="Image" GetRect="697,165,95,95"/>
+<Texture Name="Stick_7" Filename="UI/texture/consolegamepad.dds" Type="Image" GetRect="794,165,95,95"/>
+<Texture Name="Stick_Press" Filename="UI/texture/consolegamepad.dds" Type="Image" GetRect="891,195,95,95"/>
+<Texture Name="X" Filename="UI/texture/consolegamepad.dds" Type="Image" GetRect="866,292,49,49"/>
+<Texture Name="Y" Filename="UI/texture/consolegamepad.dds" Type="Image" GetRect="764,313,49,49"/>
+

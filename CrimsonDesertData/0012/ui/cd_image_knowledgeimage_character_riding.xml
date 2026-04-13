@@ -1,0 +1,67 @@
+﻿<!-- 탈 것 -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Prisian_Horse" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Prisian_Horse.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Arabian_Horse" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Arabian_Horse.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Turkoman_Horse" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Turkoman_Horse.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Appaloosa_Horse" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Appaloosa_Horse.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Shayr_Horse" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Shayr_Horse.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Arden_Horse" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Arden_Horse.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Horse" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Horse.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Donkey" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Donkey.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Wild_Horse" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Wild_Horse.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Belgian_Horse" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Belgian_Horse.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Baby_Donkey" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Baby_Donkey.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_ShetlandPony_Horse" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_ShetlandPony_Horse.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Home_Donkey" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Home_Donkey.dds" Type="Image" GetRect="0,0,512,512"/> -->
+
+
+
+<!-- 250521 추가 -->
+<Texture Name="cd_knowledgeimage_Knowledge_Ayut_Horse" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Ayut_Horse.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Baby_Donkey" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Baby_Donkey.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Black_Horse" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Black_Horse.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Dabrera_Horse" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Dabrera_Horse.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Donkey" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Donkey.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Home_Donkey" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Home_Donkey.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Lumiph_Horse" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Lumiph_Horse.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Marni_Horse" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Marni_Horse.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Pukre_Horse" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Pukre_Horse.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_RedHare_Horse" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_RedHare_Horse.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Strapero_Horse" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Strapero_Horse.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_White_Horse" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_White_Horse.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- 250613 추가 -->
+<Texture Name="cd_knowledgeimage_Knowledge_Animal_Riding_CarmaBirdsaurus_1" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Animal_Riding_CarmaBirdsaurus_1.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Animal_Riding_Cucubird_1" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Animal_Riding_Cucubird_1.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Animal_Riding_Cucubird_2" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Animal_Riding_Cucubird_2.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Animal_Riding_Deer_1" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Animal_Riding_Deer_1.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Animal_Riding_Dragon_1" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Animal_Riding_Dragon_1.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Animal_Riding_Iguana_1" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Animal_Riding_Iguana_1.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Animal_Riding_Troll_1" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Animal_Riding_Troll_1.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Animal_Riding_WarMachine_1" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Animal_Riding_WarMachine_1.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Animal_Riding_Warthog_1" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Animal_Riding_Warthog_1.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Animal_Riding_Wolf_1" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Animal_Riding_Wolf_1.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Animal_Riding_Wyvern_1" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Animal_Riding_Wyvern_1.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Animal_Riding_AlpineIbex_1" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Animal_Riding_AlpineIbex_1.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Animal_Riding_Bear_1" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Animal_Riding_Bear_1.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Animal_Riding_Camel_1" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Animal_Riding_Camel_1.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Riding_airballon" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Riding_airballon.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Kuku_Egg" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Kuku_Egg.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<Texture Name="cd_knowledgeimage_Knowledge_All_Terrain_Armored_Gear" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_All_Terrain_Armored_Gear.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Riding_Balloon_Summoner_1" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Riding_Balloon_Summoner_1.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Riding_Balloon_Summoner_2" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Riding_Balloon_Summoner_2.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Riding_Balloon_Summoner_3" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Riding_Balloon_Summoner_3.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Wagon_TwoHorseFourWheel_Player_1" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Wagon_TwoHorseFourWheel_Player_1.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Wagon_TwoHorseFourWheel_Player_2" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Wagon_TwoHorseFourWheel_Player_2.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Wagon_TwoHorseFourWheel_Player_3" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Wagon_TwoHorseFourWheel_Player_3.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Riding_Cucubird_1" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Riding_Cucubird_1.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Riding_kuku_small_atag" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Riding_kuku_small_atag.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_KnowledgeGroup_Character_Riding_ATAG" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_KnowledgeGroup_Character_Riding_ATAG.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_knowledge_riding_kuku_bear_atag" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_knowledge_riding_kuku_bear_atag.DDS" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_knowledge_riding_kuku_rapter_atag" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_knowledge_riding_kuku_rapter_atag.DDS" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Riding_Ballista" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Riding_Ballista.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Riding_FixedCrossBow" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Riding_FixedCrossBow.DDS" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Riding_Singijeon" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Riding_Singijeon.DDS" Type="Image" GetRect="0,0,512,512"/> 
+
+<Texture Name="KnowledgeImage_Knowledge_Riding_Wagon" Filename="UI/texture/Image/Knowledgeimage/KnowledgeImage_Knowledge_Riding_Wagon.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="KnowledgeImage_Knowledge_Riding_Boat" Filename="UI/texture/Image/Knowledgeimage/KnowledgeImage_Knowledge_Riding_Boat.DDS" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="KnowledgeImage_Knowledge_Riding_Cannon" Filename="UI/texture/Image/Knowledgeimage/KnowledgeImage_Knowledge_Riding_Cannon.DDS" Type="Image" GetRect="0,0,512,512"/> 

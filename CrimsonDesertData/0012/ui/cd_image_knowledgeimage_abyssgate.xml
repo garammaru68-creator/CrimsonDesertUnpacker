@@ -1,0 +1,421 @@
+﻿<!-- 어비스 게이트 -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0001" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0001.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0002" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0002.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0003" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0003.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0004" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0004.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0005" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0005.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0006" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0006.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0007" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0007.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0008" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0008.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0009" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0009.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0010" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0010.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0011" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0011.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0012" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0012.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0013" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0013.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0014" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0014.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0015" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0015.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0016" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0016.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0017" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0017.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0018" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0018.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0019" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0019.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0020" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0020.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0021" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0021.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0022" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0022.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0023" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0023.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0024" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0024.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0025" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0025.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0026" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0026.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0027" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0027.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0028" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0028.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0029" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0029.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0030" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0030.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0031" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0031.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0032" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0032.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0033" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0033.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0034" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0034.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0035" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0035.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0036" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0036.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0037" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0037.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0038" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0038.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0039" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0039.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0040" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0040.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0041" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0041.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0042" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0042.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0043" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0043.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0044" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0044.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0045" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0045.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0046" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0046.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0047" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0047.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0048" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0048.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0049" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0049.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0050" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0050.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0051" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0051.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0052" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0052.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0053" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0053.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0054" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0054.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0055" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0055.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0056" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0056.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0057" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0057.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0058" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0058.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0059" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0059.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0060" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0060.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0061" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0061.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0062" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0062.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0063" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0063.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0064" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0064.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0065" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0065.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0066" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0066.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0067" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0067.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0068" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0068.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0069" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0069.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0070" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0070.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0071" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0071.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0072" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0072.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0073" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0073.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0074" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0074.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0075" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0075.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0076" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0076.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0077" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0077.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0078" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0078.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0079" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0079.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0080" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0080.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0081" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0081.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0082" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0082.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0083" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0083.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0084" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0084.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0085" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0085.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0086" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0086.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0087" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0087.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0088" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0088.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0089" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0089.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0090" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0090.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0091" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0091.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0092" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0092.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0093" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0093.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0094" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0094.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0095" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0095.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0096" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0096.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0097" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0097.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0098" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0098.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0099" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0099.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0100" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0100.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0101" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0101.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0102" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0102.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0103" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0103.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0104" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0104.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0105" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0105.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0106" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0106.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0107" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0107.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0108" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0108.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0109" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0109.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0110" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0110.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0111" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0111.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0112" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0112.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0113" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0113.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0114" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0114.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0115" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0115.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0116" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0116.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0117" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0117.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0118" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0118.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0119" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0119.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0120" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0120.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0121" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0121.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0122" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0122.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0123" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0123.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0124" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0124.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0125" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0125.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0126" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0126.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0127" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0127.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0128" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0128.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0129" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0129.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0130" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0130.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0131" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0131.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0132" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0132.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0133" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0133.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0134" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0134.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0135" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0135.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0136" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0136.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0137" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0137.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0138" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0138.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0139" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0139.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0140" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0140.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0141" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0141.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0142" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0142.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0143" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0143.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0144" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0144.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0145" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0145.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0146" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0146.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0147" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0147.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0148" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0148.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0149" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0149.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0150" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0150.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0151" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0151.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0152" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0152.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0153" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0153.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0154" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0154.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0155" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0155.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0156" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0156.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0157" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0157.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0158" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0158.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0159" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0159.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0160" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0160.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0161" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0161.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0162" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0162.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0163" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0163.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0164" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0164.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0165" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0165.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0166" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0166.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0167" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0167.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0168" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0168.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0169" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0169.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0170" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0170.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0171" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0171.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0172" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0172.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0173" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0173.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0174" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0174.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0175" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0175.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0176" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0176.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0177" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0177.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0178" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0178.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0179" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0179.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0180" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0180.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0181" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0181.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0182" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0182.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0183" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0183.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0184" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0184.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0185" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0185.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0186" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0186.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0187" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0187.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0188" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0188.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0189" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0189.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0190" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0190.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_TrollLake" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_TrollLake.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0192" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0192.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0193" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0193.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0194" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0194.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0195" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0195.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0196" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0196.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0197" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0197.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0198" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0198.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0199" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0199.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_0200" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_0200.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_End0001" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_End0001.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_End0002" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_End0002.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_End0003" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_End0003.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_End0004" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_End0004.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_AbyssGate_End0005" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssGate_End0005.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_AbyssGate" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_AbyssGate.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Abyss_0001" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Abyss_0001.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Abyss_0002" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Abyss_0002.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_AbyssLv2_0009" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv2_0009.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Abyss_0010" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Abyss_0010.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Abyss_0014" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Abyss_0014.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssLv3_0018" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv3_0018.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Abyss_0023" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Abyss_0023.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Abyss_0024" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Abyss_0024.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssLv2_0035" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv2_0035.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssLv2_0036" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv2_0036.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Abyss_0041" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Abyss_0041.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssLv3_0045" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv3_0045.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssLv2_0048" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv2_0048.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssLv2_0049" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv2_0049.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_AbyssLv2_0050" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv2_0050.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_AbyssLv2_0053" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv2_0053.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssLv3_0054" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv3_0054.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssLv2_0058" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv2_0058.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssLv2_0062" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv2_0062.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssLv2_0063" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv2_0063.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssLv2_0068" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv2_0068.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssLv3_0072" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv3_0072.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Abyss_0073" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Abyss_0073.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Abyss_0080" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Abyss_0080.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssLv2_0087" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv2_0087.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssLv2_0089" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv2_0089.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssLv3_0090" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv3_0090.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Abyss_0091" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Abyss_0091.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssLv2_0092" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv2_0092.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssLv2_0093" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv2_0093.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssLv2_0094" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv2_0094.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Abyss_0095" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Abyss_0095.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssLv2_0096" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv2_0096.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Abyss_0099" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Abyss_0099.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_AbyssLv3_0100" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv3_0100.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Abyss_0104" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Abyss_0104.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssLv2_0109" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv2_0109.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Abyss_0110" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Abyss_0110.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssLv2_0113" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv2_0113.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssLv3_0120" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv3_0120.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssLv2_0121" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv2_0121.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Abyss_0131" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Abyss_0131.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Abyss_0132" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Abyss_0132.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssLv3_0133" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv3_0133.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Abyss_0134" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Abyss_0134.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssLv2_0136" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv2_0136.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssLv2_0137" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv2_0137.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssLv2_0144" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv2_0144.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssLv2_0146" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv2_0146.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssLv2_0147" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv2_0147.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssLv3_0149" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv3_0149.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Abyss_0152" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Abyss_0152.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Abyss_0154" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Abyss_0154.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Abyss_0157" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Abyss_0157.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssLv2_0158" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv2_0158.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssLv2_0163" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv2_0163.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Abyss_0168" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Abyss_0168.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Abyss_0171" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Abyss_0171.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssLv2_0172" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv2_0172.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssLv2_0173" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv2_0173.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssLv2_0174" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv2_0174.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssLv2_0176" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv2_0176.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssLv2_0182" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv2_0182.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssLv2_0183" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv2_0183.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssLv3_0185" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv3_0185.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssLv2_0189" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv2_0189.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Abyss_0191" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Abyss_0191.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Abyss_0193" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Abyss_0193.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Abyss_0196" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Abyss_0196.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssLv2_0200" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssLv2_0200.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssEnd_0001" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssEnd_0001.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssEnd_0002" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssEnd_0002.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssEnd_0003" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssEnd_0003.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssEnd_0004" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssEnd_0004.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_AbyssEnd_0005" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_AbyssEnd_0005.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Discover_Abyss_0001" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_Abyss_0001.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_Abyss_0002" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_Abyss_0002.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_Abyss_0010" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_Abyss_0010.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_Abyss_0014" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_Abyss_0014.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv3_0018" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv3_0018.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_Abyss_0023" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_Abyss_0023.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_Abyss_0024" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_Abyss_0024.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv2_0035" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv2_0035.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv2_0036" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv2_0036.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_Abyss_0041" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_Abyss_0041.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv3_0045" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv3_0045.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv2_0048" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv2_0048.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv2_0049" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv2_0049.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv2_0050" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv2_0050.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv2_0053" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv2_0053.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv3_0054" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv3_0054.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv2_0058" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv2_0058.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv2_0062" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv2_0062.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv2_0063" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv2_0063.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv2_0068" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv2_0068.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv3_0072" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv3_0072.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_Abyss_0073" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_Abyss_0073.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_Abyss_0080" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_Abyss_0080.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv2_0087" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv2_0087.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv2_0089" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv2_0089.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv3_0090" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv3_0090.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_Abyss_0091" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_Abyss_0091.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv2_0092" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv2_0092.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv2_0093" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv2_0093.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_Abyss_0095" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_Abyss_0095.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv2_0096" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv2_0096.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_Abyss_0099" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_Abyss_0099.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv3_0100" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv3_0100.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_Abyss_0104" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_Abyss_0104.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv2_0109" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv2_0109.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_Abyss_0110" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_Abyss_0110.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv2_0113" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv2_0113.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv3_0120" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv3_0120.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv2_0121" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv2_0121.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_Abyss_0131" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_Abyss_0131.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_Abyss_0132" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_Abyss_0132.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv3_0133" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv3_0133.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_Abyss_0134" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_Abyss_0134.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv2_0136" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv2_0136.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv2_0137" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv2_0137.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv2_0144" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv2_0144.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv2_0146" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv2_0146.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv2_0147" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv2_0147.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv3_0149" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv3_0149.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_Abyss_0152" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_Abyss_0152.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_Abyss_0154" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_Abyss_0154.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_Abyss_0157" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_Abyss_0157.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv2_0158" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv2_0158.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv2_0163" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv2_0163.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_Abyss_0168" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_Abyss_0168.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_Abyss_0171" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_Abyss_0171.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv2_0172" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv2_0172.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv2_0173" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv2_0173.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv2_0174" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv2_0174.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv2_0176" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv2_0176.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv2_0182" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv2_0182.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv2_0183" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv2_0183.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv3_0185" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv3_0185.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv2_0189" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv2_0189.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_Abyss_0191" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_Abyss_0191.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_Abyss_0193" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_Abyss_0193.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_Abyss_0196" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_Abyss_0196.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssLv2_0200" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssLv2_0200.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssEnd_0001" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssEnd_0001.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssEnd_0002" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssEnd_0002.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssEnd_0003" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssEnd_0003.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssEnd_0004" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssEnd_0004.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Discover_AbyssEnd_0005" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Discover_AbyssEnd_0005.dds" Type="Image" GetRect="0,0,512,512"/> -->
+
+<Texture Name="cd_knowledgeimage_knowledge_node_abyss_lv1" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_knowledge_node_abyss_lv1.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_knowledge_node_abyss_lv2" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_knowledge_node_abyss_lv2.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_knowledge_node_abyss_lv3" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_knowledge_node_abyss_lv3.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_knowledge_node_abyss_end" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_knowledge_node_abyss_end.dds" Type="Image" GetRect="0,0,512,512"/>
+
+
+
+<!-- 25/08/25 추가 -->
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Kwe_WinterParadise" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Kwe_WinterParadise.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Kwe_TestWay" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Kwe_TestWay.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Kwe_SkyRest" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Kwe_SkyRest.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Kwe_SkyloopBridge" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Kwe_SkyloopBridge.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Kwe_DreamTree" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Kwe_DreamTree.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Kwe_DarkTemple" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Kwe_DarkTemple.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Her_VengeanceDoor" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Her_VengeanceDoor.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Her_TruthRoot" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Her_TruthRoot.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Her_SecretGarden" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Her_SecretGarden.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Her_MindAltar" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Her_MindAltar.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Her_LonelyAltar" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Her_LonelyAltar.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_DesertFragment" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_DesertFragment.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Dem_SnakePath" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Dem_SnakePath.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Dem_SkyFragment" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Dem_SkyFragment.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Dem_MysterySquare" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Dem_MysterySquare.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Dem_GuruHaven" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Dem_GuruHaven.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Abyss_0079_GoldStar_Armor" Filename="UI/texture/Image/Knowledgeimage/Cd_ChallengeImage_Challenge_Abyss_0079_GoldStar_Armor.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Dem_ChaosForest" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Dem_ChaosForest.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Dem_BigRockCrown" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Dem_BigRockCrown.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Del_FallenGateway" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Del_FallenGateway.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Del_BraveNest" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Del_BraveNest.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Crim_TruthThrone" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Crim_TruthThrone.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Crim_LifeCircles" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Crim_LifeCircles.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Crim_CrescentSkyway" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Crim_CrescentSkyway.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Abyssone_End_0004" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Abyssone_End_0004.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Abyssone_End_0003" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Abyssone_End_0003.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Abyssone_End_0002" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Abyssone_End_0002.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Abyssone_End_0001" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Abyssone_End_0001.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Abyssone_0200" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Abyssone_0200.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Abyssone_0185" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Abyssone_0185.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Abyssone_0184" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Abyssone_0184.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Abyssone_0158" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Abyssone_0158.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Abyssone_0144" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Abyssone_0144.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Abyssone_0121" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Abyssone_0121.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Abyssone_0120" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Abyssone_0120.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Abyssone_0113" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Abyssone_0113.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Abyssone_0089" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Abyssone_0089.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Abyssone_0072" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Abyssone_0072.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Abyssone_0055" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Abyssone_0055.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Abyssone_0045" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Abyssone_0045.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Abyssone_0036" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Abyssone_0036.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Abyssone_0013" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Abyssone_0013.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Abyssone_0009" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Abyssone_0009.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Abyssone_0002" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Abyssone_0002.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Abyssone_0201" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Abyssone_0201.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Abyssone_0001" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Abyssone_0001.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Del_ThinkCore" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Del_ThinkCore.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Crim_TombOfPeace" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Crim_TombOfPeace.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Crim_DimensionMaze" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Crim_DimensionMaze.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Abyssone_End_0006" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Abyssone_End_0006.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Abyssone_End_0005" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Abyssone_End_0005.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Abyss_SteelSail" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Abyss_SteelSail.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Abyss_SkyPillars" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Abyss_SkyPillars.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Abyss_StreamSky" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Abyss_StreamSky.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Abyss_RecordFleet" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Abyss_RecordFleet.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Node_Abyss_MechHeart" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Node_Abyss_MechHeart.dds" Type="Image" GetRect="0,0,512,512"/>

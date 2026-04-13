@@ -1,0 +1,2 @@
+﻿<Texture Name="external_noise_texture0" Filename="effect/texture/cdfx_noise_001a_kdk_n.dds" Type="Image" GetRect="-1,-1,-1,-1"/>
+<Texture Name="external_flowmap_texture0" Filename="effect/texture/cdfx_flowmap_sample_rotation_lde_op.dds" Type="Image" GetRect="-1,-1,-1,-1"/>

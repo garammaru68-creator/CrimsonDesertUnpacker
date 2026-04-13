@@ -1,0 +1,4 @@
+﻿<!-- 마차 -->
+<Texture Name="cd_portrait_wagon_Riding_Wagon_TwoHorseFourWheel_Player_1" Filename="UI/texture/Image/Ridingimage/cd_portrait_wagon_Riding_Wagon_TwoHorseFourWheel_Player_1.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_portrait_wagon_Riding_Wagon_TwoHorseFourWheel_Player_2" Filename="UI/texture/Image/Ridingimage/cd_portrait_wagon_Riding_Wagon_TwoHorseFourWheel_Player_2.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_portrait_wagon_Riding_Wagon_TwoHorseFourWheel_Player_3" Filename="UI/texture/Image/Ridingimage/cd_portrait_wagon_Riding_Wagon_TwoHorseFourWheel_Player_3.dds" Type="Image" GetRect="0,0,512,512"/>

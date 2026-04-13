@@ -1,0 +1,93 @@
+﻿<!-- 아이템 -->
+<Texture Name="cd_knowledgeimage_Knowledge_Potato" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Potato.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_SweetPotato" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_SweetPotato.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Oats" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Oats.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Olive" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Olive.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Knowledge_Strawberry" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Strawberry.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Lavender" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Lavender.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Rasberry" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Rasberry.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Lentils" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Lentils.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Rosemary" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Rosemary.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Blueberry" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Blueberry.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Garlic" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Garlic.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Cotton" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Cotton.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Knowledge_Turnip" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Turnip.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Wheat" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Wheat.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Knowledge_Apple" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Apple.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_DesertWatermelon" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_DesertWatermelon.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Croton" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Croton.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Ama" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Ama.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Cabbage" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Cabbage.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Onion" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Onion.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Elderberry" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Elderberry.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Orange" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Orange.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Knowledge_Bean" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Bean.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Tomato" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Tomato.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Parsley" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Parsley.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Knowledge_Grape" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Grape.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Pumpkin" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Pumpkin.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Rotten_Radish" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Rotten_Radish.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Rotten_Cabbage" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Rotten_Cabbage.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Clavaria" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Clavaria.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Hericium" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Hericium.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Phellinuser"	Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Phellinuser.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Reishi" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Reishi.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_WhiteEgg" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_WhiteEgg.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Shiitake" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Shiitake.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Marigold" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Marigold.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Truffle" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Truffle.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Knowledge_Hypholom" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Hypholom.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_DestroyingAngel" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_DestroyingAngel.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Knowledge_Ginseng" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Ginseng.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Helleborine" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Helleborine.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Milfoil" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Milfoil.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Dendrobium" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Dendrobium.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Blackberry" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Blackberry.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_CopperOre" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_CopperOre.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_TinOre" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_TinOre.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_IronStone" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_IronStone.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_SilverOre" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_SilverOre.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GoldOre" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GoldOre.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_RedStone" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_RedStone.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Fern" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Fern.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_SulfurOre" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_SulfurOre.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Wheat_Powder" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Wheat_Powder.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Rye_Powder" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Rye_Powder.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Bread" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Bread.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Sandwich" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Sandwich.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Applepie" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Applepie.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Bisuit" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Bisuit.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Oatmeal" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Oatmeal.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Vegitabe_Soup" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Vegitabe_Soup.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_MeatStew" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_MeatStew.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Grilled_Meat" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Grilled_Meat.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Ham" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Ham.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Water" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Water.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Herbal_Tea" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Herbal_Tea.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Wine_I" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Wine_I.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Fire_Stone" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Fire_Stone.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Thunder_Stone" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Thunder_Stone.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Ice_Stone" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Ice_Stone.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Fire_Bomb" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Fire_Bomb.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Thunder_Bomb" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Thunder_Bomb.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Ice_Bomb" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Ice_Bomb.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Red_Liquid" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Red_Liquid.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Flame_Magic_Arrow" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Flame_Magic_Arrow.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Lightning_Magic_Arrow" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Lightning_Magic_Arrow.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Ice_Magic_Arrow" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Ice_Magic_Arrow.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Weapon_Enchant_Potion_Lv1" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Weapon_Enchant_Potion_Lv1.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Weapon_Enchant_Potion_Lv2" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Weapon_Enchant_Potion_Lv2.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Armor_Enchant_Potion_Lv1" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Armor_Enchant_Potion_Lv1.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Armor_Enchant_Potion_Lv2" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Armor_Enchant_Potion_Lv2.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledg_Sage_Honey" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledg_Sage_Honey.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Poppy" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Poppy.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Ssari_Mushroom_Tea" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Ssari_Mushroom_Tea.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Boiled_Water" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Boiled_Water.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Baked_Salt" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Baked_Salt.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Baked_Garlic" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Baked_Garlic.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Beer" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Beer.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Flour" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Flour.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Dough" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Dough.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Cheese" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Cheese.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Noodle_Dough" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Noodle_Dough.dds" Type="Image" GetRect="0,0,512,512"/> -->

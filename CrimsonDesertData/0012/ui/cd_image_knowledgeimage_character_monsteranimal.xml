@@ -1,0 +1,33 @@
+﻿<!-- 동물형 몬스터 -->
+<Texture Name="cd_knowledgeimage_Knowledge_Wolf" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Wolf.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Lion" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Lion.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Wild_Dog" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Wild_Dog.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Hyena" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Hyena.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Crocodile" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Crocodile.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Wild_Boar" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Wild_Boar.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Bear" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Bear.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Black_Bear_I" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Black_Bear_I.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Grizzly_Bear" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Grizzly_Bear.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Lioness" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Lioness.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Cougar" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Cougar.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Knowledge_Tiger" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Tiger.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Monster_Gorilla" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Monster_Gorilla.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Zombie_Dog" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Zombie_Dog.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Knowledge_Hellhound" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Hellhound.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Leopard_I" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Leopard_I.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Battle_Rhino" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Battle_Rhino.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Fire_Armadillo" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Fire_Armadillo.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Golem_Armadillo" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Golem_Armadillo.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Mutant_Hyena" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Mutant_Hyena.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Knowledge_Battle_Boar" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Battle_Boar.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Black_Bear_II" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Black_Bear_II.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Wild_Brown_Great_Dane" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Wild_Brown_Great_Dane.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Warthog" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Warthog.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Siege_Lizard" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Siege_Lizard.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Rhino_Lizard" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Rhino_Lizard.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Black_Cougar" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Black_Cougar.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Skinned_Bear" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Skinned_Bear.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Knowledge_Giant_Crocodile" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Giant_Crocodile.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Leopard_II" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Leopard_II.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_White_Bear" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_White_Bear.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_Phoenix_Wild" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_Phoenix_Wild.dds" Type="Image" GetRect="0,0,512,512"/>

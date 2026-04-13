@@ -1,0 +1,10 @@
+﻿<Texture Name="cd_crosshair_center_x" Filename="UI/texture/cd_crosshair_00.dds" Type="Image" GetRect="131,203,126,125"/>
+<Texture Name="cd_crosshair_center_x_00" Filename="UI/texture/cd_crosshair_00.dds" Type="Image" GetRect="203,128,24,68"/>
+<Texture Name="cd_crosshair_center_x_black" Filename="UI/texture/cd_crosshair_00.dds" Type="Image" GetRect="203,1,126,125"/>
+<Texture Name="cd_crosshair_img_01" Filename="UI/texture/cd_crosshair_00.dds" Type="Image" GetRect="49,461,16,31"/>
+<Texture Name="cd_crosshair_img_02" Filename="UI/texture/cd_crosshair_00.dds" Type="Image" GetRect="131,330,8,112"/>
+<Texture Name="cd_crosshair_img_03" Filename="UI/texture/cd_crosshair_00.dds" Type="Image" GetRect="1,461,46,46"/>
+<Texture Name="cd_crosshair_img_04" Filename="UI/texture/cd_crosshair_00.dds" Type="Image" GetRect="67,461,6,45"/>
+<Texture Name="cd_crosshair_lockon_00" Filename="UI/texture/cd_crosshair_00.dds" Type="Image" GetRect="1,1,200,200"/>
+<Texture Name="cd_hud_crosshair_lockon" Filename="UI/texture/cd_crosshair_00.dds" Type="Image" GetRect="1,203,128,256"/>
+

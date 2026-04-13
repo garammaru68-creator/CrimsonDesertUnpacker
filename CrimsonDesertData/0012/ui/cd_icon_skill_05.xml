@@ -1,0 +1,26 @@
+﻿<Texture Name="cd_icon_Skill_CharacterClimb" Filename="UI/texture/cd_icon_skill_05.dds" Type="Image" GetRect="1,1,200,200"/>
+<Texture Name="cd_icon_Skill_Damian_AirGrab" Filename="UI/texture/cd_icon_skill_05.dds" Type="Image" GetRect="1,203,200,200"/>
+<Texture Name="cd_icon_Skill_Damian_HeavenSpear_Expert" Filename="UI/texture/cd_icon_skill_05.dds" Type="Image" GetRect="1,405,200,200"/>
+<Texture Name="cd_icon_Skill_Damian_HeavenSpear_I" Filename="UI/texture/cd_icon_skill_05.dds" Type="Image" GetRect="1,607,200,200"/>
+<Texture Name="cd_icon_Skill_Damian_HeavenSpear_II" Filename="UI/texture/cd_icon_skill_05.dds" Type="Image" GetRect="1,809,200,200"/>
+<Texture Name="cd_icon_Skill_Damian_HeavenSpear_III" Filename="UI/texture/cd_icon_skill_05.dds" Type="Image" GetRect="203,1,200,200"/>
+<Texture Name="cd_icon_Skill_Damian_LungeCombination" Filename="UI/texture/cd_icon_skill_05.dds" Type="Image" GetRect="405,1,200,200"/>
+<Texture Name="cd_icon_Skill_Damian_ScissorsKick" Filename="UI/texture/cd_icon_skill_05.dds" Type="Image" GetRect="607,1,200,200"/>
+<Texture Name="cd_icon_Skill_Damian_ShieldThrow" Filename="UI/texture/cd_icon_skill_05.dds" Type="Image" GetRect="809,1,200,200"/>
+<Texture Name="cd_icon_Skill_Damian_SpinningKick" Filename="UI/texture/cd_icon_skill_05.dds" Type="Image" GetRect="203,203,200,200"/>
+<Texture Name="cd_icon_Skill_DashCombination" Filename="UI/texture/cd_icon_skill_05.dds" Type="Image" GetRect="203,405,200,200"/>
+<Texture Name="cd_icon_Skill_Greywolf_Detect_SuperFocus" Filename="UI/texture/cd_icon_skill_05.dds" Type="Image" GetRect="203,607,200,200"/>
+<Texture Name="cd_icon_Skill_MpRoar" Filename="UI/texture/cd_icon_skill_05.dds" Type="Image" GetRect="203,809,200,200"/>
+<Texture Name="cd_icon_Skill_Oongka_BigBoot" Filename="UI/texture/cd_icon_skill_05.dds" Type="Image" GetRect="405,203,200,200"/>
+<Texture Name="cd_icon_Skill_Oongka_EvadeExplosionShot" Filename="UI/texture/cd_icon_skill_05.dds" Type="Image" GetRect="607,203,200,200"/>
+<Texture Name="cd_icon_Skill_Oongka_GroundSmash_Expert" Filename="UI/texture/cd_icon_skill_05.dds" Type="Image" GetRect="809,203,200,200"/>
+<Texture Name="cd_icon_Skill_Oongka_GroundSmash_I" Filename="UI/texture/cd_icon_skill_05.dds" Type="Image" GetRect="405,405,200,200"/>
+<Texture Name="cd_icon_Skill_Oongka_GroundSmash_II" Filename="UI/texture/cd_icon_skill_05.dds" Type="Image" GetRect="405,607,200,200"/>
+<Texture Name="cd_icon_Skill_Oongka_GroundSmash_III" Filename="UI/texture/cd_icon_skill_05.dds" Type="Image" GetRect="405,809,200,200"/>
+<Texture Name="cd_icon_Skill_Oongka_JumpSmash" Filename="UI/texture/cd_icon_skill_05.dds" Type="Image" GetRect="607,405,200,200"/>
+<Texture Name="cd_icon_Skill_Oongka_LungeCatch" Filename="UI/texture/cd_icon_skill_05.dds" Type="Image" GetRect="809,405,200,200"/>
+<Texture Name="cd_icon_Skill_Oongka_LungeCombination" Filename="UI/texture/cd_icon_skill_05.dds" Type="Image" GetRect="607,607,200,200"/>
+<Texture Name="cd_icon_Skill_Oongka_ShieldJustGuard_Wrestle" Filename="UI/texture/cd_icon_skill_05.dds" Type="Image" GetRect="607,809,200,200"/>
+<Texture Name="cd_icon_Skill_Oongka_TurnBash_I" Filename="UI/texture/cd_icon_skill_05.dds" Type="Image" GetRect="809,607,200,200"/>
+<Texture Name="cd_icon_Skill_Oongka_TurnBash_II" Filename="UI/texture/cd_icon_skill_05.dds" Type="Image" GetRect="809,809,200,200"/>
+

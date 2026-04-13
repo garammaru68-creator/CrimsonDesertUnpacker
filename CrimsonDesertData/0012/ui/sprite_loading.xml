@@ -1,0 +1,16 @@
+﻿<Texture Name="Sprite_Loading_00" Filename="UI/texture/sprite_loading.dds" Type="Image" GetRect="1,1,197,122"/>
+<Texture Name="Sprite_Loading_01" Filename="UI/texture/sprite_loading.dds" Type="Image" GetRect="200,1,197,122"/>
+<Texture Name="Sprite_Loading_02" Filename="UI/texture/sprite_loading.dds" Type="Image" GetRect="399,1,197,122"/>
+<Texture Name="Sprite_Loading_03" Filename="UI/texture/sprite_loading.dds" Type="Image" GetRect="598,1,197,122"/>
+<Texture Name="Sprite_Loading_04" Filename="UI/texture/sprite_loading.dds" Type="Image" GetRect="797,1,197,122"/>
+<Texture Name="Sprite_Loading_05" Filename="UI/texture/sprite_loading.dds" Type="Image" GetRect="1,125,197,122"/>
+<Texture Name="Sprite_Loading_06" Filename="UI/texture/sprite_loading.dds" Type="Image" GetRect="200,125,197,122"/>
+<Texture Name="Sprite_Loading_07" Filename="UI/texture/sprite_loading.dds" Type="Image" GetRect="399,125,197,122"/>
+<Texture Name="Sprite_Loading_08" Filename="UI/texture/sprite_loading.dds" Type="Image" GetRect="598,125,197,122"/>
+<Texture Name="Sprite_Loading_09" Filename="UI/texture/sprite_loading.dds" Type="Image" GetRect="797,125,197,122"/>
+<Texture Name="Sprite_Loading_10" Filename="UI/texture/sprite_loading.dds" Type="Image" GetRect="1,249,197,122"/>
+<Texture Name="Sprite_Loading_11" Filename="UI/texture/sprite_loading.dds" Type="Image" GetRect="200,249,197,122"/>
+<Texture Name="Sprite_Loading_12" Filename="UI/texture/sprite_loading.dds" Type="Image" GetRect="399,249,197,122"/>
+<Texture Name="Sprite_Loading_13" Filename="UI/texture/sprite_loading.dds" Type="Image" GetRect="598,249,197,122"/>
+<Texture Name="Sprite_Loading_14" Filename="UI/texture/sprite_loading.dds" Type="Image" GetRect="797,249,197,122"/>
+

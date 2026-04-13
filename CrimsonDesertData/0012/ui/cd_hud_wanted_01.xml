@@ -1,0 +1,3 @@
+﻿<Texture Name="cd_wanted_bountyhunter_alert_bg_00" Filename="UI/texture/cd_hud_wanted_01.dds" Type="Image" GetRect="1,1,394,254"/>
+<Texture Name="cd_wanted_bountyhunter_alert_helmet_00" Filename="UI/texture/cd_hud_wanted_01.dds" Type="Image" GetRect="1,257,144,202"/>
+

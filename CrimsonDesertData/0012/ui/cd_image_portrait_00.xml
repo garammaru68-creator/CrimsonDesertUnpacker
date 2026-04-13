@@ -1,0 +1,740 @@
+﻿<!-- 회색갈기 -->
+<Texture Name="cd_portraitimage_Knowledge_Kliff" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Chracter_Kliff.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_OldKliff" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_OldKliff.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Oongka" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Chracter_Oongka.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Yann" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Yann.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Nairah" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Nairah.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Dwayne" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Dwayne.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Boris" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Boris.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Ludvig" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Ludvig.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Paulus" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Paulus.dds" Type="Image" GetRect="127,37,256,256"/>
+
+<!-- Greyfur 지식파일에서 일괄 작성-->
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Marius" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Marius.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Carl" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Carl.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Ronnie" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Ronnie.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Russo" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Russo.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Sven" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Sven.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Ethan" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Ethan.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Martin" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Martin.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Ed" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Ed.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Delic" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Delic.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Oliver" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Oliver.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Eric" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Eric.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Kamu" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Kamu.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Ben" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Ben.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Brice" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Brice.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Connor" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Connor.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Iron" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Iron.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Austin" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Austin.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Marie_Camp" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Marie_Camp.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Matilda" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Matilda.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Mauro" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Mauro.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Lorenzo_Camp" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Lorenzo_Camp.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Alec" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Alec.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_William" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_William.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Heinz" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Heinz.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Deaf" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Deaf.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Gilbert" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Gilbert.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Max" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Max.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Silvan" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Silvan.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Terry" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Terry.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Ryan" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Ryan.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Lars" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Lars.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Pierce" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Pierce.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Luceran" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Luceran.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Colton" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Colton.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Velos" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Velos.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Andrew" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Andrew.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Arnold" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Arnold.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Lucius" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Lucius.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Johan" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Johan.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Kenneth" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Kenneth.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Duncan" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Duncan.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Fred" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Fred.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Anders" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Anders.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Wybert" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Wybert.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Brown" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Brown.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Niall" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Niall.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Aldric" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Aldric.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Luke" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Luke.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Gerald" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Gerald.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Vernon" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Vernon.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Xavier" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Xavier.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Ronald" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Ronald.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Fritz" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Fritz.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Otto" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Otto.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Bram" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_GreyFur_Bram.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Richard" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_GreyFur_Richard.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Gunnar" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_GreyFur_Gunnar.dds" Type="Image" GetRect="127,37,256,256"/>
+
+
+<!-- <Texture Name="cd_portraitimage_Knowledge_GreyFur_Marius" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Marius.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Iron" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Iron.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Austin" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Austin.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Eric" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Eric.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Ethan" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Ethan.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Kamu" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Kamu.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Martin" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Martin.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Sven" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Sven.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Shane" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Shane.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Shane_Camp" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Shane_Camp.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Carl" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Carl.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Ronnie" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Ronnie.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Ed" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Ed.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Delic" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Delic.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Oliver" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Oliver.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Russo" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Russo.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Ziane" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Ziane.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Marie_Camp" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Marie_Camp.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Matilda" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Matilda.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Mauro" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Mauro.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Lorenzo_Camp" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Lorenzo_Camp.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Alec" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Alec.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_William" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_William.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Heinz" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Heinz.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Deaf" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Deaf.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Gilbert" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Gilbert.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Max" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Max.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Silvan" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Silvan.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Terry" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Terry.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Ryan" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Ryan.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Lars" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Lars.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Pierce" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Pierce.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Luceran" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Luceran.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Cockt" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Cockt.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Velos" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Velos.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Luigi" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Luigi.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Andrew" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Andrew.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Arnold" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Arnold.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Lucius" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Lucius.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Giorgio" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Giorgio.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Johan" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Johan.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Karen" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Karen.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Duncan" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Duncan.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Fred" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Fred.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Anders" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Anders.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Grey" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Grey.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Ben" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Ben.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Brown" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Brown.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Boar" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Boar.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Aldric" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Aldric.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Luke" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Luke.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Ingbert" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Ingbert.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Vittorio" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Vittorio.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Xavier" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Xavier.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Romeo" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Romeo.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Ricardo" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Ricardo.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GreyFur_Karl" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Karl.dds" Type="Image" GetRect="127,37,256,256"/> -->
+<!-- <Texture Name="cd_portraitimage_Knowledge_Elai" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Elai.dds" Type="Image" GetRect="127,37,256,256"/> -->
+<!-- <Texture Name="cd_portraitimage_Knowledge_Evril" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Evril.dds" Type="Image" GetRect="127,37,256,256"/> -->
+
+<Texture Name="cd_portraitimage_Knowledge_Myordin" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Myordin.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Demian" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Chracter_Demian.dds" Type="Image" GetRect="119,46,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Plais" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Plais.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Caliburn" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Caliburn.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Alan_Serkis" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Alan_Serkis.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Nail_Demeniss" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Nail_Demeniss.dds" Type="Image" GetRect="127,37,256,256"/>
+<!-- <Texture Name="cd_portraitimage_Knowledge_Draper_Wells" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Draper_Wells.dds" Type="Image" GetRect="127,37,256,256"/> -->
+<Texture Name="cd_portraitimage_Knowledge_Barden_Midler" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Barden_Midler.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Talk_Belkadas" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Talk_Belkadas.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Marni" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Marni.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Thompson" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Thompson.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Charles_Selester" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Charles_Selester.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Rett" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Rett.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Lopez" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Lopez.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Stephen_Bliss" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Stephen_Bliss.dds" Type="Image" GetRect="127,37,256,256"/>
+<!-- <Texture Name="cd_portraitimage_Knowledge_Harper_Selester" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Harper_Selester.dds" Type="Image" GetRect="127,37,256,256"/> -->
+<Texture Name="cd_portraitimage_Knowledge_Bremer" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Bremer.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Ivano" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Ivano.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Digman" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Digman.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Draven" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Draven.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Marina" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Marina.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Matthias" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Matthias.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Willian" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Willian.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Hubert" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Hubert.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_CatManager" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_CatManager.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Lauren" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Lauren.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Arlan" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Arlan.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Grimnir" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Grimnir.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_WhiteCrow_Witch" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_WhiteCrow_Witch.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Bilwise" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Bilwise.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Tanya" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Tanya.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Witch_Megu" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Witch_Megu.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Witch_Usa" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Witch_Usa.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Josephine" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Josephine.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Calis" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Calis.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Basteer" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Basteer.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Elimore" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Elimore.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Warehouse_Goblin" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Warehouse_Goblin.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Quack" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Quack.dds" Type="Image" GetRect="127,37,256,256"/>
+<!-- <Texture Name="cd_portraitimage_Knowledge_Demeniss_Witch" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Demeniss_Witch.dds" Type="Image" GetRect="127,37,256,256"/> -->
+<!-- <Texture Name="cd_portraitimage_Knowledge_Troll_University_Spy" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Troll_University_Spy.dds" Type="Image" GetRect="127,37,256,256"/> -->
+<!-- <Texture Name="cd_portraitimage_Knowledge_Crocodile_Village_Goblin" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Crocodile_Village_Goblin.dds" Type="Image" GetRect="127,37,256,256"/> -->
+<!-- <Texture Name="cd_portraitimage_Knowledge_CircusMaster_Goblin" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_CircusMaster_Goblin.dds" Type="Image" GetRect="127,37,256,256"/> -->
+<Texture Name="cd_portraitimage_Knowledge_Cyclops" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Cyclops.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Talk_Octabus" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Talk_Octabus.dds" Type="Image" GetRect="127,37,256,256"/>
+<!-- <Texture Name="cd_portraitimage_Knowledge_DeerKing" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_DeerKing.dds" Type="Image" GetRect="127,37,256,256"/> -->
+<Texture Name="cd_portraitimage_Knowledge_Primus" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Primus.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_OrcuMer" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_OrcuMer.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Boss_AntumbraArchon" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Boss_AntumbraArchon.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_MazzultheDarkJusticiar" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_MazzultheDarkJusticiar.dds" Type="Image" GetRect="127,37,256,256"/>
+
+
+
+
+
+<!-- 대표NPC 에르난드 -->
+<Texture Name="cd_portraitimage_Knowledge_Unique_Richard" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Richard.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Tarmol" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Tarmol.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Puzzle_Library" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Puzzle_Library.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_CountGrace" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_CountGrace.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Folorine_Chief" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Folorine_Chief.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Sir_Catfish" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Sir_Catfish.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Anselm" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Anselm.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Groknash" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Groknash.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Halsius" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Halsius.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Adelmus" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Adelmus.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Walter_Bliss" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Walter_Bliss.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Hemon_Vindel" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Hemon_Vindel.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Nameless_Sage" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Nameless_Sage.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Tristan" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Tristan.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Walter" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Walter.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_John" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_John.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_NTM_Unique_Suspicious_Troll_Scholarsouth_470" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_NTM_Unique_Suspicious_Troll_Scholarsouth_470.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Lukas" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Lukas.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_FredericFelix" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_FredericFelix.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Alfonso" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Alfonso.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Natah" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Natah.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Adele" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Adele.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Gruntoka" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Gruntoka.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Tobias" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Tobias.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Jerome" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Jerome.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Francis" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Francis.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Martin" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Martin.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_David" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_David.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Blynhilde" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Blynhilde.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_SizlektheInsatiable" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_SizlektheInsatiable.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Bridie_Gu" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Bridie_Gu.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_ReedDevil" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_ReedDevil.dds" Type="Image" GetRect="127,37,256,256"/>
+
+<!-- 에르난드 접선책 -->
+<Texture Name="cd_portraitimage_Knowledge_Ferdinand" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Ferdinand.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Erich" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Erich.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Raul" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Raul.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Michael" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Michael.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Christopher" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Christopher.dds" Type="Image" GetRect="127,37,256,256"/>
+
+
+
+<!-- 대표NPC 크웨이덴 -->
+<Texture Name="cd_portraitimage_Knowledge_Unique_Nordri" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Nordri.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Henry" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Henry.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Haldor" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Haldor.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Bjorn" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Bjorn.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Magnus" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Magnus.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Olaf" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Olaf.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Ulfgar" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Ulfgar.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Eloria" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Eloria.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_TheForgottenGeneral" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_TheForgottenGeneral.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Tolstein" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Tolstein.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Agnarr" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Agnarr.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Titan_Boss" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Titan_Boss.dds" Type="Image" GetRect="127,37,256,256"/>
+
+<!-- 대표NPC 데메니스 -->
+<Texture Name="cd_portraitimage_Knowledge_Unique_Leonard" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Leonard.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Grakthar" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Grakthar.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Theobald" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Theobald.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Braktur" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Braktur.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Bernardus" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Bernardus.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_JiJeong" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_JiJeong.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Braktul" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Braktul.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Righteous_Arrows" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Righteous_Arrows.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_WellsSolider_Leader" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_WellsSolider_Leader.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Drake_Wells" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Drake_Wells.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Borgrum" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Borgrum.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Rahului_1" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Rahului_1.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Azureian" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Azureian.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Marseille" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Marseille.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_TheScarletExcecutioner" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_TheScarletExcecutioner.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Byron" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Byron.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Hexe_Marie" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Hexe_Marie.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GregortheHalberdofCarnage" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GregortheHalberdofCarnage.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Alfric" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Alfric.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_NivalistheFrostwarden" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_NivalistheFrostwarden.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_MoonHead" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_MoonHead.dds" Type="Image" GetRect="127,37,256,256"/>
+
+<!-- 대표NPC 델레시안 -->
+<Texture Name="cd_portraitimage_Knowledge_Unique_Philip" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Philip.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Durgash" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Durgash.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Gawain" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Gawain.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Order_Delesyian_Leader" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Order_Delesyian_Leader.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Thomas" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Thomas.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Zimrax" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Zimrax.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GoldenMaskMan_AIMarni" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GoldenMaskMan_AIMarni.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Alaric" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Alaric.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Brynn" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Brynn.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Cordelia" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Cordelia.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Valgash" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Valgash.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_BalthazarWyrmspeaker" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_BalthazarWyrmspeaker.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Faust" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Faust.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Mirella" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Mirella.dds" Type="Image" GetRect="127,37,256,256"/>
+
+<!-- 대표NPC 붉은사막 -->
+<Texture Name="cd_portraitimage_Knowledge_Unique_James" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_James.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Roland" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Roland.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Wulfstan" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Wulfstan.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Pikscratch" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Pikscratch.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Gerald" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Gerald.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Gazrak" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Gazrak.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Gobline_Rider_Boss" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Gobline_Rider_Boss.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Troll_Rider" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Troll_Rider.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Cuthbert" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Cuthbert.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Leofric" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Leofric.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Patuno" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Patuno.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Joffel" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Joffel.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Muscan_Boss" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Muscan_Boss.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_HyenaRider" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_HyenaRider.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Goblin_Master" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Goblin_Master.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Karim" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Karim.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Qayar" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Qayar.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Fadul" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Fadul.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Durnan" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Durnan.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Majru" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Majru.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Janta" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Janta.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Mira" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Mira.dds" Type="Image" GetRect="127,37,256,256"/>
+
+<!-- 대표NPC 타협없는 방패 -->
+<Texture Name="cd_portraitimage_Knowledge_Unique_Stefan_Bleed" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Stefan_Bleed.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_DeerKing" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_DeerKing.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_DarkKing" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_DarkKing.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Silver_Armor_Boss" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Silver_Armor_Boss.dds" Type="Image" GetRect="127,37,256,256"/>
+
+
+<!-- 미지정 -->
+<Texture Name="cd_portraitimage_Knowledge_unknown_mercenary" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_unknown_mercenary.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unknown_Portrait" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unknown_Portrait.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="CD_PortraitImage_NHM_Unique_Robot_Worker_1" Filename="UI/texture/Image/Portraitimage/CD_PortraitImage_NHM_Unique_Robot_Worker_1.dds" Type="Image" GetRect="0,0,256,256"/>
+
+
+
+<!-- 몬스터/동물 -->
+<Texture Name="cd_portraitimage_Knowledge_Caelum_MkII" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Caelum_MkII.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Remus_MkIX" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Remus_MkIX.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Halvius_MkIV" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Halvius_MkIV.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Wardenator_MkXII" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Wardenator_MkXII.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Marni_MiningMachine_OneHandFist" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Marni_MiningMachine_OneHandFist.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Steeljaw_MkIII" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Steeljaw_MkIII.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_WoodenDeeer" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_WoodenDeeer.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GiantSnake" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GiantSnake.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Boss_Hyena" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Boss_Hyena.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_QueenSpider" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_QueenSpider.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Karanda" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Karanda.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_WhiteHorn" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_WhiteHorn.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_Varnia_Dragon" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Varnia_Dragon.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_VordistheFormshaken" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_VordistheFormshaken.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Drylands_Golem" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Drylands_Golem.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_Unique_LandSpider_Queen" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_LandSpider_Queen.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_LandSpider_BismuthQueen" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_LandSpider_BismuthQueen.dds" Type="Image" GetRect="127,37,256,256"/>
+<Texture Name="cd_portraitimage_Knowledge_GarnierTroupeMecharnival" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GarnierTroupeMecharnival.dds" Type="Image" GetRect="127,37,256,256"/>
+
+<!-- 가축 동물 -->
+<Texture Name="cd_mercenary_portrait_Domestic_Animal_Domestic_Duck_Domestic_30151" Filename="UI/texture/Image/Portraitimage/cd_mercenary_portrait_Domestic_Animal_Domestic_Duck_Domestic_30151.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_mercenary_portrait_Domestic_Animal_Domestic_DuckFemale_Domestic_1" Filename="UI/texture/Image/Portraitimage/cd_mercenary_portrait_Domestic_Animal_Domestic_DuckFemale_Domestic_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_mercenary_portrait_Domestic_Animal_Goat_Domestic_30027" Filename="UI/texture/Image/Portraitimage/cd_mercenary_portrait_Domestic_Animal_Goat_Domestic_30027.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_mercenary_portrait_Domestic_Animal_GoatFemale_Domestic_1" Filename="UI/texture/Image/Portraitimage/cd_mercenary_portrait_Domestic_Animal_GoatFemale_Domestic_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_mercenary_portrait_domestic_animal_kid_domestic_30109" Filename="UI/texture/Image/Portraitimage/cd_mercenary_portrait_domestic_animal_kid_domestic_30109.dds" Type="Image" GetRect="0,0,256,256"/>
+
+<Texture Name="cd_mercenary_portrait_Domestic_Animal_Hen_Domestic_30023" Filename="UI/texture/Image/Portraitimage/cd_mercenary_portrait_Domestic_Animal_Hen_Domestic_30023.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_mercenary_portrait_Domestic_Animal_MilkCow_Domestic_30028" Filename="UI/texture/Image/Portraitimage/cd_mercenary_portrait_Domestic_Animal_MilkCow_Domestic_30028.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_mercenary_portrait_Domestic_Animal_MilkCow_Domestic_32308" Filename="UI/texture/Image/Portraitimage/cd_mercenary_portrait_Domestic_Animal_MilkCow_Domestic_32308.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_mercenary_portrait_Domestic_Animal_PigFemale_Wild_1" Filename="UI/texture/Image/Portraitimage/cd_mercenary_portrait_Domestic_Animal_PigFemale_Wild_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_mercenary_portrait_Domestic_Animal_Rooster_Domestic_30015" Filename="UI/texture/Image/Portraitimage/cd_mercenary_portrait_Domestic_Animal_Rooster_Domestic_30015.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_mercenary_portrait_Domestic_Animal_Sheep_Domestic_30026" Filename="UI/texture/Image/Portraitimage/cd_mercenary_portrait_Domestic_Animal_Sheep_Domestic_30026.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_mercenary_portrait_Domestic_Animal_SheepFemale_Domestic_1" Filename="UI/texture/Image/Portraitimage/cd_mercenary_portrait_Domestic_Animal_SheepFemale_Domestic_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_mercenary_portrait_Domestic_Animal_Jindodog_Domestic_1" Filename="UI/texture/Image/Portraitimage/cd_mercenary_portrait_Domestic_Animal_Jindodog_Domestic_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_mercenary_portrait_Animal_Baby_MilkCow_Domestic_32399" Filename="UI/texture/Image/Portraitimage/cd_mercenary_portrait_Animal_Baby_MilkCow_Domestic_32399.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_mercenary_portrait_Animal_Baby_Pig_Wild_32219" Filename="UI/texture/Image/Portraitimage/cd_mercenary_portrait_Animal_Baby_Pig_Wild_32219.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_mercenary_portrait_Animal_Lamb_Domestic_31178" Filename="UI/texture/Image/Portraitimage/cd_mercenary_portrait_Animal_Lamb_Domestic_31178.dds" Type="Image" GetRect="0,0,256,256"/>
+
+
+<!-- 250613특수 탈것 -->
+<Texture Name="cd_mercenary_portrait_Domestic_Animal_Riding_AlpineIbex_1" Filename="UI/texture/Image/Portraitimage/cd_mercenary_portrait_Domestic_Animal_Riding_AlpineIbex_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_mercenary_portrait_Domestic_Animal_Riding_Bear_1" Filename="UI/texture/Image/Portraitimage/cd_mercenary_portrait_Domestic_Animal_Riding_Bear_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_mercenary_portrait_Domestic_Animal_Riding_Camel_1" Filename="UI/texture/Image/Portraitimage/cd_mercenary_portrait_Domestic_Animal_Riding_Camel_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_mercenary_portrait_Domestic_Animal_Riding_CarmaBirdsaurus_1" Filename="UI/texture/Image/Portraitimage/cd_mercenary_portrait_Domestic_Animal_Riding_CarmaBirdsaurus_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_mercenary_portrait_Domestic_Animal_Riding_Cucubird_1" Filename="UI/texture/Image/Portraitimage/cd_mercenary_portrait_Domestic_Animal_Riding_Cucubird_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_mercenary_portrait_Domestic_Animal_Riding_Deer_1" Filename="UI/texture/Image/Portraitimage/cd_mercenary_portrait_Domestic_Animal_Riding_Deer_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_mercenary_portrait_Domestic_Animal_Riding_Dragon_1" Filename="UI/texture/Image/Portraitimage/cd_mercenary_portrait_Domestic_Animal_Riding_Dragon_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_mercenary_portrait_Domestic_Animal_Riding_Iguana_1" Filename="UI/texture/Image/Portraitimage/cd_mercenary_portrait_Domestic_Animal_Riding_Iguana_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_mercenary_portrait_Domestic_Animal_Riding_Troll_1" Filename="UI/texture/Image/Portraitimage/cd_mercenary_portrait_Domestic_Animal_Riding_Troll_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_mercenary_portrait_Domestic_Animal_Riding_WarMachine_1" Filename="UI/texture/Image/Portraitimage/cd_mercenary_portrait_Domestic_Animal_Riding_WarMachine_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_mercenary_portrait_Domestic_Animal_Riding_Warthog_1" Filename="UI/texture/Image/Portraitimage/cd_mercenary_portrait_Domestic_Animal_Riding_Warthog_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_mercenary_portrait_Domestic_Animal_Riding_Wolf_1" Filename="UI/texture/Image/Portraitimage/cd_mercenary_portrait_Domestic_Animal_Riding_Wolf_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_mercenary_portrait_Domestic_Animal_Riding_Wyvern_1" Filename="UI/texture/Image/Portraitimage/cd_mercenary_portrait_Domestic_Animal_Riding_Wyvern_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_mercenary_portrait_Riding_airballoon" Filename="UI/texture/Image/Portraitimage/cd_mercenary_portrait_Riding_airballoon.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_mercenary_portrait_Domestic_Animal_Riding_Cucubird_3" Filename="UI/texture/Image/Portraitimage/cd_mercenary_portrait_Domestic_Animal_Riding_Cucubird_3.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_mercenary_portrait_Domestic_Animal_Riding_Iguana_2" Filename="UI/texture/Image/Portraitimage/cd_mercenary_portrait_Domestic_Animal_Riding_Iguana_2.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_mercenary_portrait_Domestic_Animal_Riding_Elephant_1" Filename="UI/texture/Image/Portraitimage/cd_mercenary_portrait_Domestic_Animal_Riding_Elephant_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_mercenary_portrait_Domestic_Animal_Riding_Machine_Bear_1" Filename="UI/texture/Image/Portraitimage/cd_mercenary_portrait_Domestic_Animal_Riding_Machine_Bear_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_mercenary_portrait_Domestic_Animal_Riding_Machine_CarmaBirdsaurus_1" Filename="UI/texture/Image/Portraitimage/cd_mercenary_portrait_Domestic_Animal_Riding_Machine_CarmaBirdsaurus_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_mercenary_portrait_Domestic_Animal_Riding_ATAG_1" Filename="UI/texture/Image/Portraitimage/cd_mercenary_portrait_Domestic_Animal_Riding_ATAG_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_mercenary_portrait_Domestic_Animal_Riding_ATAG_2" Filename="UI/texture/Image/Portraitimage/cd_mercenary_portrait_Domestic_Animal_Riding_ATAG_2.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_mercenary_portrait_Domestic_Animal_Riding_ATAG_3" Filename="UI/texture/Image/Portraitimage/cd_mercenary_portrait_Domestic_Animal_Riding_ATAG_3.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_mercenary_portrait_Domestic_Animal_Small_ATAG" Filename="UI/texture/Image/Portraitimage/cd_mercenary_portrait_Domestic_Animal_Small_ATAG.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_mercenary_portrait_Domestic_Animal_Ride_Wild_30376" Filename="UI/texture/Image/Portraitimage/cd_mercenary_portrait_Domestic_Animal_Ride_Wild_30376.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Riding_Deer_1001" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Riding_Deer_1001.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Riding_Bear_1001" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Riding_Bear_1001.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Riding_Wolf_1001" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Riding_Wolf_1001.dds" Type="Image" GetRect="0,0,256,256"/>
+
+
+
+<Texture Name="cd_portraitimage_NHM_Unique_Tournament_Spear_1" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_NHM_Unique_Tournament_Spear_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_NOM_Unique_Tournament_OneHandSword_2" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_NOM_Unique_Tournament_OneHandSword_2.dds" Type="Image" GetRect="0,0,256,256"/>
+
+
+
+<!-- 2500922 도박꾼_섯다 -->
+<Texture Name="CD_PortraitImage_NHM_Seotda_Player" Filename="UI/texture/Image/Portraitimage/CD_PortraitImage_NHM_Seotda_Player.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="CD_PortraitImage_NHM_Seotda_Player_1" Filename="UI/texture/Image/Portraitimage/CD_PortraitImage_NHM_Seotda_Player_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="CD_PortraitImage_NHM_Seotda_Player_2" Filename="UI/texture/Image/Portraitimage/CD_PortraitImage_NHM_Seotda_Player_2.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="CD_PortraitImage_NHM_Seotda_Player_3" Filename="UI/texture/Image/Portraitimage/CD_PortraitImage_NHM_Seotda_Player_3.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="CD_PortraitImage_NHM_Seotda_Player_4" Filename="UI/texture/Image/Portraitimage/CD_PortraitImage_NHM_Seotda_Player_4.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="CD_PortraitImage_NHM_Seotda_Player_5" Filename="UI/texture/Image/Portraitimage/CD_PortraitImage_NHM_Seotda_Player_5.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="CD_PortraitImage_NHM_Seotda_Player_6" Filename="UI/texture/Image/Portraitimage/CD_PortraitImage_NHM_Seotda_Player_6.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="CD_PortraitImage_NHM_Seotda_Player_7" Filename="UI/texture/Image/Portraitimage/CD_PortraitImage_NHM_Seotda_Player_7.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="CD_PortraitImage_NHM_Seotda_Player_8" Filename="UI/texture/Image/Portraitimage/CD_PortraitImage_NHM_Seotda_Player_8.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="CD_PortraitImage_NHM_Seotda_Player_9" Filename="UI/texture/Image/Portraitimage/CD_PortraitImage_NHM_Seotda_Player_9.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="CD_PortraitImage_NHM_Seotda_Player_10" Filename="UI/texture/Image/Portraitimage/CD_PortraitImage_NHM_Seotda_Player_10.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="CD_PortraitImage_NHM_Seotda_Player_11" Filename="UI/texture/Image/Portraitimage/CD_PortraitImage_NHM_Seotda_Player_11.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="CD_PortraitImage_NHM_Noble_Seotda_Player_1" Filename="UI/texture/Image/Portraitimage/CD_PortraitImage_NHM_Noble_Seotda_Player_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="CD_PortraitImage_NHM_Noble_Seotda_Player_2" Filename="UI/texture/Image/Portraitimage/CD_PortraitImage_NHM_Noble_Seotda_Player_2.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="CD_PortraitImage_NHM_Noble_Seotda_Player_3" Filename="UI/texture/Image/Portraitimage/CD_PortraitImage_NHM_Noble_Seotda_Player_3.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="CD_PortraitImage_NHM_Wandering_Mercenary_Seotda_Player_1" Filename="UI/texture/Image/Portraitimage/CD_PortraitImage_NHM_Wandering_Mercenary_Seotda_Player_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="CD_PortraitImage_NHM_Wandering_Mercenary_Seotda_Player_2" Filename="UI/texture/Image/Portraitimage/CD_PortraitImage_NHM_Wandering_Mercenary_Seotda_Player_2.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="CD_PortraitImage_NHM_Wandering_Mercenary_Seotda_Player_3" Filename="UI/texture/Image/Portraitimage/CD_PortraitImage_NHM_Wandering_Mercenary_Seotda_Player_3.dds" Type="Image" GetRect="0,0,256,256"/>
+
+<!-- 미니게임 -->
+<Texture Name="cd_portraitimage_nhm_wandering_mercenary_swordshield_50810" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_nhm_wandering_mercenary_swordshield_50810.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_nom_wandering_mercenary_54645" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_nom_wandering_mercenary_54645.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_nom_tomaso_soldiers_dualdagger_53778" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_nom_tomaso_soldiers_dualdagger_53778.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_nom_tomaso_soldiers_swordshield_53777" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_nom_tomaso_soldiers_swordshield_53777.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_nom_tomaso_soldiers_onehanddagger_53771" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_nom_tomaso_soldiers_onehanddagger_53771.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_nhm_unique_champion_swordshield_1" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_nhm_unique_champion_swordshield_1.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_nhm_wandering_mercenary_twohandspear_50804" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_nhm_wandering_mercenary_twohandspear_50804.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_nhm_wandering_mercenary_twohandspear_58033" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_nhm_wandering_mercenary_twohandspear_58033.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_nhm_wandering_mercenary_twohandspear_500782" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_nhm_wandering_mercenary_twohandspear_500782.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_nhm_hernand_soldiers_twohandspear_53202" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_nhm_hernand_soldiers_twohandspear_53202.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_nhm_hernand_soldiers_twohandspear_53207" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_nhm_hernand_soldiers_twohandspear_53207.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_nhm_hernand_soldiers_twohandspear_53221" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_nhm_hernand_soldiers_twohandspear_53221.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_nhm_unique_champion_twohandspear_1" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_nhm_unique_champion_twohandspear_1.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_nhm_wandering_mercenary_54635" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_nhm_wandering_mercenary_54635.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_nhm_wandering_mercenary_onehandaxe_54634" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_nhm_wandering_mercenary_onehandaxe_54634.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_nhm_wandering_mercenary_54632" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_nhm_wandering_mercenary_54632.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_nhm_wandering_mercenary_onehandsword_54616" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_nhm_wandering_mercenary_onehandsword_54616.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_nom_wandering_mercenary_dualaxe_54627" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_nom_wandering_mercenary_dualaxe_54627.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_nom_wandering_mercenary_twohandaxe_54626" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_nom_wandering_mercenary_twohandaxe_54626.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_nhm_wandering_mercenary_twohandsword_50802" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_nhm_wandering_mercenary_twohandsword_50802.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_nhm_wandering_mercenary_onehandsword_58006" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_nhm_wandering_mercenary_onehandsword_58006.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_nhm_wandering_mercenary_onehandsword_58007" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_nhm_wandering_mercenary_onehandsword_58007.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_nhm_wandering_mercenary_onehandmace_58008" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_nhm_wandering_mercenary_onehandmace_58008.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_nom_wandering_mercenary_twohandaxe_58027" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_nom_wandering_mercenary_twohandaxe_58027.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_nom_wandering_mercenary_twohandaxe_58025" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_nom_wandering_mercenary_twohandaxe_58025.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_nhm_wandering_mercenary_dualaxe_58023" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_nhm_wandering_mercenary_dualaxe_58023.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_nhm_wandering_mercenary_swordshield_500777" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_nhm_wandering_mercenary_swordshield_500777.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_nhm_wandering_mercenary_onehanddagger_54607" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_nhm_wandering_mercenary_onehanddagger_54607.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_nhm_wandering_mercenary_onehandmace_58004" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_nhm_wandering_mercenary_onehandmace_58004.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_nhm_wandering_mercenary_onehandsword_50824" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_nhm_wandering_mercenary_onehandsword_50824.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_nhm_wandering_mercenary_twohandsword_54608" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_nhm_wandering_mercenary_twohandsword_54608.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_nom_wandering_mercenary_dualaxe_54613" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_nom_wandering_mercenary_dualaxe_54613.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_nhm_wandering_mercenary_swordshield_54609" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_nhm_wandering_mercenary_swordshield_54609.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_nhm_unique_champion_onehandaxe_1" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_nhm_unique_champion_onehandaxe_1.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_nhm_seotda_player_13" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_nhm_seotda_player_13.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_nhm_seotda_player_12" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_nhm_seotda_player_12.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_NHM_Unique_Champion_OneHandMace_1" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_NHM_Unique_Champion_OneHandMace_1.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_NHM_Unique_Champion_OneHandSword_1" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_NHM_Unique_Champion_OneHandSword_1.DDS" Type="Image" GetRect="0,0,256,256"/>
+
+<!-- 260119_미니게임 -->
+<Texture Name="CD_PortraitImage_NHM_Wandering_Mercenary_OneHandMusket_03" Filename="UI/texture/Image/Portraitimage/CD_PortraitImage_NHM_Wandering_Mercenary_OneHandMusket_03.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="CD_PortraitImage_NHM_Wandering_Mercenary_OneHandMusket_02" Filename="UI/texture/Image/Portraitimage/CD_PortraitImage_NHM_Wandering_Mercenary_OneHandMusket_02.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_NHM_Wandering_Mercenary_OneHandMusket_01" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_NHM_Wandering_Mercenary_OneHandMusket_01.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="CD_PortraitImage_NHM_Soldier_Sheriff_OneHandMusket_04" Filename="UI/texture/Image/Portraitimage/CD_PortraitImage_NHM_Soldier_Sheriff_OneHandMusket_04.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="CD_PortraitImage_NHM_Soldier_Sheriff_OneHandMusket_03" Filename="UI/texture/Image/Portraitimage/CD_PortraitImage_NHM_Soldier_Sheriff_OneHandMusket_03.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="CD_PortraitImage_NHM_Unique_Champion_OneHandMusket_1" Filename="UI/texture/Image/Portraitimage/CD_PortraitImage_NHM_Unique_Champion_OneHandMusket_1.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="CD_PortraitImage_NHM_Unique_Champion_Bow_1" Filename="UI/texture/Image/Portraitimage/CD_PortraitImage_NHM_Unique_Champion_Bow_1.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="CD_PortraitImage_NHM_Wandering_Mercenary_OneHandBow_58035" Filename="UI/texture/Image/Portraitimage/CD_PortraitImage_NHM_Wandering_Mercenary_OneHandBow_58035.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_NHM_Wandering_Mercenary_BowDagger_58016" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_NHM_Wandering_Mercenary_BowDagger_58016.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_NHM_Wandering_Mercenary_BowDagger_58015" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_NHM_Wandering_Mercenary_BowDagger_58015.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_NHM_Soldier_Sheriff_OneHandBow_3178" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_NHM_Soldier_Sheriff_OneHandBow_3178.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_NHM_Hernand_Soldiers_OneHandBow_53219" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_NHM_Hernand_Soldiers_OneHandBow_53219.DDS" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="CD_PortraitImage_NHM_Soldier_Sheriff_OneHandMusket_01" Filename="UI/texture/Image/Portraitimage/CD_PortraitImage_NHM_Soldier_Sheriff_OneHandMusket_01.DDS" Type="Image" GetRect="0,0,256,256"/>
+
+
+
+<!-- 260107_동물 -->
+<!-- 새 -->
+<!-- <Texture Name="CD_PortraitImage_Knowledge_Crow" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Crow.dds" Type="Image" Getrect="94,77,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_CitronCockatoo" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_CitronCockatoo.dds" Type="Image" Getrect="108,87,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_Collared_Dove" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Collared_Dove.dds" Type="Image" Getrect="110,83,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_Cuckoo" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Cuckoo.dds" Type="Image" Getrect="110,83,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_EclectusParrot" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_EclectusParrot.dds" Type="Image" Getrect="92,52,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_Parrot" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Parrot.dds" Type="Image" Getrect="94,67,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_GrayParrot" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GrayParrot.dds" Type="Image" Getrect="115,66,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_Pigeon" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Pigeon.dds" Type="Image" Getrect="102,76,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_RoseringedParakeet" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_RoseringedParakeet.dds" Type="Image" Getrect="102,76,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_Seagull" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Seagull.dds" Type="Image" Getrect="102,76,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_SpixsMacaw" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_SpixsMacaw.dds" Type="Image" Getrect="110,80,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_Sterna" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Sterna.dds" Type="Image" Getrect="136,141,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_SunConure" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_SunConure.dds" Type="Image" Getrect="101,74,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_SyrrhaptesParadoxus" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_SyrrhaptesParadoxus.dds" Type="Image" Getrect="93,83,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_EuropeanPartridge" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_EuropeanPartridge.dds" Type="Image" Getrect="107,77,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_Fulica" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Fulica.dds" Type="Image" Getrect="128,114,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_kakapo" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_kakapo.dds" Type="Image" Getrect="128,102,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_Little_Grebe" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Little_Grebe.dds" Type="Image" Getrect="128,84,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_Mesite" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Mesite.dds" Type="Image" Getrect="106,110,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_Pheasant" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Pheasant.dds" Type="Image" Getrect="137,93,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_Takahe" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Takahe.dds" Type="Image" Getrect="136,144,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_Watercock" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Watercock.dds" Type="Image" Getrect="121,99,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_Kiwi_Bird" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Kiwi_Bird.dds" Type="Image" Getrect="121,101,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_BlackDuck" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_BlackDuck.dds" Type="Image" Getrect="106,53,256,256"/>
+<Texture Name="CD_PortraitImage_knowledge_desert_goose" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_knowledge_desert_goose.dds" Type="Image" Getrect="98,65,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_Duck" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Duck.dds" Type="Image" Getrect="100,67,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_GaviaStellata" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GaviaStellata.dds" Type="Image" Getrect="123,62,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_Goose" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Goose.dds" Type="Image" Getrect="108,64,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_MallardDuck" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_MallardDuck.dds" Type="Image" Getrect="123,64,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_Mergellus" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Mergellus.dds" Type="Image" Getrect="114,49,256,256"/>
+<Texture Name="CD_PortraitImage_knowledge_pygmy_teal" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_knowledge_pygmy_teal.dds" Type="Image" Getrect="104,52,256,256"/>
+<Texture Name="CD_PortraitImage_knowledge_RuddyshelDuck" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_RuddyshelDuck.dds" Type="Image" Getrect="128,57,256,256"/>
+<Texture Name="CD_PortraitImage_knowledge_whistling_duck" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_knowledge_whistling_duck.dds" Type="Image" Getrect="110,83,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_WhiteBilled_Loon" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_WhiteBilled_Loon.dds" Type="Image" Getrect="120,64,256,256"/> -->
+
+<!-- 동물 -->
+<!-- <Texture Name="CD_PortraitImage_Knowledge_Wolf" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Wolf.dds" Type="Image" GetRect="72,89,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_Coyote" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Coyote.dds" Type="Image" GetRect="72,46,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_Legend_SilverFangs" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_SilverFangs.dds" Type="Image" GetRect="122,103,256,256"/>
+<Texture Name="CD_PortraitImage_knowledge_puma" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_knowledge_puma.dds" Type="Image" GetRect="89,99,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_Leopard_I" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Leopard_I.dds" Type="Image" GetRect="73,99,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_Hyena" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Hyena.dds" Type="Image" GetRect="73,107,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_Badger" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Badger.dds" Type="Image" GetRect="61,165,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_Beaver" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Beaver.dds" Type="Image" GetRect="101,162,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_Platypus" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Platypus.dds" Type="Image" GetRect="59,180,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_Racoon" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Racoon.dds" Type="Image" GetRect="64,144,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_Skunk" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Skunk.dds" Type="Image" GetRect="66,174,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_Snow_Weasel" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Snow_Weasel.dds" Type="Image" GetRect="66,174,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_Weasel" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Weasel.dds" Type="Image" GetRect="66,143,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_Wombat" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Wombat.dds" Type="Image" GetRect="72,142,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_Desert_Rabbit" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Desert_Rabbit.dds" Type="Image" GetRect="110,77,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_Rabbit_01" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Rabbit_01.dds" Type="Image" GetRect="119,45,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_SnowRabbit" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_SnowRabbit.dds" Type="Image" GetRect="119,57,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_Arctic_Fox" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Arctic_Fox.dds" Type="Image" GetRect="63,68,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_Desert_Fox" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Desert_Fox.dds" Type="Image" GetRect="116,55,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_Fox" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Fox.dds" Type="Image" GetRect="75,48,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_Armadillo" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Armadillo.dds" Type="Image" GetRect="72,140,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_DesertBigHornSheep" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_DesertBigHornSheep.dds" Type="Image" GetRect="96,39,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_MountainGoat" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_MountainGoat.dds" Type="Image" GetRect="72,70,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_Snow_Mountain_Goat" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Snow_Mountain_Goat.dds" Type="Image" GetRect="82,44,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_Home_Bull" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Home_Bull.dds" Type="Image" GetRect="77,99,256,256"/>
+
+<Texture Name="CD_PortraitImage_Knowledge_Domestic_Hamish" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Domestic_Hamish.dds" Type="Image" GetRect="54,90,256,256"/>
+<Texture Name="CD_PortraitImage_Knowledge_Longhorn" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Longhorn.dds" Type="Image" GetRect="41,74,256,256"/>
+<Texture Name="CD_PortraitImage_knowledge_water_cow" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_knowledge_water_cow.dds" Type="Image" GetRect="54,106,256,256"/> -->
+
+
+<!-- 260120_동물포트레이트 -->
+<Texture Name="cd_mercenary_portrait_Domestic_Animal_Riding_Wolf_1" Filename="UI/texture/Image/Portraitimage/cd_mercenary_portrait_Domestic_Animal_Riding_Wolf_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Arctic_Fox_Wild_30038" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Arctic_Fox_Wild_30038.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Armadillo_Wild_30078" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Armadillo_Wild_30078.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Baby_Boar_Wild_32345" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Baby_Boar_Wild_32345.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Baby_Bull_Domestic_32263" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Baby_Bull_Domestic_32263.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Baby_DesertBigHornSheep_Wild_32394" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Baby_DesertBigHornSheep_Wild_32394.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Baby_Hamish_Wild_32259" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Baby_Hamish_Wild_32259.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Baby_Longhorn_Domestic_1" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Baby_Longhorn_Domestic_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Baby_MountainGoat_Wild_32390" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Baby_MountainGoat_Wild_32390.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Baby_Snow_Mountain_Goat_Wild_32392" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Baby_Snow_Mountain_Goat_Wild_32392.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Badger_Wild_30142" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Badger_Wild_30142.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Beaver_Wild_30139" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Beaver_Wild_30139.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_BlackDuck_Wild_30172" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_BlackDuck_Wild_30172.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_BlackTail_Flycatcher_Wild_32366" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_BlackTail_Flycatcher_Wild_32366.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_BlueJay_Wild_30079" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_BlueJay_Wild_30079.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Bull_Wild_32217" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Bull_Wild_32217.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Bunting_Bird_Wild_32367" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Bunting_Bird_Wild_32367.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Longtailedtit_Wild_32368" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Longtailedtit_Wild_32368.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Chick_Domestic_30080" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Chick_Domestic_30080.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Goose_Wild_30072" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Goose_Wild_30072.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_CitronCockatoo_Wild_32886" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_CitronCockatoo_Wild_32886.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Collared_Dove_Wild_32411" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Collared_Dove_Wild_32411.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Coyote_Wild_31427" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Coyote_Wild_31427.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Crow_Wild_30029" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Crow_Wild_30029.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Cuckoo_Wild_32038" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Cuckoo_Wild_32038.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_DarkPuma_Wild_32287" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_DarkPuma_Wild_32287.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Desert_Fox_Wild_31410" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Desert_Fox_Wild_31410.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Whistling_Duck_Wild_1" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Whistling_Duck_Wild_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Pygmy_Teal_Wild_1" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Pygmy_Teal_Wild_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Desert_Goose_Wild_1" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Desert_Goose_Wild_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Desert_Rabbit_Wild_31409" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Desert_Rabbit_Wild_31409.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_DesertBigHornSheep_Wild_32254" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_DesertBigHornSheep_Wild_32254.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Duck_Wild_30020" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Duck_Wild_30020.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Duckling_Domestic_32269" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Duckling_Domestic_32269.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_EclectusParrot_Wild_32881" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_EclectusParrot_Wild_32881.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_EuropeanPartridge_Wild_30184" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_EuropeanPartridge_Wild_30184.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Female_Bull_Wild_32322" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Female_Bull_Wild_32322.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Female_DesertBigHornSheep_Wild_32393" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Female_DesertBigHornSheep_Wild_32393.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Female_Hamish_Wild_32260" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Female_Hamish_Wild_32260.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Female_Longhorn_Wild_32396" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Female_Longhorn_Wild_32396.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Female_MountainGoat_Wild_32389" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Female_MountainGoat_Wild_32389.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Female_Snow_Mountain_Goat_Wild_32391" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Female_Snow_Mountain_Goat_Wild_32391.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Fox_Wild_30046" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Fox_Wild_30046.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Frilled_Lizard_Wild_1" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Frilled_Lizard_Wild_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Fulica_Wild_1" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Fulica_Wild_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_GaviaStellata_Wild_32267" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_GaviaStellata_Wild_32267.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Goanna_Wild_31404" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Goanna_Wild_31404.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Goat_Domestic_32302" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Goat_Domestic_32302.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Hairless_Rooster_Domestic_30004" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Hairless_Rooster_Domestic_30004.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Hamish_Wild_32223" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Hamish_Wild_32223.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Hila_Lizard_Wild_30122" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Hila_Lizard_Wild_30122.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Hyena_Wild_30043" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Hyena_Wild_30043.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Iguana_Wild_30069" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Iguana_Wild_30069.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_kakapo_Wild_1" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_kakapo_Wild_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Kiwi_Bird_Wild_1" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Kiwi_Bird_Wild_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Leopard_Wild_30076" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Leopard_Wild_30076.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Little_Grebe_Wild_1" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Little_Grebe_Wild_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Longhorn_Wild_32246" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Longhorn_Wild_32246.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Mallard_Wild_30171" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Mallard_Wild_30171.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Mergellus_Wild_32285" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Mergellus_Wild_32285.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Mesite_Wild_1" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Mesite_Wild_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_MountainGoat_Wild_30040" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_MountainGoat_Wild_30040.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Oriole_Wild_30087" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Oriole_Wild_30087.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Oxpecker_Wild_32247" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Oxpecker_Wild_32247.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Parrot_Wild_30082" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Parrot_Wild_30082.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Parrot_Wild_32883" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Parrot_Wild_32883.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Pigeon_Wild_30081" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Pigeon_Wild_30081.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Platypus_Wild_1" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Platypus_Wild_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Puma_Wild_32286" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Puma_Wild_32286.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Rabbit_Wild_30001" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Rabbit_Wild_30001.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Raccoon_Wild_30042" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Raccoon_Wild_30042.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Rope_SpotBull_Domestic_32343" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Rope_SpotBull_Domestic_32343.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_RoseringedParakeet_Wild_32885" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_RoseringedParakeet_Wild_32885.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_RuddyshelDuck_Wild_32284" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_RuddyshelDuck_Wild_32284.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Seagull_Wild_30084" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Seagull_Wild_30084.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Sheep_Domestic_30044" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Sheep_Domestic_30044.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Skunk_Wild_30141" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Skunk_Wild_30141.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Snow_Mountain_Goat_Wild_32255" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Snow_Mountain_Goat_Wild_32255.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Snow_Weasel_Wild_32034" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Snow_Weasel_Wild_32034.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_SnowRabbit_Wild_30017" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_SnowRabbit_Wild_30017.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Snowy_Plover_Wild_32352" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Snowy_Plover_Wild_32352.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Sparrow_Wild_30071" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Sparrow_Wild_30071.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_SpixsMacaw_Wild_32884" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_SpixsMacaw_Wild_32884.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Sterna_Wild_32288" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Sterna_Wild_32288.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_SunConure_Wild_32882" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_SunConure_Wild_32882.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_SyrrhaptesParadoxus_Wild_32381" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_SyrrhaptesParadoxus_Wild_32381.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Takahe_Wild_1" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Takahe_Wild_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Trained_Wolf_59004" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Trained_Wolf_59004.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Warthogbaby_Wild_32264" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Warthogbaby_Wild_32264.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Water_Buffalo_Wild_1" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Water_Buffalo_Wild_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Watercock_Wild_1" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Watercock_Wild_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Weasel_Wild_30039" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Weasel_Wild_30039.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_White_Wolf_Wild_30033" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_White_Wolf_Wild_30033.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_WhiteBilled_Loon_Wild_32266" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_WhiteBilled_Loon_Wild_32266.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_WhiteCrow_Wild_1" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_WhiteCrow_Wild_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_WhiteWing_Flycatcher_Wild_30009" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_WhiteWing_Flycatcher_Wild_30009.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Wombat_Wild_1" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Wombat_Wild_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Wood_Pecker_Wild_32040" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Wood_Pecker_Wild_32040.dds" Type="Image" GetRect="0,0,256,256"/>
+
+<!-- 260221 동물 포트레이트 추가 -->
+<Texture Name="cd_portraitimage_Animal_Angry_Crow_31503" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Angry_Crow_31503.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Antelope_Wild_32161" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Antelope_Wild_32161.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Arctic_ReinDeer_Wild_30170" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Arctic_ReinDeer_Wild_30170.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Baby_Antelope_Wild_32258" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Baby_Antelope_Wild_32258.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Baby_Arctic_ReinDeer_Wild_32379" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Baby_Arctic_ReinDeer_Wild_32379.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Baby_Deer_Domestic_32880" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Baby_Deer_Domestic_32880.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Baby_Deer_Wild_32256" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Baby_Deer_Wild_32256.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Baby_Gazelle_Wild_30097" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Baby_Gazelle_Wild_30097.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Baby_Hedgehog_Wild_1" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Baby_Hedgehog_Wild_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Baby_MilkCow_Domestic_Sale_32399" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Baby_MilkCow_Domestic_Sale_32399.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Baby_Moose_Wild_32383" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Baby_Moose_Wild_32383.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Baby_Pig_Domestic_Sale_30114" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Baby_Pig_Domestic_Sale_30114.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Baby_PronghornDeer_Wild_32375" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Baby_PronghornDeer_Wild_32375.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Baby_ReinDeer_Wild_32377" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Baby_ReinDeer_Wild_32377.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Baby_Roedeer_Wild_32385" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Baby_Roedeer_Wild_32385.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Baby_Wapiti_Wild_32178" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Baby_Wapiti_Wild_32178.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Bear_Wild_30048" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Bear_Wild_30048.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Black_Bear_Wild_30108" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Black_Bear_Wild_30108.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Common_Heron_Wild_30057" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Common_Heron_Wild_30057.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Common_RedCrownedCrane_Wild_30058" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Common_RedCrownedCrane_Wild_30058.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Deer_Domestic_32216" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Deer_Domestic_32216.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Deer_Wild_30031" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Deer_Wild_30031.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Dodo_Bird_Wild_1" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Dodo_Bird_Wild_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Donkey_Domestic_30037" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Donkey_Domestic_30037.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Duckling_Domestic_Sale_32269" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Duckling_Domestic_Sale_32269.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Female_Antelope_Wild_32388" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Female_Antelope_Wild_32388.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Female_Arctic_ReinDeer_Wild_32378" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Female_Arctic_ReinDeer_Wild_32378.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Female_Deer_Domestic_32341" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Female_Deer_Domestic_32341.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Female_Deer_Wild_30032" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Female_Deer_Wild_30032.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Female_Gazelle_Wild_30096" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Female_Gazelle_Wild_30096.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Female_Moose_Wild_32382" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Female_Moose_Wild_32382.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Female_PronghornDeer_Wild_32374" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Female_PronghornDeer_Wild_32374.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Female_ReinDeer_Wild_32376" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Female_ReinDeer_Wild_32376.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Female_Roedeer_Wild_32384" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Female_Roedeer_Wild_32384.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Female_Wapiti_Wild_32177" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Female_Wapiti_Wild_32177.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Flamingos_Wild_30086" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Flamingos_Wild_30086.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Flying_Squirrel_Wild_1" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Flying_Squirrel_Wild_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Galapagos_Cormorant_Wild_1" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Galapagos_Cormorant_Wild_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Gazelle_Wild_30035" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Gazelle_Wild_30035.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Grizzly_Bear_Wild_30111" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Grizzly_Bear_Wild_30111.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Hedgehog_Wild_30045" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Hedgehog_Wild_30045.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Hedgehog_Wild_31504" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Hedgehog_Wild_31504.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Hedgehog_Wild_31505" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Hedgehog_Wild_31505.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Hedgehog_Wild_31506" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Hedgehog_Wild_31506.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Hedgehog_Wild_31507" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Hedgehog_Wild_31507.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Hedgehog_Wild_31510" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Hedgehog_Wild_31510.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Kid_Domestic_Sale_30109" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Kid_Domestic_Sale_30109.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_KukuBird_Wild_30156" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_KukuBird_Wild_30156.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Lamb_Domestic_Sale_31178" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Lamb_Domestic_Sale_31178.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Lion_Circus_32349" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Lion_Circus_32349.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Lion_Wild_30374" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Lion_Wild_30374.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Lioness_Wild_30375" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Lioness_Wild_30375.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Longtailedtit_Wild_32368" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Longtailedtit_Wild_32368.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Meerkat_Wild_1" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Meerkat_Wild_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Mole_Wild_32410" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Mole_Wild_32410.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Moose_Wild_31469" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Moose_Wild_31469.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Muskrat_Wild_30140" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Muskrat_Wild_30140.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Porcupine_Desert_Wild" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Porcupine_Desert_Wild.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Porcupine_Wild_32261" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Porcupine_Wild_32261.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Possum_Wild_30138" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Possum_Wild_30138.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_PronghornDeer_Wild_32245" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_PronghornDeer_Wild_32245.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Rat_Wild_30055" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Rat_Wild_30055.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Red_Squirrel_Wild_32370" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Red_Squirrel_Wild_32370.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Reindeer_Wild_30169" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Reindeer_Wild_30169.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Ride_Battle_Boar_30271" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Ride_Battle_Boar_30271.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Ride_Bear_Wild_30116" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Ride_Bear_Wild_30116.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Ride_Wild_30376" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Ride_Wild_30376.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Ride_Wild_30378" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Ride_Wild_30378.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Roedeer_Wild_30163" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Roedeer_Wild_30163.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Scolt_Wild_30006" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Scolt_Wild_30006.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Snow_Chipmunk_Wild_32035" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Snow_Chipmunk_Wild_32035.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Spoonbill_Wild_30085" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Spoonbill_Wild_30085.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Squirrel_Wild_30065" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Squirrel_Wild_30065.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Tiger_Wild_1" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Tiger_Wild_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Tiger_Wild_2" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Tiger_Wild_2.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Trained_Bear_59006" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Trained_Bear_59006.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Turkey_Wild_1" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Turkey_Wild_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Wapiti_Wild_32173" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Wapiti_Wild_32173.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_WaterDeer_Wild_30164" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_WaterDeer_Wild_30164.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_White_Stag_32894" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_White_Stag_32894.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_White_Wolf_Wild_30034" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_White_Wolf_Wild_30034.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Animal_Wolf_Wild_30019" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Animal_Wolf_Wild_30019.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Riding_AlpineIbex_1" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Riding_AlpineIbex_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Riding_Bear_1" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Riding_Bear_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Riding_Camel_1" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Riding_Camel_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Riding_CarmaBirdsaurus_1" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Riding_CarmaBirdsaurus_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Riding_Cucubird_1" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Riding_Cucubird_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Riding_Cucubird_2" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Riding_Cucubird_2.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Riding_Deer_1" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Riding_Deer_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Riding_Elephant_1" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Riding_Elephant_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Riding_Iguana_1" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Riding_Iguana_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Riding_Iguana_2" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Riding_Iguana_2.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Riding_SandfangBandits_Wolf_2083" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Riding_SandfangBandits_Wolf_2083.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Riding_Warthog_1" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Riding_Warthog_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Riding_Wolf_1" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Riding_Wolf_1.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_portraitimage_Riding_Wolf_2083" Filename="UI/texture/Image/Portraitimage/cd_portraitimage_Riding_Wolf_2083.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="CD_PortraitImage_Muscan_Boss" Filename="UI/texture/Image/Portraitimage/CD_PortraitImage_Muscan_Boss.dds" Type="Image" GetRect="0,0,256,256"/>

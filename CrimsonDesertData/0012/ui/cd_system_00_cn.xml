@@ -1,0 +1,6 @@
+﻿<Texture Name="cd_system_guide_pc_keyboard" Filename="UI/texture/cd_system_00_cn.dds" Type="Image" GetRect="1,1205,850,340"/>
+<Texture Name="cd_system_guide_pc_keyboard_mac" Filename="UI/texture/cd_system_00_cn.dds" Type="Image" GetRect="853,1205,850,340"/>
+<Texture Name="cd_system_guide_pc_mouse" Filename="UI/texture/cd_system_00_cn.dds" Type="Image" GetRect="1203,1,410,410"/>
+<Texture Name="cd_system_guide_ps5_dualsense" Filename="UI/texture/cd_system_00_cn.dds" Type="Image" GetRect="1,1,1200,600"/>
+<Texture Name="cd_system_guide_xbox_controller" Filename="UI/texture/cd_system_00_cn.dds" Type="Image" GetRect="1,603,1200,600"/>
+

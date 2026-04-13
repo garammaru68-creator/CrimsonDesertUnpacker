@@ -1,0 +1,10 @@
+﻿<Texture Name="cd_challenges_guage" Filename="UI/texture/cd_challenges_00.dds" Type="Image" GetRect="73,105,14,18"/>
+<Texture Name="cd_challenges_icon_07" Filename="UI/texture/cd_challenges_00.dds" Type="Image" GetRect="1,1,70,70"/>
+<Texture Name="cd_challenges_icon_08" Filename="UI/texture/cd_challenges_00.dds" Type="Image" GetRect="1,73,70,70"/>
+<Texture Name="cd_challenges_icon_09" Filename="UI/texture/cd_challenges_00.dds" Type="Image" GetRect="1,145,70,70"/>
+<Texture Name="cd_challenges_icon_10" Filename="UI/texture/cd_challenges_00.dds" Type="Image" GetRect="73,1,70,70"/>
+<Texture Name="cd_challenges_icon_number_01" Filename="UI/texture/cd_challenges_00.dds" Type="Image" GetRect="1,217,30,30"/>
+<Texture Name="cd_challenges_icon_number_02" Filename="UI/texture/cd_challenges_00.dds" Type="Image" GetRect="33,217,30,30"/>
+<Texture Name="cd_challenges_icon_number_03" Filename="UI/texture/cd_challenges_00.dds" Type="Image" GetRect="65,217,30,30"/>
+<Texture Name="cd_challenges_icon_number_04" Filename="UI/texture/cd_challenges_00.dds" Type="Image" GetRect="73,73,30,30"/>
+

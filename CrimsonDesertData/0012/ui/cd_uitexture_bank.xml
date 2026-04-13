@@ -1,0 +1,6 @@
+﻿<Texture Name="cd_gauge_bank_investment_00" Filename="UI/texture/cd_uitexture_bank.dds" Type="Image" GetRect="1,105,117,99"/>
+<Texture Name="cd_gauge_bank_investment_01" Filename="UI/texture/cd_uitexture_bank.dds" Type="Image" GetRect="120,105,117,99"/>
+<Texture Name="cd_gauge_bank_investment_02" Filename="UI/texture/cd_uitexture_bank.dds" Type="Image" GetRect="239,105,117,99"/>
+<Texture Name="cd_icon_common_change_arrow" Filename="UI/texture/cd_uitexture_bank.dds" Type="Image" GetRect="358,105,87,35"/>
+<Texture Name="cd_uitexture_bank_title_bg_00" Filename="UI/texture/cd_uitexture_bank.dds" Type="Image" GetRect="1,1,974,102"/>
+

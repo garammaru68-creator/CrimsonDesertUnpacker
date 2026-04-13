@@ -1,0 +1,21 @@
+﻿<!-- UIBaseConfig.xml -->
+<Root>
+    <Config mode="base" project="CD" focus-mode="windows" resource-pre-load="true"/>
+
+    <ReferenceDimension width="1920" height="1080" />
+
+	<!--
+		1. FontManager에서는 FontName이 중복될 수 없음. 같은 Font Name에 다른 Font File Name을 허용하지 않으므로 Assert 발생합니다.
+		2. 구조상 Config별로 무조건 default Font가 하나 존재해야 하므로 동일한 설정의 Font를 추가해두었습니다.
+	-->
+    <Font name="Basefont" type="ttf" filename="UI/fonts/Basefont.ttf" default="true" facePoolCount="8" /> <!-- 본문용 폰트 / default폰트 -->
+    <Font name="CreditFont" type="ttf" filename="UI/fonts/CreditFont.ttf" loadManual="true" />
+    <!-- Preload Resource를 위한 원형 view -->
+    <UIView id="PrototypeSystemRootView"            filename="UI/SystemRoot.html"/>
+
+    <UIWindow id="BaseMain" alwaysRender="true" auto-scaling="true" wheel-uiscaling="false" block-active-scope="true">
+        <GlobalViewContext id="BaseGlobal">
+            <UIView id="CommandDebugView"           layer="3"     filename="UI/editor/CommandDebugView/CommandDebugView.html" keep="true" />
+        </GlobalViewContext>
+    </UIWindow>
+</Root>

@@ -1,0 +1,6 @@
+﻿<Texture Name="cd_minigame_armwrest_fever_bg" Filename="UI/texture/cd_minigame_01.dds" Type="Image" GetRect="1,1,640,400"/>
+<Texture Name="cd_minigame_ink_bg" Filename="UI/texture/cd_minigame_01.dds" Type="Image" GetRect="1,403,640,400"/>
+<Texture Name="cd_minigame_rodeo_gauge" Filename="UI/texture/cd_minigame_01.dds" Type="Image" GetRect="643,1,364,364"/>
+<Texture Name="cd_minigame_rodeo_gauge_glow" Filename="UI/texture/cd_minigame_01.dds" Type="Image" GetRect="643,663,250,250"/>
+<Texture Name="cd_minigame_rodeo_horse_img" Filename="UI/texture/cd_minigame_01.dds" Type="Image" GetRect="643,367,282,294"/>
+

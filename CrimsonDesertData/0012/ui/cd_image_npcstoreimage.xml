@@ -1,0 +1,157 @@
+﻿<!-- 코드에서 이미지 경로를 찾지 못할 때 띄우는 이미지 -->
+<Texture Name="cd_npcstoreimage_empty"	                Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_empty.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<!-- npc 상인 이미지 : 에르난드 -->
+<Texture Name="cd_npcstoreimage_her_smith"          	Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_her_smith.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_her_bank"	            Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_her_bank.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_her_trade"          	Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_her_trade.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_her_church"	            Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_her_church.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_her_horseharness"	    Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_her_horseharness.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_her_inn"	            Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_her_inn.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_her_clothingshop"	    Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_her_clothingshop.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_her_generalshop"	    Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_her_generalshop.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_her_groceryshop"	    Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_her_groceryshop.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_her_butcher"	        Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_her_butcher.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_her_leather"	        Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_her_leather.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_her_stable"	            Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_her_stable.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_her_blacksmith"	        Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_Unique_Turnuli.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_her_board"	            Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_her_board.dds" Type="Image" GetRect="0,0,512,512"/>
+
+
+
+<Texture Name="cd_npcstoreimage_her_smith_Rhett"          	Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_her_smith.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_her_stable_Merton"	            Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_her_stable.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_her_generalshop_Aldun"	    Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_her_generalshop.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_her_clothingshop_Tina"	    Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_her_clothingshop.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_her_inn_Dahlia"	            Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_her_inn.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_her_bank_Goorba"	            Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_her_bank.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_her_trade_Carl"          	Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_her_trade.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_her_horseharness_Pitrick" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_horseharness_01.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_her_church_Alfred"	            Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_her_church.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_her_fence_Doak"	            Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_her_fence_Doak.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_her_groceryshop_Delkin"	    Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_her_groceryshop.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_her_butcher_Raine"	        Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_her_butcher.dds" Type="Image" GetRect="0,0,512,512"/>
+
+
+<!-- npc 상인 이미지 : 룸스소 & 트롤 대학 -->
+<Texture Name="cd_npcstoreimage_her_stable_Edwin"	            Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_her_stable_Edwin.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_her_horseharness_Anbella"	            Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_her_horseharness_Anbella.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_her_alchemy_Serillius"	            Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_her_alchemy_Serillius.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_her_groceryshop_Eldmorek"	            Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_her_groceryshop_Eldmorek.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_her_smith_Yjork"	            Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_her_smith_Yjork.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_her_inn_Grana"	            Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_her_inn_Grana.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_her_church_Forex"	            Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_her_church_Forex.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_her_fishing_Soreta"	            Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_her_fishing_Soreta.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_her_groceryshop_Odotir"	            Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_her_groceryshop_Odotir.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_her_medicinalherbs_Etonfo"	            Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_her_medicinalherbs_Etonfo.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<!-- npc 상인 이미지 : 벨루아 마을 -->
+<Texture Name="cd_npcstoreimage_her_horseharness_Retonic"	            Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_her_horseharness_Retonic.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_her_butcher_Erner"	            Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_her_butcher_Erner.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<!-- npc 상인 이미지 : 할시우스 수도원 -->
+<Texture Name="cd_npcstoreimage_her_secret_Romult"	            Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_her_secret_Romult.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<!-- npc 상인 이미지 : 에르난드 농장 -->
+<Texture Name="cd_npcstoreimage_fishing_Yus"	            Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_fishing_Yus.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_bookshop_Federico"	            Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_bookshop_Federico.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_fishing_Padriam"	            Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_fishing_Padriam.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_honey_Elliott"	            Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_honey_Elliott.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_her_trade_Gundal"	            Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_her_trade_Gundal.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_her_stoneshop_Nita"	            Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_her_stoneshop_Nita.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_wanderingmerchant_Herrot"	            Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_wanderingmerchant_Herrot.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_CarriageFence_Berna"	            Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_CarriageFence_Berna.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_dye_William"	            Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_dye_William.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_fishing_Puroki"	            Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_fishing_Puroki.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<!-- npc 상인 이미지 : 데메니스 -->
+
+<!-- npc 상인 이미지 : 밀수꾼 -->
+<Texture Name="cd_npcstoreimage_smuggler_01" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_smuggler_01.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<!-- npc 상인 이미지 : 낚시상인 -->
+<Texture Name="cd_npcstoreimage_fish_01" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_fish_01.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<!-- npc 상인 이미지 : 마구상인 -->
+<Texture Name="cd_npcstoreimage_horseharness_01" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_horseharness_01.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<!-- npc 상인 이미지 : 보따리상인 -->
+<Texture Name="cd_npcstoreimage_seatdealer_01" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_seatdealer_01.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<!-- npc 상인 이미지 : 약초상인 -->
+<Texture Name="cd_npcstoreimage_medicinalherbs_01" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_medicinalherbs_01.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<!-- npc 상인 이미지 : 식료품상인 오도티르 -->
+<Texture Name="cd_npcstoreimage_groceryshop_01" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_groceryshop_01.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<!-- npc 상인 이미지 : 떠돌이상인 헤이스턴 -->
+<Texture Name="cd_npcstoreimage_wanderingmerchant_01" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_wanderingmerchant_01.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<!-- npc 상인 이미지 : 데메니스 -->
+<Texture Name="cd_npcstoreimage_NDM_Unique_Bran" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_NDM_Unique_Bran.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_NHM_Unique_Kike" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_NHM_Unique_Kike.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_NHW_Unique_Bella" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_NHW_Unique_Bella.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_NDW_Unique_Retonic" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_NDW_Unique_Retonic.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_NDEM_Unique_Bran" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_NDEM_Unique_Bran.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_NTM_Unique_Kata" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_NTM_Unique_Kata.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_NHW_Unique_Orlonel" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_NHW_Unique_Orlonel.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_NDEM_Unique_Palga" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_NDEM_Unique_Palga.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_NOW_Unique_Mariana" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_NOW_Unique_Mariana.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<!-- npc 상인 이미지 : 회색갈기 캠프 -->
+<Texture Name="cd_npcstoreimage_NHM_Unique_Iron" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_NHM_Unique_Iron.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_NHM_Unique_Sven" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_NHM_Unique_Sven.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_NHM_Unique_Ed" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_NHM_Unique_Ed.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_NHM_Unique_Shane_OneHandBow" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_NHM_Unique_Shane_OneHandBow.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_NHM_Unique_Martin" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_NHM_Unique_Martin.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_NHM_Unique_Carl" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_NHM_Unique_Carl.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_NHM_Unique_Ronnie" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_NHM_Unique_Ronnie.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_NHM_Unique_Ethan" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_NHM_Unique_Ethan.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_NOM_Unique_Kamu" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_NOM_Unique_Kamu.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_NHM_Unique_Delic" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_NHM_Unique_Delic.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_NHM_Unique_Eric" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_NHM_Unique_Eric.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_NHM_Unique_William" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_NHM_Unique_William.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_NHM_Unique_Giorgio" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_NHM_Unique_Giorgio.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_NHM_Unique_Russo" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_NHM_Unique_Russo.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_NHM_Unique_Oliver" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_NHM_Unique_Oliver.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<!-- 상점 이미지 -->
+<Texture Name="cd_npcstoreimage_propagation_church" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_propagation_church.DDS" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_royalsupply_delesyia" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_royalsupply_delesyia.DDS" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_royalsupply_demeniss" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_royalsupply_demeniss.DDS" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_royalsupply_hernand" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_royalsupply_hernand.DDS" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_royalsupply_varnia" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_royalsupply_varnia.DDS" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_shop_artwork" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_shop_artwork.DDS" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_shop_blackmarket" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_shop_blackmarket.DDS" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_shop_blacksmith" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_shop_blacksmith.DDS" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_shop_butcher" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_shop_butcher.DDS" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_shop_carriage" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_shop_carriage.DDS" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_shop_carriagefence" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_shop_carriagefence.DDS" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_shop_church" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_shop_church.DDS" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_shop_clothes" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_shop_clothes.DDS" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_shop_contributionshop" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_shop_contributionshop.DDS" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_shop_domesticfence" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_shop_domesticfence.DDS" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_shop_dye" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_shop_dye.DDS" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_shop_general" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_shop_general.DDS" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_shop_goldleafguildhouse_trader" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_shop_goldleafguildhouse_trader.DDS" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_shop_grocery" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_shop_grocery.DDS" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_shop_handcannonshop" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_shop_handcannonshop.DDS" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_shop_horse" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_shop_horse.DDS" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_shop_horsefence" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_shop_horsefence.DDS" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_shop_horsetool" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_shop_horsetool.DDS" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_shop_inn" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_shop_inn.DDS" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_shop_leather" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_shop_leather.DDS" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_shop_pet" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_shop_pet.DDS" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_shop_redwindtradingassociation_trader" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_shop_redwindtradingassociation_trader.DDS" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_shop_research" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_shop_research.DDS" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_shop_silvermoontroll_trader" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_shop_silvermoontroll_trader.DDS" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_shop_stone_i" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_shop_stone_i.DDS" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_shop_stoneshop" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_shop_stoneshop.DDS" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_shop_tombstoneworkshop_stone" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_shop_tombstoneworkshop_stone.DDS" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_shop_village_00" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_shop_village_00.DDS" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_shop_weapon" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_shop_weapon.DDS" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_shop_witch_dem02" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_shop_witch_dem02.DDS" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_npcstoreimage_shop_hernand_prison" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_Shop_Hernand_Prison.DDS" Type="Image" GetRect="0,0,512,512"/>
+
+<!-- npc 배경 데코 이미지 -->
+<Texture Name="cd_npcstoreimage_title_deco_pattern_00" Filename="UI/texture/image/Npcstoreimage/cd_npcstoreimage_title_deco_pattern_00.dds" Type="Image" GetRect="0,0,471,471"/>

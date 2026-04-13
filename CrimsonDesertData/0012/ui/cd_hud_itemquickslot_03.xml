@@ -1,0 +1,15 @@
+﻿<Texture Name="cd_hud_itemquickslot_armor_focus" Filename="UI/texture/cd_hud_itemquickslot_03.dds" Type="Image" GetRect="543,693,270,220"/>
+<Texture Name="cd_hud_itemquickslot_armor_selected" Filename="UI/texture/cd_hud_itemquickslot_03.dds" Type="Image" GetRect="576,443,269,248"/>
+<Texture Name="cd_hud_itemquickslot_armor_select_bg" Filename="UI/texture/cd_hud_itemquickslot_03.dds" Type="Image" GetRect="1,523,269,248"/>
+<Texture Name="cd_hud_itemquickslot_armor_select_line" Filename="UI/texture/cd_hud_itemquickslot_03.dds" Type="Image" GetRect="272,523,269,248"/>
+<Texture Name="cd_hud_itemquickslot_bg_01" Filename="UI/texture/cd_hud_itemquickslot_03.dds" Type="Image" GetRect="1,1,573,259"/>
+<Texture Name="cd_hud_itemquickslot_cooltime_gauge_tip" Filename="UI/texture/cd_hud_itemquickslot_03.dds" Type="Image" GetRect="898,1,115,20"/>
+<Texture Name="cd_hud_itemquickslot_focus_bg" Filename="UI/texture/cd_hud_itemquickslot_03.dds" Type="Image" GetRect="576,231,320,210"/>
+<Texture Name="cd_hud_itemquickslot_focus_bg_01" Filename="UI/texture/cd_hud_itemquickslot_03.dds" Type="Image" GetRect="1,262,573,259"/>
+<Texture Name="cd_hud_itemquickslot_selected_bg" Filename="UI/texture/cd_hud_itemquickslot_03.dds" Type="Image" GetRect="576,1,320,228"/>
+<Texture Name="cd_hud_itemquickslot_subtabber_check" Filename="UI/texture/cd_hud_itemquickslot_03.dds" Type="Image" GetRect="898,23,100,7"/>
+<Texture Name="cd_hud_itemquickslot_subtabber_check_glow" Filename="UI/texture/cd_hud_itemquickslot_03.dds" Type="Image" GetRect="815,693,200,200"/>
+<Texture Name="cd_hud_itemquickslot_tabber_check" Filename="UI/texture/cd_hud_itemquickslot_03.dds" Type="Image" GetRect="815,895,200,66"/>
+<Texture Name="cd_hud_itemquickslot_tabber_check_glow" Filename="UI/texture/cd_hud_itemquickslot_03.dds" Type="Image" GetRect="1,773,200,200"/>
+<Texture Name="cd_hud_itemquickslot_tabber_check_rim" Filename="UI/texture/cd_hud_itemquickslot_03.dds" Type="Image" GetRect="847,443,160,160"/>
+

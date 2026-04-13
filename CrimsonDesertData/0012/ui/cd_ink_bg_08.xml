@@ -1,0 +1,4 @@
+﻿<Texture Name="cd_ink_tooltip_bg_item_important_00" Filename="UI/texture/cd_ink_bg_08.dds" Type="Image" GetRect="1,1,456,456"/>
+<Texture Name="cd_ink_tooltip_bg_item_normal_00" Filename="UI/texture/cd_ink_bg_08.dds" Type="Image" GetRect="1,459,456,456"/>
+<Texture Name="cd_ink_tooltip_bg_item_trade_00" Filename="UI/texture/cd_ink_bg_08.dds" Type="Image" GetRect="459,1,456,456"/>
+

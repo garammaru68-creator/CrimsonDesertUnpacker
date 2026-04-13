@@ -1,0 +1,426 @@
+﻿<Texture Name="CD_ChallengeImage_Category_Adventure"	Filename="UI/texture/Image/Challengeimage/CD_ChallengeImage_Category_Adventure.dds" Type="Image" GetRect="0,0,512,256"/>
+<Texture Name="CD_ChallengeImage_Category_Battle"	Filename="UI/texture/Image/Challengeimage/CD_ChallengeImage_Category_Battle.dds" Type="Image" GetRect="0,0,1024,512"/>
+<Texture Name="CD_ChallengeImage_Category_Beacon"	Filename="UI/texture/Image/Challengeimage/CD_ChallengeImage_Category_Beacon.dds" Type="Image" GetRect="0,0,1024,512"/>
+<Texture Name="CD_ChallengeImage_Category_Collection"	Filename="UI/texture/Image/Challengeimage/CD_ChallengeImage_Category_Collection.dds" Type="Image" GetRect="0,0,512,256"/>
+<Texture Name="CD_ChallengeImage_Category_Legend"	Filename="UI/texture/Image/Challengeimage/CD_ChallengeImage_Category_Legend.dds" Type="Image" GetRect="0,0,512,256"/>
+<Texture Name="CD_ChallengeImage_Category_Mastery"	Filename="UI/texture/Image/Challengeimage/CD_ChallengeImage_Category_Mastery.dds" Type="Image" GetRect="0,0,1024,512"/>
+<Texture Name="CD_ChallengeImage_Category_Puzzle"	Filename="UI/texture/Image/Challengeimage/CD_ChallengeImage_Category_Puzzle.dds" Type="Image" GetRect="0,0,512,256"/>
+<Texture Name="CD_ChallengeImage_Category_Skill"	Filename="UI/texture/Image/Challengeimage/CD_ChallengeImage_Category_Skill.dds" Type="Image" GetRect="0,0,512,256"/>
+<Texture Name="CD_ChallengeImage_Category_StandStone"	Filename="UI/texture/Image/Challengeimage/CD_ChallengeImage_Category_StandStone.dds" Type="Image" GetRect="0,0,1024,512"/>
+<Texture Name="CD_ChallengeImage_Category_TreasureMap"	Filename="UI/texture/Image/Challengeimage/CD_ChallengeImage_Category_TreasureMap.dds" Type="Image" GetRect="0,0,512,256"/>
+<Texture Name="CD_ChallengeImage_Category_MiniGame"	Filename="UI/texture/Image/Challengeimage/CD_ChallengeImage_Category_minigame.dds" Type="Image" GetRect="0,0,1024,512"/>
+<Texture Name="CD_ChallengeImage_Category_Abyss"	Filename="UI/texture/Image/Challengeimage/CD_ChallengeImage_Category_Abyss.dds" Type="Image" GetRect="0,0,1024,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Hunting" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Hunting.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Living" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Living.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Trust" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Trust.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_ChallengeAndChange" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_ChallengeAndChange.dds" Type="Image" GetRect="0,0,512,512"/>
+
+
+
+<!-- 무기 숙련 -->
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_TwohandSword" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_TwohandSword.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_TwohandAxe" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_TwohandAxe.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_SpecialWeapon" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_SpecialWeapon.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Spear" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Spear.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Shield" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Shield.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Rapier" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Rapier.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_OneHandSword" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_OneHandSword.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Gun" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Gun.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Cannon" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Cannon.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Bow" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Bow.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Challengeimage_Challenge_SealedArtifact_Vehicle"  Filename="UI/texture/Image/Challengeimage/Cd_Challengeimage_Challenge_SealedArtifact_Vehicle.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<!-- 수수께끼 -->
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Puzzle_Vane_0003" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Puzzle_Vane_0003.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Puzzle_Vane_0002" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Puzzle_Vane_0002.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Puzzle_Vane_0001" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Puzzle_Vane_0001.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Puzzle_Sting_0002" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Puzzle_Sting_0002.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Puzzle_Sting_0001" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Puzzle_Sting_0001.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Puzzle_Statue_0003" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Puzzle_Statue_0003.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Puzzle_Statue_0002" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Puzzle_Statue_0002.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Puzzle_StandStone_0002" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Puzzle_StandStone_0002.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Puzzle_StandStone_0001" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Puzzle_StandStone_0001.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Puzzle_Rotate_0002" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Puzzle_Rotate_0002.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Puzzle_Rotate_0001" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Puzzle_Rotate_0001.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Puzzle_PushSlab_0003" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Puzzle_PushSlab_0003.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Puzzle_PushSlab_0001" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Puzzle_PushSlab_0001.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Puzzle_OneTouchDrawing_0002" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Puzzle_OneTouchDrawing_0002.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Puzzle_OneTouchDrawing_0001" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Puzzle_OneTouchDrawing_0001.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Puzzle_Omok_0002" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Puzzle_Omok_0002.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Puzzle_Omok_0001" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Puzzle_Omok_0001.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Puzzle_Lifting_0002" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Puzzle_Lifting_0002.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Puzzle_Lifting_0001" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Puzzle_Lifting_0001.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Puzzle_Lamp_0002" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Puzzle_Lamp_0002.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Puzzle_Lamp_0001" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Puzzle_Lamp_0001.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Puzzle_JiJeongTa_0002" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Puzzle_JiJeongTa_0002.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Puzzle_JiJeongTa_0001" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Puzzle_JiJeongTa_0001.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Puzzle_Height_0002" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Puzzle_Height_0002.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Puzzle_Height_0001" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Puzzle_Height_0001.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Puzzle_Crank_0002" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Puzzle_Crank_0002.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Puzzle_Bell_0001" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Puzzle_Bell_0001.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Puzzle" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Puzzle.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<!-- 탐험 -->
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0020" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0020.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0019" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0019.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0018" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0018.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0017" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0017.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0016" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0016.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0015" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0015.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0014" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0014.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0013" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0013.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0012" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0012.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0011" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0011.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0010" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0010.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0009" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0009.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0008" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0008.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0007" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0007.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0006" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0006.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0005" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0005.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0004" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0004.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0003" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0003.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0002" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0002.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0001" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0001.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Discover" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Discover.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Maze" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Maze.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<!-- 전투 -->
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Operation" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Operation.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Skirmish" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Skirmish.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Battle" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Battle.dds" Type="Image" GetRect="0,0,512,512"/>
+
+
+<!-- 미니게임 -->
+<Texture Name="Cd_ChallengeImage__Contents_MiniGame_Armwrest_Mission" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage__Contents_MiniGame_Armwrest_Mission.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<!-- 범죄의 서막 -->
+<Texture Name="cd_challengeimage_Challenge_Standstone_crime" Filename="UI/texture/Image/Challengeimage/cd_challengeimage_Challenge_Standstone_crime.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<!-- 기술의 연마 -->
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Battle_I" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Battle_I.dds"  Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Battle_II" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Battle_II.dds"  Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Battle_III" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Battle_III.dds"  Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Battle_IV" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Battle_IV.dds"  Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Battle_IX" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Battle_IX.dds"  Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Battle_V" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Battle_V.dds"  Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Battle_VI" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Battle_VI.dds"  Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Battle_VII" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Battle_VII.dds"  Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Battle_VIII" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Battle_VIII.dds"  Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Battle_X" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Battle_X.dds"  Type="Image" GetRect="0,0,512,512"/>
+
+<!-- 교전 -->
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Skirmish_X" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Skirmish_X.dds"   Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Skirmish_VIII" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Skirmish_VIII.dds"   Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Skirmish_VII" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Skirmish_VII.dds"   Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Skirmish_VI" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Skirmish_VI.dds"   Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Skirmish_V" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Skirmish_V.dds"   Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Skirmish_IX" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Skirmish_IX.dds"   Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Skirmish_IV" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Skirmish_IV.dds"   Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Skirmish_III" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Skirmish_III.dds"   Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Skirmish_II" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Skirmish_II.dds"   Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Skirmish_I" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Skirmish_I.dds"   Type="Image" GetRect="0,0,512,512"/>
+
+<!-- 작전 -->
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Operation_X" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Operation_X.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Operation_VIII" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Operation_VIII.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Operation_VII" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Operation_VII.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Operation_VI" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Operation_VI.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Operation_V" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Operation_V.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Operation_IX" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Operation_IX.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Operation_III" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Operation_III.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Operation_I" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Operation_I.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<!-- 한손검 -->
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_OneHandSword_VI" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_OneHandSword_VI.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_OneHandSword_V" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_OneHandSword_V.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_OneHandSword_IV" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_OneHandSword_IV.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_OneHandSword_III" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_OneHandSword_III.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_OneHandSword_II" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_OneHandSword_II.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_OneHandSword_I" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_OneHandSword_I.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<!-- 방패   -->
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Shield_VI" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Shield_VI.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Shield_V" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Shield_V.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Shield_IV" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Shield_IV.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Shield_III" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Shield_III.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Shield_II" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Shield_II.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Shield_I" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Shield_I.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<!-- 양손무기 -->
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_TwohandWeapon_VI" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_TwohandWeapon_VI.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_TwohandWeapon_V" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_TwohandWeapon_V.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_TwohandWeapon_IV" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_TwohandWeapon_IV.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_TwohandWeapon_III" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_TwohandWeapon_III.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_TwohandWeapon_II" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_TwohandWeapon_II.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_TwohandWeapon_I" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_TwohandWeapon_I.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<!-- 창 -->
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Spear_V" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Spear_V.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Spear_IV" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Spear_IV.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Spear_III" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Spear_III.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Spear_II" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Spear_II.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Spear_I" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Spear_I.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<!-- 대포 -->
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Cannon_V" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Cannon_V.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Cannon_II" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Cannon_II.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Cannon_I" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Cannon_I.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Cannon_IV" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Cannon_IV.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Cannon_III" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Cannon_III.dds" Type="Image" Getrect="0,0,512,512"/>
+
+<!-- 활 -->
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Bow_VI" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Bow_VI.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Bow_V" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Bow_V.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Bow_IV" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Bow_IV.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Bow_III" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Bow_III.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Bow_II" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Bow_II.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Bow_I" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Bow_I.dds" Type="Image" Getrect="0,0,512,512"/>
+
+<!-- 기마 -->
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Vehicle_X"  Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Vehicle_X.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Vehicle_VIII"  Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Vehicle_VIII.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Vehicle_VII"  Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Vehicle_VII.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Vehicle_VI"  Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Vehicle_VI.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Vehicle_V"  Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Vehicle_V.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Vehicle_IX"  Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Vehicle_IX.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Vehicle_IV"  Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Vehicle_IV.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Vehicle_III"  Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Vehicle_III.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Vehicle_II"  Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Vehicle_II.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Vehicle_I"  Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Vehicle_I.dds" Type="Image" Getrect="0,0,512,512"/>
+
+<!-- 레이피어 -->
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Rapier_V"  Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Rapier_V.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Rapier_IV"  Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Rapier_IV.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Rapier_III"  Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Rapier_III.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Rapier_II"  Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Rapier_II.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Rapier_I"  Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Rapier_I.dds" Type="Image" Getrect="0,0,512,512"/>
+
+<!-- 총 -->
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Gun_V"  Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Gun_V.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Gun_IV"  Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Gun_IV.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Gun_III"  Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Gun_III.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Gun_I"  Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Gun_I.dds" Type="Image" Getrect="0,0,512,512"/>
+
+
+<!-- 특수무기 -->
+<Texture Name="Cd_ChallengeImage_Challenge_Challenge_SealedArtifact_Mastery_SpecialWeapon_V"  Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Challenge_SealedArtifact_Mastery_SpecialWeapon_V.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Challenge_SealedArtifact_Mastery_SpecialWeapon_IV"  Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Challenge_SealedArtifact_Mastery_SpecialWeapon_IV.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Challenge_SealedArtifact_Mastery_SpecialWeapon_III"  Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Challenge_SealedArtifact_Mastery_SpecialWeapon_III.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Challenge_SealedArtifact_Mastery_SpecialWeapon_II"  Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Challenge_SealedArtifact_Mastery_SpecialWeapon_II.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Challenge_SealedArtifact_Mastery_SpecialWeapon_I"  Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Challenge_SealedArtifact_Mastery_SpecialWeapon_I.dds" Type="Image" Getrect="0,0,512,512"/>
+
+<!-- 미니게임 -->
+<Texture Name="Cd_ChallengeImage_Mission_MiniGame_Seotda"           Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Mission_MiniGame_Seotda.dds"                    Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Mission_MiniGame_Race"             Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Mission_MiniGame_Race.dds"                      Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Mission_MiniGame_Duel"             Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Mission_MiniGame_Duel.dds"                      Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Mission_MiniGame_ArrowShot"        Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Mission_MiniGame_ArrowShot.dds"                 Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Mission_MiniGame_Armwrest_Hernand"         Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Mission_MiniGame_Armwrest_Hernand.dds"                  Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Mission_MiniGame_Armwrest_Calphade"         Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Mission_MiniGame_Armwrest_Calphade.dds"                  Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Mission_MiniGame_Armwrest_Pailunese"         Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Mission_MiniGame_Armwrest_Pailunese.dds"                  Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_challengemage_mission_minigame_ceelo"             Filename="UI/texture/Image/Challengeimage/cd_challengemage_mission_minigame_ceelo.dds"                      Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_challengemage_mission_minigame_duel_spear"        Filename="UI/texture/Image/Challengeimage/cd_challengemage_mission_minigame_duel_spear.dds"                 Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="cd_challengemage_mission_minigame_duel_wrestling"    Filename="UI/texture/Image/Challengeimage/cd_challengemage_mission_minigame_duel_wrestling.dds"             Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Mission_MiniGame_Duel_MainWeapon"  Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Mission_MiniGame_Duel_MainWeapon.dds"           Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Mission_MiniGame_Duel_Spear"       Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Mission_MiniGame_Duel_Spear.dds"                Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Mission_MiniGame_Duel_Wrestling"   Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Mission_MiniGame_Duel_Wrestling.dds"            Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Mission_MiniGame_Handwrest"        Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Mission_MiniGame_Handwrest.dds"                 Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Mission_MiniGame_PistolShot"       Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Mission_MiniGame_PistolShot.dds"                Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Mission_MiniGame_RockPaperSci"     Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Mission_MiniGame_RockPaperSci.dds"              Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Mission_MiniGame_Variant_Seotda"   Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Mission_MiniGame_Variant_Seotda.dds"            Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Mission_MiniGame_Duel_Unarmed"   Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Mission_MiniGame_Duel_Unarmed.dds"                Type="Image" Getrect="0,0,512,512"/>
+
+
+
+<!-- 무역/황실/상점 -->
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Trust_V" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Trust_V.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Trust_IV" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Trust_IV.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Trust_III" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Trust_III.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Trust_II" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Trust_II.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Trust_I" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Trust_I.dds" Type="Image" Getrect="0,0,512,512"/>
+
+<!-- 생활 -->
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Living_X" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Living_X.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Living_VIII" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Living_VIII.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Living_VII" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Living_VII.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Living_VI" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Living_VI.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Living_V" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Living_V.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Living_IX" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Living_IX.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Living_IV" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Living_IV.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Living_III" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Living_III.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Living_II" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Living_II.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Living_I" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Living_I.dds" Type="Image" Getrect="0,0,512,512"/>
+
+<!-- 수렵 -->
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Hunting_X" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Hunting_X.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Hunting_VIII" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Hunting_VIII.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Hunting_VII" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Hunting_VII.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Hunting_VI" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Hunting_VI.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Hunting_V" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Hunting_V.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Hunting_IX" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Hunting_IX.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Hunting_IV" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Hunting_IV.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Hunting_III" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Hunting_III.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Hunting_II" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Hunting_II.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Hunting_I" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Hunting_I.dds" Type="Image" Getrect="0,0,512,512"/>
+
+<!-- 모험성장 -->
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_ChallengeAndChange_VII" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_ChallengeAndChange_VII.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_ChallengeAndChange_VI" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_ChallengeAndChange_VI.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_ChallengeAndChange_V" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_ChallengeAndChange_V.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_ChallengeAndChange_IV" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_ChallengeAndChange_IV.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_ChallengeAndChange_III" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_ChallengeAndChange_III.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_ChallengeAndChange_II" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_ChallengeAndChange_II.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_ChallengeAndChange_I" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_ChallengeAndChange_I.dds" Type="Image" Getrect="0,0,512,512"/>
+
+<!-- 범죄 -->
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtfiact_Crime_X" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtfiact_Crime_X.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtfiact_Crime_VIII" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtfiact_Crime_VIII.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtfiact_Crime_VII" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtfiact_Crime_VII.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtfiact_Crime_VI" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtfiact_Crime_VI.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtfiact_Crime_V" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtfiact_Crime_V.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtfiact_Crime_IX" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtfiact_Crime_IX.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtfiact_Crime_IV" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtfiact_Crime_IV.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtfiact_Crime_III" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtfiact_Crime_III.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtfiact_Crime_II" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtfiact_Crime_II.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtfiact_Crime_I" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtfiact_Crime_I.dds" Type="Image" Getrect="0,0,512,512"/>
+
+<!-- 별자리 -->
+<Texture Name="CD_ChallengeImage_Challenge_Anamorphic" Filename="UI/texture/Image/Challengeimage/CD_ChallengeImage_Challenge_Anamorphic.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="CD_ChallengeImage_Challenge_Anamorphic_Adventurer" Filename="UI/texture/Image/Challengeimage/CD_ChallengeImage_Challenge_Anamorphic_Adventurer.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="CD_ChallengeImage_Challenge_Anamorphic_Black_Dragon" Filename="UI/texture/Image/Challengeimage/CD_ChallengeImage_Challenge_Anamorphic_Black_Dragon.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="CD_ChallengeImage_Challenge_Anamorphic_Black_Giant" Filename="UI/texture/Image/Challengeimage/CD_ChallengeImage_Challenge_Anamorphic_Black_Giant.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="CD_ChallengeImage_Challenge_Anamorphic_Black_Key" Filename="UI/texture/Image/Challengeimage/CD_ChallengeImage_Challenge_Anamorphic_Black_Key.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="CD_ChallengeImage_Challenge_Anamorphic_Boat" Filename="UI/texture/Image/Challengeimage/CD_ChallengeImage_Challenge_Anamorphic_Boat.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="CD_ChallengeImage_Challenge_Anamorphic_Camel" Filename="UI/texture/Image/Challengeimage/CD_ChallengeImage_Challenge_Anamorphic_Camel.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="CD_ChallengeImage_Challenge_Anamorphic_Elephant" Filename="UI/texture/Image/Challengeimage/CD_ChallengeImage_Challenge_Anamorphic_Elephant.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="CD_ChallengeImage_Challenge_Anamorphic_Goblin" Filename="UI/texture/Image/Challengeimage/CD_ChallengeImage_Challenge_Anamorphic_Goblin.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="CD_ChallengeImage_Challenge_Anamorphic_Hammer" Filename="UI/texture/Image/Challengeimage/CD_ChallengeImage_Challenge_Anamorphic_Hammer.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="CD_ChallengeImage_Challenge_Anamorphic_Shield" Filename="UI/texture/Image/Challengeimage/CD_ChallengeImage_Challenge_Anamorphic_Shield.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="CD_ChallengeImage_Challenge_Anamorphic_Treant_Owl" Filename="UI/texture/Image/Challengeimage/CD_ChallengeImage_Challenge_Anamorphic_Treant_Owl.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="CD_ChallengeImage_Challenge_Anamorphic_Wagon" Filename="UI/texture/Image/Challengeimage/CD_ChallengeImage_Challenge_Anamorphic_Wagon.dds" Type="Image" Getrect="0,0,512,512"/>
+<Texture Name="CD_ChallengeImage_Challenge_Anamorphic_Sealing_Stone" Filename="UI/texture/Image/Challengeimage/CD_ChallengeImage_Challenge_Anamorphic_Sealing_Stone.dds" Type="Image" Getrect="0,0,512,512"/>
+
+<Texture Name="cd_questimage_QuestGroup_Crimson_Desert_Daily" Filename="UI/texture/Image/Questimage/cd_questimage_QuestGroup_Crimson_Desert_Daily.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_questimage_QuestGroup_Crimson_Desert_Request" Filename="UI/texture/Image/Questimage/cd_questimage_QuestGroup_Crimson_Desert_Request.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_questimage_QuestGroup_Delesyia_Request" Filename="UI/texture/Image/Questimage/cd_questimage_QuestGroup_Delesyia_Request.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_questimage_QuestGroup_Demeniss_Daily" Filename="UI/texture/Image/Questimage/cd_questimage_QuestGroup_Demeniss_Daily.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_questimage_QuestGroup_Demeniss_Request" Filename="UI/texture/Image/Questimage/cd_questimage_QuestGroup_Demeniss_Request.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_questimage_QuestGroup_Graymane" Filename="UI/texture/Image/Questimage/cd_questimage_QuestGroup_Graymane.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_questimage_QuestGroup_Hernand_Daily" Filename="UI/texture/Image/Questimage/cd_questimage_QuestGroup_Hernand_Daily.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_questimage_QuestGroup_Hernand_Request" Filename="UI/texture/Image/Questimage/cd_questimage_QuestGroup_Hernand_Request.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_questimage_QuestGroup_Pailune_Daily" Filename="UI/texture/Image/Questimage/cd_questimage_QuestGroup_Pailune_Daily.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_questimage_QuestGroup_Pailune_Request" Filename="UI/texture/Image/Questimage/cd_questimage_QuestGroup_Pailune_Request.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_questimage_QuestGroup_Delesyia_Daily" Filename="UI/texture/Image/Questimage/cd_questimage_QuestGroup_Delesyia_Daily.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_ChallengeAndChange_IX" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_ChallengeAndChange_IX.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_ChallengeAndChange_VIII" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_ChallengeAndChange_VIII.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Living_XI" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Living_XI.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Living_XII" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Living_XII.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Gun_II" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Gun_II.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Operation_II" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Operation_II.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Operation_IV" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Operation_IV.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_SpecialWeapon_IX" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_SpecialWeapon_IX.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_SpecialWeapon_VI" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_SpecialWeapon_VI.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_SpecialWeapon_VII" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_SpecialWeapon_VII.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_SpecialWeapon_VIII" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_SpecialWeapon_VIII.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_SpecialWeapon_X" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_SpecialWeapon_X.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Puzzle_Lifting_0003" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Puzzle_Lifting_0003.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Puzzle_Mugunghwa_0001" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Puzzle_Mugunghwa_0001.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Puzzle_Mugunghwa_0002" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Puzzle_Mugunghwa_0002.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Puzzle_Statue_0001" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Puzzle_Statue_0001.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Puzzle_Statue_0004" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Puzzle_Statue_0004.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_WildBeasts_I" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_WildBeasts_I.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_WildBeasts_II" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_WildBeasts_II.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_WildBeasts_III" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_WildBeasts_III.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_WildBeasts_IV" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_WildBeasts_IV.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_WildBeasts_V" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_WildBeasts_V.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_WildBeasts_VI" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_WildBeasts_VI.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_WildBeasts_VII" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_WildBeasts_VII.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_ShadowTemple_0001" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_ShadowTemple_0001.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_ShadowTemple_0002" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_ShadowTemple_0002.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_ShadowTemple_0003" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_ShadowTemple_0003.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_ShadowTemple_0004" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_ShadowTemple_0004.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_ShadowTemple_0005" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_ShadowTemple_0005.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_ShadowTemple_0006" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_ShadowTemple_0006.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_ShadowTemple_0007" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_ShadowTemple_0007.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_ShadowTemple_0008" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_ShadowTemple_0008.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_ShadowTemple_0009" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_ShadowTemple_0009.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_ShadowTemple_0010" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_ShadowTemple_0010.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_ShadowTemple_0011" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_ShadowTemple_0011.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_ShadowTemple_0012" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_ShadowTemple_0012.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_ShadowTemple_0013" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_ShadowTemple_0013.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_ShadowTemple_0014" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_ShadowTemple_0014.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_ShadowTemple_0015" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_ShadowTemple_0015.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_ShadowTemple_0016" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_ShadowTemple_0016.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Living_III" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Living_III.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Skirmish_IX" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Mastery_Skirmish_IX.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_SealedArtifact_Hunting_XI" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_SealedArtifact_Hunting_XI.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_WildBeasts_Boss_Reward" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_WildBeasts_Boss_Reward.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_ShadowTemple" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_ShadowTemple.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Puzzle_Mugunghwa_0002" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Puzzle_Mugunghwa_0002.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Puzzle_HugeHintPuzzle_Pororin_0001" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Puzzle_HugeHintPuzzle_Pororin_0001.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Puzzle_HugeHintPuzzle_Jungle_0001" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Puzzle_HugeHintPuzzle_Jungle_0001.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Puzzle_HugeHintPuzzle_Dungeon_0004" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Puzzle_HugeHintPuzzle_Dungeon_0004.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Puzzle_HugeHintPuzzle_Dungeon_0003" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Puzzle_HugeHintPuzzle_Dungeon_0003.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Puzzle_HugeHintPuzzle_Dungeon_0001" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Puzzle_HugeHintPuzzle_Dungeon_0001.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Puzzle_HugeHintPuzzle_Dungeon_0002" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Puzzle_HugeHintPuzzle_Dungeon_0002.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<!-- 전설의동물 -->
+<Texture Name="cd_challengeimage_Mission_Legendanimal_Whitelion" Filename="UI/texture/Image/Challengeimage/cd_challengeimage_Mission_Legendanimal_Whitelion.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_challengeimage_Mission_Legendanimal_Whitehorse" Filename="UI/texture/Image/Challengeimage/cd_challengeimage_Mission_Legendanimal_Whitehorse.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_challengeimage_Mission_Legendanimal_WhiteCrocodile" Filename="UI/texture/Image/Challengeimage/cd_challengeimage_Mission_Legendanimal_WhiteCrocodile.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_challengeimage_Mission_Legendanimal_Whitebear" Filename="UI/texture/Image/Challengeimage/cd_challengeimage_Mission_Legendanimal_Whitebear.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_challengeimage_Mission_Legendanimal_Vineddeer" Filename="UI/texture/Image/Challengeimage/cd_challengeimage_Mission_Legendanimal_Vineddeer.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_ChallengeImage_Mission_Legendanimal_Tiger" Filename="UI/texture/Image/Challengeimage/cd_ChallengeImage_Mission_Legendanimal_Tiger.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_challengeimage_Mission_Legendanimal_SilverFangs" Filename="UI/texture/Image/Challengeimage/cd_challengeimage_Mission_Legendanimal_SilverFangs.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_challengeimage_Mission_Legendanimal_Redriverpig" Filename="UI/texture/Image/Challengeimage/cd_challengeimage_Mission_Legendanimal_Redriverpig.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_challengeimage_Mission_Legendanimal_Redhorse" Filename="UI/texture/Image/Challengeimage/cd_challengeimage_Mission_Legendanimal_Redhorse.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_challengeimage_Mission_Legendanimal_PureWhiteBion" Filename="UI/texture/Image/Challengeimage/cd_challengeimage_Mission_Legendanimal_PureWhiteBion.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_challengeimage_Mission_Legendanimal_Marni_MachineFish" Filename="UI/texture/Image/Challengeimage/cd_challengeimage_Mission_Legendanimal_Marni_MachineFish.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_challengeimage_Mission_Legendanimal_GoldenTench" Filename="UI/texture/Image/Challengeimage/cd_challengeimage_Mission_Legendanimal_GoldenTench.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_challengeimage_Mission_Legendanimal_Giantbull" Filename="UI/texture/Image/Challengeimage/cd_challengeimage_Mission_Legendanimal_Giantbull.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_challengeimage_Mission_Legendanimal_Coelacanth" Filename="UI/texture/Image/Challengeimage/cd_challengeimage_Mission_Legendanimal_Coelacanth.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_challengeimage_Mission_Legendanimal_Blacklion" Filename="UI/texture/Image/Challengeimage/cd_challengeimage_Mission_Legendanimal_Blacklion.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_challengeimage_Mission_Legendanimal_Blackhorse" Filename="UI/texture/Image/Challengeimage/cd_challengeimage_Mission_Legendanimal_Blackhorse.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<!-- 260304 비경 석등이미지 40종 추가 -->
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0060" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0060.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0059" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0059.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0058" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0058.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0057" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0057.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0056" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0056.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0055" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0055.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0054" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0054.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0053" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0053.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0052" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0052.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0051" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0051.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0050" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0050.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0049" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0049.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0048" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0048.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0047" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0047.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0046" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0046.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0045" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0045.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0044" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0044.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0043" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0043.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0042" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0042.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0041" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0041.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0040" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0040.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0039" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0039.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0038" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0038.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0037" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0037.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0036" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0036.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0035" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0035.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0034" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0034.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0033" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0033.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0032" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0032.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0031" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0031.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0030" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0030.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0029" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0029.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0028" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0028.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0027" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0027.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0026" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0026.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0025" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0025.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0024" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0024.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0023" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0023.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0022" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0022.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_ChallengeImage_Challenge_Standstone_Adventure_0021" Filename="UI/texture/Image/Challengeimage/Cd_ChallengeImage_Challenge_Standstone_Adventure_0021.dds" Type="Image" GetRect="0,0,512,512"/>

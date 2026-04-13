@@ -1,0 +1,22 @@
+﻿<Texture Name="cd_hud_skill_stamina_gauge_glow_fire_01" Filename="UI/texture/cd_hud_stamina_01.dds" Type="Image" GetRect="1,1,100,100"/>
+<Texture Name="cd_hud_skill_stamina_gauge_glow_fire_02" Filename="UI/texture/cd_hud_stamina_01.dds" Type="Image" GetRect="1,103,100,100"/>
+<Texture Name="cd_hud_skill_stamina_gauge_glow_fire_03" Filename="UI/texture/cd_hud_stamina_01.dds" Type="Image" GetRect="1,205,100,100"/>
+<Texture Name="cd_hud_skill_stamina_gauge_glow_fire_04" Filename="UI/texture/cd_hud_stamina_01.dds" Type="Image" GetRect="1,307,100,100"/>
+<Texture Name="cd_hud_skill_stamina_gauge_glow_fire_05" Filename="UI/texture/cd_hud_stamina_01.dds" Type="Image" GetRect="1,409,100,100"/>
+<Texture Name="cd_hud_skill_stamina_gauge_glow_ice_01" Filename="UI/texture/cd_hud_stamina_01.dds" Type="Image" GetRect="103,1,100,100"/>
+<Texture Name="cd_hud_skill_stamina_gauge_glow_lightning_01" Filename="UI/texture/cd_hud_stamina_01.dds" Type="Image" GetRect="205,1,100,100"/>
+<Texture Name="cd_hud_skill_stamina_gauge_glow_lightning_02" Filename="UI/texture/cd_hud_stamina_01.dds" Type="Image" GetRect="307,1,100,100"/>
+<Texture Name="cd_hud_skill_stamina_gauge_glow_lightning_03" Filename="UI/texture/cd_hud_stamina_01.dds" Type="Image" GetRect="409,1,100,100"/>
+<Texture Name="cd_hud_skill_stamina_gauge_glow_lightning_04" Filename="UI/texture/cd_hud_stamina_01.dds" Type="Image" GetRect="103,103,100,100"/>
+<Texture Name="cd_hud_skill_stamina_gauge_glow_lightning_05" Filename="UI/texture/cd_hud_stamina_01.dds" Type="Image" GetRect="103,205,100,100"/>
+<Texture Name="cd_hud_skill_stamina_gauge_glow_nature_01" Filename="UI/texture/cd_hud_stamina_01.dds" Type="Image" GetRect="103,307,100,100"/>
+<Texture Name="cd_hud_skill_stamina_gauge_glow_nature_02" Filename="UI/texture/cd_hud_stamina_01.dds" Type="Image" GetRect="103,409,100,100"/>
+<Texture Name="cd_hud_skill_stamina_gauge_glow_nature_03" Filename="UI/texture/cd_hud_stamina_01.dds" Type="Image" GetRect="205,103,100,100"/>
+<Texture Name="cd_hud_skill_stamina_gauge_glow_nature_04" Filename="UI/texture/cd_hud_stamina_01.dds" Type="Image" GetRect="307,103,100,100"/>
+<Texture Name="cd_hud_skill_stamina_gauge_glow_nature_05" Filename="UI/texture/cd_hud_stamina_01.dds" Type="Image" GetRect="409,103,100,100"/>
+<Texture Name="cd_hud_skill_stamina_gauge_glow_wind_01" Filename="UI/texture/cd_hud_stamina_01.dds" Type="Image" GetRect="205,205,100,100"/>
+<Texture Name="cd_hud_skill_stamina_gauge_glow_wind_02" Filename="UI/texture/cd_hud_stamina_01.dds" Type="Image" GetRect="205,307,100,100"/>
+<Texture Name="cd_hud_skill_stamina_gauge_glow_wind_03" Filename="UI/texture/cd_hud_stamina_01.dds" Type="Image" GetRect="205,409,100,100"/>
+<Texture Name="cd_hud_skill_stamina_gauge_glow_wind_04" Filename="UI/texture/cd_hud_stamina_01.dds" Type="Image" GetRect="307,205,100,100"/>
+<Texture Name="cd_hud_skill_stamina_gauge_glow_wind_05" Filename="UI/texture/cd_hud_stamina_01.dds" Type="Image" GetRect="409,205,100,100"/>
+

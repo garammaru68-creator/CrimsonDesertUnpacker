@@ -1,0 +1,574 @@
+﻿
+<Root>
+    <UIActionList>
+		<Action id="PearlAbyssEngine.SetQuit" shortcut="Alt+F4" text="Set Quit" />
+
+        <Action id="PearlAbyssEngine.ShowDebugConsole" shortcut="`" text="Debug Console" />
+        <Action id="PearlAbyssEngine.HideDebugConsole" shortcut="Escape" text="Debug Console" />
+		<Action id="PearlAbyssEngine.CopyStringId" shortcut="Ctrl+C+S" text="copy stringId"/>
+
+        <Action id="PearlAbyssEngine.ToggleShowMouseCursor" shortcut="Shift+`" text="Toggle Show/Hide Mouse Cursor" />
+
+        <Action id="PearlAbyssEngine.ToggleDebugMode" shortcut="Shift+Ctrl+Alt+Backspace" text="Debug Mode" />
+
+        <Action id="PearlAbyssEngine.ToggleFreeCamWithPlayer" shortcut="Ctrl+add" text="FreeCam With PlayerCharacter" />
+        <Action id="PearlAbyssEngine.ToggleFreeCamCameraOnly" shortcut="Shift+," text="FreeCam CameraOnly" />
+
+        <Action id="PearlAbyssEngine.Debug.ToggleUIRendering" shortcut="Alt+F1" text="Toggle UI Rendering" />
+        <Action id="PearlAbyssEngine.Debug.ToggleDebugText" shortcut="Ctrl+F1" text="Toggle DebugText" />
+        <Action id="PearlAbyssEngine.Debug.ToggleDebugTextOnlyShowFPS" shortcut="Shift+Alt+I" text="Show Only Debug Text FPS" />
+        <Action id="PearlAbyssEngine.Debug.ToggleCharacterControl" shortcut="J" text="Toggle CharacterControl(Debug)" />
+        <Action id="PearlAbyssEngine.Debug.PrevDebugContents" shortcut="[" text="Prev Debug Contents (DebugMode Required)"/>
+        <Action id="PearlAbyssEngine.Debug.NextDebugContents" shortcut="]" text="Next Debug Contents (DebugMode Required)"/>
+        
+        <Action id="PearlAbyssEngine.Debug.ChangeDiffuseGIFilterNext" shortcut="Ctrl+Shift+PageUp" text="Change Diffuse GI Filter+ (DebugMode Required)" />        
+        <Action id="PearlAbyssEngine.Debug.ChangeDiffuseGIFilterPrev" shortcut="Ctrl+Shift+PageDown" text="Change Diffuse GI Filter- (DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.ChangeShadowAOFilterNext" shortcut="Ctrl+PageUp" text="Change Shadow AO Filter+ (DebugMode Required)" />        
+        <Action id="PearlAbyssEngine.Debug.ChangeShadowAOFilterPrev" shortcut="Ctrl+PageDown" text="Change Shadow AO Filter- (DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.ChangeSpecularGIFilterNext" shortcut="Alt+PageUp" text="Change Specular GI Filter+ (DebugMode Required)" />        
+        <Action id="PearlAbyssEngine.Debug.ChangeSpecularGIFilterPrev" shortcut="Alt+PageDown" text="Change Specular GI Filter- (DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.VisualizeTargetClipmapsNext" shortcut="Shift+PageUp" text="Visualize Target Clipmaps Next (DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.VisualizeTargetClipmapsPrev" shortcut="Shift+PageDown" text="Visualize Target Clipmaps Prev (DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.VisualizeClipmapsTargetLevelNext" shortcut="PageUp" text="Visualize Clipmaps Target Lv Next (DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.VisualizeClipmapsTargetLevelPrev" shortcut="PageDown" text="Visualize Clipmaps Target Lv Prev (DebugMode Required)" />
+
+
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.LightingOnly" shortcut="1" text="LightingOnly" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.HighPrecisionNormalBuffer" shortcut="Ctrl+1" text="HighPrecisionNormalBuffer" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.EncodeBaseColor" shortcut="Shift+1" text="EncodeBaseColor" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.HighPrecisionVelocityBuffer" shortcut="Ctrl+Shift+1" text="HighPrecisionVelocityBuffer" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.HighPrecisionSceneColorBuffer" shortcut="Alt+Shift+1" text="HighPrecisionSceneColorBuffer" />
+
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.DirectLighting" shortcut="2" text="DirectLighting" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.ShadowAO" shortcut="Ctrl+2" text="ShadowAO" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.HBAONeighborReuse" shortcut="Alt+2" text="HBAONeighborReuse" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.ShadowAOInterleaved" shortcut="Shift+2" text="ShadowAOInterleaved" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.LightingInterleavedRenderDirectionalLightsWithGI" shortcut="Ctrl+Alt+2" text="LightingInterleavedRenderDirectionalLightsWithGI" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.ShadowAOFiltering" shortcut="Ctrl+Shift+2" text="ShadowAOFiltering" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.ShadowAOFilteringSeparable" shortcut="Alt+Shift+2" text="ShadowAOFilteringSeparable" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.LightingInterleaved" shortcut="Ctrl+Alt+Shift+2" text="LightingInterleaved" />
+
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.DirectionalLight" shortcut="3" text="DirectionalLight" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.SSSSS" shortcut="Ctrl+3" text="SSSSS" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.ReflectorLight" shortcut="Alt+3" text="ReflectorLight" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.PointLight" shortcut="Shift+3" text="PointLight" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.AreaLight" shortcut="Ctrl+Shift+3" text="AreaLight" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.PointLightFlickering" shortcut="Alt+Shift+3" text="PointLightFlickering" />
+
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.SkyLight" shortcut="4" text="SkyLight" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.RenderParticipatingMedia" shortcut="Ctrl+4" text="RenderParticipatingMedia" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.Cloud" shortcut="Alt+4" text="Cloud" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.AtmosphericScattering" shortcut="Shift+4" text="AtmosphericScattering" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.VoxelAO" shortcut="Ctrl+Alt+4" text="VoxelAO" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.DiffuseGlobalIlluminationLocalLights" shortcut="Ctrl+Shift+4" text="DiffuseGlobalIlluminationLocalLights" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.DiffuseGlobalIlluminationLocalLightsUseSeparatePass" shortcut="Alt+Shift+4" text="DiffuseGlobalIlluminationLocalLightsUseSeparatePass" />
+
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.GlobalIllumination" shortcut="5" text="GlobalIllumination" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.GlobalIlluminationMultipleBounce" shortcut="Ctrl+5" text="GlobalIlluminationMultipleBounce" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.UseBilinearSamplerForDiffuseGI" shortcut="Alt+5" text="UseBilinearSamplerForDiffuseGI" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.InjectSceneLightsToSceneVoxels" shortcut="Shift+5" text="InjectSceneLightsToSceneVoxels" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.UseBilinearSamplerForSpecularGI" shortcut="Alt+Shift+5" text="UseBilinearSamplerForSpecularGI" />
+
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.DiffuseGlobalIllumination" shortcut="6" text="DiffuseGlobalIllumination" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.DiffuseGlobalIlluminationScreenSpaceRays" shortcut="Ctrl+6" text="DiffuseGlobalIlluminationScreenSpaceRays" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.DiffuseGlobalIlluminationTiledRadianceCache" shortcut="Alt+6" text="DiffuseGlobalIlluminationTiledRadianceCache" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.DiffuseGlobalIlluminationTiledRadianceCacheFiltering" shortcut="Alt+Shift+6" text="DiffuseGlobalIlluminationTiledRadianceCacheFiltering" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.DiffuseGlobalIlluminationFiltering" shortcut="Ctrl+Alt+5" text="DiffuseGlobalIlluminationFiltering" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.DiffuseGlobalIlluminationDownsampled" shortcut="Shift+6" text="DiffuseGlobalIlluminationDownsampled" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.DiffuseGlobalIlluminationUseIndirectCache" shortcut="Ctrl+Shift+6" text="DiffuseGlobalIlluminationUseIndirectCache" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.DiffuseGlobalIlluminationAOOnly" shortcut="Ctrl+Alt+Shift+6" text="DiffuseGlobalIlluminationAOOnly" />
+
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.SpecularGlobalIllumination" shortcut="7" text="SpecularGlobalIllumination" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.RaytracedSpecularGI" shortcut="Ctrl+7" text="RaytracedSpecularGI" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.SpecularGlobalIlluminationFiltering" shortcut="Alt+7" text="SpecularGlobalIlluminationFiltering" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.RaytracedDiffuseGI" shortcut="Shift+7" text="RaytracedDiffuseGI" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.SpecularGlobalIlluminationHighQuality" shortcut="Ctrl+Shift+7" text="SpecularGlobalIlluminationHighQuality" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.SpecularGlobalIlluminationFilteringSeparable" shortcut="Alt+Shift+7" text="SpecularGlobalIlluminationFilteringSeparable" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.Raytracing" shortcut="Ctrl+Alt+Shift+7" text="Raytracing" />
+
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.GenerateSceneVoxels" shortcut="8" text="GenerateSceneVoxels" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.GenerateVoxelsFrameDistribution" shortcut="Ctrl+8" text="GenerateVoxelsFrameDistribution" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.GenerateSceneVoxelsFromCubemap" shortcut="Alt+8" text="GenerateSceneVoxelsFromCubemap" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.GenerateSceneVoxelsFromObjects" shortcut="Ctrl+Shift+8" text="GenerateSceneVoxelsFromObjects" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.GenerateSceneVoxelsFromMainView" shortcut="Alt+Shift+8" text="GenerateSceneVoxelsFromMainView" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.ReadBackVoxelGenerationStatistics" shortcut="Ctrl+Alt+Shift+8" text="ReadBackVoxelGenerationStatistics" />
+
+
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.VisualizeClipmaps" shortcut="9" text="VisualizeClipmaps" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.SmallScaleAutomaticPlacement" shortcut="Ctrl+9" text="SmallScaleAutomaticPlacement" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.DeformableSurface" shortcut="Alt+9" text="DeformableSurface" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.LargeScaleAutomaticPlacement" shortcut="Shift+9" text="LargeScaleAutomaticPlacement" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.VoxelGeometry" shortcut="Alt+Shift+9" text="VoxelGeometry" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.LargeScaleDetailMapping" shortcut="Ctrl+Shift+9" text="LargeScaleDetailMapping" />
+
+
+        <Action id="PearlAbyssEngine.Debug.Scene.InitSceneRendering" shortcut="0" text="Init Scene Rendering(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.Scene.ClearSceneRendering" shortcut="Alt+0" text="Clear Scene Rendering(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.Scene.RebuildRaytracing" shortcut="Ctrl+Alt+0" text="Rebuild Raytracing(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.GenerateMipLevels" shortcut="Ctrl+0" text="GenerateMipLevels" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.ClearSceneVoxels" shortcut="Shift+0" text="ClearSceneVoxels" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.ClearRadianceVoxels" shortcut="Ctrl+Shift+0" text="ClearRadianceVoxels" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.ClearSignedDistanceVoxels" shortcut="Alt+Shift+0" text="ClearSignedDistanceVoxels" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.ClearDynamicSceneVoxels" shortcut="Ctrl+Alt+Shift+0" text="ClearDynamicSceneVoxels" /> 
+
+ 
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.AsyncCompute" shortcut="Ctrl+'" text="AsyncCompute" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.MultithreadedPresent" shortcut="Alt+'" text="MultithreadedPresent" />
+        <Action id="PearlAbyssEngine.Debug.ToggleVSyncEnable" shortcut="Shift+'" text="Toggle VSyncEnable(DebugMode Required)" />
+        
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.SortIndirectCommands" shortcut=";" text="SortIndirectCommands" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.TiledDispatch" shortcut="Shift+;" text="TiledDispatch" />
+
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.TemporalAA" shortcut="F11" text="TemporalAA" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.PostProcessSharpen" shortcut="Ctrl+F11" text="PostProcessSharpen" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.TemporalAANeighborhoodClamping" shortcut="Alt+F11" text="TemporalAANeighborhoodClamping" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.TemporalAAUpsample" shortcut="Shift+F11" text="TemporalAAUpsample" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.TemporalAABilateralWeights" shortcut="Alt+Shift+F11" text="TemporalAABilateralWeights" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.TemporalAAUpsampleBicubic" shortcut="Ctrl+Alt+Shift+F11" text="TemporalAAUpsampleBicubic" />
+
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.SpecularVoxelRaymarching" shortcut="C" text="SpecularVoxelRaymarching" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.EnvironmentMaps" shortcut="Ctrl+C" text="EnvironmentMaps" /> -->        
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.PreRenderEnvironmentMapsForMetallics" shortcut="Alt+C" text="PreRenderEnvironmentMapsForMetallics" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.ScreenSpaceReflections" shortcut="Shift+C" text="ScreenSpaceReflections" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.UpdateEnvironmentMaps" shortcut="Ctrl+Shift+C" text="UpdateEnvironmentMaps" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.EnvironmentMapsUseRaymarching" shortcut="Alt+Shift+C" text="EnvironmentMapsUseRaymarching" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.EnvironmentSkyMapsTerrainRendering" shortcut="Ctrl+Alt+Shift+C" text="EnvironmentSkyMapsTerrainRendering" />
+
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.CharacterPBDThreadDistribution" shortcut="Shift+J" text="CharacterPBDThreadDistribution" />
+
+        <Action id="PearlAbyssEngine.Debug.CycleLODMask" shortcut="K" text="Cycle LOD Mask(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.InstanceMaterialCheck" shortcut="Alt+K" text="Check Instance Material(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.VisualizeDiffuseReflectance" shortcut="Shift+K" text="VisualizeDiffuseReflectance" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.VisualizeDiffuseReflectanceMode" shortcut="Alt+Shift+K" text="VisualizeDiffuseReflectanceMode" />
+
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.ContactShadow" shortcut="Ctrl+L" text="ContactShadow" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.DirectionalLightShadow" shortcut="Shift+L" text="DirectionalLightShadow" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.PointLightShadow" shortcut="Alt+L" text="PointLightShadow" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.DirectionalLightTranslucentShadow" shortcut="Alt+Shift+L" text="DirectionalLightTranslucentShadow" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.PointLightUseShadowBits" shortcut="Ctrl+Alt+L" text="PointLightUseShadowBits" />
+        <Action id="PearlAbyssEngine.Debug.ToggleUltraShadowMode" shortcut="Ctrl+Shift+L" text="Toggle Ultra Shadow Mode(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.NearFieldShadow" shortcut="Ctrl+Alt+Shift+L" text="NearFieldShadow" />
+
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.VisualizeTextureNormalError" shortcut="O" text="VisualizeTextureNormalError" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.HBAO" shortcut="Ctrl+O" text="HBAO" />         
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.VisualizeVertexNormalError" shortcut="Alt+O" text="VisualizeVertexNormalError" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.VisualizeVertexTangentError" shortcut="Shift+O" text="VisualizeVertexTangentError" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.VisualizeTexelDensity" shortcut="Ctrl+Shift+O" text="VisualizeTexelDensity" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.VisualizeTransmission" shortcut="Ctrl+Alt+O" text="VisualizeTransmission" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.VisualizeOverdraw" shortcut="Alt+Shift+O" text="VisualizeOverdraw" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.VisualizeLightOverdraw" shortcut="Ctrl+Alt+Shift+O" text="VisualizeLightOverdraw" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderParticleInformation" shortcut="Alt+F8" text="Toggle Render Particle Information (DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderParticleRawPosition" shortcut="Alt+F9" text="Toggle Render Particle Raw Position (DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.ChangeEffectOverdrawRenderMode" shortcut="Alt+F10" text="Change Effect Overdraw RenderMode (DebugMode Required)" />
+        
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.PreExposure" shortcut="Alt+P" text="PreExposure" />
+
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.TreeWind" shortcut="Ctrl+P" text="TreeWind" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.WeatherRain" shortcut="Alt+T" text="WeatherRain" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.ToneMapPreviewMode" shortcut="Ctrl+Alt+T" text="ToneMapPreviewMode" />
+
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.MipLODBias" shortcut="U" text="MipLODBias" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.AnisotropicTextureFilteringForTerrain" shortcut="Ctrl+Shift+U" text="AnisotropicTextureFilteringForTerrain" />
+
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.PostProcessDepthOfField" shortcut="Y" text="PostProcessDepthOfField" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.PostProcessEyeAdaptation" shortcut="Ctrl+Y" text="PostProcessEyeAdaptation" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.PostProcessMotionBlur" shortcut="Alt+Y" text="PostProcessMotionBlur" />
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.PostProcessGlare" shortcut="Shift+Y" text="PostProcessGlare" />
+		
+        <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.ScreenSpaceDisplacementMapping" shortcut="Ctrl+Shift+P" text="ScreenSpaceDisplacementMapping" />
+
+        <Action id="PearlAbyssEngine.Debug.ToggleSceneElementsVisibility.Terrain" shortcut="F1" text="Terrain" />
+        <Action id="PearlAbyssEngine.Debug.ToggleSceneElementsVisibility.Object" shortcut="F3" text="Object" />
+        <Action id="PearlAbyssEngine.Debug.ToggleSceneElementsVisibility.ObjectTranslucent" shortcut="Shift+F3" text="ObjectTranslucent" />
+        <Action id="PearlAbyssEngine.Debug.ToggleSceneElementsVisibility.ObjectBlend" shortcut="F4" text="ObjectBlend" />
+        <Action id="PearlAbyssEngine.Debug.ToggleSceneElementsVisibility.ObjectDecal" shortcut="F5" text="ObjectDecal" />
+        <Action id="PearlAbyssEngine.Debug.ToggleSceneElementsVisibility.Water" shortcut="F6" text="Water" />
+        <Action id="PearlAbyssEngine.Debug.ToggleSceneElementsVisibility.Tree" shortcut="F7" text="Tree" />
+        <Action id="PearlAbyssEngine.Debug.ToggleSceneElementsVisibility.Weed" shortcut="F8" text="Weed" />
+
+        <Action id="PearlAbyssEngine.Debug.EnableDebugMessage" shortcut="F9" text="Enable/Disable DebugMessage(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.ToggleMultiThreadLoadMode" shortcut="F10" text="Toggle MultiThreadLoadMode(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.ExcuteNsightInjection" shortcut="Ctrl+Alt+Shift+F10" text="ExcuteNsightInjection(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.EnableStablePowerState" shortcut="Ctrl+F10" text="Enable/Disable StablePowerState(DebugMode Required)" />
+    
+        <Action id="PearlAbyssEngine.Debug.CycleIndirectCommandsSortingMethods" shortcut="/" text="Change Indirect Commands Sorting Methods" />
+ 
+        <Action id="PearlAbyssEngine.Debug.FreezeFrustum" shortcut="Shift+Backspace" text="Freeze/Unfreeze Frustum(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.PauseFrameIndex" shortcut="Ctrl+Backspace" text="Pause FrameIndex(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.IncreaseFrameIndex" shortcut="Alt+Backspace" text="Increase FrameIndex(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.FreezeTimeScale" shortcut="Backspace" text="Freeze Time Scale(DebugMode Required)" />
+
+        <Action id="PearlAbyssEngine.Debug.DecreaseQualityLevel" shortcut="-" text="QualityLevel+(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.IncreaseQualityLevel" shortcut="+" text="QualityLevel-(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.DecreaseResolutionScale" shortcut="Shift+-" text="ResolutionScale-(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.IncreaseResolutionScale" shortcut="Shift++" text="ResolutionScale+(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.DecreaseToneMapFilmicContrast" shortcut="Alt+-" text="ToneMapFilmicContrast-(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.IncreaseToneMapFilmicContrast" shortcut="Alt++" text="ToneMapFilmicContrast+(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.DecreaseScreenPercentageThreshold" shortcut="Ctrl+-" text="ScreenPercentageThresholdt-(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.IncreaseScreenPercentageThreshold" shortcut="Ctrl++" text="ScreenPercentageThresholdt+(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.DecreaseGlobalScale" shortcut="Ctrl+Alt+Shift+-" text="GlobalScale-(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.IncreaseGlobalScale" shortcut="Ctrl+Alt+Shift++" text="GlobalScale+(DebugMode Required)" />
+
+        <Action id="PearlAbyssEngine.Debug.WriteGPUMemoryProfiler" shortcut="G" text="Write GPU Memory Profiler(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.WritePipelineUsages" shortcut="Ctrl+G" text="Write Pipeline Usages(DebugMode Required)" />
+
+        <Action id="PearlAbyssEngine.Debug.DebugCameraState" shortcut="Ctrl+Alt+1" text="Debug Camera State" />
+
+        <Action id="PearlAbyssEngine.Debug.ChangeRendererDebugInformationLevel" shortcut="I" text="Change Renderer Debug Information Level(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.ChangeQueryEffectInfoType" shortcut="Shift+Ctrl+Alt+E" text="Change Query Effect Info Type(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.ChangeProfileDeviceMemoryUsage" shortcut="Alt+I" text="Change Profile Device Memory Usage Type(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.ChangeQueryGPUTimingsLevel" shortcut="Shift+I" text="Change Query GPU Timings Level(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.ChangeProfilePrivateMemoryUsage" shortcut="Ctrl+Shift+I" text="Change Profile Private Memory(DebugMode Required)" />
+		<Action id="PearlAbyssEngine.Debug.ToggleSceneLevelLoadingProfile" shortcut="Alt+Ctrl+I" text="Toggle Profile SceneLevel Loading(DebugMode Required)" />
+
+        <Action id="PearlAbyssEngine.Debug.ToggleShowEngineOption" shortcut="Alt+N" text="Toggle Show EngineOption(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.ToggleHdr" shortcut="Alt+H" text="Toggle HDR(DebugMode Required)" />
+
+        <!--<Action id="PearlAbyssEngine.Debug.EnableCountResourceBinding" shortcut="B" text="Enable/Disable Count Resource Binding(DebugMode Required)"/>-->
+        <!--<Action id="PearlAbyssEngine.Debug.PauseCountResourceBinding" shortcut="Ctrl+B" text="Pause/Resume Count Resource Binding(DebugMode Required)"/>-->
+
+        <Action id="PearlAbyssEngine.Debug.ScopedTimeProfileStatistics" shortcut="Ctrl+Alt+Shift+I" text="ScopedTimeProfile Statistics(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.ScopedTimeProfileFunctionCount" shortcut="Ctrl+Alt+Shift+K" text="ScopedTimeProfile FunctionCount(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.ScopedTimeProfileTracing" shortcut="Alt+Shift+Z" text="ScopedTimeProfile Tracing(DebugMode Required)" />
+
+        <Action id="PearlAbyssEngine.Debug.GPUTimestampTracing" shortcut="Shift+Z" text="GPU Timestamp Tracing(DebugMode Required)" />
+
+        <Action id="PearlAbyssEngine.Debug.CycleResourceProfilingCategory" shortcut="Shift+R" text="Cycle Resource Profiling Catefory" />
+        <Action id="PearlAbyssEngine.Debug.ToggleObjectProfiling" shortcut="Shift+B" text="Toggle Object Profiling" />
+
+        <Action id="PearlAbyssEngine.Debug.CycleFileLoadProfilingCategory" shortcut="Shift+F" text="Cycle File Load Profiling Category" />
+        <Action id="PearlAbyssEngine.Debug.ResetFileLoadProfiling" shortcut="Shift+Alt+F" text="Reset File Load Profiling" />
+
+        <Action id="PearlAbyssEngine.Debug.CycleDebugObjects" shortcut="N" text="Cycle DebugObjects(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.CycleDrawTest" shortcut="Shift+M" text="Cycle DrawTest(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.CycleDebugParticles" shortcut="Ctrl+Shift+M" text="Cycle Debug Particles(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.CycleColorChartObject" shortcut="Ctrl+Shift+N" text="Toggle Color Chart DebugObject(DebugMode Required)" />
+           
+        <Action id="PearlAbyssEngine.Debug.CropViewport" shortcut="Ctrl+N" text="Viewport Crop Mode(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.ChangeRenderTargetSize" shortcut="Shift+N" text="Change RenderTarget Size(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.CycleDebugRenderTargetSize" shortcut="P" text="Cycle Debug RenderTarget Size(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.CycleRaytracingDebugMode" shortcut="Ctrl+Alt+Shift+P" text="Cycle Raytracing DebugMode(DebugMode Required)" />                    
+        <Action id="PearlAbyssEngine.Debug.CycleDebugMaterials" shortcut="T" text="Cycle Debug Material(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.ToggleDebugVertexNormalMode" shortcut="Shift+T" text="Toggle Debug Vertex Normal Mode(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.TestLightning" shortcut="Ctrl+Alt+U" text="TestLightning(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.ToggleVTuneProfileingDataCollection" shortcut="Ctrl+Shift+Z" text="VTune Profileing Data Collection(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.ToggleLookAtIK" shortcut="Ctrl+Alt+X" text="Toggle LookAtIK(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.SkipCharacterRender" shortcut="Ctrl+Alt+Shift+X" text="Skip CharacterRender(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.ExportEnvironmentMap" shortcut="Ctrl+V" text="Export EnvironmentMap(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.EnableGPUIntersection" shortcut="Ctrl+Shift+H" text="Enable GPU Intersection(DebugMode Required)" />
+        <Action id="PearlAbyssEngine.Debug.CycleTaskCallbackStatistics" shortcut="Ctrl+T" text="Cycle Task Callback Statistics(DebugMode Required)"/>
+
+        <Action id="PearlAbyssEngine.Debug.CycleTimeOfDayPrev" shortcut="Ctrl+," text="Time Of Day 순환" />
+        <Action id="PearlAbyssEngine.Debug.CycleTimeOfDayNext" shortcut="Ctrl+." text="Time Of Day 순환" />
+        <Action id="PearlAbyssEngine.Debug.TimeOfDayBackward" shortcut="," text="Time Of Day 역행" repeat-period="0.0001" repeat-delay="0.0" />
+        <Action id="PearlAbyssEngine.Debug.TimeOfDayForward" shortcut="." text="Time Of Day 순행" repeat-period="0.0001" repeat-delay="0.0" />
+        <Action id="PearlAbyssEngine.Debug.TimeOfDayBackwardx2" shortcut="Shift+," text="Time Of Day 역행 x 2" repeat-period="0.0001" repeat-delay="0.0" />
+        <Action id="PearlAbyssEngine.Debug.TimeOfDayForwardx2" shortcut="Shift+." text="Time Of Day 순행 x 2" repeat-period="0.0001" repeat-delay="0.0" />
+
+    </UIActionList>
+    
+
+<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+
+
+    <!-- Scope가 들어갈 수 있는 Layer. 먼저 작성된 순서대로 우선순위가 높다 -->
+    <UIScopeLayerList>
+        <ScopeLayer id="DebugLayer"/>
+        <ScopeLayer id="GizmoEditLayer"/>
+        <ScopeLayer id="UIControllerLayer"/>
+        <ScopeLayer id="SplineEditorFocusLayer"/>
+        <ScopeLayer id="SequencerModeLayer"/>  <!-- EditorMode에 시퀀서모드는 없다고해서 추가.  -->
+        <ScopeLayer id="PreviewComponentFocusLayer"/>
+        <ScopeLayer id="TimelineFocusLayer"/>
+        <ScopeLayer id="ViewLayer"/>
+        <ScopeLayer id="WindowLayer"/>
+        <ScopeLayer id="TimelineGlobalLayer"/>
+        <ScopeLayer id="EditorTabLayer"/>
+        <ScopeLayer id="EditorModeLayer"/>
+        <ScopeLayer id="GlobalLayer"/>
+    </UIScopeLayerList>
+
+
+<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+    
+
+<!-- 위에 선언된 action 들이 동작할 scope-->
+    <UIScopeList>
+        <Scope name="Global" layer="GlobalLayer" text="최하위 우선순위로 전역에서 동작">
+		    <Action id="PearlAbyssEngine.SetQuit" />  
+            <Action id="PearlAbyssEngine.ShowDebugConsole" />
+            <Action id="PearlAbyssEngine.CopyStringId"/>
+            <Action id="PearlAbyssEngine.ToggleShowMouseCursor"/>
+            <Action id="PearlAbyssEngine.ToggleDebugMode" />
+            <Action id="PearlAbyssEngine.Debug.ToggleUIRendering" /> 
+            <Action id="PearlAbyssEngine.Debug.ToggleDebugText" />
+            <Action id="PearlAbyssEngine.Debug.ToggleDebugTextOnlyShowFPS" />
+            <Action id="PearlAbyssEngine.ToggleFreeCamWithPlayer" />
+            <Action id="PearlAbyssEngine.ToggleFreeCamCameraOnly" />
+            
+        </Scope>
+
+        <Scope name="DebugConsole" layer="DebugLayer" text="디버그 콘솔 입력창이 켜져있을 때 동작">
+            <Action id="PearlAbyssEngine.ShowDebugConsole" />
+            <Action id="PearlAbyssEngine.HideDebugConsole" />
+        </Scope>
+			
+        <Scope name="Scene" layer="WindowLayer" text="포커스: Scene 윈도우에서 동작">
+            <Action id="PearlAbyssEngine.Debug.ChangeEffectOverdrawRenderMode" />
+			<Action id="PearlAbyssEngine.Debug.ToggleRenderParticleRawPosition" />
+			<Action id="PearlAbyssEngine.Debug.ToggleRenderParticleInformation" />
+        </Scope>
+			
+        <Scope name="GameMain" layer="WindowLayer" text="포커스: 인게임 윈도우에서 동작">
+            <Action id="PearlAbyssEngine.Debug.ChangeEffectOverdrawRenderMode" />
+			<Action id="PearlAbyssEngine.Debug.ToggleRenderParticleRawPosition" />
+			<Action id="PearlAbyssEngine.Debug.ToggleRenderParticleInformation" />
+        </Scope>
+
+        <Scope name="Debug" layer="DebugLayer" text="디버그 모드가 켜져있을 때 전역에서 동작">
+            <Action id="PearlAbyssEngine.Debug.ToggleCharacterControl" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.LightingOnly" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.HighPrecisionNormalBuffer" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.EncodeBaseColor" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.HighPrecisionVelocityBuffer" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.HighPrecisionSceneColorBuffer" />
+    
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.DirectLighting" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.ShadowAO" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.HBAONeighborReuse" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.ShadowAOInterleaved" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.LightingInterleavedRenderDirectionalLightsWithGI" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.ShadowAOFiltering" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.ShadowAOFilteringSeparable" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.LightingInterleaved" />
+    
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.DirectionalLight" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.SSSSS" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.ReflectorLight" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.PointLight" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.AreaLight" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.PointLightFlickering" />
+    
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.SkyLight" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.RenderParticipatingMedia" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.Cloud" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.AtmosphericScattering" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.VoxelAO" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.DiffuseGlobalIlluminationLocalLights" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.DiffuseGlobalIlluminationLocalLightsUseSeparatePass" />
+    
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.GlobalIllumination" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.GlobalIlluminationMultipleBounce" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.UseBilinearSamplerForDiffuseGI" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.InjectSceneLightsToSceneVoxels" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.UseBilinearSamplerForSpecularGI" />
+    
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.DiffuseGlobalIllumination" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.DiffuseGlobalIlluminationScreenSpaceRays" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.DiffuseGlobalIlluminationTiledRadianceCache" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.DiffuseGlobalIlluminationTiledRadianceCacheFiltering" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.DiffuseGlobalIlluminationFiltering" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.DiffuseGlobalIlluminationDownsampled" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.DiffuseGlobalIlluminationUseIndirectCache" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.DiffuseGlobalIlluminationAOOnly" />
+    
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.SpecularGlobalIllumination" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.RaytracedSpecularGI" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.SpecularGlobalIlluminationFiltering" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.RaytracedDiffuseGI" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.SpecularGlobalIlluminationHighQuality" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.SpecularGlobalIlluminationFilteringSeparable" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.Raytracing" />
+    
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.GenerateSceneVoxels" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.GenerateVoxelsFrameDistribution" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.GenerateSceneVoxelsFromCubemap" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.GenerateSceneVoxelsFromObjects" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.GenerateSceneVoxelsFromMainView" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.ReadBackVoxelGenerationStatistics" />
+ 
+    
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.VisualizeClipmaps" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.SmallScaleAutomaticPlacement" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.DeformableSurface" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.LargeScaleAutomaticPlacement" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.VoxelGeometry" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.LargeScaleDetailMapping" />
+    
+    
+            <Action id="PearlAbyssEngine.Debug.Scene.InitSceneRendering" />
+            <Action id="PearlAbyssEngine.Debug.Scene.ClearSceneRendering" />
+            <Action id="PearlAbyssEngine.Debug.Scene.RebuildRaytracing" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.GenerateMipLevels" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.ClearSceneVoxels" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.ClearRadianceVoxels" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.ClearSignedDistanceVoxels" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.ClearDynamicSceneVoxels" />
+ 
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.AsyncCompute" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.MultithreadedPresent" />
+
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.SortIndirectCommands" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.TiledDispatch" />
+
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.TemporalAA" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.PostProcessSharpen" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.TemporalAANeighborhoodClamping" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.TemporalAAUpsample" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.TemporalAABilateralWeights" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.TemporalAAUpsampleBicubic" />
+
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.SpecularVoxelRaymarching" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.EnvironmentMaps" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.PreRenderEnvironmentMapsForMetallics" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.ScreenSpaceReflections" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.UpdateEnvironmentMaps" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.EnvironmentMapsUseRaymarching" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.EnvironmentSkyMapsTerrainRendering" />
+
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.CharacterPBDThreadDistribution" />
+    
+            <Action id="PearlAbyssEngine.Debug.CycleLODMask" />
+            <Action id="PearlAbyssEngine.Debug.InstanceMaterialCheck" />			
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.VisualizeDiffuseReflectance" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.VisualizeDiffuseReflectanceMode" />
+    
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.ContactShadow" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.DirectionalLightShadow" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.PointLightShadow" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.DirectionalLightTranslucentShadow" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.PointLightUseShadowBits" />
+            <Action id="PearlAbyssEngine.Debug.ToggleUltraShadowMode" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.NearFieldShadow" />
+    
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.VisualizeTextureNormalError" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.HBAO" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.VisualizeVertexNormalError" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.VisualizeVertexTangentError" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.VisualizeTexelDensity" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.VisualizeTransmission" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.VisualizeOverdraw" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.VisualizeLightOverdraw" />
+
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.PreExposure" />
+    
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.TreeWind" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.WeatherRain" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.ToneMapPreviewMode" />
+    
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.MipLODBias" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.AnisotropicTextureFilteringForTerrain" />
+    
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.PostProcessDepthOfField" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.PostProcessEyeAdaptation" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.PostProcessMotionBlur" />
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.PostProcessGlare" />
+			
+            <Action id="PearlAbyssEngine.Debug.ToggleRenderingFeature.ScreenSpaceDisplacementMapping" />
+
+            <Action id="PearlAbyssEngine.Debug.ToggleVSyncEnable" />
+
+            <Action id="PearlAbyssEngine.Debug.ToggleSceneElementsVisibility.Terrain" />
+            <Action id="PearlAbyssEngine.Debug.ToggleSceneElementsVisibility.Object" />
+            <Action id="PearlAbyssEngine.Debug.ToggleSceneElementsVisibility.ObjectTranslucent" />
+            <Action id="PearlAbyssEngine.Debug.ToggleSceneElementsVisibility.ObjectBlend" />
+            <Action id="PearlAbyssEngine.Debug.ToggleSceneElementsVisibility.ObjectDecal" />
+            <Action id="PearlAbyssEngine.Debug.ToggleSceneElementsVisibility.Water" />
+            <Action id="PearlAbyssEngine.Debug.ToggleSceneElementsVisibility.Tree" />
+            <Action id="PearlAbyssEngine.Debug.ToggleSceneElementsVisibility.Weed" />
+
+            <Action id="PearlAbyssEngine.Debug.EnableDebugMessage" />
+            <Action id="PearlAbyssEngine.Debug.ToggleMultiThreadLoadMode" />
+            <Action id="PearlAbyssEngine.Debug.ExcuteNsightInjection" />
+            <Action id="PearlAbyssEngine.Debug.EnableStablePowerState" />
+
+            <Action id="PearlAbyssEngine.Debug.CycleIndirectCommandsSortingMethods" />
+
+            <Action id="PearlAbyssEngine.Debug.FreezeFrustum" />
+            <Action id="PearlAbyssEngine.Debug.PauseFrameIndex" />
+            <Action id="PearlAbyssEngine.Debug.IncreaseFrameIndex" />
+            <Action id="PearlAbyssEngine.Debug.FreezeTimeScale" />
+
+            <Action id="PearlAbyssEngine.Debug.DecreaseQualityLevel" />
+            <Action id="PearlAbyssEngine.Debug.IncreaseQualityLevel" />
+            <Action id="PearlAbyssEngine.Debug.DecreaseResolutionScale" />
+            <Action id="PearlAbyssEngine.Debug.IncreaseResolutionScale" />
+            <Action id="PearlAbyssEngine.Debug.DecreaseToneMapFilmicContrast" />
+            <Action id="PearlAbyssEngine.Debug.IncreaseToneMapFilmicContrast" />
+            <Action id="PearlAbyssEngine.Debug.DecreaseScreenPercentageThreshold" />
+            <Action id="PearlAbyssEngine.Debug.IncreaseScreenPercentageThreshold" />
+            <Action id="PearlAbyssEngine.Debug.DecreaseGlobalScale" />
+            <Action id="PearlAbyssEngine.Debug.IncreaseGlobalScale" />
+
+            <Action id="PearlAbyssEngine.Debug.WriteGPUMemoryProfiler" />
+            <Action id="PearlAbyssEngine.Debug.WritePipelineUsages" />
+
+            <Action id="PearlAbyssEngine.Debug.ChangeRendererDebugInformationLevel" />
+            <Action id="PearlAbyssEngine.Debug.ChangeQueryEffectInfoType" />
+            <Action id="PearlAbyssEngine.Debug.DebugCameraState" />			
+            <Action id="PearlAbyssEngine.Debug.ChangeProfileDeviceMemoryUsage" />
+            <Action id="PearlAbyssEngine.Debug.ChangeQueryGPUTimingsLevel" />
+            <Action id="PearlAbyssEngine.Debug.ChangeProfilePrivateMemoryUsage" />
+			<Action id="PearlAbyssEngine.Debug.ToggleSceneLevelLoadingProfile"/>
+			
+            <Action id="PearlAbyssEngine.Debug.ToggleShowEngineOption" />
+            <Action id="PearlAbyssEngine.Debug.ToggleHdr" />
+
+            <Action id="PearlAbyssEngine.Debug.ScopedTimeProfileStatistics" />
+            <Action id="PearlAbyssEngine.Debug.ScopedTimeProfileFunctionCount" />
+            <Action id="PearlAbyssEngine.Debug.ScopedTimeProfileTracing" />
+
+            <Action id="PearlAbyssEngine.Debug.GPUTimestampTracing" />
+
+            <Action id="PearlAbyssEngine.Debug.CycleResourceProfilingCategory" />
+            <Action id="PearlAbyssEngine.Debug.ToggleObjectProfiling" />
+
+            <Action id="PearlAbyssEngine.Debug.CycleFileLoadProfilingCategory" />
+            <Action id="PearlAbyssEngine.Debug.ResetFileLoadProfiling" />
+            
+			<!--<Action id="PearlAbyssEngine.Debug.EnableCountResourceBinding" />-->
+			<!--<Action id="PearlAbyssEngine.Debug.PauseCountResourceBinding" />-->
+
+            <Action id="PearlAbyssEngine.Debug.CycleDebugObjects"      />
+            <Action id="PearlAbyssEngine.Debug.CycleColorChartObject"      />
+            <Action id="PearlAbyssEngine.Debug.CycleDrawTest"          />
+            <Action id="PearlAbyssEngine.Debug.CycleDebugParticles"    />
+
+            <Action id="PearlAbyssEngine.Debug.CropViewport" />
+            <Action id="PearlAbyssEngine.Debug.ChangeRenderTargetSize" />
+            <Action id="PearlAbyssEngine.Debug.CycleDebugRenderTargetSize" />
+            <Action id="PearlAbyssEngine.Debug.CycleRaytracingDebugMode" />
+            <Action id="PearlAbyssEngine.Debug.CycleDebugMaterials" />
+            <Action id="PearlAbyssEngine.Debug.ToggleDebugVertexNormalMode" />
+            <Action id="PearlAbyssEngine.Debug.TestLightning" />
+            <Action id="PearlAbyssEngine.Debug.ToggleVTuneProfileingDataCollection" />
+            <Action id="PearlAbyssEngine.Debug.ToggleLookAtIK" />
+            <Action id="PearlAbyssEngine.Debug.SkipCharacterRender" />
+            <Action id="PearlAbyssEngine.Debug.ExportEnvironmentMap" />
+            <Action id="PearlAbyssEngine.Debug.EnableGPUIntersection" />
+            <Action id="PearlAbyssEngine.Debug.CycleTaskCallbackStatistics" />
+
+            <Action id="PearlAbyssEngine.Debug.PrevDebugContents" />
+            <Action id="PearlAbyssEngine.Debug.NextDebugContents" />
+
+            <Action id="PearlAbyssEngine.Debug.ChangeDiffuseGIFilterNext" />
+            <Action id="PearlAbyssEngine.Debug.ChangeDiffuseGIFilterPrev" />
+            <Action id="PearlAbyssEngine.Debug.ChangeShadowAOFilterNext" />
+            <Action id="PearlAbyssEngine.Debug.ChangeShadowAOFilterPrev" />
+            <Action id="PearlAbyssEngine.Debug.ChangeSpecularGIFilterNext" />
+            <Action id="PearlAbyssEngine.Debug.ChangeSpecularGIFilterPrev" />
+            <Action id="PearlAbyssEngine.Debug.VisualizeTargetClipmapsNext" />
+            <Action id="PearlAbyssEngine.Debug.VisualizeTargetClipmapsPrev" />
+            <Action id="PearlAbyssEngine.Debug.VisualizeClipmapsTargetLevelNext" />
+            <Action id="PearlAbyssEngine.Debug.VisualizeClipmapsTargetLevelPrev" />
+
+            <Action id="PearlAbyssEngine.Debug.CycleTimeOfDayPrev" />
+            <Action id="PearlAbyssEngine.Debug.CycleTimeOfDayNext" />
+            <Action id="PearlAbyssEngine.Debug.TimeOfDayBackward" />
+            <Action id="PearlAbyssEngine.Debug.TimeOfDayForward" />
+            <Action id="PearlAbyssEngine.Debug.TimeOfDayBackwardx2" />
+            <Action id="PearlAbyssEngine.Debug.TimeOfDayForwardx2" />
+        </Scope>
+
+    </UIScopeList>
+</Root>

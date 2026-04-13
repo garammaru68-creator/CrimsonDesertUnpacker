@@ -1,0 +1,26 @@
+﻿<Texture Name="cd_icon_Skill_BlackWolf_Pull" Filename="UI/texture/cd_icon_skill_03.dds" Type="Image" GetRect="1,1,200,200"/>
+<Texture Name="cd_icon_Skill_Charge_Shot_I" Filename="UI/texture/cd_icon_skill_03.dds" Type="Image" GetRect="1,203,200,200"/>
+<Texture Name="cd_icon_Skill_Charge_Shot_II" Filename="UI/texture/cd_icon_skill_03.dds" Type="Image" GetRect="1,405,200,200"/>
+<Texture Name="cd_icon_Skill_CloneAttack" Filename="UI/texture/cd_icon_skill_03.dds" Type="Image" GetRect="1,607,200,200"/>
+<Texture Name="cd_icon_Skill_Combination" Filename="UI/texture/cd_icon_skill_03.dds" Type="Image" GetRect="1,809,200,200"/>
+<Texture Name="cd_icon_Skill_ElementalReinforce" Filename="UI/texture/cd_icon_skill_03.dds" Type="Image" GetRect="203,1,200,200"/>
+<Texture Name="cd_icon_Skill_EnemyTaunt" Filename="UI/texture/cd_icon_skill_03.dds" Type="Image" GetRect="405,1,200,200"/>
+<Texture Name="cd_icon_Skill_EvadeKick" Filename="UI/texture/cd_icon_skill_03.dds" Type="Image" GetRect="607,1,200,200"/>
+<Texture Name="cd_icon_Skill_Evade_Shot_I" Filename="UI/texture/cd_icon_skill_03.dds" Type="Image" GetRect="809,1,200,200"/>
+<Texture Name="cd_icon_Skill_Evade_Shot_II" Filename="UI/texture/cd_icon_skill_03.dds" Type="Image" GetRect="203,203,200,200"/>
+<Texture Name="cd_icon_Skill_HaDongTa" Filename="UI/texture/cd_icon_skill_03.dds" Type="Image" GetRect="203,405,200,200"/>
+<Texture Name="cd_icon_Skill_Hostage" Filename="UI/texture/cd_icon_skill_03.dds" Type="Image" GetRect="203,607,200,200"/>
+<Texture Name="cd_icon_Skill_JiJeongTa_Cure" Filename="UI/texture/cd_icon_skill_03.dds" Type="Image" GetRect="203,809,200,200"/>
+<Texture Name="cd_icon_Skill_JiJeongTa_Rope" Filename="UI/texture/cd_icon_skill_03.dds" Type="Image" GetRect="405,203,200,200"/>
+<Texture Name="cd_icon_Skill_JustEvade" Filename="UI/texture/cd_icon_skill_03.dds" Type="Image" GetRect="607,203,200,200"/>
+<Texture Name="cd_icon_Skill_LegSwing" Filename="UI/texture/cd_icon_skill_03.dds" Type="Image" GetRect="809,203,200,200"/>
+<Texture Name="cd_icon_Skill_LowerKick" Filename="UI/texture/cd_icon_skill_03.dds" Type="Image" GetRect="405,405,200,200"/>
+<Texture Name="cd_icon_Skill_LungeCatch" Filename="UI/texture/cd_icon_skill_03.dds" Type="Image" GetRect="405,607,200,200"/>
+<Texture Name="cd_icon_Skill_MoveCutting_III" Filename="UI/texture/cd_icon_skill_03.dds" Type="Image" GetRect="405,809,200,200"/>
+<Texture Name="cd_icon_Skill_Movement" Filename="UI/texture/cd_icon_skill_03.dds" Type="Image" GetRect="607,405,200,200"/>
+<Texture Name="cd_icon_Skill_Multi_Shot_I" Filename="UI/texture/cd_icon_skill_03.dds" Type="Image" GetRect="809,405,200,200"/>
+<Texture Name="cd_icon_Skill_Multi_Shot_II" Filename="UI/texture/cd_icon_skill_03.dds" Type="Image" GetRect="607,607,200,200"/>
+<Texture Name="cd_icon_Skill_Nature" Filename="UI/texture/cd_icon_skill_03.dds" Type="Image" GetRect="607,809,200,200"/>
+<Texture Name="cd_icon_Skill_Portal" Filename="UI/texture/cd_icon_skill_03.dds" Type="Image" GetRect="809,607,200,200"/>
+<Texture Name="cd_icon_Skill_RollCancel" Filename="UI/texture/cd_icon_skill_03.dds" Type="Image" GetRect="809,809,200,200"/>
+

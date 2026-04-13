@@ -1,0 +1,10 @@
+﻿<Texture Name="cd_hud_itemquickslot_bg_00" Filename="UI/texture/cd_hud_itemquickslot_02.dds" Type="Image" GetRect="1,1,900,900"/>
+<Texture Name="cd_hud_itemquickslot_gaugemask_8_0" Filename="UI/texture/cd_hud_itemquickslot_02.dds" Type="Image" GetRect="1,903,176,120"/>
+<Texture Name="cd_hud_itemquickslot_gaugemask_8_1" Filename="UI/texture/cd_hud_itemquickslot_02.dds" Type="Image" GetRect="357,903,120,120"/>
+<Texture Name="cd_hud_itemquickslot_gaugemask_8_2" Filename="UI/texture/cd_hud_itemquickslot_02.dds" Type="Image" GetRect="903,1,120,176"/>
+<Texture Name="cd_hud_itemquickslot_gaugemask_8_3" Filename="UI/texture/cd_hud_itemquickslot_02.dds" Type="Image" GetRect="479,903,120,120"/>
+<Texture Name="cd_hud_itemquickslot_gaugemask_8_4" Filename="UI/texture/cd_hud_itemquickslot_02.dds" Type="Image" GetRect="179,903,176,120"/>
+<Texture Name="cd_hud_itemquickslot_gaugemask_8_5" Filename="UI/texture/cd_hud_itemquickslot_02.dds" Type="Image" GetRect="601,903,120,120"/>
+<Texture Name="cd_hud_itemquickslot_gaugemask_8_6" Filename="UI/texture/cd_hud_itemquickslot_02.dds" Type="Image" GetRect="903,179,120,176"/>
+<Texture Name="cd_hud_itemquickslot_gaugemask_8_7" Filename="UI/texture/cd_hud_itemquickslot_02.dds" Type="Image" GetRect="723,903,120,120"/>
+

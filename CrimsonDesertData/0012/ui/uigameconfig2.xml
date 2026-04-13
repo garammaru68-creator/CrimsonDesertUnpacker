@@ -1,0 +1,580 @@
+﻿<!-- UIGameConfig.xml -->
+<Root>
+	<Config mode="game" project="CD" script-load="true" entry-script-function="GameInit" focus-mode="windows" resource-pre-load="true" input-block-inputgroup="AllBlockGroupFromCode"/><!-- default resource path : working dir -->
+
+	<ReferenceDimension width="1920" height="1080" />
+
+	<!--
+		1. FontManager에서는 FontName이 중복될 수 없음. 같은 Font Name에 다른 Font File Name을 허용하지 않으므로 Assert 발생합니다.
+		2. 구조상 Config별로 무조건 default Font가 하나 존재해야 하므로 동일한 설정의 Font를 추가해두었습니다.
+	-->
+	<Font name="Basefont" type="ttf" filename="UI/fonts/Basefont.ttf" default="true" facePoolCount="8"/>
+    <Font name="CreditFont" type="ttf" filename="UI/fonts/CreditFont.ttf" loadManual="true" />
+
+	<!-- texture and atlas rect information shared -->
+	<UITexture type="texture" filename="UI/texture/cd_hdr_texture_00.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_image_common.xml" keep="true"/>
+	<UITexture type="texture" filename="UI/texture/external_textures.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_hud_qte_00.xml" keep="true"/>
+	<UITexture type="texture" filename="UI/texture/cd_hud_qte_01.xml" keep="true"/>
+	<UITexture type="texture" filename="UI/texture/cd_hud_qte_02.xml" keep="true"/>
+	<UITexture type="texture" filename="UI/texture/cd_hud_qte_02_animation.xml" keep="true"/>
+	<UITexture type="texture" filename="UI/texture/cd_itemslot_00.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_itemslot_01.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_itemslot_02.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_crosshair_00.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_ui_fullbg_00.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_image_challengeimage_00.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_image_knowledgeimage_00.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_image_questimage_00.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_image_petimage_00.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_image_petthumbnail_00.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_image_portrait_00.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_image_ridingimage_00.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_image_tujeonimage_00.xml" />
+	<UITexture type="texture" filename="UI/texture/ninegrid_00.xml" />
+	<!-- <UITexture type="texture" filename="UI/texture/hud_sidequest_symbol_animation.xml" /> -->
+	<!-- <UITexture type="texture" filename="UI/texture/hud_quest_symbol_animation.xml" /> -->
+	<UITexture type="texture" filename="UI/texture/cd_icon_map_mercenary_00.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_icon_map_mercenary_01.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_icon_mercenary_skill_00.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_icon_mercenary_dispatch_00.xml" />
+	<UITexture type="animation" filename="UI/texture/cd_icon_map_mercenary_00_animation.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_icon_keyguide_00.xml" keep="true"/>
+	<UITexture type="texture" filename="UI/texture/cd_icon_keyguide_01.xml" keep="true"/>
+	<UITexture type="texture" filename="UI/texture/cd_icon_keyguide_02_animation.xml" keep="true"/>
+	<UITexture type="texture" filename="UI/texture/cd_icon_keyguide_03_animation.xml" keep="true"/>
+	<UITexture type="texture" filename="UI/texture/cd_icon_skill_00.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_icon_skill_01.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_icon_skill_02.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_icon_skill_03.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_icon_skill_04.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_icon_skill_05.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_icon_skill_06.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_icon_skill_07.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_icon_faction_coin_00.xml" />
+
+	
+	<!-- <UITexture type="texture" filename="UI/texture/icon_skill_00.xml" /> -->
+	<!-- <UITexture type="texture" filename="UI/texture/icon_equipment_00.xml" keep="true"/> -->
+	<!-- <UITexture type="texture" filename="UI/texture/icon_worldmap_00.xml" /> -->
+	<UITexture type="texture" filename="UI/texture/sprite_loading.xml" />
+	<UITexture type="texture" filename="UI/texture/sprite_loading_bottom.xml" />
+	<UITexture type="animation" filename="UI/texture/sprite_loading_animation2.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_common_00.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_common_01.xml" />	
+	<UITexture type="texture" filename="UI/texture/cd_common_bg_00.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_icon_common_00.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_icon_common_01.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_hud_wanted_00.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_hud_status_00.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_hud_status_01.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_hud_stamina_00.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_hud_stamina_01.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_hud_stamina_02.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_hud_quest_message_00.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_hud_quest_message_01.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_hud_quest_symbol_00.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_icon_blackdesert_animation.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_icon_map_quest_proceeding_animation.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_icon_map_00.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_icon_map_01.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_icon_map_02.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_icon_map_03.xml"/>	
+	<UITexture type="texture" filename="UI/texture/cd_icon_map_04.xml"/>	
+	<UITexture type="texture" filename="UI/texture/cd_icon_map_05.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_icon_worldmap_00.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_icon_challenge_00.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_icon_challenge_01.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_icon_challenge_02.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_icon_knowledge_00.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_icon_knowledge_01.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_icon_knowledge_02.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_icon_map_quest_01.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_icon_map_quest_02.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_icon_map_quest_03.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_icon_map_quest_04.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_icon_map_quest_05.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_icon_map_quest_06.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_icon_map_quest_07.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_icon_map_quest_08.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_icon_map_quest_09.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_icon_option.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_icon_horse_00.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_ink_bg_00.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_ink_bg_01.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_ink_bg_02.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_ink_bg_03.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_ink_bg_04.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_ink_bg_05.xml"/>
+
+	<UITexture type="texture" filename="UI/texture/cd_ink_bg_07.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_ink_bg_08.xml"/>
+    <UITexture type="texture" filename="UI/texture/cd_questlist_00.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_loading_00.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_icon_quest_list_proceeding_animation.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_hud_itemquickslot_00.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_hud_itemquickslot_01.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_hud_itemquickslot_02.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_hud_itemquickslot_03.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_hud_itemquickslot_04.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_hud_itemquickslot_05.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_hud_itemquickslot_06.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_hud_itemquickslot_07.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_hud_menu_00.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_hud_affinity.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_minigame_00.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_minigame_01.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_minigame_02.xml" />	
+	<UITexture type="texture" filename="UI/texture/cd_minigame_03.xml" />	
+	<UITexture type="texture" filename="UI/texture/cd_decoline_00.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_decoline_01.xml" />
+	<!-- <UITexture type="texture" filename="UI/texture/cd_hud_knowledge_symbol_animation.xml" /> -->
+	<UITexture type="texture" filename="UI/texture/cd_challenges_00.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_knowledgelist_00.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_worldmap_regiontitleimage.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_hud_artifact_00.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_worldmap_illust_image.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_image_skillimage_00.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_image_npcstoreimage.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_image_horsestable.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_tootip_decoline.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_common_pattern_00.xml" keep="true"/>
+	<UITexture type="texture" filename="UI/texture/cd_skilltree_00.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_skilltree_01.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_skilltree_02.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_skilltree_03.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_skilltree_04.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_skilltree_worldmap_00.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_skilltree_gauge_tip_animation.xml"/>	
+	<UITexture type="texture" filename="UI/texture/cd_system_00.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_system_01.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_system_02.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_hud_alert_timer_00.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_icon_faction_flag_00.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_icon_faction_flag_01.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_icon_faction_flag_02.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_icon_faction_flag_03.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_icon_faction_flag_04.xml" />	
+	<UITexture type="texture" filename="UI/texture/cd_uitexture_alert_00.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_uitexture_questlist_00.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_uitexture_questlist_01.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_uitexture_questlist_02.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_uitexture_skilltree_00.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_uitexture_skilltree_01.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_uitexture_worldmap_00.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_uitexture_worldmap_01.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_uitexture_worldmap_02.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_uitexture_worldmap_03.xml" />	
+	<UITexture type="texture" filename="UI/texture/cd_uitexture_worldmap_04.xml" />	
+	<UITexture type="texture" filename="UI/texture/cd_uitexture_chapterchange_00.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_uitexture_chapterchange_01.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_uitexture_chapterchange_02.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_uitexture_kukupot_itemtree_00.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_uitexture_icon_trade_event_00.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_uitexture_icon_trade_event_01.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_uitexture_help_00.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_uitexture_dlc.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_uitexture_minigame_duel.xml" />	
+	<UITexture type="texture" filename="UI/texture/cd_uitexture_minigame_duel_01.xml" />	
+	<UITexture type="texture" filename="UI/texture/cd_uitexture_minigame_slotmachine_00.xml" />	
+	<UITexture type="texture" filename="UI/texture/cd_uitexture_bank.xml" />	
+	<UITexture type="texture" filename="UI/texture/cd_uitexture_setting_language.xml" />	
+	<UITexture type="texture" filename="UI/texture/cd_uitexture_hud_combo.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_uitexture_abyssgear.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_uitexture_loading_00.xml" keep="true"/>
+	<UITexture type="texture" filename="UI/texture/cd_uitexture_interrogate.xml" keep="true"/>
+	<UITexture type="texture" filename="UI/texture/cd_worldmap_paper_pattern.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_uv_ani_texture.xml" />
+	<UITexture type="animation" filename="UI/texture/cd_gauge_effect.xml" />
+	
+
+	<!-- 월드맵 아이콘 -->
+	<UITexture type="texture" filename="UI/texture/cd_image_knowledge_character_animal_00.xml" />
+
+	<!-- 아이템 아이콘 item , Equip 통합 -->
+	<UITexture type="texture" filename="UI/texture/cd_item_icon.xml"/>
+	<UITexture type="texture" filename="UI/texture/cd_item_icon_unknown.xml"/>
+
+	
+	<!-- 툴팁 이미지 : 지식 텍스처 -->
+	<UITexture type="texture" filename="UI/texture/cd_image_knowledgeimage_abyssgate.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_image_knowledgeimage_background.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_image_knowledgeimage_character.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_image_knowledgeimage_character_animal.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_image_knowledgeimage_character_bird.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_image_knowledgeimage_character_creature.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_image_knowledgeimage_character_fish.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_image_knowledgeimage_character_legendaryanimal.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_image_knowledgeimage_character_monsteranimal.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_image_knowledgeimage_character_riding.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_image_knowledgeimage_craftingrecipe.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_image_knowledgeimage_discover.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_image_knowledgeimage_equipitem.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_image_knowledgeimage_foodrecipe.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_image_knowledgeimage_Item.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_image_knowledgeimage_minigame.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_image_knowledgeimage_quest.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_image_knowledgeimage_sheetmusic.xml" />
+	<UITexture type="texture" filename="UI/texture/cd_image_knowledgeimage_skill.xml" />
+
+	<!-- 툴팁 이미지 : 연구과제 텍스처 -->
+	<UITexture type="texture" filename="UI/texture/cd_image_researchimage.xml" />
+
+	<!-- 툴팁 이미지 : 도전과제 텍스처 -->
+	<UITexture type="texture" filename="UI/texture/cd_image_achievementimage.xml" />
+
+	<!-- 오퍼레이션 -->
+	<UITexture type="texture" filename="UI/texture/cd_image_operationimage.xml" />
+
+	<!-- 플레이가이드 -->
+	<UITexture type="texture" filename="UI/texture/cd_image_playguideimage.xml" />
+
+	<!-- common리소스에 존재, 각 프로젝트에 필요시 경로만 추가 할당 -->
+	<UITexture type="texture" filename="UI/texture/ui_matarial_00.xml"/>
+
+	<UIMaterial name="UIMaterialCommon_CD"/>
+	<UIMaterial name="UIMaterialLite"/>
+	<UIMaterial name="UIMaterialWorldMap_Default"/>	
+	<UIMaterial name="UIMaterialWorldMap_AbyssFog"/>
+	<UIMaterial name="UIMaterialWorldMap_Faction"/>	
+	<UIMaterial name="UIMaterialWorldMap_Fog"/>	
+	<UIMaterial name="UIMaterialWorldMap_NonePlay"/>
+	<UIMaterial name="UIMaterialWorldMap_Region"/>
+	<UIMaterial name="UIMaterialWorldMap_Wanted"/>
+	<UIMaterial name="UIMaterialWorldMap_Restricted"/>
+	<UIMaterial name="UIMaterialMinimap"/>
+	<UIMaterial name="UICanvasWorldMapPath"/>
+	<UIMaterial name="UICanvasSkillTreePath"/>
+
+	<!-- Preload Resource를 위한 원형 view -->
+	<UIView id="PrototypeSystemRootView"			filename="UI/SystemRoot.html"/>
+
+	<!-- default uiview when UIManger::openUIWindow() is called without specific 'UIView id'-->
+	<UIWindow id="GameMain" alwaysRender="true" auto-scaling="true" wheel-uiscaling="false" use-auto-pr="true">
+		<ViewContext id="Play">
+
+			<UIView id="GameTitle"					layer="1"	filename="UI/GameMain/Title/TitleView.html" tag2="title loading"/>
+
+			<!-- <UIView id="CharacterListView"			layer="1"	filename="UI/GameMain/CharacterManagement/CharacterListView.html" tag2="characterselect"/> -->
+
+			<UIView id="GameLoading"				layer="1"	filename="UI/GameMain/Loading/GameLoadingView.html" tag2="loading gamedataloading clientgameplaytemp"/><!--clientgameplaytemp 변경 될 Tag 사용 금지-->
+
+			<!-- 240523 Layer 순으로 정리 -->
+			<!--: UIView(View)들이 기본적으로 absolute가 아니어서 layer=""를 줍니다. layer 번호 순서에 따라 layering이 됩니다. -->
+
+			<!-- HUD_Play : hud 게이지 종류를 모아놓은 view -->
+			<UIView id="StatusGaugeView"			layer="10"	filename="UI/GameMain/Play/StatusGaugeView2.html" tag2="hud-play"/>
+			<!-- HUD_Play : 미니맵 -->
+			<UIView id="MinimapView"				layer="10"	filename="UI/GameMain/Play/MinimapHudView2.html" tag2="hud-play"/>
+			<!-- HUD_Play : 수동,자동 실행 되는 HUD -->
+			<UIView id="HudView"					layer="10"	filename="UI/GameMain/Play/HudView2.html" tag2="hud-play minigame"/>
+			<!-- HUD_Play : 다른 UI들보다 위로 보여주기 위해서 추가 Panel Layer 순이 높음 -->
+			<UIView id="HudOverPanel"				layer="30"	filename="UI/GameMain/Play/HudOverPanel.html" tag2="hud-play"/>
+			<!-- Gauge 패널  -->
+			<UIView id="GaugePanel"					layer="10"	filename="UI/GameMain/Play/GaugePanel.html" tag2="dialog hud-play hud-info"/>
+
+			<!-- 말풍선 UI  -->
+			<UIView id="SubtitleTagView"			layer="20"	filename="UI/GameMain/Play/SubtitleTagView.html" tag2="dialog hud-play"/>
+
+			<!-- Interaction : 타겟 인터렉션 UI -->
+			<UIView id="InteractionPanel"			layer="20"	filename="UI/GameMain/Play/InteractionPanel.html" ignoreCulling="true" tag2="interaction"/>
+			
+			<!-- HUD_Play : 크로스 헤어 -->
+			<UIView id="CrossHairAutoTargetingView"	layer="30"	filename="UI/GameMain/Play/CrossHairAutoTargetingView.html" tag2="hud-play minigame gimmick"/>
+
+			<!-- HUD_Play : indicator 패널 -->
+			<UIView id="WarningIndicatorView"		layer="30"	filename="UI/GameMain/Play/WarningIndicatorView.html" tag2="hud-play minigame"/>
+			
+			<!-- HUD_Info : 표지판 이정표 -->
+			<!-- <UIView id="MilePostView"				layer="30"	filename="UI/GameMain/Play/MilePostView.html" tag2="hud-info"/> -->
+			<!-- HUD_Info : TimerHUD -->
+			<UIView id="TimerHud"					layer="30"	filename="UI/GameMain/Play/TimerHud.html" tag2="hud-info minigame"/>
+			<UIView id="WarningTimerPanel"			layer="30"	filename="UI/GameMain/Play/WarningTimerPanel.html" tag2="hud-play minigame"/>
+			<!-- MiniGame 공통 패널  -->
+			<UIView id="MiniGamePanel"				layer="30"	filename="UI/GameMain/Play/MiniGamePanel.html" tag2="minigame"/>
+			<!-- MiniGame : 편지 읽기 -->
+			<UIView id="LetterView"					layer="30"	filename="UI/GameMain/Play/LetterView.html" tag2="minigame"/>
+			<!-- MiniGame : 살펴보기 -->
+			<UIView id="InsepctView"				layer="19"	filename="UI/GameMain/Play/InspectView.html" tag2="minigame"/>
+			<!-- MiniGame : 미니게임 팔씨름 -->
+			<UIView id="ArmWrestlingTimeLimitView"	layer="30"	filename="UI/GameMain/Play/ArmWrestlingTimeLimitView.html" tag2="minigame"/>
+			<!-- MiniGame : 미니게임 뺨때리기 -->
+			<UIView id="SlapFightView"				layer="30"	filename="UI/GameMain/Play/SlapFightView.html" tag2="minigame"/>
+			<!-- MiniGame : 미니게임 가위바위보 -->
+			<UIView id="RockPaperSciView"			layer="30"	filename="UI/GameMain/Play/RockPaperSciView.html" tag2="minigame"/>
+			<!-- MiniGame : 낚시 -->
+			<UIView id="FishingMiniGameView"		layer="30"	filename="UI/GameMain/Play/FishingMiniGameView.html" tag2="minigame"/>
+			<!-- MiniGame : 로데오 미니게임 -->
+			<UIView id="RodeoMiniGameView"			layer="30"	filename="UI/GameMain/Play/RodeoMiniGameView.html" tag2="minigame"/>
+			<!-- MiniGame : 미니게임 소젖짜기 -->
+			<UIView id="MilkingCowView"				layer="30"	filename="UI/GameMain/Play/MilkingCowView.html" tag2="minigame"/>
+			<!-- MiniGame : 미니게임 투전(섯다) -->
+			<UIView id="CardMiniGameView"			layer="30"	filename="UI/GameMain/Play/CardMiniGameView.html" tag2="minigame"/>
+			<!-- MiniGame : 미니게임 투전(도리짓고땡) -->
+			<UIView id="JitgoTtaengMiniGameView"	layer="30"	filename="UI/GameMain/Play/JitgoTtaengMiniGameView.html" tag2="minigame"/>
+			<!-- MiniGame : 미니게임 주사위(시로) -->
+			<UIView id="DiceMiniGameView"			layer="30"	filename="UI/GameMain/Play/DiceMiniGameView.html" tag2="minigame"/>
+			<!-- MiniGame : 미니게임 주사위(SixLO) -->
+			<UIView id="SixLoMiniGameView"			layer="30"	filename="UI/GameMain/Play/SixLoMiniGameView.html" tag2="minigame"/>
+			<!-- MiniGame : 미니게임 주사위(SlotMachine) -->
+			<UIView id="SlotMachineMiniGameView"	layer="30"	filename="UI/GameMain/Play/SlotMachineMiniGameView.html" tag2="minigame"/>
+			<!-- MiniGame : 미니게임 포커 -->
+			<!-- <UIView id="CardTexasHoldemPokerView"	layer="30"	filename="UI/GameMain/Play/CardTexasHoldemPokerView.html" tag2="minigame"/> -->
+			<!-- MiniGame : 미니게임 악보 선택 -->
+			<!-- <UIView id="SheetMusicSelectionPanel"	layer="30"	filename="UI/GameMain/Play/SheetMusicSelectionPanel.html" tag2="minigame"/> -->
+			<!-- MiniGame : 미니게임 과녁 맞추기 -->
+			<UIView id="ArrowShotPanel"				layer="30"	filename="UI/GameMain/Play/ArrowShotPanel.html" tag2="minigame"/>
+			<!-- MiniGame : 피리 UI -->
+			<!-- <UIView id="RecitalView"				layer="30"	filename="UI/GameMain/Play/RecitalView.html" tag2="minigame"/> -->
+			<!-- MiniGame : 미니게임 결투 -->
+			<UIView id="DuelMiniGameView"			layer="30"	filename="UI/GameMain/Play/DuelMiniGameView.html" tag2="minigame"/>
+			<!-- MiniGame : 미니게임 자유연주 -->
+			<!-- <UIView id="FreeRecitalPanel"			layer="30"	filename="UI/GameMain/Play/FreeRecitalPanel.html" tag2="minigame"/> -->
+			<!-- MiniGame : 설치 모드 - 설치 / 수정 모드 선택 UI -->
+			<UIView id="InstallModeView"			layer="30"	filename="UI/GameMain/Play/InstallModeView.html" tag2="minigame"/>
+			<!-- MiniGame : 설치 모드 - 설치 / 수정 할 대상 선택 UI -->
+			<UIView id="InstallSelectPanel"			layer="30"	filename="UI/GameMain/Play/InstallSelectPanel.html" tag2="minigame"/>
+
+			<!-- HUD_Play : QTE -->
+			<UIView id="OneClickQTEView"			layer="30"	filename="UI/GameMain/Play/OneClickQTEView.html" tag2="hud-play minigame cinema"/>
+			<UIView id="RepeatClickQTEView"			layer="30"	filename="UI/GameMain/Play/RepeatClickQTEView.html" tag2="hud-play minigame cinema"/>
+			<UIView id="MultiClickQTEView"			layer="30"	filename="UI/GameMain/Play/MultiClickQTEView.html" tag2="hud-play minigame cinema"/>
+			<UIView id="DoubleClickQTEView"			layer="30"	filename="UI/GameMain/Play/DoubleClickQTEView.html" tag2="hud-play minigame cinema"/>
+			<UIView id="TimingClickQTEView"			layer="30"	filename="UI/GameMain/Play/TimingClickQTEView.html" tag2="hud-play minigame cinema"/>
+			<UIView id="BalanceQTEView"				layer="30"	filename="UI/GameMain/Play/BalanceQTEView.html" tag2="hud-play minigame cinema"/>
+			<UIView id="BarTimingClickQTEView"		layer="30"	filename="UI/GameMain/Play/BarTimingClickQTEView.html" tag2="hud-play minigame cinema"/>
+			<UIView id="SpinQTEView"				layer="30"	filename="UI/GameMain/Play/SpinQTEView.html" tag2="hud-play minigame cinema"/>
+			<UIView id="PressClickQTEView"			layer="30"	filename="UI/GameMain/Play/PressClickQTEView.html" tag2="hud-play minigame cinema"/>
+
+			<!-- 미니게임 설명 -->
+			<UIView id="MiniGameGuidePanel"			layer="31"	filename="UI/GameMain/Play/MiniGameGuidePanel.html" tag2="minigame"/>
+			
+			<!-- LetterBoxing -->
+			<UIView id="CinemaView"					layer="40"	filename="UI/editor/Cinema/CinemaView.html" tag2="cinema fadeout"/>
+			
+			<!-- KeyGuide : 키 가이드 패널 -->
+			<UIView id="KeyGuidePanel"				layer="41"	filename="UI/GameMain/Play/KeyGuidePanel.html" ignoreCulling="true" tag2="interaction minigame gimmick dialog hud-play hud-info cinema store"/>
+
+			<!-- 게임 일시정지 -->
+			<UIView id="GamePauseView"				layer="301"	filename="UI/editor/Cinema/GamePauseView.html" tag2="global"/>
+			<!-- 컷씬 설명-->
+			<UIView id="TransitionTitleView"		layer="41"	filename="UI/GameMain/Play/TransitionTitleView.html" tag2="cinema"/>
+			<!-- SubTitle : 자막 (대사) -->
+			<UIView id="DialogSubtitleView"			layer="41"	filename="UI/GameMain/Play/DialogSubtitleView.html" tag2="dialog cinema hud-play fadeout"/>
+			<UIView id="DebugSubtitlePanel"			layer="42"	filename="UI/GameMain/Play/DebugSubtitlePanel.html" tag2="dialog cinema hud-play fadeout"/>
+
+			<!-- HUD_Play : 보스 네임태그 -->
+			<UIView id="BossNameTagView2"			layer="50"	filename="UI/GameMain/Play/BossNameTagView2.html" tag2="hud-play"/>
+			<UIView id="GimmickProgressPanel"		layer="50"	filename="UI/GameMain/Play/GimmickProgressPanel.html" tag2="hud-play"/>
+
+			<!-- QuickSlot : 아이템 퀵슬롯 -->
+			<UIView id="ItemQuickSlotView2"			layer="95"   filename="UI/GameMain/Play/ItemQuickSlotView2.html" tag2="quickslot"/>
+			<!-- QuickSlot : 메인메뉴 퀵슬롯 -->
+			<!-- <UIView id="MainMenuQuickSlotView"		layer="60"   filename="UI/GameMain/Play/MainMenuQuickSlotView.html" tag2="quickslot"/> -->
+			<!-- ReserveItem Slot 메뉴 -->
+			<!-- <UIView id="ReserveItemSlotMenu"		layer="60"   filename="UI/GameMain/Play/ReserveItemSlotMenu.html" tag2="quickslot"/> -->
+			<!-- ItemGift : 선물하기 인벤토리 -->
+			<UIView id="ItemGiftInventory"			layer="60"   filename="UI/GameMain/Play/ItemGiftInventory.html" tag2="store"/>
+
+			<!-- Alert : 아이템 획득 로그 HUD -->
+			<UIView id="ItemLogView"				layer="90"	filename="UI/GameMain/Play/ItemLogView2.html" tag2="alert"/>
+			<!-- Alert : 수배 HUD -->
+			<UIView id="WitnessWantedView"			layer="70"	filename="UI/GameMain/Play/WitnessWantedView.html" tag2="hud-play"/>
+
+			<!-- Alert : 콤보 카운트 HUD -->
+			<UIView id="ComboCountView"				layer="70"	filename="UI/GameMain/Play/ComboCountView.html" tag2="hud-play"/>
+
+			<!-- MainMenu : 메인메뉴 딤드 -->
+			<UIView id="MainMenuDimmedView"			layer="79"	filename="UI/GameMain/Play/MainMenuDimmedView.html" tag2="mainmenu"/>
+
+			<!-- MainMenu : 스킬 리스트 -->
+			<UIView id="SkillListPanel"				layer="80"	filename="UI/GameMain/Play/SkillListPanel.html" tag2="mainmenu minigame"/>
+			<!-- MainMenu : 스킬 트리-->
+			<UIView id="SkillTreePanel"				layer="80"	filename="UI/GameMain/Play/SkillTreePanel.html" tag2="mainmenu minigame"/>
+			<!-- MainMenu : 인벤토리 장비창 -->
+			<UIView id="InventoryEquipmentPanel"	layer="80"	filename="UI/GameMain/Play/InventoryEquipmentPanel.html" tag2="mainmenu"/>
+			<!-- MainMenu : 중요물품 -->
+			<!-- <UIView id="QuestInventoryMenuView"		layer="80"	filename="UI/GameMain/Play/QuestInventoryMenuView.html" tag2="mainmenu"/> -->
+			<!-- MainMenu : 로그아웃 뷰 -->
+			<UIView id="LogoutView"					layer="80"	filename="UI/GameMain/Play/LogoutView.html" tag2="mainmenu"/>
+			<!-- MainMenu : 월드맵 -->
+			<UIView id="WorldMapView"				layer="80"	filename="UI/GameMain/Play/WorldMapView.html" tag2="mainmenu minigame store"/>
+			<!-- MainMenu : 퀘스트 -->
+			<UIView id="QuestMenuPanel"				layer="80"	filename="UI/GameMain/Play/QuestMenuPanel.html" tag2="mainmenu"/>
+			<!-- MainMenu : 퀘스트 -->
+			<UIView id="FactionQuestMenuPanel"		layer="80"	filename="UI/GameMain/Play/FactionQuestMenuPanel.html" tag2="mainmenu"/>
+			<!-- MainMenu : 퀘스트 -->
+			<!-- <UIView id="DailyQuestMenuPanel"		layer="80"	filename="UI/GameMain/Play/DailyQuestMenuPanel.html" tag2="mainmenu"/> -->
+			<!-- MainMenu : 도전과제 -->
+			<!-- <UIView id="ChallengeMenuPanel"			layer="80"	filename="UI/GameMain/Play/ChallengeMenuPanel.html" tag2="mainmenu"/> -->
+			<!-- MainMenu : 도전과제2 -->
+			<UIView id="ChallengeMenuPanel2"		layer="80"	filename="UI/GameMain/Play/ChallengeMenuPanel2.html" tag2="mainmenu"/>
+			<!-- MainMenu : 지식 -->
+			<!-- <UIView id="KnowledgeView"				layer="80"	filename="UI/GameMain/Play/KnowledgeView.html" tag2="mainmenu"/> -->
+			<!-- MainMenu : 지식2 -->
+			<UIView id="KnowledgePanel2"			layer="80"	filename="UI/GameMain/Play/KnowledgePanel2.html" tag2="mainmenu store"/>
+			<!-- MainMenu : 말 장비 -->
+			<!-- <UIView id="VehicleEquipmentView"		layer="80"	filename="UI/GameMain/Play/VehicleEquipmentView.html" tag2="mainmenu"/> -->
+			<!-- MainMenu : 말 가방 -->
+			<UIView id="VehicleMoveItemPanel"		layer="80"	filename="UI/GameMain/Play/VehicleMoveItemPanel.html" tag2="mainmenu"/>
+			<!-- MainMenu : 마차 가방 -->
+			<UIView id="VehicleInventoryView"		layer="80"	filename="UI/GameMain/Play/VehicleInventoryView.html" tag2="mainmenu"/>
+			<!-- MainMenu : 펫 -->
+			<UIView id="PetView"					layer="80"	filename="UI/GameMain/Play/PetView.html" tag2="mainmenu"/>
+			<!-- MainMenu : 일지 -->
+			<!-- <UIView id="JournalView"				layer="80"	filename="UI/GameMain/Play/JournalView.html" tag2="mainmenu"/> -->
+			<!-- MainMenu : 조작 방법 -->
+			<UIView id="KeyMapView"					layer="80"	filename="UI/GameMain/CharacterManagement/KeyMapView.html" tag2="mainmenu"/>
+			<!-- MainMenu : 게임 불러오기 -->
+			<UIView id="GameDataLoadView"			layer="80"	filename="UI/GameMain/CharacterManagement/GameDataLoadView.html" tag2="mainmenu title"/>
+			<!-- MainMenu : 옵션 -->
+			<UIView id="SettingsView"				layer="80"	filename="UI/GameMain/Play/SettingsView.html" tag2="mainmenu title"/>
+			<!-- Store : 일반 상점 -->
+			<UIView id="NpcStoreSellView"			layer="80"	filename="UI/GameMain/Play/NpcStoreSellView2.html" tag2="store"/>
+			<!-- Store : 상점 구매 -->
+			<UIView id="NpcStoreBuyView"			layer="80"	filename="UI/GameMain/Play/NpcStoreBuyView2.html" tag2="store"/>
+			<!-- Store : 분실물 복구 -->
+			<UIView id="NpcRestorationView"			layer="80"	filename="UI/GameMain/Play/NpcRestorationView.html" tag2="store"/>
+			<!-- Store : 장비 수리  -->
+			<UIView id="EquipmentRepairView"		layer="80"	filename="UI/GameMain/Play/EquipmentRepairView2.html" tag2="store"/>
+			<!-- Store : 무역 협상  -->
+			<UIView id="FactionTradeAgreementPanel"	layer="80"	filename="UI/GameMain/Play/FactionTradeAgreementPanel.html" tag2="store"/>
+			<!-- Store : 무역 판매 -->
+			<UIView id="NpcStoreTradeSellView"		layer="80"	filename="UI/GameMain/Play/NpcStoreTradeSellView.html" tag2="store"/>
+			<!-- Store : 무역 구매 -->
+			<UIView id="NpcStoreTradeBuyView"		layer="80"	filename="UI/GameMain/Play/NpcStoreTradeBuyView.html" tag2="store"/>
+			<!-- Store : 말 구매 -->
+			<UIView id="StableBuyView"				layer="80"	filename="UI/GameMain/Play/StableBuyView.html" tag2="store"/>
+			<!-- Store : 말 관리 -->
+			<UIView id="HorseStableView"			layer="80"	filename="UI/GameMain/Play/HorseStableView.html" tag2="store"/>
+			<!-- Store : 펫 관리 -->
+			<!-- <UIView id="PetHouseView"				layer="80"	filename="UI/GameMain/Play/PetHouseView.html" tag2="store"/> -->
+			<!-- Store : 용병 관리 -->
+			<UIView id="MercenaryManagementPanel"	layer="80"	filename="UI/GameMain/Play/MercenaryManagementPanel.html" tag2="store"/>
+			<!-- Store : 농장 관리 -->
+			<UIView id="FarmManagementPanel"		layer="80"	filename="UI/GameMain/Play/FarmManagementPanel.html" tag2="store"/>
+			<!-- Store : 창고 -->
+			<UIView id="WareHouseView"				layer="80"	filename="UI/GameMain/Play/WareHouseView2.html" tag2="store"/>
+			<!-- Store : 면죄 -->
+			<UIView id="IndulgenceView"				layer="80"	filename="UI/GameMain/Play/IndulgenceView.html" tag2="store"/>
+			<!-- MiniGame : 버튼리스트 -->
+			<UIView id="ButtonListPanel"			layer="80"	filename="UI/GameMain/Play/ButtonListPanel.html" tag2="store dialog"/>
+			<!-- Gimmick : 비지오네 -->
+			<UIView id="VisioneLibraryPanel"		layer="80"	filename="UI/GameMain/Play/VisioneLibraryPanel.html" tag2="store"/>
+			<!-- store : 제작(요리, 장비) -->
+			<UIView id="CookingView"				layer="80"	filename="UI/GameMain/Play/CookingView3.html" tag2="store"/>
+			<!-- store : 아이템 강화 -->
+			<UIView id="ItemEnchantPanel"			layer="80"	filename="UI/GameMain/Play/ItemEnchantPanel.html" tag2="store"/>
+			<!-- store : 전이 -->
+			<!-- <UIView id="CraftTransferView"			layer="80"	filename="UI/GameMain/Play/CraftTransferView.html" tag2="store"/> -->
+			<!-- store : 전이 -->
+			<!-- <UIView id="CraftTransferView2"			layer="80"	filename="UI/GameMain/Play/CraftTransferView2.html" tag2="store"/> -->
+			<!-- store : 아이템 소켓 -->
+			<UIView id="ItemSocketPanel"			layer="80"	filename="UI/GameMain/Play/ItemSocketPanel.html" tag2="store"/>
+			<!-- store : 은행 -->
+			<UIView id="BankPanel"					layer="80"	filename="UI/GameMain/Play/BankPanel.html" tag2="store"/>
+			<!-- store : 염색 -->
+			<UIView id="DyeView"					layer="80"	filename="UI/GameMain/Play/DyeView.html" tag2="store mainmenu"/>
+			<!-- store : 이발소 -->
+			<UIView id="BarberShopView"				layer="80"	filename="UI/GameMain/Play/BarberShopView.html" tag2="store mainmenu"/>
+			<!-- store : 기도소  -->
+			<!-- <UIView id="ArtifactListView"			layer="80"	filename="UI/GameMain/Play/ArtifactListView.html" tag2="minigame"/> -->
+			<!-- MiniGame : 공통 카운트 다운 -->
+			<UIView id="CountDownPanel"				layer="80"	filename="UI/GameMain/Play/CountDownPanel.html" tag2="minigame cinema hud-play"/>
+			<!-- MiniGame : 세력 (종교) -->
+			<UIView id="FactionReligionPanel"		layer="80"	filename="UI/GameMain/Play/FactionReligionPanel.html" tag2="store"/>
+			<!-- MiniGame : 세력 (종교) 헌금 -->
+			<UIView id="FactionDonationPanel"		layer="80"	filename="UI/GameMain/Play/FactionDonationPanel.html" tag2="store"/>
+			<!-- MiniGame : 세력 (연구) 헌금 -->
+			<UIView id="FactionResearchPanel"		layer="80"	filename="UI/GameMain/Play/FactionResearchPanel.html" tag2="store"/>
+			<!-- MiniGame : 대화 퍼즐 -->
+			<UIView id="DialogPuzzle"				layer="80"	filename="UI/GameMain/Play/DialogPuzzle.html" tag2="minigame dialog interaction"/>
+			<!-- 노드 원경 보기 -->
+			<UIView id="WorldMapObserverPanel"		layer="80"	filename="UI/GameMain/Play/WorldMapObserverPanel.html" tag2="mainmenu worldobserver"/>
+
+			<!-- MiniGame : 세력 (종교) 헌금 -->
+			<UIView id="KukuEnchantPanel"		layer="80"	filename="UI/GameMain/Play/KukuEnchantPanel.html" tag2="store"/>
+
+			<!-- Store : operation 관리 -->
+			<UIView id="FactionOperationManagementPanel"		layer="81"	filename="UI/GameMain/Play/FactionOperationManagementPanel.html" tag2="store"/>
+
+			<!-- MainMenu : 가로형 메인메뉴 변경 예정  -->
+			<UIView id="MainMenuView2"				layer="81"	filename="UI/GameMain/Play/MainMenuView2.html" tag2="mainmenu"/>
+
+			<!-- MainMenu : Gamma Correction 옵션 -->
+			<UIView id="RandomBoxPanel"				layer="82"	filename="UI/GameMain/Play/RandomBoxPanel.html" tag2="mainmenu"/>
+
+			<!-- MainMenu : Gamma Correction 옵션 -->
+			<UIView id="SubSettingsView"			layer="82"	filename="UI/GameMain/Play/SubSettingsView.html" tag2="global"/>
+			<UIView id="InputCustomizingView"		layer="82"	filename="UI/GameMain/Play/InputCustomizingView.html" tag2="global"/>
+
+			<!-- AlertUnder : 알림 시스템 언더 뷰 / MainMenu 밑으로 들어감. -->
+			<UIView id="AlertSystemUnderView"		layer="75"	filename="UI/GameMain/Play/AlertSystemUnderView.html" tag2="alert"/>
+
+			<!-- Alert : 알림 시스템 뷰 -->
+			<UIView id="AlertSystemView"			layer="90"	filename="UI/GameMain/Play/AlertSystemView.html" tag2="alert"/>
+
+			<!-- AlertOver : 알림 시스템 오버 뷰 -->
+			<UIView id="AlertSystemOverView"		layer="150"	filename="UI/GameMain/Play/AlertSystemOverView.html" tag2="alert"/>
+			
+			<!-- ModalMessage  -->
+			<UIView id="ModalMessageView"			layer="100"	filename="UI/GameMain/Global/ModalMessageView.html" modal="true" tag2="global"/>
+
+			<!-- Alert : 소지금 / 돈 획득 -->
+			<UIView id="MoneyLogView"				layer="200"	filename="UI/GameMain/Play/MoneyLogView.html" tag2="alert"/>
+
+			<!-- GameOver : 사망 화면 -->
+			<UIView id="GameOverView"				layer="300"	filename="UI/GameMain/Play/GameOverView2.html" tag2="gameover"/>
+
+			<!-- GameOver : 챕터 전환 -->
+			<UIView id="ChapterTransitionPanel"		layer="80"	filename="UI/GameMain/Play/ChapterTransitionPanel.html" tag2="fadeout Loading"/>
+			
+			<UIView id="ChangeCharacterNoticePanel"		layer="80"	filename="UI/GameMain/Play/ChangeCharacterNoticePanel.html" tag2="hud-play"/>
+
+			<UIView id="GameExitPanel"		layer="300"	filename="UI/GameMain/Play/GameExitPanel.html" tag2="global"/>
+
+			<!-- Demo Play 시연 용-->
+			<!-- <UIView id="DemoPlayModalPanel"			layer="301"	filename="UI/GameMain/Global/DemoPlayModalPanel.html" tag2="global"/> -->
+			<!-- <UIView id="DemoPlayTimerHud"			layer="301"	filename="UI/GameMain/Global/DemoPlayTimerHud.html" tag2="global"/> -->
+			<!-- <UIView id="DemoPlayDescPanel"			layer="301"	filename="UI/GameMain/Global/DemoPlayDescPanel.html" tag2="demoplayover"/> -->
+
+			<!-- 개발 용 -->
+			<UIView id="GameDataLoadingView"		layer="996"	filename="UI/GameMain/Global/GameDataLoadingView.html" tag2="gamedataloading"/>
+			<UIView id="DevLogView"					layer="997"	filename="UI/GameMain/Global/DevLogView.html" tag2="Loading gamedataloading"/>
+			<!-- <UIView id="DevHudView"					layer="999"	filename="UI/GameMain/Play/DevHudView.html" tag2="hud-play"/> -->
+
+			<!-- 워터마크 -->
+			<UIView id="WatermarkView"				layer="998"	filename="UI/GameMain/Global/WatermarkView.html" tag2="global"/>
+
+			<!-- 엔딩크레딧 -->
+			<UIView id="EndingCreditsView"			layer="300"	filename="UI/GameMain/Play/EndingCreditsView.html" tag2="global"/>
+
+			<!-- 라이센스 -->
+			<UIView id="LicenseView"				layer="80"	filename="UI/GameMain/Title/LicenseView.html" tag2="mainmenu"/>
+			
+			<!-- 다운로드 컨텐츠 -->
+			<UIView id="DownloadContentsView"		layer="80"	filename="UI/GameMain/Play/DownloadContentsView.html" tag2="mainmenu"/>
+
+			<!-- FullScreenGuide -->
+			<UIView id="FullScreenGuideView"		layer="309"	filename="UI/GameMain/Play/FullScreenGuideView.html" tag2="global"/>
+
+			<!-- ExtraRewardPanel -->
+			<UIView id="ExtraRewardPanel"			layer="310"	filename="UI/GameMain/Play/ExtraRewardPanel.html" tag2="global"/>
+
+			<!-- PlayGuide -->
+			<UIView id="PlayGuideView"				layer="310"	filename="UI/GameMain/Play/PlayGuideView.html" tag2="mainmenu"/>
+
+			<!-- AlertHistory -->
+			<UIView id="AlertHistoryView"			layer="80"	filename="UI/GameMain/Play/AlertHistoryView.html" tag2="mainmenu"/>
+			
+			<!-- PhotoMode : 포토모드 -->
+			<UIView id="PhotoModePanel"				layer="999"	filename="UI/GameMain/Play/PhotoModePanel.html" tag2="photomode"/>
+
+			<!-- global : 클릭 이펙트 -->
+			<UIView id="ClickEffectPanel"			layer="1000"	filename="UI/GameMain/Global/ClickEffectPanel.html" tag2="global"/>
+
+		</ViewContext>
+		
+	</UIWindow>
+</Root>

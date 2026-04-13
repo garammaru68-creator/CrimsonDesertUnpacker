@@ -1,0 +1,42 @@
+﻿<!-- 크리처 -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Imp" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Imp.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GiantEnt" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GiantEnt.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Sparrow_Nest" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Sparrow_Nest.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_ReedDevil" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_ReedDevil.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Ancient_Snake" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Ancient_Snake.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Naga" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Naga.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Harpy" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Harpy.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Dragon" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Dragon.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Ancient_Skink" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Ancient_Skink.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Ancient_Bird" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Ancient_Bird.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Choppy" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Choppy.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_OwlEnt" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_OwlEnt.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Scorpion" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Scorpion.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Acid_Spider" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Acid_Spider.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Explosion_Spider" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Explosion_Spider.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Spider" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Spider.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Iron_Murraska" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Iron_Murraska.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Tarantula" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Tarantula.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Small_LandSpider" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Small_LandSpider.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Medium_LandSpider" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Medium_LandSpider.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Big_LandSpider" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Big_LandSpider.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Small_Grass_LandSpider" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Small_Grass_LandSpider.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Mushroom_LandSpider" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Mushroom_LandSpider.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Medium_Marni_Bomb_LandSpider" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Medium_Marni_Bomb_LandSpider.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Big_Marni_Bomb_LandSpider" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Big_Marni_Bomb_LandSpider.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Coal_LandSpider" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Coal_LandSpider.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Copper_LandSpider" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Copper_LandSpider.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Tin_LandSpider" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Tin_LandSpider.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Iron_LandSpider" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Iron_LandSpider.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Rock_LandSpider" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Rock_LandSpider.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Salt_LandSpider" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Salt_LandSpider.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Pebble_LandSpider" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Pebble_LandSpider.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Medium_Flower_LandSpider" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Medium_Flower_LandSpider.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Silver_LandSpider" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Silver_LandSpider.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Gold_LandSpider" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Gold_LandSpider.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Ruby_LandSpider" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Ruby_LandSpider.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Emerald_LandSpider" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Emerald_LandSpider.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Sapphire_LandSpider" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Sapphire_LandSpider.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Diamond_LandSpider" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Diamond_LandSpider.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Medium_Grass_LandSpider" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Medium_Grass_LandSpider.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Marni_MachineFish" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Marni_MachineFish.dds" Type="Image" GetRect="0,0,512,512"/> -->

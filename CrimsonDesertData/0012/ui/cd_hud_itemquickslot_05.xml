@@ -1,0 +1,17 @@
+﻿<Texture Name="cd_hud_itemquickslot_catecory_img_armor" Filename="UI/texture/cd_hud_itemquickslot_05.dds" Type="Image" GetRect="1,1,210,210"/>
+<Texture Name="cd_hud_itemquickslot_catecory_img_arrow" Filename="UI/texture/cd_hud_itemquickslot_05.dds" Type="Image" GetRect="1,213,210,210"/>
+<Texture Name="cd_hud_itemquickslot_catecory_img_belt" Filename="UI/texture/cd_hud_itemquickslot_05.dds" Type="Image" GetRect="1,425,210,210"/>
+<Texture Name="cd_hud_itemquickslot_catecory_img_bow" Filename="UI/texture/cd_hud_itemquickslot_05.dds" Type="Image" GetRect="1,637,210,210"/>
+<Texture Name="cd_hud_itemquickslot_catecory_img_character_riding" Filename="UI/texture/cd_hud_itemquickslot_05.dds" Type="Image" GetRect="213,1,210,210"/>
+<Texture Name="cd_hud_itemquickslot_catecory_img_cloak" Filename="UI/texture/cd_hud_itemquickslot_05.dds" Type="Image" GetRect="425,1,210,210"/>
+<Texture Name="cd_hud_itemquickslot_catecory_img_earing_01" Filename="UI/texture/cd_hud_itemquickslot_05.dds" Type="Image" GetRect="637,1,210,210"/>
+<Texture Name="cd_hud_itemquickslot_catecory_img_Glasses" Filename="UI/texture/cd_hud_itemquickslot_05.dds" Type="Image" GetRect="213,213,210,210"/>
+<Texture Name="cd_hud_itemquickslot_catecory_img_gloves" Filename="UI/texture/cd_hud_itemquickslot_05.dds" Type="Image" GetRect="213,425,210,210"/>
+<Texture Name="cd_hud_itemquickslot_catecory_img_helmet" Filename="UI/texture/cd_hud_itemquickslot_05.dds" Type="Image" GetRect="213,637,210,210"/>
+<Texture Name="cd_hud_itemquickslot_catecory_img_mask" Filename="UI/texture/cd_hud_itemquickslot_05.dds" Type="Image" GetRect="425,213,210,210"/>
+<Texture Name="cd_hud_itemquickslot_catecory_img_necklace" Filename="UI/texture/cd_hud_itemquickslot_05.dds" Type="Image" GetRect="637,213,210,210"/>
+<Texture Name="cd_hud_itemquickslot_catecory_img_ring_01" Filename="UI/texture/cd_hud_itemquickslot_05.dds" Type="Image" GetRect="425,425,210,210"/>
+<Texture Name="cd_hud_itemquickslot_catecory_img_rinkband" Filename="UI/texture/cd_hud_itemquickslot_05.dds" Type="Image" GetRect="425,637,210,210"/>
+<Texture Name="cd_hud_itemquickslot_catecory_img_shoes" Filename="UI/texture/cd_hud_itemquickslot_05.dds" Type="Image" GetRect="637,425,210,210"/>
+<Texture Name="cd_hud_itemquickslot_catecory_img_skill" Filename="UI/texture/cd_hud_itemquickslot_05.dds" Type="Image" GetRect="637,637,210,210"/>
+

@@ -1,0 +1,11 @@
+﻿<Texture Name="int_ui_number_0" Filename="Atlas/ui_number" Type="Image" GetRect="0,0,70,70"/>
+<Texture Name="int_ui_number_1" Filename="Atlas/ui_number" Type="Image" GetRect="0,72,70,70"/>
+<Texture Name="int_ui_number_2" Filename="Atlas/ui_number" Type="Image" GetRect="0,144,70,70"/>
+<Texture Name="int_ui_number_3" Filename="Atlas/ui_number" Type="Image" GetRect="0,216,70,70"/>
+<Texture Name="int_ui_number_4" Filename="Atlas/ui_number" Type="Image" GetRect="0,288,70,70"/>
+<Texture Name="int_ui_number_5" Filename="Atlas/ui_number" Type="Image" GetRect="0,360,70,70"/>
+<Texture Name="int_ui_number_6" Filename="Atlas/ui_number" Type="Image" GetRect="0,432,70,70"/>
+<Texture Name="int_ui_number_7" Filename="Atlas/ui_number" Type="Image" GetRect="72,0,70,70"/>
+<Texture Name="int_ui_number_8" Filename="Atlas/ui_number" Type="Image" GetRect="144,0,70,70"/>
+<Texture Name="int_ui_number_9" Filename="Atlas/ui_number" Type="Image" GetRect="216,0,70,70"/>
+

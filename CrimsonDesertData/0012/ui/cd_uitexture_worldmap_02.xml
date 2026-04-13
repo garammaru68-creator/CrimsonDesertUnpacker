@@ -1,0 +1,3 @@
+﻿<Texture Name="cd_worldmap_quest_tooltip_bg" Filename="UI/texture/cd_uitexture_worldmap_02.dds" Type="Image" GetRect="1,572,652,444"/>
+<Texture Name="cd_worldmap_quest_tooltip_mask" Filename="UI/texture/cd_uitexture_worldmap_02.dds" Type="Image" GetRect="1,1,602,569"/>
+

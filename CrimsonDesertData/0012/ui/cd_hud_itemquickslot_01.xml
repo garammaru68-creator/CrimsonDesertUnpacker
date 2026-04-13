@@ -1,0 +1,22 @@
+﻿<Texture Name="cd_hud_itemquickslot_catecory_img_character" Filename="UI/texture/cd_hud_itemquickslot_01.dds" Type="Image" GetRect="253,789,150,150"/>
+<Texture Name="cd_hud_itemquickslot_catecory_img_earing_02" Filename="UI/texture/cd_hud_itemquickslot_01.dds" Type="Image" GetRect="405,789,150,150"/>
+<Texture Name="cd_hud_itemquickslot_catecory_img_fishing" Filename="UI/texture/cd_hud_itemquickslot_01.dds" Type="Image" GetRect="415,637,150,150"/>
+<Texture Name="cd_hud_itemquickslot_catecory_img_food_01" Filename="UI/texture/cd_hud_itemquickslot_01.dds" Type="Image" GetRect="505,1,210,210"/>
+<Texture Name="cd_hud_itemquickslot_catecory_img_food_02" Filename="UI/texture/cd_hud_itemquickslot_01.dds" Type="Image" GetRect="557,789,150,150"/>
+<Texture Name="cd_hud_itemquickslot_catecory_img_food_03" Filename="UI/texture/cd_hud_itemquickslot_01.dds" Type="Image" GetRect="717,1,210,210"/>
+<Texture Name="cd_hud_itemquickslot_catecory_img_horse" Filename="UI/texture/cd_hud_itemquickslot_01.dds" Type="Image" GetRect="567,637,150,150"/>
+<Texture Name="cd_hud_itemquickslot_catecory_img_lantern" Filename="UI/texture/cd_hud_itemquickslot_01.dds" Type="Image" GetRect="505,213,210,210"/>
+<Texture Name="cd_hud_itemquickslot_catecory_img_lure_01" Filename="UI/texture/cd_hud_itemquickslot_01.dds" Type="Image" GetRect="677,425,150,150"/>
+<Texture Name="cd_hud_itemquickslot_catecory_img_none" Filename="UI/texture/cd_hud_itemquickslot_01.dds" Type="Image" GetRect="709,789,150,150"/>
+<Texture Name="cd_hud_itemquickslot_catecory_img_ring_02" Filename="UI/texture/cd_hud_itemquickslot_01.dds" Type="Image" GetRect="719,577,150,150"/>
+<Texture Name="cd_hud_itemquickslot_catecory_img_shield" Filename="UI/texture/cd_hud_itemquickslot_01.dds" Type="Image" GetRect="253,253,210,210"/>
+<Texture Name="cd_hud_itemquickslot_catecory_img_specialweapon" Filename="UI/texture/cd_hud_itemquickslot_01.dds" Type="Image" GetRect="717,213,210,210"/>
+<Texture Name="cd_hud_itemquickslot_catecory_img_sword" Filename="UI/texture/cd_hud_itemquickslot_01.dds" Type="Image" GetRect="465,425,210,210"/>
+<Texture Name="cd_quickslot_character_1" Filename="UI/texture/cd_hud_itemquickslot_01.dds" Type="Image" GetRect="1,1,250,250"/>
+<Texture Name="cd_quickslot_character_4" Filename="UI/texture/cd_hud_itemquickslot_01.dds" Type="Image" GetRect="1,253,250,250"/>
+<Texture Name="cd_quickslot_character_6" Filename="UI/texture/cd_hud_itemquickslot_01.dds" Type="Image" GetRect="1,505,250,250"/>
+<Texture Name="cd_quickslot_character_85001" Filename="UI/texture/cd_hud_itemquickslot_01.dds" Type="Image" GetRect="1,757,250,250"/>
+<Texture Name="cd_quickslot_character_mercenary" Filename="UI/texture/cd_hud_itemquickslot_01.dds" Type="Image" GetRect="253,1,250,250"/>
+<Texture Name="cd_quickslot_icon_comb" Filename="UI/texture/cd_hud_itemquickslot_01.dds" Type="Image" GetRect="253,465,160,160"/>
+<Texture Name="cd_quickslot_icon_taming" Filename="UI/texture/cd_hud_itemquickslot_01.dds" Type="Image" GetRect="253,627,160,160"/>
+

@@ -1,0 +1,65 @@
+﻿<Texture Name="CD_Skill_Icon_Gauge_tip_01" Filename="UI/texture/cd_skilltree_tip.dds" Type="Image" GetRect="1,1,50,100"/>
+<Texture Name="CD_Skill_Icon_Gauge_tip_02" Filename="UI/texture/cd_skilltree_tip.dds" Type="Image" GetRect="1,103,50,100"/>
+<Texture Name="CD_Skill_Icon_Gauge_tip_03" Filename="UI/texture/cd_skilltree_tip.dds" Type="Image" GetRect="1,205,50,100"/>
+<Texture Name="CD_Skill_Icon_Gauge_tip_04" Filename="UI/texture/cd_skilltree_tip.dds" Type="Image" GetRect="1,307,50,100"/>
+<Texture Name="CD_Skill_Icon_Gauge_tip_05" Filename="UI/texture/cd_skilltree_tip.dds" Type="Image" GetRect="1,409,50,100"/>
+<Texture Name="CD_Skill_Icon_Gauge_tip_06" Filename="UI/texture/cd_skilltree_tip.dds" Type="Image" GetRect="53,1,50,100"/>
+<Texture Name="CD_Skill_Icon_Gauge_tip_07" Filename="UI/texture/cd_skilltree_tip.dds" Type="Image" GetRect="53,103,50,100"/>
+<Texture Name="CD_Skill_Icon_Gauge_tip_08" Filename="UI/texture/cd_skilltree_tip.dds" Type="Image" GetRect="53,205,50,100"/>
+<Texture Name="CD_Skill_Icon_Gauge_tip_09" Filename="UI/texture/cd_skilltree_tip.dds" Type="Image" GetRect="53,307,50,100"/>
+<Texture Name="CD_Skill_Icon_Gauge_tip_10" Filename="UI/texture/cd_skilltree_tip.dds" Type="Image" GetRect="53,409,50,100"/>
+<Texture Name="CD_Skill_Icon_Gauge_tip_11" Filename="UI/texture/cd_skilltree_tip.dds" Type="Image" GetRect="105,1,50,100"/>
+<Texture Name="CD_Skill_Icon_Gauge_tip_12" Filename="UI/texture/cd_skilltree_tip.dds" Type="Image" GetRect="105,103,50,100"/>
+<Texture Name="CD_Skill_Icon_Gauge_tip_13" Filename="UI/texture/cd_skilltree_tip.dds" Type="Image" GetRect="105,205,50,100"/>
+<Texture Name="CD_Skill_Icon_Gauge_tip_14" Filename="UI/texture/cd_skilltree_tip.dds" Type="Image" GetRect="105,307,50,100"/>
+<Texture Name="CD_Skill_Icon_Gauge_tip_15" Filename="UI/texture/cd_skilltree_tip.dds" Type="Image" GetRect="105,409,50,100"/>
+<Texture Name="CD_Skill_Icon_Gauge_tip_16" Filename="UI/texture/cd_skilltree_tip.dds" Type="Image" GetRect="157,1,50,100"/>
+<Texture Name="CD_Skill_Icon_Gauge_tip_17" Filename="UI/texture/cd_skilltree_tip.dds" Type="Image" GetRect="157,103,50,100"/>
+<Texture Name="CD_Skill_Icon_Gauge_tip_18" Filename="UI/texture/cd_skilltree_tip.dds" Type="Image" GetRect="157,205,50,100"/>
+<Texture Name="CD_Skill_Icon_Gauge_tip_19" Filename="UI/texture/cd_skilltree_tip.dds" Type="Image" GetRect="157,307,50,100"/>
+<Texture Name="CD_Skill_Icon_Gauge_tip_20" Filename="UI/texture/cd_skilltree_tip.dds" Type="Image" GetRect="157,409,50,100"/>
+<Texture Name="CD_Skill_Icon_Gauge_tip_21" Filename="UI/texture/cd_skilltree_tip.dds" Type="Image" GetRect="209,1,50,100"/>
+<Texture Name="CD_Skill_Icon_Gauge_tip_22" Filename="UI/texture/cd_skilltree_tip.dds" Type="Image" GetRect="209,103,50,100"/>
+<Texture Name="CD_Skill_Icon_Gauge_tip_23" Filename="UI/texture/cd_skilltree_tip.dds" Type="Image" GetRect="209,205,50,100"/>
+<Texture Name="CD_Skill_Icon_Gauge_tip_24" Filename="UI/texture/cd_skilltree_tip.dds" Type="Image" GetRect="209,307,50,100"/>
+<Texture Name="CD_Skill_Icon_Gauge_tip_25" Filename="UI/texture/cd_skilltree_tip.dds" Type="Image" GetRect="209,409,50,100"/>
+<Texture Name="CD_Skill_Icon_Gauge_tip_26" Filename="UI/texture/cd_skilltree_tip.dds" Type="Image" GetRect="261,1,50,100"/>
+<Texture Name="CD_Skill_Icon_Gauge_tip_27" Filename="UI/texture/cd_skilltree_tip.dds" Type="Image" GetRect="313,1,50,100"/>
+<Texture Name="CD_Skill_Icon_Gauge_tip_28" Filename="UI/texture/cd_skilltree_tip.dds" Type="Image" GetRect="365,1,50,100"/>
+<Texture Name="CD_Skill_Icon_Gauge_tip_29" Filename="UI/texture/cd_skilltree_tip.dds" Type="Image" GetRect="417,1,50,100"/>
+<Texture Name="CD_Skill_Icon_Gauge_tip_30" Filename="UI/texture/cd_skilltree_tip.dds" Type="Image" GetRect="261,103,50,100"/>
+
+
+
+<Animation Name="cd_skilltree_gauge_tip_animation" size="512,512">
+<Frame Texturename="CD_Skill_Icon_Gauge_tip_01"  Time="0.07"/>
+<Frame Texturename="CD_Skill_Icon_Gauge_tip_02"  Time="0.07"/>
+<Frame Texturename="CD_Skill_Icon_Gauge_tip_03"  Time="0.07"/>
+<Frame Texturename="CD_Skill_Icon_Gauge_tip_04"  Time="0.07"/>
+<Frame Texturename="CD_Skill_Icon_Gauge_tip_05"  Time="0.07"/>
+<Frame Texturename="CD_Skill_Icon_Gauge_tip_06"  Time="0.07"/>
+<Frame Texturename="CD_Skill_Icon_Gauge_tip_07"  Time="0.07"/>
+<Frame Texturename="CD_Skill_Icon_Gauge_tip_08"  Time="0.07"/>
+<Frame Texturename="CD_Skill_Icon_Gauge_tip_09"  Time="0.07"/>
+<Frame Texturename="CD_Skill_Icon_Gauge_tip_10"  Time="0.07"/>
+<Frame Texturename="CD_Skill_Icon_Gauge_tip_11"  Time="0.07"/>
+<Frame Texturename="CD_Skill_Icon_Gauge_tip_12"  Time="0.07"/>
+<Frame Texturename="CD_Skill_Icon_Gauge_tip_13"  Time="0.07"/>
+<Frame Texturename="CD_Skill_Icon_Gauge_tip_14"  Time="0.07"/>
+<Frame Texturename="CD_Skill_Icon_Gauge_tip_15"  Time="0.07"/>
+<Frame Texturename="CD_Skill_Icon_Gauge_tip_16"  Time="0.07"/>
+<Frame Texturename="CD_Skill_Icon_Gauge_tip_17"  Time="0.07"/>
+<Frame Texturename="CD_Skill_Icon_Gauge_tip_18"  Time="0.07"/>
+<Frame Texturename="CD_Skill_Icon_Gauge_tip_19"  Time="0.07"/>
+<Frame Texturename="CD_Skill_Icon_Gauge_tip_20"  Time="0.07"/>
+<Frame Texturename="CD_Skill_Icon_Gauge_tip_21"  Time="0.07"/>
+<Frame Texturename="CD_Skill_Icon_Gauge_tip_22"  Time="0.07"/>
+<Frame Texturename="CD_Skill_Icon_Gauge_tip_23"  Time="0.07"/>
+<Frame Texturename="CD_Skill_Icon_Gauge_tip_24"  Time="0.07"/>
+<Frame Texturename="CD_Skill_Icon_Gauge_tip_25"  Time="0.07"/>
+<Frame Texturename="CD_Skill_Icon_Gauge_tip_26"  Time="0.07"/>
+<Frame Texturename="CD_Skill_Icon_Gauge_tip_27"  Time="0.07"/>
+<Frame Texturename="CD_Skill_Icon_Gauge_tip_28"  Time="0.07"/>
+<Frame Texturename="CD_Skill_Icon_Gauge_tip_29"  Time="0.07"/>
+<Frame Texturename="CD_Skill_Icon_Gauge_tip_30"  Time="0.07"/>
+</Animation>

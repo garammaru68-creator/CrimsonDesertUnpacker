@@ -1,0 +1,425 @@
+﻿<!--연결된 텍스쳐 없을때 뜨는 임시 일러스트 -->
+<Texture Name="cd_worldmap_image_knowledge_sample" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_knowledge_sample_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+
+<!-- 산맥 -->
+<Texture Name="cd_worldmap_image_mountain_0deg_sdf_1024x1024" Filename="UI/texture/Image/WorldmapImage/cd_worldmap_image_mountain_0deg_sdf_1024x1024.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_worldmap_image_mountain_30deg_sdf_1024x1024" Filename="UI/texture/Image/WorldmapImage/cd_worldmap_image_mountain_30deg_sdf_1024x1024.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_worldmap_image_mountain_60deg_sdf_1024x1024" Filename="UI/texture/Image/WorldmapImage/cd_worldmap_image_mountain_60deg_sdf_1024x1024.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_worldmap_image_mountain_90deg_sdf_1024x1024" Filename="UI/texture/Image/WorldmapImage/cd_worldmap_image_mountain_90deg_sdf_1024x1024.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_worldmap_image_mountain_120deg_sdf_1024x1024" Filename="UI/texture/Image/WorldmapImage/cd_worldmap_image_mountain_120deg_sdf_1024x1024.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_worldmap_image_mountain_150deg_sdf_1024x1024" Filename="UI/texture/Image/WorldmapImage/cd_worldmap_image_mountain_150deg_sdf_1024x1024.dds" Type="Image" GetRect="0,0,256,256"/>
+
+<Texture Name="cd_worldmap_image_mountain_10026_sdf_2048x2048" Filename="UI/texture/Image/WorldmapImage/cd_worldmap_image_mountain_10026_sdf_2048x2048.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<!-- 데코 일러스트 -->
+<Texture Name="cd_worldmap_image_compass_sdf_1024x1024" Filename="UI/texture/Image/WorldmapImage/cd_worldmap_image_compass_sdf_1024x1024.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_worldmap_image_mountain_sdf_512x256" Filename="UI/texture/Image/WorldmapImage/cd_worldmap_image_mountain_sdf_512x256.dds" Type="Image" GetRect="0,0,128,64"/>
+
+<!-- 지식 일러스트 -->
+<Texture Name="cd_worldmap_image_01_sdf_1024x512" Filename="UI/texture/Image/WorldmapImage/cd_worldmap_image_01_sdf_1024x512.dds" Type="Image" GetRect="0,0,256,128"/>
+<Texture Name="cd_worldmap_image_00_sdf_1024x512" Filename="UI/texture/Image/WorldmapImage/cd_worldmap_image_00_sdf_1024x512.dds" Type="Image" GetRect="0,0,256,128"/>
+
+<!-- 지식 일러스트 : 새 -->
+<Texture Name="cd_worldmap_image_Knowledge_KukuBird" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_KukuBird_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Crow" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Crow_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Eagle" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Eagle_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_BlueJay" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_BlueJay_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Condor" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Condor_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Duck" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Duck_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Hen" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Hen_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Goose" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Goose_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Pigeon" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Pigeon_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_WhiteBilled_Loon" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_WhiteBilled_Loon_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_WhiteWing_Flycatcher" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_WhiteWing_Flycatcher_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Rooster" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Rooster_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Duckling" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Duckling_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Common_Heron" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Common_Heron_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Hawk" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Hawk_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_White_Owl" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_White_Owl_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Sparrow" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Sparrow_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Chick" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Chick_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Parrot" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Parrot_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Seagull" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Seagull_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Spoonbill" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Spoonbill_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Flamingos" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Flamingos_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Oriole" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Oriole_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Bat" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Bat_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Domestic_Duck" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Domestic_Duck_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<!-- <Texture Name="cd_worldmap_image_Knowledge_White_Hen" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_White_Hen_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/> -->
+<!-- <Texture Name="cd_worldmap_image_Knowledge_Black_Hen" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Black_Hen_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/> -->
+<!-- <Texture Name="cd_worldmap_image_Knowledge_White_Rooster" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_White_Rooster_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/> -->
+<!-- <Texture Name="cd_worldmap_image_Knowledge_Black_Rooster" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Black_Rooster_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/> -->
+<Texture Name="cd_worldmap_image_Knowledge_BlackDuck" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_BlackDuck_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_EuropeanPartridge" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_EuropeanPartridge_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<!-- <Texture Name="cd_worldmap_image_Knowledge_White_Pigeon" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_White_Pigeon_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/> -->
+<!-- <Texture Name="cd_worldmap_image_Knowledge_Light_Pigeon" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Light_Pigeon_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/> -->
+<Texture Name="cd_worldmap_image_Knowledge_Steppe_Eagle" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Steppe_Eagle_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Angry_Crow" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Angry_Crow_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_WoodPecker" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_WoodPecker_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Featherless_Chicken" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Featherless_Chicken_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Snowy_Plover" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Snowy_Plover_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<!-- <Texture Name="cd_worldmap_image_Knowledge_Black_Owl" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Black_Owl_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/> -->
+<Texture Name="cd_worldmap_image_Knowledge_BlackTail_Flycatcher" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_BlackTail_Flycatcher_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Bunting_Bird" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Bunting_Bird_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Red_Footed_Falcon" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Red_Footed_Falcon_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Collared_Dove" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Collared_Dove_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Cuckoo" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Cuckoo_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_ArcticTern" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_ArcticTern_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_EclectusParrot" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_EclectusParrot_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_SunConure" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_SunConure_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_GrayParrot" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_GrayParrot_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_SpixsMacaw" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_SpixsMacaw_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_RoseringedParakeet" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_RoseringedParakeet_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_CitronCockatoo" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_CitronCockatoo_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Oxpecker" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Oxpecker_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_WhiteHawk" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_WhiteHawk_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_FalcoCherrug" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_FalcoCherrug_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<!-- <Texture Name="cd_worldmap_image_Knowledge_Chicken" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Chicken_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/> -->
+<Texture Name="cd_worldmap_image_Knowledge_GaviaStellata" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_GaviaStellata_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_MallardDuck" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_MallardDuck_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_RuddyshelDuck" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_RuddyshelDuck_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Mergellus" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Mergellus_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+
+
+<!-- 지식 일러스트 : 동물형 몬스터 -->
+<Texture Name="cd_worldmap_image_Knowledge_Wolf" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Wolf_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Lion" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Lion_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Wild_Dog" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Wild_Dog_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Hyena" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Hyena_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Crocodile" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Crocodile_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Wild_Boar" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Wild_Boar_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Bear" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Bear_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Black_Bear_I" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Black_Bear_I_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Grizzly_Bear" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Grizzly_Bear_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Lioness" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Lioness_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<!-- <Texture Name="cd_worldmap_image_Knowledge_Cougar" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Cougar_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/> -->
+<Texture Name="cd_worldmap_image_Knowledge_Tiger" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Tiger_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Monster_Gorilla" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Monster_Gorilla_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<!-- <Texture Name="cd_worldmap_image_Knowledge_Zombie_Dog" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Zombie_Dog_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/> -->
+<Texture Name="cd_worldmap_image_Knowledge_Hellhound" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Hellhound_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Leopard_I" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Leopard_I_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Battle_Rhino" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Battle_Rhino_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Fire_Armadillo" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Fire_Armadillo_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Golem_Armadillo" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Golem_Armadillo_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<!-- <Texture Name="cd_worldmap_image_Knowledge_Mutant_Hyena" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Mutant_Hyena_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/> -->
+<Texture Name="cd_worldmap_image_Knowledge_Battle_Boar" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Battle_Boar_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Black_Bear_II" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Black_Bear_II_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Wild_Brown_Great_Dane" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Wild_Brown_Great_Dane_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Warthog" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Warthog_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Siege_Lizard" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Siege_Lizard_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Rhino_Lizard" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Rhino_Lizard_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<!-- <Texture Name="cd_worldmap_image_Knowledge_Black_Cougar" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Black_Cougar_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/> -->
+<!-- <Texture Name="cd_worldmap_image_Knowledge_Skinned_Bear" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Skinned_Bear_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/> -->
+<Texture Name="cd_worldmap_image_Knowledge_Giant_Crocodile" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Giant_Crocodile_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Leopard_II" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Leopard_II_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+
+<!-- 지식 일러스트 : 전설의 동물 -->
+<Texture Name="cd_worldmap_image_Knowledge_Legend_BlackFangs_Wolf" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Legend_BlackFangs_Wolf_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+
+<!-- 지식 일러스트 : 동물 -->
+<!-- <Texture Name="cd_worldmap_image_Knowledge_Domestic_Hamish" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Domestic_Hamish_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/> -->
+<Texture Name="cd_worldmap_image_Knowledge_Big_KomodoDragon"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Big_KomodoDragon_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Hila_Lizard"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Hila_Lizard_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Sunglow_anaconda"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Sunglow_anaconda_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Rainbow_anaconda"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Rainbow_anaconda_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_RedTail_anaconda"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_RedTail_anaconda_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_South_CopperHead"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_South_CopperHead_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Lancehead"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Lancehead_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_North_CopperHead"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_North_CopperHead_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Timber_Rattlesnake"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Timber_Rattlesnake_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Blacktail_Rattlesnake"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Blacktail_Rattlesnake_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Bad_Rattlesnake"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Bad_Rattlesnake_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Rattlesnake"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Rattlesnake_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Cobra"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Cobra_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Desert_Snake"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Desert_Snake_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Snake_Boss"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Snake_Boss_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_SyrrhaptesParadoxus"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_SyrrhaptesParadoxus_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Domestic_Duckling"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Domestic_Duckling_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_CarmaBirdsaurus"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_CarmaBirdsaurus_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Lama"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Lama_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Centipede"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Centipede_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Axolotl"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Axolotl_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Longhorn"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Longhorn_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_CollaredPeccary"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_CollaredPeccary_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_BigFireFly"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_BigFireFly_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Coyote"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Coyote_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Hamish"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Hamish_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Baby_Bear"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Baby_Bear_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Salamander"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Salamander_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Oyster_Toad"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Oyster_Toad_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Toad"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Toad_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Tree_Frog"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Tree_Frog_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Frog"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Frog_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Badger"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Badger_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Skunky"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Skunky_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Skunk"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Skunk_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Beaver"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Beaver_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Mole"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Mole_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Goanna"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Goanna_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_BlueStone_Armadillo"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_BlueStone_Armadillo_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_GreenStone_Armadillo"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_GreenStone_Armadillo_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Gold_Armadillo"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Gold_Armadillo_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Ruby_Armadillo"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Ruby_Armadillo_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Silver_Armadillo"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Silver_Armadillo_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Copper_Armadillo"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Copper_Armadillo_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Stone_Armadillo"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Stone_Armadillo_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Home_Stone_Armadillo"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Home_Stone_Armadillo_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Iguana"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Iguana_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_SnappingTurtle"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_SnappingTurtle_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Caretta"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Caretta_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Turtle"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Turtle_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Snow_Chipmunk"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Snow_Chipmunk_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Chipmunk"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Chipmunk_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Seal"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Seal_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Elephant"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Elephant_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Racoon"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Racoon_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Wood_Weasel"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Wood_Weasel_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Snow_Weasel"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Snow_Weasel_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Weasel"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Weasel_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Female_Gazelle"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Female_Gazelle_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Baby_Gazelle"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Baby_Gazelle_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Gazelle"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Gazelle_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Arctic_Fox"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Arctic_Fox_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Desert_Fox"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Desert_Fox_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Fox"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Fox_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Scolt"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Scolt_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_BattleRhino"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_BattleRhino_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Rhino"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Rhino_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Longhaired_Bison"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Longhaired_Bison_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Female_Bison"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Female_Bison_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Baby_Bison"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Baby_Bison_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Bison"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Bison_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Muskrat"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Muskrat_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Possum"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Possum_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Infected_Rat"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Infected_Rat_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Rat"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Rat_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Baby_Roedeer"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Baby_Roedeer_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Female_Roedeer"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Female_Roedeer_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Roedeer"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Roedeer_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Arctic_ReinDeer"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Arctic_ReinDeer_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Baby_Arctic_ReinDeer"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Baby_Arctic_ReinDeer_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Female_Arctic_ReinDeer"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Female_Arctic_ReinDeer_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Baby_ReinDeer"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Baby_ReinDeer_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Female_ReinDeer"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Female_ReinDeer_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_ReinDeer"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_ReinDeer_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Baby_Moose"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Baby_Moose_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Female_Moose"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Female_Moose_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Moose"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Moose_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Baby_PronghornDeer"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Baby_PronghornDeer_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Female_PronghornDeer"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Female_PronghornDeer_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Baby_Wapiti"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Baby_Wapiti_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Female_Wapiti"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Female_Wapiti_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Wapiti"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Wapiti_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_PronghornDeer"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_PronghornDeer_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Home_Female_Deer"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Home_Female_Deer_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Home_Deer"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Home_Deer_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Female_Deer"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Female_Deer_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Baby_Deer"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Baby_Deer_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Deer"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Deer_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Baby_Boar"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Baby_Boar_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Baby_Pig"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Baby_Pig_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Pig"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Pig_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Domestic_Baby_Pig"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Domestic_Baby_Pig_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Domestic_Pig"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Domestic_Pig_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Domestic_Husky"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Domestic_Husky_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Domestic_BullDog"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Domestic_BullDog_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Domestic_Beagle"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Domestic_Beagle_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Domestic_GreyHound"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Domestic_GreyHound_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Domestic_Saluki"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Domestic_Saluki_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Domestic_Malamute"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Domestic_Malamute_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Baby_GreatDane"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Baby_GreatDane_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Domestic_GreatDane"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Domestic_GreatDane_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Dog"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Dog_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Desert_Rabbit"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Desert_Rabbit_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_SnowRabbit"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_SnowRabbit_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Rabbit_01"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Rabbit_01_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Domestic_BritishCat"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Domestic_BritishCat_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Domestic_Norwegianforest"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Domestic_Norwegianforest_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Desert_Cat"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Desert_Cat_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Cat"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Cat_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Domestic_Cat"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Domestic_Cat_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Female_Camel"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Female_Camel_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Baby_Camel"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Baby_Camel_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Camel"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Camel_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Hippo"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Hippo_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Loaded_Bull"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Loaded_Bull_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Baby_Bull"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Baby_Bull_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Home_Bull"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Home_Bull_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_male_MilkCow"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_male_MilkCow_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Female_MilkCow"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Female_MilkCow_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Rope_SpotBull"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Rope_SpotBull_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Domestic_male_MilkCow"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Domestic_male_MilkCow_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Domestic_Female_MilkCow"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Domestic_Female_MilkCow_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Female_Antelope"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Female_Antelope_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Baby_Antelope"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Baby_Antelope_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Antelope"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Antelope_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Snow_Mountain_Goat"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Snow_Mountain_Goat_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_MountainGoat"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_MountainGoat_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_DesertBigHornSheep"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_DesertBigHornSheep_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Sheep"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Sheep_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Lamb"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Lamb_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Domestic_Sheep"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Domestic_Sheep_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Porcupine"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Porcupine_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Hedgehog"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Hedgehog_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Kid"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Kid_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Goat"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Goat_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_BlackGoat"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_BlackGoat_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Domestic_Kid"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Domestic_Kid_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Domestic_Goat"	Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Domestic_Goat_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+
+<!-- 지식 일러스트 : 채집물 -->
+<Texture Name="cd_worldmap_image_Knowledge_Amanita" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Amanita_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Clavaria" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Clavaria_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Copper" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Copper_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_DestroyingAngel" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_DestroyingAngel_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Diamond" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Diamond_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_knowledge_emerald" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_knowledge_emerald_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Gold" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Gold_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Hericium" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Hericium_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_HericiumErubaceus" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_HericiumErubaceus_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Hypholom" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Hypholom_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Iron" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Iron_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Phellinus" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Phellinus_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Podostroma" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Podostroma_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_RedStone" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_RedStone_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Reishi" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Reishi_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Ruby" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Ruby_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Sapphire" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Sapphire_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Shiitake" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Shiitake_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Silver" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Silver_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Sulfur" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Sulfur_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Tin" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Tin_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Truffle" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Truffle_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_WhiteEgg" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_WhiteEgg_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Artichoke" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Artichoke_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Banana" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Banana_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Beet" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Beet_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Blueberry" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Blueberry_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Cabbage" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Cabbage_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Carrot" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Carrot_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_DesertWatermelon" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_DesertWatermelon_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Elderberry" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Elderberry_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Lavender" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Lavender_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Lemon" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Lemon_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Lentils" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Lentils_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Maca" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Maca_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Onion" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Onion_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Parsley" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Parsley_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Peas" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Peas_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Pineapple" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Pineapple_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Potato" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Potato_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Pumpkin" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Pumpkin_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Rasberry" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Rasberry_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Rosemary" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Rosemary_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Strawberry" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Strawberry_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Ama" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Ama_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Apple" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Apple_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_BroadBean" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_BroadBean_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Corn" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Corn_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Cotton" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Cotton_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Croton" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Croton_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Dendrobium" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Dendrobium_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Garlic" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Garlic_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Ginseng" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Ginseng_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Grape" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Grape_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Helleborine" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Helleborine_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Marigold" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Marigold_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Milfoil" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Milfoil_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Peach" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Peach_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Pear" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Pear_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_SweetPotato" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_SweetPotato_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Tomato" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Tomato_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Turnip" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Turnip_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_Knowledge_Fern" Filename="UI/texture/Image/WorldmapImage_Knowledge/cd_worldmap_image_Knowledge_Fern_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+
+
+
+<!-- 스킬 일러스트 :미습듭 -->
+<Texture Name="cd_worldmap_image_skill_Knowledge_unlearned_sdf_1024x1024" Filename="UI/texture/Image/WorldmapImage_Skill/cd_worldmap_image_skill_Knowledge_unlearned_sdf_1024x1024.dds" Type="Image" GetRect="0,0,256,256"/>
+<!-- 스킬 일러스트 :습듭 -->
+<Texture Name="cd_worldmap_image_skill_Knowledge_DoubleKick_sdf_512x512" Filename="UI/texture/Image/WorldmapImage_Skill/cd_worldmap_image_skill_Knowledge_DoubleKick_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_skill_knowledge_movecutting_sdf_512x512" Filename="UI/texture/Image/WorldmapImage_Skill/cd_worldmap_image_skill_knowledge_movecutting_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_skill_Knowledge_Lunge_I_sdf_512x512" Filename="UI/texture/Image/WorldmapImage_Skill/cd_worldmap_image_skill_Knowledge_Lunge_I_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+
+<Texture Name="cd_worldmap_image_skill_Knowledge_Lunge_I" Filename="UI/texture/Image/WorldmapImage_Skill/cd_worldmap_image_skill_Knowledge_Lunge_I_sdf_1024x1024.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_worldmap_image_skill_Knowledge_Lunge_II" Filename="UI/texture/Image/WorldmapImage_Skill/cd_worldmap_image_skill_Knowledge_Lunge_II_sdf_1024x1024.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_worldmap_image_skill_Knowledge_DoubleKick" Filename="UI/texture/Image/WorldmapImage_Skill/cd_worldmap_image_skill_Knowledge_DoubleKick_sdf_1024x1024.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_worldmap_image_skill_Knowledge_Monster_Parkour_I" Filename="UI/texture/Image/WorldmapImage_Skill/cd_worldmap_image_skill_Knowledge_Monster_Parkour_I_sdf_1024x1024.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_worldmap_image_skill_Knowledge_Rush" Filename="UI/texture/Image/WorldmapImage_Skill/cd_worldmap_image_skill_Knowledge_Rush_sdf_1024x1024.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_worldmap_image_skill_Knowledge_Rush_Cancel" Filename="UI/texture/Image/WorldmapImage_Skill/cd_worldmap_image_skill_Knowledge_Rush_Cancel_sdf_1024x1024.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_worldmap_image_skill_Knowledge_Wrestle_Lariat" Filename="UI/texture/Image/WorldmapImage_Skill/cd_worldmap_image_skill_Knowledge_Wrestle_Lariat_sdf_1024x1024.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_worldmap_image_skill_Knowledge_Wrestle_GiantSwing" Filename="UI/texture/Image/WorldmapImage_Skill/cd_worldmap_image_skill_Knowledge_Wrestle_GiantSwing_sdf_1024x1024.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_worldmap_image_skill_Knowledge_DropKick" Filename="UI/texture/Image/WorldmapImage_Skill/cd_worldmap_image_skill_Knowledge_DropKick_sdf_1024x1024.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_worldmap_image_skill_Knowledge_TurnBash" Filename="UI/texture/Image/WorldmapImage_Skill/cd_worldmap_image_skill_Knowledge_TurnBash_sdf_1024x1024.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_worldmap_image_skill_Knowledge_MoveCutting" Filename="UI/texture/Image/WorldmapImage_Skill/cd_worldmap_image_skill_Knowledge_MoveCutting_sdf_1024x1024.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_worldmap_image_skill_Knowledge_Light_Reflection" Filename="UI/texture/Image/WorldmapImage_Skill/cd_worldmap_image_skill_Knowledge_Light_Reflection_sdf_1024x1024.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_worldmap_image_skill_Knowledge_RotationBash_NoDelay" Filename="UI/texture/Image/WorldmapImage_Skill/cd_worldmap_image_skill_Knowledge_RotationBash_NoDelay_sdf_1024x1024.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_worldmap_image_skill_Knowledge_RotationBash_Charge" Filename="UI/texture/Image/WorldmapImage_Skill/cd_worldmap_image_skill_Knowledge_RotationBash_Charge_sdf_1024x1024.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_worldmap_image_skill_Knowledge_Combo_Shot" Filename="UI/texture/Image/WorldmapImage_Skill/cd_worldmap_image_skill_Knowledge_Combo_Shot_sdf_1024x1024.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_worldmap_image_skill_Knowledge_Screw_Shot" Filename="UI/texture/Image/WorldmapImage_Skill/cd_worldmap_image_skill_Knowledge_Screw_Shot_sdf_1024x1024.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_worldmap_image_skill_Knowledge_Multi_Shot" Filename="UI/texture/Image/WorldmapImage_Skill/cd_worldmap_image_skill_Knowledge_Multi_Shot_sdf_1024x1024.dds" Type="Image" GetRect="0,0,256,256"/>
+<Texture Name="cd_worldmap_image_skill_Knowledge_Charge_Shot" Filename="UI/texture/Image/WorldmapImage_Skill/cd_worldmap_image_skill_Knowledge_Charge_Shot_sdf_1024x1024.dds" Type="Image" GetRect="0,0,256,256"/>
+
+<Texture Name="cd_worldmap_image_skill_sample_sdf_512x512" Filename="UI/texture/Image/WorldmapImage/cd_worldmap_image_skill_sample_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_skill_sample_white4_sdf_2048x2048" Filename="UI/texture/Image/WorldmapImage/cd_worldmap_image_skill_sample_white4_sdf_2048x2048.dds" Type="Image" GetRect="0,0,128,128"/> 
+
+<!-- 어비스 게이트 오픈 일러스트 추가 -->
+<Texture Name="cd_worldmap_image_abyss_gate_open" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyss_gate_open_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyss_gate_close" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyss_gate_close_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+
+
+<!-- 어비스 게이트 (하늘섬) 연결 일러스트 -->
+<Texture Name="cd_worldmap_image_abyss_stage_lazor_light" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyss_stage_lazor_light_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyss_stage_repeater" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyss_stage_repeater_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyss_stage_lazor_arrival" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyss_stage_lazor_arrival_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyss_stage_lazor_tile" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyss_stage_lazor_tile_sdf_512x128.dds" Type="Image" GetRect="0,0,128,32"/>
+
+
+<!-- 어비스 게이트 (하늘섬) 일러스트 : 제작완료-->
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0001" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0001_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0002" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0002_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0003" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0003_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0007" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0007_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0012" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0012_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0013" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0013_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0023" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0023_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0055" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0055_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0060" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0060_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0065" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0065_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+
+
+<!-- 어비스 게이트 (하늘섬) 일러스트 : 임시-->
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0010" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0010_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0099" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0099_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0110" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0110_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0035" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0035_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0063" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0063_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0095" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0095_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0132" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0132_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0134" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0134_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0146" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0146_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0147" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0147_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0171" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0171_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0191" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0191_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0193" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0193_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0196" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0196_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0024" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0024_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0041" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0041_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0045" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0045_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0093" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0093_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0096" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0096_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0137" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0137_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0168" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0168_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0182" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0182_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0062" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0062_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0080" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0080_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0120" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0120_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0131" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0131_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0152" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0152_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0154" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0154_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0157" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0157_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0173" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0173_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0014" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0014_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0073" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0073_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0091" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0091_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>
+<Texture Name="cd_worldmap_image_abyssstatge_Abyss_0104" Filename="UI/texture/Image/WorldmapImage_AbyssGate/cd_worldmap_image_abyssstatge_Abyss_0104_sdf_512x512.dds" Type="Image" GetRect="0,0,128,128"/>

@@ -1,0 +1,4 @@
+﻿<Texture Name="cd_ink_influence_questlist_bg_00" Filename="UI/texture/cd_uitexture_questlist_00.dds" Type="Image" GetRect="1,1,592,826"/>
+<Texture Name="cd_ink_influence_questlist_bg_01" Filename="UI/texture/cd_uitexture_questlist_00.dds" Type="Image" GetRect="595,1,398,484"/>
+<Texture Name="cd_slot_bg_questlist_00" Filename="UI/texture/cd_uitexture_questlist_00.dds" Type="Image" GetRect="1,829,950,135"/>
+

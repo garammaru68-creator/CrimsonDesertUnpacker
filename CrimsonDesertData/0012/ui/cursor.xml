@@ -1,0 +1,4 @@
+﻿
+<!-- the cursor whose name is "default" is the default -->
+<Cursor Name="default" Type="Static" Texture="Texture/UI/PACursorDefault.dds" SizeX="32px" SizeY="32px" OffsetX="0px" OffsetY="0px" />
+<Cursor Name="cute" Type="Animated" Texture="folder4" SizeX="32px" SizeY="32px" OffsetX="-16px" OffsetY="-16px" />

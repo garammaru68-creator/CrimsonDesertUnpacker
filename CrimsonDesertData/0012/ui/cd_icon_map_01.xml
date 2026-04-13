@@ -1,0 +1,26 @@
+﻿<Texture Name="cd_Icon_map_abyssgate" Filename="UI/texture/cd_icon_map_01.dds" Type="Image" GetRect="1,1,100,100"/>
+<Texture Name="cd_icon_map_alchemy" Filename="UI/texture/cd_icon_map_01.dds" Type="Image" GetRect="1,103,100,100"/>
+<Texture Name="cd_icon_map_art" Filename="UI/texture/cd_icon_map_01.dds" Type="Image" GetRect="1,205,100,100"/>
+<Texture Name="cd_icon_map_bank" Filename="UI/texture/cd_icon_map_01.dds" Type="Image" GetRect="1,307,100,100"/>
+<Texture Name="cd_icon_map_blacksmith" Filename="UI/texture/cd_icon_map_01.dds" Type="Image" GetRect="1,409,100,100"/>
+<Texture Name="cd_icon_map_bookshop" Filename="UI/texture/cd_icon_map_01.dds" Type="Image" GetRect="103,1,100,100"/>
+<Texture Name="cd_icon_map_butcher" Filename="UI/texture/cd_icon_map_01.dds" Type="Image" GetRect="205,1,100,100"/>
+<Texture Name="cd_icon_map_charlatan" Filename="UI/texture/cd_icon_map_01.dds" Type="Image" GetRect="307,1,100,100"/>
+<Texture Name="cd_icon_map_cheese" Filename="UI/texture/cd_icon_map_01.dds" Type="Image" GetRect="409,1,100,100"/>
+<Texture Name="cd_Icon_map_church" Filename="UI/texture/cd_icon_map_01.dds" Type="Image" GetRect="103,103,100,100"/>
+<Texture Name="cd_Icon_map_clothingshop" Filename="UI/texture/cd_icon_map_01.dds" Type="Image" GetRect="103,205,100,100"/>
+<Texture Name="cd_icon_map_cook" Filename="UI/texture/cd_icon_map_01.dds" Type="Image" GetRect="103,307,100,100"/>
+<Texture Name="cd_icon_map_distribution" Filename="UI/texture/cd_icon_map_01.dds" Type="Image" GetRect="103,409,100,100"/>
+<Texture Name="cd_icon_map_fence" Filename="UI/texture/cd_icon_map_01.dds" Type="Image" GetRect="205,103,100,100"/>
+<Texture Name="cd_icon_map_fish" Filename="UI/texture/cd_icon_map_01.dds" Type="Image" GetRect="307,103,100,100"/>
+<Texture Name="cd_icon_map_flag" Filename="UI/texture/cd_icon_map_01.dds" Type="Image" GetRect="409,103,100,100"/>
+<Texture Name="cd_icon_map_food" Filename="UI/texture/cd_icon_map_01.dds" Type="Image" GetRect="205,205,100,100"/>
+<Texture Name="cd_icon_map_furniture" Filename="UI/texture/cd_icon_map_01.dds" Type="Image" GetRect="205,307,100,100"/>
+<Texture Name="cd_Icon_map_generalshop" Filename="UI/texture/cd_icon_map_01.dds" Type="Image" GetRect="205,409,100,100"/>
+<Texture Name="cd_icon_map_groceryshop" Filename="UI/texture/cd_icon_map_01.dds" Type="Image" GetRect="307,205,100,100"/>
+<Texture Name="cd_icon_map_honey" Filename="UI/texture/cd_icon_map_01.dds" Type="Image" GetRect="409,205,100,100"/>
+<Texture Name="cd_icon_map_horseharness" Filename="UI/texture/cd_icon_map_01.dds" Type="Image" GetRect="307,307,100,100"/>
+<Texture Name="cd_Icon_map_inn" Filename="UI/texture/cd_icon_map_01.dds" Type="Image" GetRect="307,409,100,100"/>
+<Texture Name="cd_icon_map_leather" Filename="UI/texture/cd_icon_map_01.dds" Type="Image" GetRect="409,307,100,100"/>
+<Texture Name="cd_icon_map_legendary" Filename="UI/texture/cd_icon_map_01.dds" Type="Image" GetRect="409,409,100,100"/>
+

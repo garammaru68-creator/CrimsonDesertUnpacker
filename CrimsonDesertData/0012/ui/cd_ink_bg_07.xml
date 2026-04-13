@@ -1,0 +1,5 @@
+﻿<Texture Name="cd_dailyquest_factionname_ink_bg" Filename="UI/texture/cd_ink_bg_07.dds" Type="Image" GetRect="1,935,688,69"/>
+<Texture Name="cd_dailyquest_ink_mask" Filename="UI/texture/cd_ink_bg_07.dds" Type="Image" GetRect="482,520,530,277"/>
+<Texture Name="cd_ink_gatcha_bg_mask_01" Filename="UI/texture/cd_ink_bg_07.dds" Type="Image" GetRect="1,520,479,413"/>
+<Texture Name="cd_ink_gatcha_bg_mask_02" Filename="UI/texture/cd_ink_bg_07.dds" Type="Image" GetRect="1,1,682,517"/>
+

@@ -1,0 +1,5 @@
+﻿<Texture Name="cd_ink_gauge_circle_00" Filename="UI/texture/cd_knowledgelist_00.dds" Type="Image" GetRect="510,1,512,512"/>
+<Texture Name="cd_ink_knowledge_questlist_bg_00" Filename="UI/texture/cd_knowledgelist_00.dds" Type="Image" GetRect="1,1,507,624"/>
+<Texture Name="cd_ink_knowledge_questlist_bg_01" Filename="UI/texture/cd_knowledgelist_00.dds" Type="Image" GetRect="510,515,398,484"/>
+<Texture Name="cd_ink_knowledge_questlist_bg_mask" Filename="UI/texture/cd_knowledgelist_00.dds" Type="Image" GetRect="1,627,150,185"/>
+

@@ -1,0 +1,784 @@
+﻿<!-- 회색갈기 -->
+<Texture Name="cd_knowledgeimage_Knowledge_Kliff" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Kliff.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_OldKliff" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_OldKliff.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Oongka" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Oongka.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Yann" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Yann.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Nairah" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Nairah.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Marius" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Marius.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Dwayne" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Dwayne.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Iron" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Iron.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Austin" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Austin.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Eric" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Eric.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Ethan" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Ethan.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Kamu" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Kamu.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Martin" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Martin.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Sven" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Sven.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Shane" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Shane.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Shane_Camp" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Shane_Camp.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Carl" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Carl.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Ronnie" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Ronnie.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Ed" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Ed.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Delic" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Delic.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Oliver" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Oliver.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Russo" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Russo.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Ziane" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Ziane.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Boris" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Boris.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Ludvig" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Ludvig.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Paulus" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Paulus.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Marie_Camp" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Marie_Camp.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Matilda" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Matilda.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Mauro" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Mauro.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Lorenzo_Camp" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Lorenzo_Camp.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Alec" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Alec.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_William" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_William.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Heinz" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Heinz.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Deaf" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Deaf.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Gilbert" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Gilbert.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Max" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Max.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Silvan" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Silvan.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Terry" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Terry.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Ryan" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Ryan.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Lars" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Lars.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Pierce" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Pierce.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Luceran" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Luceran.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Colton" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Colton.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Cockt" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Cockt.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Velos" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Velos.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Luigi" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Luigi.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Andrew" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Andrew.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Arnold" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Arnold.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Kenneth" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Kenneth.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Lucius" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Lucius.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Giorgio" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Giorgio.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Johan" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Johan.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Karen" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Karen.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Duncan" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Duncan.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Fred" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Fred.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Anders" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Anders.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Wybert" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Wybert.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Grey" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Grey.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Ben" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Ben.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Brice" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Brice.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Connor" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Connor.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Brown" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Brown.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Boar" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Boar.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Niall" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Niall.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Aldric" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Aldric.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Luke" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Luke.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Gerald" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Gerald.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Vernon" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Vernon.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Ingbert" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Ingbert.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Vittorio" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Vittorio.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Xavier" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Xavier.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Ronald" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Ronald.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Fritz" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Fritz.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Otto" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Otto.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Romeo" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Romeo.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Ricardo" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Ricardo.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Karl" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Karl.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Elai" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Elai.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Evril" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Evril.dds" Type="Image" GetRect="0,0,512,512"/> -->
+
+<Texture Name="cd_knowledgeimage_Knowledge_Myordin" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Myordin.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Demian" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Demian.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Plais" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Plais.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Caliburn" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Caliburn.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Alan_Serkis" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Alan_Serkis.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Nail_Demeniss" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Nail_Demeniss.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Draper_Wells" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Draper_Wells.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Knowledge_Barden_Midler" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Barden_Midler.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Talk_Belkadas" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Talk_Belkadas.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Marni" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Marni.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Thompson" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Thompson.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Charles_Selester" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Charles_Selester.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Rett" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Rett.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Lopez" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Lopez.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Stephen_Bliss" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Stephen_Bliss.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Harper_Selester" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Harper_Selester.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Knowledge_Bremer" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Bremer.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Ivano" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Ivano.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Digman" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Digman.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Draven" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Draven.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Marina" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Marina.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Matthias" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Matthias.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Willian" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Willian.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Hubert" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Hubert.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_CatManager" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_CatManager.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Lauren" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Lauren.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Arlan" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Arlan.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Grimnir" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Grimnir.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_WhiteCrow_Witch" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_WhiteCrow_Witch.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Bilwise" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Bilwise.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Tanya" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Tanya.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Witch_Megu" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Witch_Megu.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Witch_Usa" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Witch_Usa.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Josephine" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Josephine.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Calis" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Calis.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Basteer" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Basteer.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Elimore" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Elimore.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Warehouse_Goblin" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Warehouse_Goblin.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Quack" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Quack.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Demeniss_Witch" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Demeniss_Witch.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Troll_University_Spy" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Troll_University_Spy.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Crocodile_Village_Goblin" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Crocodile_Village_Goblin.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_CircusMaster_Goblin" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_CircusMaster_Goblin.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Knowledge_Cyclops" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Cyclops.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Talk_Octabus" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Talk_Octabus.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_DeerKing" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_DeerKing.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Knowledge_Primus" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Primus.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_OrcuMer" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_OrcuMer.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Boss_AntumbraArchon" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Boss_AntumbraArchon.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_MazzultheDarkJusticiar" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_MazzultheDarkJusticiar.dds" Type="Image" GetRect="0,0,512,512"/>
+
+
+<!-- 대표NPC 에르난드 -->
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Richard" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Richard.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Tarmol" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Tarmol.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Puzzle_Library" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Puzzle_Library.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_CountGrace" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_CountGrace.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Folorine_Chief" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Folorine_Chief.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Sir_Catfish" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Sir_Catfish.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Anselm" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Anselm.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Groknash" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Groknash.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Halsius" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Halsius.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Adelmus" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Adelmus.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Walter_Bliss" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Walter_Bliss.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Hemon_Vindel" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Hemon_Vindel.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Nameless_Sage" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Nameless_Sage.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Tristan" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Tristan.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Walter" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Walter.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_John" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_John.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_NTM_Unique_Suspicious_Troll_Scholarsouth_470" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_NTM_Unique_Suspicious_Troll_Scholarsouth_470.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Lukas" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Lukas.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_FredericFelix" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_FredericFelix.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Alfonso" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Alfonso.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Natah" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Natah.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Adele" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Adele.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Gruntoka" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Gruntoka.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Tobias" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Tobias.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Jerome" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Jerome.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Francis" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Francis.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Martin" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Martin.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_David" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_David.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Blynhilde" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Blynhilde.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_SizlektheInsatiable" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_SizlektheInsatiable.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Bridie_Gu" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Bridie_Gu.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_ReedDevil" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_ReedDevil.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Shakatu" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Shakatu.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Roberts" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Roberts.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Roza" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Roza.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Vera" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Vera.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Roland_Alfonso" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Roland_Alfonso.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Criminal_Simon" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Criminal_Simon.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Antoni" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Antoni.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_AntoniSoldier" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_AntoniSoldier.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Criminal_Warren" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Criminal_Warren.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<!-- 에르난드 접선책 -->
+<Texture Name="cd_knowledgeimage_Knowledge_Ferdinand" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Ferdinand.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Erich" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Erich.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Raul" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Raul.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Michael" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Michael.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Christopher" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Christopher.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<!-- 대표NPC 크웨이덴 -->
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Nordri" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Nordri.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Henry" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Henry.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Haldor" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Haldor.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Bjorn" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Bjorn.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Magnus" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Magnus.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Olaf" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Olaf.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Ulfgar" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Ulfgar.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Eloria" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Eloria.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_TheForgottenGeneral" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_TheForgottenGeneral.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Tolstein" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Tolstein.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Agnarr" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Agnarr.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Titan_Boss" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Titan_Boss.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<!-- 대표NPC 데메니스 -->
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Leonard" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Leonard.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Grakthar" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Grakthar.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Theobald" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Theobald.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Braktur" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Braktur.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Bernardus" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Bernardus.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_JiJeong" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_JiJeong.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Braktul" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Braktul.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Righteous_Arrows" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Righteous_Arrows.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_WellsSolider_Leader" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_WellsSolider_Leader.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Drake_Wells" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Drake_Wells.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Borgrum" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Borgrum.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Rahului_1" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Rahului_1.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Azureian" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Azureian.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Marseille" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Marseille.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_TheScarletExcecutioner" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_TheScarletExcecutioner.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Byron" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Byron.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Hexe_Marie" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Hexe_Marie.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GregortheHalberdofCarnage" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GregortheHalberdofCarnage.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Alfric" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Alfric.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_NivalistheFrostwarden" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_NivalistheFrostwarden.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_MoonHead" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_MoonHead.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_DorianDormand" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_DorianDormand.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Priest_Valis" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Priest_Valis.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_EverardKindhart" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_EverardKindhart.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Brollam" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Brollam.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Byron_Contact_4" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Byron_Contact_4.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Marcella_Contact_59" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Marcella_Contact_59.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_AzerianNoble" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_AzerianNoble.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<!-- 대표NPC 델레시안 -->
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Philip" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Philip.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Durgash" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Durgash.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Gawain" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Gawain.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Order_Delesyian_Leader" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Order_Delesyian_Leader.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Thomas" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Thomas.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Zimrax" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Zimrax.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GoldenMaskMan_AIMarni" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GoldenMaskMan_AIMarni.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Alaric" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Alaric.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Brynn" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Brynn.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Cordelia" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Cordelia.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Valgash" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Valgash.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_BalthazarWyrmspeaker" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_BalthazarWyrmspeaker.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Faust" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Faust.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Mirella" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Mirella.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Umbert" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Umbert.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Jordan" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Jordan.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Marcus" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Marcus.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Orcasn" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Orcasn.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Adrian" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Adrian.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Eliza" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Eliza.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Laura" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Laura.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<!-- 대표NPC 붉은사막 -->
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_James" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_James.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Roland" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Roland.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Wulfstan" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Wulfstan.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Pikscratch" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Pikscratch.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Gerald" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Gerald.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Gazrak" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Gazrak.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Gobline_Rider_Boss" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Gobline_Rider_Boss.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Troll_Rider" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Troll_Rider.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Cuthbert" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Cuthbert.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Leofric" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Leofric.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Patuno" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Patuno.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Joffel" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Joffel.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Muscan_Boss" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Muscan_Boss.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_HyenaRider" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_HyenaRider.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Goblin_Master" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Goblin_Master.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Karim" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Karim.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Qayar" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Qayar.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Fadul" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Fadul.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Durnan" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Durnan.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Majru" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Majru.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Janta" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Janta.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Mira" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Mira.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Master_Doo" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Master_Doo.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Lyahn" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Lyahn.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Power_Witch" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Power_Witch.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Veronica" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Veronica.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<!-- 대표NPC 타협없는 방패 -->
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Stefan_Bleed" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Stefan_Bleed.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_DeerKing" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_DeerKing.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_DarkKing" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_DarkKing.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Silver_Armor_Boss" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Silver_Armor_Boss.dds" Type="Image" GetRect="0,0,512,512"/>
+
+
+<!-- 미지정 -->
+<Texture Name="cd_knowledgeimage_Knowledge_unknown_mercenary" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_unknown_mercenary.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unknown_Portrait" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unknown_Portrait.dds" Type="Image" GetRect="0,0,512,512"/>
+
+
+<!-- 몬스터/동물 -->
+<Texture Name="cd_knowledgeimage_Knowledge_Caelum_MkII" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Caelum_MkII.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Remus_MkIX" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Remus_MkIX.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Halvius_MkIV" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Halvius_MkIV.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Wardenator_MkXII" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Wardenator_MkXII.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Marni_MiningMachine_OneHandFist" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Marni_MiningMachine_OneHandFist.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Steeljaw_MkIII" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Steeljaw_MkIII.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_WoodenDeeer" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_WoodenDeeer.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GiantSnake" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GiantSnake.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Boss_Hyena" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Boss_Hyena.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_QueenSpider" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_QueenSpider.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Karanda" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Karanda.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_WhiteHorn" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_WhiteHorn.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Varnia_Dragon" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Varnia_Dragon.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_VordistheFormshaken" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_VordistheFormshaken.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Drylands_Golem" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Drylands_Golem.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_LandSpider_Queen" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_LandSpider_Queen.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_LandSpider_BismuthQueen" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_LandSpider_BismuthQueen.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GarnierTroupeMecharnival" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GarnierTroupeMecharnival.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_MudWalkerLutemir" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_MudWalkerLutemir.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GearhornRENW" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GearhornRENW.dds" Type="Image" GetRect="0,0,512,512"/>
+
+
+
+<!-- 특별한 사람들 -->
+<Texture Name="cd_knowledgeimage_Knowledge_Alustin" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Alustin.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Imp_Banquet" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Imp_Banquet.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Marni_GolemDragon" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Marni_GolemDragon.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_AwakenCaliburn" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_AwakenCaliburn.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_MyurdinUmbra" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_MyurdinUmbra.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Umbra_Boss" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Umbra_Boss.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_KailoktheHornsplitter" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_KailoktheHornsplitter.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_DruidoftheGrove" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_DruidoftheGrove.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_TarandustheAshen" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_TarandustheAshen.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Priscus" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Priscus.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_ThryxtheFormshaken" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_ThryxtheFormshaken.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_CrussistheFormshaken" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_CrussistheFormshaken.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_FortaintheHexboundKnight" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_FortaintheHexboundKnight.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_LithustheFormshaken" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_LithustheFormshaken.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_MarniExcavatron" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_MarniExcavatron.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_AntumbrasStaff" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_AntumbrasStaff.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_AntumbrasSword" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_AntumbrasSword.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_AntumbrasSpear" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_AntumbrasSpear.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Praevus" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Praevus.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Owen_Corvo" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Owen_Corvo.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Deshret_Summone" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Deshret_Summone.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Marni_Experiment_MachineKnight" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Marni_Experiment_MachineKnight.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_GoldenArmor" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_GoldenArmor.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_MudSwarm_Golem" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_MudSwarm_Golem.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_samuel" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_samuel.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Mask_Liberator_Leader" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Mask_Liberator_Leader.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_BlackBear_Tank" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_BlackBear_Tank.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Jerdi" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Jerdi.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Irkin" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Irkin.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Harvik" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Harvik.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Aslan" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Aslan.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_CropThief" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_CropThief.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_MechanicusMk12" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_MechanicusMk12.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Robot_Maker" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Robot_Maker.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Marco" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Marco.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Bleed_BlackSpirit" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Bleed_BlackSpirit.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Tank_Lase" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Tank_Lase.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Tank_Laser" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Tank_Laser.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_SteelMillEscape" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_SteelMillEscape.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Airplane" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Airplane.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_AirShip" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_AirShip.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Sandcrawler" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Sandcrawler.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Gears" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Gears.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Imp_Boss" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Imp_Boss.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_NorthernWarrior" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_NorthernWarrior.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Ogre" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Ogre.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_WhiteBear" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_WhiteBear.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Yohan" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Yohan.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Wagon_Village_Chief" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Wagon_Village_Chief.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Vrek" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Vrek.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Vex" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Vex.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Unique_Valthus" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Unique_Valthus.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Unique_Talmar" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Unique_Talmar.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Unique_Stonefell" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Unique_Stonefell.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Unique_Sirvan" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Unique_Sirvan.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Unique_Roderic" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Unique_Roderic.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Unique_Marcellos" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Unique_Marcellos.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Unique_Lumiel" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Unique_Lumiel.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Unique_Lucien" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Unique_Lucien.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Unique_Heinrich" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Unique_Heinrich.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Unique_Grunbar" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Unique_Grunbar.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Unique_Gregorius" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Unique_Gregorius.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Unique_Grainridge" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Unique_Grainridge.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Unique_Aldric" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Unique_Aldric.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Thrak" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Thrak.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Smore" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Smore.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Slywick" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Slywick.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Slink" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Slink.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Skint" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Skint.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Simon" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Simon.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Shirg" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Shirg.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_ReligiousFacility" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_ReligiousFacility.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Radulf" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Radulf.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Philip" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Philip.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Lucianus" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Lucianus.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Lionel" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Lionel.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Krog" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Krog.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Krag" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Krag.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Junak" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Junak.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Hugh" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Hugh.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Grux" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Grux.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Grizzle" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Grizzle.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Grimrak" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Grimrak.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Gabriel" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Gabriel.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Frox" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Frox.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Eustace" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Eustace.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Edmund" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Edmund.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Burk" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Burk.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Berna_Jorulluwadi" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Berna_Jorulluwadi.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Benedict" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Benedict.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Bartholomew" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Bartholomew.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Baldwin" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Baldwin.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Anselm" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Anselm.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Alfred" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Alfred.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_KnowledgeimageKnowledge_Rainier" Filename="UI/texture/Image/Knowledgeimage/Cd_KnowledgeimageKnowledge_Rainier.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Yjork" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Yjork.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Turnuli" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Turnuli.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Tina" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Tina.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Timmyr" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Timmyr.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Thibault" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Thibault.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Terinand" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Terinand.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Samir" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Samir.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Rhett" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Rhett.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Orlonel" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Orlonel.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Omar" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Omar.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Noor" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Noor.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Nancy" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Nancy.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Mokash" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Mokash.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Matilda" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Matilda.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Martina" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Martina.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Mariel" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Mariel.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Mariana" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Mariana.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Lior" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Lior.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Linda" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Linda.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Khorn" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Khorn.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Kata" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Kata.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Inn" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Inn.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Gwendolyn" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Gwendolyn.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Grana" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Grana.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Gorio" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Gorio.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Geoffroi" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Geoffroi.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Forgeheart" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Forgeheart.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Fatima" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Fatima.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Eliza_486" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Eliza_486.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Dahlia" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Dahlia.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Cheriwoone" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Cheriwoone.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Bruknar" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Bruknar.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Beatrice" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Beatrice.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Aeba" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Aeba.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Adelina" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Adelina.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Rainier" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Rainier.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<Texture Name="Cd_Knowledgeimage_Knowledge_Zarkon" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Zarkon.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Zara" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Zara.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Vincent_1" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Vincent_1.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Valentis" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Valentis.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Ugmum" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Ugmum.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Trollmag" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Trollmag.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Tom_DyeColor" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Tom_DyeColor.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Thomas" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Thomas.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Taren" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Taren.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Stephen" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Stephen.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Stallholder_3" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Stallholder_3.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Stallholder_2" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Stallholder_2.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Stallholder_1" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Stallholder_1.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Solham" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Solham.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Sniks" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Sniks.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Skaldar" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Skaldar.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Shiora" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Shiora.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_RonHardt" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_RonHardt.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Roger" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Roger.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Rimi" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Rimi.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Rickmore" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Rickmore.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Richart" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Richart.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Ratko" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Ratko.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Randel" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Randel.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Por_DyeColor" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Por_DyeColor.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Peregrine" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Peregrine.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Penheim" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Penheim.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Palga" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Palga.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Oswin" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Oswin.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Nolpix" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Nolpix.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Nita" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Nita.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Mogdal" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Mogdal.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Miu" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Miu.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Merton" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Merton.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Merrigrain" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Merrigrain.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Marin" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Marin.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Maiden" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Maiden.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Magnus" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Magnus.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Lowell" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Lowell.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Linbald" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Linbald.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Lenard" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Lenard.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Kwe_DyeColor" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Kwe_DyeColor.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Kike" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Kike.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Khalid" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Khalid.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Khadin" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Khadin.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Khadija" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Khadija.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Holdwin" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Holdwin.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Herbert" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Herbert.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Her_DyeColor" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Her_DyeColor.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Harveston" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Harveston.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Grundak" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Grundak.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_GrainHart" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_GrainHart.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Gloin" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Gloin.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Forex" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Forex.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Flint" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Flint.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Fiona" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Fiona.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Faisal" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Faisal.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Esperd" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Esperd.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Elowen" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Elowen.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Eldmor" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Eldmor.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Eirik_1" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Eirik_1.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Edmond_1" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Edmond_1.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Drianna" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Drianna.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Doni" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Doni.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Dem_DyeColor_III" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Dem_DyeColor_III.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Dem_DyeColor_II" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Dem_DyeColor_II.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Dem_DyeColor_I" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Dem_DyeColor_I.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Delkin" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Delkin.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Del_DyeColor" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Del_DyeColor.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Colin_1" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Colin_1.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Cobrin" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Cobrin.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Cal_DyeColor" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Cal_DyeColor.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Bruna" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Bruna.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Branner" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Branner.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Bran" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Bran.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Brampfell" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Brampfell.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Bernor" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Bernor.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Berdo" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Berdo.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Baris" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Baris.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Bar_DyeColor" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Bar_DyeColor.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Arinna" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Arinna.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Anbella" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Anbella.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Alfariz" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Alfariz.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Aldun" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Aldun.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Aldred" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Aldred.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Airship_Merchant" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Airship_Merchant.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Zakril" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Zakril.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Wyrin" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Wyrin.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Wells_Brigade_Throk" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Wells_Brigade_Throk.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_RagingTempest" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_RagingTempest.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Umbra_Boss" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Umbra_Boss.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Robot_Worker" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Robot_Worker.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Rakelin" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Rakelin.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_MarniOilRigManager" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_MarniOilRigManager.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Keinon" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Keinon.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_GreyFur_Richard" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_GreyFur_Richard.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_GreyFur_Gunnar" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_GreyFur_Gunnar.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_GreyFur_Bram" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_GreyFur_Bram.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Rodrick" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Rodrick.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Gared" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Gared.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Clemens" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Clemens.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Darok" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Darok.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_CedricGrace" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_CedricGrace.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Patrigio" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Patrigio.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Colette" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Colette.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Character_Riding_ATAG" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Character_Riding_ATAG.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<Texture Name="Cd_Knowledgeimage_Knowledge_Alfric" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Alfric.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Alric" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Alric.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Bank_Goorba" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Bank_Goorba.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Bank_Grovand" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Bank_Grovand.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Bank_Kabrok" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Bank_Kabrok.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Bartolo" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Bartolo.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Brontol" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Brontol.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Finlay" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Finlay.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Forgeheart" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Forgeheart.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Gonthyr" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Gonthyr.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Harald" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Harald.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Henri" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Henri.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Leone" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Leone.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Lora" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Lora.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Olic" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Olic.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Unique_Basilius" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Unique_Basilius.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Unique_Beltio" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Unique_Beltio.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Wolfram" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Wolfram.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Torian" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Torian.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Timber_Trader" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Timber_Trader.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Thibault" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Thibault.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Rainier" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Rainier.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Perrin" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Perrin.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Mineral_Trader" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Mineral_Trader.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Linhart" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Linhart.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Haverford" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Haverford.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Gurbit" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Gurbit.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Geoffroi" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Geoffroi.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Food_Trader" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Food_Trader.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Finnard" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Finnard.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Fabrian" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Fabrian.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Codwin" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Codwin.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Brookmere" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Brookmere.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Bank_Drakbar" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Bank_Drakbar.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Bank_Brokan" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Bank_Brokan.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Bank_Braksil" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Bank_Braksil.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Alexius" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Alexius.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Aldren" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Aldren.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Steelcrest" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Steelcrest.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Bellore" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Bellore.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Corvin" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Corvin.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Elliot" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Elliot.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Patuno" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Patuno.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Sebastian" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Sebastian.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<Texture Name="cd_knowledgeimage_Knowledge_Bargul" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Bargul.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Bellocq" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Bellocq.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Benjamin" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Benjamin.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Butcher" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Butcher.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Charon" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Charon.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Dravin" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Dravin.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Eigrin" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Eigrin.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Faction_ShieldLanford" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Faction_ShieldLanford.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Conrad" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Conrad.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Diederik" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Diederik.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Tranan" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Tranan.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Wynstan" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Wynstan.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Grimtok_4950" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Grimtok_4950.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Helmut" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Helmut.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Hunter_Sidekick" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Hunter_Sidekick.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Kendrik" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Kendrik.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legendary_Hunter" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legendary_Hunter.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Marcos" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Marcos.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Retonic" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Retonic.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Wanderer" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Wanderer.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_NDM_Unique_Bran_5463" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_NDM_Unique_Bran_5463.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_NHM_Unique_Lederson_12101" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_NHM_Unique_Lederson_12101.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_NHM_Unique_RoyalSupply_120002" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_NHM_Unique_RoyalSupply_120002.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_NHM_Unique_RoyalSupply_120003" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_NHM_Unique_RoyalSupply_120003.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_NHM_Unique_RoyalSupply_120004" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_NHM_Unique_RoyalSupply_120004.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_NHM_Unique_RoyalSupply_120005" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_NHM_Unique_RoyalSupply_120005.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_NHW_Unique_Afronia_102044" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_NHW_Unique_Afronia_102044.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_NHW_Unique_Astrid_102047" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_NHW_Unique_Astrid_102047.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_NHW_Unique_Blynhilde_102039" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_NHW_Unique_Blynhilde_102039.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_NHW_Unique_Freya_102043" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_NHW_Unique_Freya_102043.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_NHW_Unique_Hedin_102042" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_NHW_Unique_Hedin_102042.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_NHW_Unique_Ia_102040" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_NHW_Unique_Ia_102040.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_NHW_Unique_Kloso_102037" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_NHW_Unique_Kloso_102037.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_NHW_Unique_Lakisis_102038" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_NHW_Unique_Lakisis_102038.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_NHW_Unique_Meliara_102046" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_NHW_Unique_Meliara_102046.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_NHW_Unique_Rin_102041" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_NHW_Unique_Rin_102041.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_NHW_Unique_WitchBari_102045" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_NHW_Unique_WitchBari_102045.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_AlderynGrace" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_AlderynGrace.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Grundir" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Grundir.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Jameson" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Jameson.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Augustine" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Augustine.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Olvald" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Olvald.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Wemblen" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Wemblen.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_NHM_Unique_Champion_OneHandSword_2" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_NHM_Unique_Champion_OneHandSword_2.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_NHM_Unique_Champion_OneHandSword_5" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_NHM_Unique_Champion_OneHandSword_5.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_NHM_Unique_Champion_OneHandSword_6" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_NHM_Unique_Champion_OneHandSword_6.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_NHM_Unique_Champion_TwoHandSword_1" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_NHM_Unique_Champion_TwoHandSword_1.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_NHM_Unique_Champion_TwoHandSword_2" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_NHM_Unique_Champion_TwoHandSword_2.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_Mercenary" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_Mercenary.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_BountyHunter" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_BountyHunter.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="Cd_Knowledgeimage_Knowledge_GraveRobber" Filename="UI/texture/Image/Knowledgeimage/Cd_Knowledgeimage_Knowledge_GraveRobber.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_character_bg" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_character_bg.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Agnes"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Agnes.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Aris"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Aris.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Barnaby"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Barnaby.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Colby"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Colby.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Drasso"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Drasso.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Fenton"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Fenton.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Finn"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Finn.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Galdor"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Galdor.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Garrick"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Garrick.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Grakon"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Grakon.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Greta"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Greta.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Gromin"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Gromin.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Harlan"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Harlan.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Kenrick"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Kenrick.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Leroy"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Leroy.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Lyle"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Lyle.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Malchor"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Malchor.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Ned"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Ned.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Norden"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Norden.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Olive"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Olive.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Quentin"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Quentin.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Ronan"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Ronan.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Seratien"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Seratien.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Solan"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Solan.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Tess"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Tess.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Tobit"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Tobit.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Torgel"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Torgel.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Varin"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Varin.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Virel"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Virel.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Vivian"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Vivian.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Wilmer"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Wilmer.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Boss_Caliburn_Awakening"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Boss_Caliburn_Awakening.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Boss_Caliburn_PreAwakening"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Boss_Caliburn_PreAwakening.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Bently"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Bently.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Edgar"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Edgar.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Jason"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Jason.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Khazir"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Khazir.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Giles"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Giles.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Arhan"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Arhan.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Olvald"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Olvald.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_NHM_Unique_Brynn"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_NHM_Unique_Brynn.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Ruknadin"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Ruknadin.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Agnarr"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Agnarr.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Cordelia"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Cordelia.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Janta"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Janta.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Karim"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Karim.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Majru"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Majru.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Mira"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Mira.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Mirella"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Mirella.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Qayar"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Qayar.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Bernardus"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Bernardus.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Bjorn"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Bjorn.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Henry"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Henry.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Veronica"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Veronica.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_ChocolateFactoryManager"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_ChocolateFactoryManager.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_MarniAirLabCaptain"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_MarniAirLabCaptain.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_MarniLabAssistant"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_MarniLabAssistant.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_MarnisOutposCaptain"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_MarnisOutposCaptain.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Hemon_Beindel"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Hemon_Beindel.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_CroggtheCatfishman"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Unique_CroggtheCatfishman.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Gwen_Kraver"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Gwen_Kraver.dds" Type="Image" GetRect="0,0,512,512"/> 
+<Texture Name="cd_knowledgeimage_Knowledge_Unique_Jarad"   Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Jarad.dds" Type="Image" GetRect="0,0,512,512"/> 
+
+ <Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Astin" Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Astin.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Balder" Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Balder.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Brant" Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Brant.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Brennan" Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Brennan.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Devan" Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Devan.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Evelyn" Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Evelyn.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Falstaff" Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Falstaff.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Joan" Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Joan.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Joseph" Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Joseph.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Laurent" Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Laurent.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Morrow" Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Morrow.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NDW_Unique_Retonic_467" Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_NDW_Unique_Retonic_467.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NGM_Unique_Eigrin_537" Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_NGM_Unique_Eigrin_537.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NHM_Child_Citizen_3130" Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_NHM_Child_Citizen_3130.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NHM_Child_Citizen_3189" Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_NHM_Child_Citizen_3189.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NHM_Unique_Bernor" Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_NHM_Unique_Bernor.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NHM_Unique_Contact_1" Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_NHM_Unique_Contact_1.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NHM_Unique_Contact_10" Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_NHM_Unique_Contact_10.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NHM_Unique_Contact_4" Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_NHM_Unique_Contact_4.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NHM_Unique_Contact_5" Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_NHM_Unique_Contact_5.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NHM_Unique_Contact_58" Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_NHM_Unique_Contact_58.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NHM_Unique_Contact_59" Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_NHM_Unique_Contact_59.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NHM_Unique_Elemore_Shop_01" Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_NHM_Unique_Elemore_Shop_01.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NHM_Unique_Grimtok_4812" Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_NHM_Unique_Grimtok_4812.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NHM_Unique_Keinon_102067" Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_NHM_Unique_Keinon_102067.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NHM_Unique_Magnus_102084" Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_NHM_Unique_Magnus_102084.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NHM_Unique_Roger_3409" Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_NHM_Unique_Roger_3409.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NHM_Unique_Wells_Brigade_Throk_54483" Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_NHM_Unique_Wells_Brigade_Throk_54483.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NHW_Child_Citizen_12401" Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_NHW_Child_Citizen_12401.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NHW_Child_Citizen_3720" Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_NHW_Child_Citizen_3720.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NOM_Unique_Benjamin_4799" Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_NOM_Unique_Benjamin_4799.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NOW_Merchant_Butcher_3410" Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_NOW_Merchant_Butcher_3410.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_Knowledge_Unique_Stefan_Lanford" Filename=" ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Stefan_Lanford.dds" Type="Image" GetRect="0,0,512,512"/>
+ 
+ <Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Astin" Filename="ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Astin.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Balder" Filename="ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Balder.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Brant" Filename="ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Brant.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Brennan" Filename="ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Brennan.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Devan" Filename="ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Devan.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Evelyn" Filename="ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Evelyn.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Falstaff" Filename="ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Falstaff.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Joan" Filename="ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Joan.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Joseph" Filename="ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Joseph.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Laurent" Filename="ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Laurent.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_Knowledge_GreyFur_Morrow" Filename="ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_GreyFur_Morrow.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_Knowledge_Unique_Stefan_Lanford" Filename="ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Unique_Stefan_Lanford.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NDW_Unique_Retonic_467" Filename="ui/texture/image/knowledgeimage/cd_knowledgeimage_NDW_Unique_Retonic_467.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NGM_Unique_Eigrin_537" Filename="ui/texture/image/knowledgeimage/cd_knowledgeimage_NGM_Unique_Eigrin_537.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NHM_Child_Citizen_3130" Filename="ui/texture/image/knowledgeimage/cd_knowledgeimage_NHM_Child_Citizen_3130.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NHM_Child_Citizen_3189" Filename="ui/texture/image/knowledgeimage/cd_knowledgeimage_NHM_Child_Citizen_3189.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NHM_Unique_Bernor" Filename="ui/texture/image/knowledgeimage/cd_knowledgeimage_NHM_Unique_Bernor.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NHM_Unique_Citizen_200200029" Filename="ui/texture/image/knowledgeimage/cd_knowledgeimage_NHM_Unique_Citizen_200200029.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NHM_Unique_Contact_1" Filename="ui/texture/image/knowledgeimage/cd_knowledgeimage_NHM_Unique_Contact_1.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NHM_Unique_Contact_10" Filename="ui/texture/image/knowledgeimage/cd_knowledgeimage_NHM_Unique_Contact_10.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NHM_Unique_Contact_4" Filename="ui/texture/image/knowledgeimage/cd_knowledgeimage_NHM_Unique_Contact_4.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NHM_Unique_Contact_5" Filename="ui/texture/image/knowledgeimage/cd_knowledgeimage_NHM_Unique_Contact_5.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NHM_Unique_Contact_58" Filename="ui/texture/image/knowledgeimage/cd_knowledgeimage_NHM_Unique_Contact_58.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NHM_Unique_Contact_59" Filename="ui/texture/image/knowledgeimage/cd_knowledgeimage_NHM_Unique_Contact_59.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NHM_Unique_Elemore_Shop_01" Filename="ui/texture/image/knowledgeimage/cd_knowledgeimage_NHM_Unique_Elemore_Shop_01.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NHM_Unique_Grimtok_4812" Filename="ui/texture/image/knowledgeimage/cd_knowledgeimage_NHM_Unique_Grimtok_4812.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NHM_Unique_Keinon_102067" Filename="ui/texture/image/knowledgeimage/cd_knowledgeimage_NHM_Unique_Keinon_102067.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NHM_Unique_Magnus_102084" Filename="ui/texture/image/knowledgeimage/cd_knowledgeimage_NHM_Unique_Magnus_102084.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NHM_Unique_Roger_3409" Filename="ui/texture/image/knowledgeimage/cd_knowledgeimage_NHM_Unique_Roger_3409.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NHM_Unique_Wells_Brigade_Throk_54483" Filename="ui/texture/image/knowledgeimage/cd_knowledgeimage_NHM_Unique_Wells_Brigade_Throk_54483.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NHW_Child_Citizen_12401" Filename="ui/texture/image/knowledgeimage/cd_knowledgeimage_NHW_Child_Citizen_12401.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NHW_Child_Citizen_3720" Filename="ui/texture/image/knowledgeimage/cd_knowledgeimage_NHW_Child_Citizen_3720.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NOM_Unique_Benjamin_4799" Filename="ui/texture/image/knowledgeimage/cd_knowledgeimage_NOM_Unique_Benjamin_4799.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_NOW_Merchant_Butcher_3410" Filename="ui/texture/image/knowledgeimage/cd_knowledgeimage_NOW_Merchant_Butcher_3410.dds" Type="Image" GetRect="0,0,512,512"/>
+ <Texture Name="cd_knowledgeimage_Knowledge_Witch" Filename="ui/texture/image/knowledgeimage/cd_knowledgeimage_Knowledge_Witch.dds" Type="Image" GetRect="0,0,512,512"/>

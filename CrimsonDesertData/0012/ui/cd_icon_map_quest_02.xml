@@ -1,0 +1,26 @@
+﻿<Texture Name="cd_icon_map_quest_icon_unknown" Filename="UI/texture/cd_icon_map_quest_02.dds" Type="Image" GetRect="1,1,200,200"/>
+<Texture Name="cd_icon_map_quest_main_icon_alustain_book" Filename="UI/texture/cd_icon_map_quest_02.dds" Type="Image" GetRect="1,203,200,200"/>
+<Texture Name="cd_icon_map_quest_main_icon_alustain_chest" Filename="UI/texture/cd_icon_map_quest_02.dds" Type="Image" GetRect="1,405,200,200"/>
+<Texture Name="cd_icon_map_quest_main_icon_chapter00" Filename="UI/texture/cd_icon_map_quest_02.dds" Type="Image" GetRect="1,607,200,200"/>
+<Texture Name="cd_icon_map_quest_main_icon_chapter01_1" Filename="UI/texture/cd_icon_map_quest_02.dds" Type="Image" GetRect="1,809,200,200"/>
+<Texture Name="cd_icon_map_quest_main_icon_chapter01_2" Filename="UI/texture/cd_icon_map_quest_02.dds" Type="Image" GetRect="203,1,200,200"/>
+<Texture Name="cd_icon_map_quest_main_icon_chapter01_3" Filename="UI/texture/cd_icon_map_quest_02.dds" Type="Image" GetRect="405,1,200,200"/>
+<Texture Name="cd_icon_map_quest_main_icon_chapter01_4" Filename="UI/texture/cd_icon_map_quest_02.dds" Type="Image" GetRect="607,1,200,200"/>
+<Texture Name="cd_icon_map_quest_main_icon_chapter02_1" Filename="UI/texture/cd_icon_map_quest_02.dds" Type="Image" GetRect="809,1,200,200"/>
+<Texture Name="cd_icon_map_quest_main_icon_chapter02_2" Filename="UI/texture/cd_icon_map_quest_02.dds" Type="Image" GetRect="203,203,200,200"/>
+<Texture Name="cd_icon_map_quest_main_icon_chapter03_1" Filename="UI/texture/cd_icon_map_quest_02.dds" Type="Image" GetRect="203,405,200,200"/>
+<Texture Name="cd_icon_map_quest_main_icon_chapter03_flag1" Filename="UI/texture/cd_icon_map_quest_02.dds" Type="Image" GetRect="203,607,200,200"/>
+<Texture Name="cd_icon_map_quest_main_icon_chapter04" Filename="UI/texture/cd_icon_map_quest_02.dds" Type="Image" GetRect="203,809,200,200"/>
+<Texture Name="cd_icon_map_quest_main_icon_chapter05" Filename="UI/texture/cd_icon_map_quest_02.dds" Type="Image" GetRect="405,203,200,200"/>
+<Texture Name="cd_icon_map_quest_main_icon_chapter06" Filename="UI/texture/cd_icon_map_quest_02.dds" Type="Image" GetRect="607,203,200,200"/>
+<Texture Name="cd_icon_map_quest_main_icon_chapter07" Filename="UI/texture/cd_icon_map_quest_02.dds" Type="Image" GetRect="809,203,200,200"/>
+<Texture Name="cd_icon_map_quest_main_icon_chapter08" Filename="UI/texture/cd_icon_map_quest_02.dds" Type="Image" GetRect="405,405,200,200"/>
+<Texture Name="cd_icon_map_quest_main_icon_chapter09" Filename="UI/texture/cd_icon_map_quest_02.dds" Type="Image" GetRect="405,607,200,200"/>
+<Texture Name="cd_icon_map_quest_main_icon_chapterGreyWolf01" Filename="UI/texture/cd_icon_map_quest_02.dds" Type="Image" GetRect="405,809,200,200"/>
+<Texture Name="cd_icon_map_quest_main_icon_chapterGreyWolf02" Filename="UI/texture/cd_icon_map_quest_02.dds" Type="Image" GetRect="607,405,200,200"/>
+<Texture Name="cd_icon_map_quest_main_icon_crowman_feather" Filename="UI/texture/cd_icon_map_quest_02.dds" Type="Image" GetRect="809,405,200,200"/>
+<Texture Name="cd_icon_map_quest_main_icon_crowman_ribentain" Filename="UI/texture/cd_icon_map_quest_02.dds" Type="Image" GetRect="607,607,200,200"/>
+<Texture Name="cd_icon_map_quest_main_icon_prison_door" Filename="UI/texture/cd_icon_map_quest_02.dds" Type="Image" GetRect="607,809,200,200"/>
+<Texture Name="cd_icon_map_quest_main_icon_splithorn_cave" Filename="UI/texture/cd_icon_map_quest_02.dds" Type="Image" GetRect="809,607,200,200"/>
+<Texture Name="cd_icon_map_quest_main_icon_splithorn_cow" Filename="UI/texture/cd_icon_map_quest_02.dds" Type="Image" GetRect="809,809,200,200"/>
+

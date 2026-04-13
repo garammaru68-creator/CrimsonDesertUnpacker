@@ -1,0 +1,9 @@
+﻿<Texture Name="cd_common_bg_worldmap_fog_01" Filename="UI/texture/cd_ink_bg_02.dds" Type="Image" GetRect="419,640,260,272"/>
+<Texture Name="cd_common_bg_worldmap_fog_02" Filename="UI/texture/cd_ink_bg_02.dds" Type="Image" GetRect="681,640,250,250"/>
+<Texture Name="cd_ink_bg_15" Filename="UI/texture/cd_ink_bg_02.dds" Type="Image" GetRect="503,1,441,320"/>
+<Texture Name="cd_ink_bg_16" Filename="UI/texture/cd_ink_bg_02.dds" Type="Image" GetRect="503,323,329,315"/>
+<Texture Name="cd_ink_bg_17" Filename="UI/texture/cd_ink_bg_02.dds" Type="Image" GetRect="1,503,308,300"/>
+<Texture Name="cd_ink_bg_18" Filename="UI/texture/cd_ink_bg_02.dds" Type="Image" GetRect="1,805,416,154"/>
+<Texture Name="cd_ink_bg_hp_gauge_solid" Filename="UI/texture/cd_ink_bg_02.dds" Type="Image" GetRect="1,961,790,50"/>
+<Texture Name="cd_ink_tooltip_mask_04" Filename="UI/texture/cd_ink_bg_02.dds" Type="Image" GetRect="1,1,500,500"/>
+

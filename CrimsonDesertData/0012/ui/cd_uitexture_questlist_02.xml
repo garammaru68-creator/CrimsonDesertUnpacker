@@ -1,0 +1,5 @@
+﻿<Texture Name="cd_slot_bg_questlist_01" Filename="UI/texture/cd_uitexture_questlist_02.dds" Type="Image" GetRect="1,1,949,141"/>
+<Texture Name="cd_slot_bg_questlist_01_mask" Filename="UI/texture/cd_uitexture_questlist_02.dds" Type="Image" GetRect="1,392,480,71"/>
+<Texture Name="cd_slot_bg_questlist_02" Filename="UI/texture/cd_uitexture_questlist_02.dds" Type="Image" GetRect="1,144,949,141"/>
+<Texture Name="cd_slot_bg_questlist_sub_mask" Filename="UI/texture/cd_uitexture_questlist_02.dds" Type="Image" GetRect="1,287,921,103"/>
+

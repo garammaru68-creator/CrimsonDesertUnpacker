@@ -1,0 +1,13 @@
+﻿<Texture Name="cd_icon_setting_help_abyssgear" Filename="UI/texture/cd_uitexture_help_00.dds" Type="Image" GetRect="1,1,136,136"/>
+<Texture Name="cd_icon_setting_help_adventure" Filename="UI/texture/cd_uitexture_help_00.dds" Type="Image" GetRect="1,139,136,136"/>
+<Texture Name="cd_icon_setting_help_battle" Filename="UI/texture/cd_uitexture_help_00.dds" Type="Image" GetRect="1,277,136,136"/>
+<Texture Name="cd_icon_setting_help_camp" Filename="UI/texture/cd_uitexture_help_00.dds" Type="Image" GetRect="1,415,136,136"/>
+<Texture Name="cd_icon_setting_help_control" Filename="UI/texture/cd_uitexture_help_00.dds" Type="Image" GetRect="1,553,136,136"/>
+<Texture Name="cd_icon_setting_help_information" Filename="UI/texture/cd_uitexture_help_00.dds" Type="Image" GetRect="1,691,136,136"/>
+<Texture Name="cd_icon_setting_help_interaction" Filename="UI/texture/cd_uitexture_help_00.dds" Type="Image" GetRect="1,829,136,136"/>
+<Texture Name="cd_icon_setting_help_item" Filename="UI/texture/cd_uitexture_help_00.dds" Type="Image" GetRect="139,1,136,136"/>
+<Texture Name="cd_icon_setting_help_lifeskill" Filename="UI/texture/cd_uitexture_help_00.dds" Type="Image" GetRect="277,1,136,136"/>
+<Texture Name="cd_icon_setting_help_minigame" Filename="UI/texture/cd_uitexture_help_00.dds" Type="Image" GetRect="415,1,136,136"/>
+<Texture Name="cd_icon_setting_help_quest" Filename="UI/texture/cd_uitexture_help_00.dds" Type="Image" GetRect="553,1,136,136"/>
+<Texture Name="cd_icon_setting_help_specialgear" Filename="UI/texture/cd_uitexture_help_00.dds" Type="Image" GetRect="691,1,136,136"/>
+

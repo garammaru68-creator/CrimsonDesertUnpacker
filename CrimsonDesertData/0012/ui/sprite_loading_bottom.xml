@@ -1,0 +1,18 @@
+﻿<Texture Name="Sprite_Loading_Bottom_00" Filename="UI/texture/sprite_loading_bottom.dds" Type="Image" GetRect="1,1,343,4"/>
+<Texture Name="Sprite_Loading_Bottom_01" Filename="UI/texture/sprite_loading_bottom.dds" Type="Image" GetRect="1,7,343,4"/>
+<Texture Name="Sprite_Loading_Bottom_02" Filename="UI/texture/sprite_loading_bottom.dds" Type="Image" GetRect="1,13,343,4"/>
+<Texture Name="Sprite_Loading_Bottom_03" Filename="UI/texture/sprite_loading_bottom.dds" Type="Image" GetRect="1,19,343,4"/>
+<Texture Name="Sprite_Loading_Bottom_04" Filename="UI/texture/sprite_loading_bottom.dds" Type="Image" GetRect="1,25,343,4"/>
+<Texture Name="Sprite_Loading_Bottom_05" Filename="UI/texture/sprite_loading_bottom.dds" Type="Image" GetRect="1,31,343,4"/>
+<Texture Name="Sprite_Loading_Bottom_06" Filename="UI/texture/sprite_loading_bottom.dds" Type="Image" GetRect="1,37,343,4"/>
+<Texture Name="Sprite_Loading_Bottom_07" Filename="UI/texture/sprite_loading_bottom.dds" Type="Image" GetRect="1,43,343,4"/>
+<Texture Name="Sprite_Loading_Bottom_08" Filename="UI/texture/sprite_loading_bottom.dds" Type="Image" GetRect="1,49,343,4"/>
+<Texture Name="Sprite_Loading_Bottom_09" Filename="UI/texture/sprite_loading_bottom.dds" Type="Image" GetRect="1,55,343,4"/>
+<Texture Name="Sprite_Loading_Bottom_10" Filename="UI/texture/sprite_loading_bottom.dds" Type="Image" GetRect="1,61,343,4"/>
+<Texture Name="Sprite_Loading_Bottom_11" Filename="UI/texture/sprite_loading_bottom.dds" Type="Image" GetRect="1,67,343,4"/>
+<Texture Name="Sprite_Loading_Bottom_12" Filename="UI/texture/sprite_loading_bottom.dds" Type="Image" GetRect="1,73,343,4"/>
+<Texture Name="Sprite_Loading_Bottom_13" Filename="UI/texture/sprite_loading_bottom.dds" Type="Image" GetRect="1,79,343,4"/>
+<Texture Name="Sprite_Loading_Bottom_14" Filename="UI/texture/sprite_loading_bottom.dds" Type="Image" GetRect="1,85,343,4"/>
+<Texture Name="Sprite_Loading_Bottom_Obstacle01" Filename="UI/texture/sprite_loading_bottom.dds" Type="Image" GetRect="370,1,24,10"/>
+<Texture Name="Sprite_Loading_Bottom_Obstacle02" Filename="UI/texture/sprite_loading_bottom.dds" Type="Image" GetRect="346,1,22,24"/>
+

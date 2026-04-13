@@ -1,0 +1,9 @@
+﻿<Texture Name="cd_icon_map_quest_faction_icon_143" Filename="UI/texture/cd_icon_map_quest_09.dds" Type="Image" GetRect="1,1,200,200"/>
+<Texture Name="cd_icon_map_quest_faction_icon_144" Filename="UI/texture/cd_icon_map_quest_09.dds" Type="Image" GetRect="1,203,200,200"/>
+<Texture Name="cd_icon_map_quest_faction_icon_145" Filename="UI/texture/cd_icon_map_quest_09.dds" Type="Image" GetRect="1,405,200,200"/>
+<Texture Name="cd_icon_map_quest_faction_icon_146" Filename="UI/texture/cd_icon_map_quest_09.dds" Type="Image" GetRect="1,607,200,200"/>
+<Texture Name="cd_icon_map_quest_faction_icon_147" Filename="UI/texture/cd_icon_map_quest_09.dds" Type="Image" GetRect="1,809,200,200"/>
+<Texture Name="cd_icon_map_quest_faction_icon_148" Filename="UI/texture/cd_icon_map_quest_09.dds" Type="Image" GetRect="203,1,200,200"/>
+<Texture Name="cd_icon_map_quest_faction_icon_149" Filename="UI/texture/cd_icon_map_quest_09.dds" Type="Image" GetRect="405,1,200,200"/>
+<Texture Name="cd_icon_map_quest_faction_icon_150" Filename="UI/texture/cd_icon_map_quest_09.dds" Type="Image" GetRect="607,1,200,200"/>
+

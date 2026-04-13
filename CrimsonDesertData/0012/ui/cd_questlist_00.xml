@@ -1,0 +1,5 @@
+﻿<Texture Name="cd_faction_graywolf_img_00" Filename="UI/texture/cd_questlist_00.dds" Type="Image" GetRect="1,299,1020,295"/>
+<Texture Name="cd_faction_graywolf_img_01" Filename="UI/texture/cd_questlist_00.dds" Type="Image" GetRect="1,1,1020,296"/>
+<Texture Name="cd_faction_icon_bg" Filename="UI/texture/cd_questlist_00.dds" Type="Image" GetRect="1,596,224,225"/>
+<Texture Name="cd_faction_questnotice_icon" Filename="UI/texture/cd_questlist_00.dds" Type="Image" GetRect="1,823,42,42"/>
+

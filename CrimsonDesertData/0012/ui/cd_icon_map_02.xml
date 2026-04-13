@@ -1,0 +1,26 @@
+﻿<Texture Name="cd_icon_map_abyssgate_01" Filename="UI/texture/cd_icon_map_02.dds" Type="Image" GetRect="1,1,100,100"/>
+<Texture Name="cd_icon_map_auction" Filename="UI/texture/cd_icon_map_02.dds" Type="Image" GetRect="1,103,100,100"/>
+<Texture Name="cd_icon_map_conference" Filename="UI/texture/cd_icon_map_02.dds" Type="Image" GetRect="1,205,100,100"/>
+<Texture Name="cd_icon_map_devotee" Filename="UI/texture/cd_icon_map_02.dds" Type="Image" GetRect="1,307,100,100"/>
+<Texture Name="cd_icon_map_dyeing" Filename="UI/texture/cd_icon_map_02.dds" Type="Image" GetRect="1,409,100,100"/>
+<Texture Name="cd_icon_map_Faction_Delivery" Filename="UI/texture/cd_icon_map_02.dds" Type="Image" GetRect="103,1,100,100"/>
+<Texture Name="cd_icon_map_juwelry" Filename="UI/texture/cd_icon_map_02.dds" Type="Image" GetRect="205,1,100,100"/>
+<Texture Name="cd_icon_map_medicinalherbs" Filename="UI/texture/cd_icon_map_02.dds" Type="Image" GetRect="307,1,100,100"/>
+<Texture Name="cd_icon_map_mercenary" Filename="UI/texture/cd_icon_map_02.dds" Type="Image" GetRect="409,1,100,100"/>
+<Texture Name="cd_icon_map_paint" Filename="UI/texture/cd_icon_map_02.dds" Type="Image" GetRect="103,103,100,100"/>
+<Texture Name="cd_icon_map_patrigio" Filename="UI/texture/cd_icon_map_02.dds" Type="Image" GetRect="103,205,100,100"/>
+<Texture Name="cd_icon_map_petshop" Filename="UI/texture/cd_icon_map_02.dds" Type="Image" GetRect="103,307,100,100"/>
+<Texture Name="cd_icon_map_request" Filename="UI/texture/cd_icon_map_02.dds" Type="Image" GetRect="103,409,100,100"/>
+<Texture Name="cd_icon_map_seatdealer" Filename="UI/texture/cd_icon_map_02.dds" Type="Image" GetRect="205,103,100,100"/>
+<Texture Name="cd_icon_map_secret" Filename="UI/texture/cd_icon_map_02.dds" Type="Image" GetRect="307,103,100,100"/>
+<Texture Name="cd_icon_map_seed" Filename="UI/texture/cd_icon_map_02.dds" Type="Image" GetRect="409,103,100,100"/>
+<Texture Name="cd_icon_map_sewing" Filename="UI/texture/cd_icon_map_02.dds" Type="Image" GetRect="205,205,100,100"/>
+<Texture Name="cd_Icon_map_smith" Filename="UI/texture/cd_icon_map_02.dds" Type="Image" GetRect="205,307,100,100"/>
+<Texture Name="cd_icon_map_smuggler" Filename="UI/texture/cd_icon_map_02.dds" Type="Image" GetRect="205,409,100,100"/>
+<Texture Name="cd_icon_map_stable" Filename="UI/texture/cd_icon_map_02.dds" Type="Image" GetRect="307,205,100,100"/>
+<Texture Name="cd_icon_map_stoneshop" Filename="UI/texture/cd_icon_map_02.dds" Type="Image" GetRect="409,205,100,100"/>
+<Texture Name="cd_icon_map_trade" Filename="UI/texture/cd_icon_map_02.dds" Type="Image" GetRect="307,307,100,100"/>
+<Texture Name="cd_icon_map_wanderingmerchant" Filename="UI/texture/cd_icon_map_02.dds" Type="Image" GetRect="307,409,100,100"/>
+<Texture Name="cd_icon_map_witch" Filename="UI/texture/cd_icon_map_02.dds" Type="Image" GetRect="409,307,100,100"/>
+<Texture Name="cd_icon_map_workmanagement" Filename="UI/texture/cd_icon_map_02.dds" Type="Image" GetRect="409,409,100,100"/>
+

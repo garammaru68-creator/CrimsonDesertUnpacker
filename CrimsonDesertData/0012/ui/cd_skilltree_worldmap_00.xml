@@ -1,0 +1,22 @@
+﻿<Texture Name="cd_Icon_map_node_sub_research_common" Filename="UI/texture/cd_skilltree_worldmap_00.dds" Type="Image" GetRect="83,411,77,77"/>
+<Texture Name="cd_Icon_map_node_sub_research_learnable" Filename="UI/texture/cd_skilltree_worldmap_00.dds" Type="Image" GetRect="162,411,77,77"/>
+<Texture Name="cd_Icon_map_node_sub_research_learned" Filename="UI/texture/cd_skilltree_worldmap_00.dds" Type="Image" GetRect="165,83,77,77"/>
+<Texture Name="cd_Icon_map_node_sub_research_Learning" Filename="UI/texture/cd_skilltree_worldmap_00.dds" Type="Image" GetRect="165,162,77,77"/>
+<Texture Name="cd_Icon_map_node_sub_research_warning" Filename="UI/texture/cd_skilltree_worldmap_00.dds" Type="Image" GetRect="165,241,77,77"/>
+<Texture Name="cd_skilltree_brush_line_01" Filename="UI/texture/cd_skilltree_worldmap_00.dds" Type="Image" GetRect="1,1,80,80"/>
+<Texture Name="cd_skilltree_brush_line_02" Filename="UI/texture/cd_skilltree_worldmap_00.dds" Type="Image" GetRect="1,83,80,80"/>
+<Texture Name="cd_skilltree_brush_line_03" Filename="UI/texture/cd_skilltree_worldmap_00.dds" Type="Image" GetRect="1,165,80,80"/>
+<Texture Name="cd_skilltree_brush_line_04" Filename="UI/texture/cd_skilltree_worldmap_00.dds" Type="Image" GetRect="1,247,80,80"/>
+<Texture Name="cd_skilltree_brush_line_05" Filename="UI/texture/cd_skilltree_worldmap_00.dds" Type="Image" GetRect="1,329,80,80"/>
+<Texture Name="cd_skilltree_brush_line_06" Filename="UI/texture/cd_skilltree_worldmap_00.dds" Type="Image" GetRect="1,411,80,80"/>
+<Texture Name="cd_skilltree_brush_line_07" Filename="UI/texture/cd_skilltree_worldmap_00.dds" Type="Image" GetRect="83,1,80,80"/>
+<Texture Name="cd_skilltree_brush_line_08" Filename="UI/texture/cd_skilltree_worldmap_00.dds" Type="Image" GetRect="165,1,80,80"/>
+<Texture Name="cd_skilltree_brush_line_09" Filename="UI/texture/cd_skilltree_worldmap_00.dds" Type="Image" GetRect="247,1,80,80"/>
+<Texture Name="cd_skilltree_brush_line_10" Filename="UI/texture/cd_skilltree_worldmap_00.dds" Type="Image" GetRect="329,1,80,80"/>
+<Texture Name="cd_skilltree_brush_line_11" Filename="UI/texture/cd_skilltree_worldmap_00.dds" Type="Image" GetRect="411,1,80,80"/>
+<Texture Name="cd_skilltree_brush_line_12" Filename="UI/texture/cd_skilltree_worldmap_00.dds" Type="Image" GetRect="83,83,80,80"/>
+<Texture Name="cd_skilltree_brush_line_13" Filename="UI/texture/cd_skilltree_worldmap_00.dds" Type="Image" GetRect="83,165,80,80"/>
+<Texture Name="cd_skilltree_brush_line_14" Filename="UI/texture/cd_skilltree_worldmap_00.dds" Type="Image" GetRect="83,247,80,80"/>
+<Texture Name="cd_skilltree_brush_line_15" Filename="UI/texture/cd_skilltree_worldmap_00.dds" Type="Image" GetRect="83,329,80,80"/>
+<Texture Name="cd_skilltree_brush_line_empty" Filename="UI/texture/cd_skilltree_worldmap_00.dds" Type="Image" GetRect="1,493,10,10"/>
+

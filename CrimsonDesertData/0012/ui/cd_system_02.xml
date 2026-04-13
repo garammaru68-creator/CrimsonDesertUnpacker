@@ -1,0 +1,3 @@
+﻿<Texture Name="cd_system_guide_ps5_dualsense" Filename="UI/texture/cd_system_02.dds" Type="Image" GetRect="1,1,1020,510"/>
+<Texture Name="cd_system_guide_xbox_controller" Filename="UI/texture/cd_system_02.dds" Type="Image" GetRect="1,513,1020,510"/>
+

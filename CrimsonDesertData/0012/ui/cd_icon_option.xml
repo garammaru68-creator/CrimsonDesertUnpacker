@@ -1,0 +1,11 @@
+﻿<Texture Name="cd_icon_SettiongOption_01" Filename="UI/texture/cd_icon_option.dds" Type="Image" GetRect="1,1,110,110"/>
+<Texture Name="cd_icon_SettiongOption_02" Filename="UI/texture/cd_icon_option.dds" Type="Image" GetRect="1,113,110,110"/>
+<Texture Name="cd_icon_SettiongOption_03" Filename="UI/texture/cd_icon_option.dds" Type="Image" GetRect="1,225,110,110"/>
+<Texture Name="cd_icon_SettiongOption_04" Filename="UI/texture/cd_icon_option.dds" Type="Image" GetRect="1,337,110,110"/>
+<Texture Name="cd_icon_SettiongOption_05" Filename="UI/texture/cd_icon_option.dds" Type="Image" GetRect="113,1,110,110"/>
+<Texture Name="cd_icon_SettiongOption_06" Filename="UI/texture/cd_icon_option.dds" Type="Image" GetRect="225,1,110,110"/>
+<Texture Name="cd_icon_SettiongOption_07" Filename="UI/texture/cd_icon_option.dds" Type="Image" GetRect="337,1,110,110"/>
+<Texture Name="cd_icon_SettiongOption_08" Filename="UI/texture/cd_icon_option.dds" Type="Image" GetRect="113,113,110,110"/>
+<Texture Name="cd_icon_SettiongOption_09" Filename="UI/texture/cd_icon_option.dds" Type="Image" GetRect="113,225,110,110"/>
+<Texture Name="cd_icon_SettiongOption_10" Filename="UI/texture/cd_icon_option.dds" Type="Image" GetRect="113,337,110,110"/>
+

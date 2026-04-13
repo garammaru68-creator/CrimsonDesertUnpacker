@@ -1,0 +1,6 @@
+﻿<Texture Name="cd_icon_bg_kukupot_itemtree_category_sub_00" Filename="UI/texture/cd_uitexture_kukupot_itemtree_00.dds" Type="Image" GetRect="1,1,256,256"/>
+<Texture Name="cd_icon_kukupot_itemtree_arrow_00" Filename="UI/texture/cd_uitexture_kukupot_itemtree_00.dds" Type="Image" GetRect="259,104,80,150"/>
+<Texture Name="cd_icon_kukupot_itemtree_arrow_00_focus" Filename="UI/texture/cd_uitexture_kukupot_itemtree_00.dds" Type="Image" GetRect="341,104,80,150"/>
+<Texture Name="cd_uitexture_kukupot_itemtree_bg_deco_frame_00" Filename="UI/texture/cd_uitexture_kukupot_itemtree_00.dds" Type="Image" GetRect="259,1,290,101"/>
+<Texture Name="cd_uitexture_kukupot_itemtree_bg_deco_frame_line_00" Filename="UI/texture/cd_uitexture_kukupot_itemtree_00.dds" Type="Image" GetRect="1,259,1020,33"/>
+

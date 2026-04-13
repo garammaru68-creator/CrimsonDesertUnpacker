@@ -1,0 +1,8 @@
+﻿<Texture Name="cd_hud_quest_message_knowledge_ink_bg" Filename="UI/texture/cd_ink_bg_01.dds" Type="Image" GetRect="1,1,581,344"/>
+<Texture Name="cd_ink_bg_13" Filename="UI/texture/cd_ink_bg_01.dds" Type="Image" GetRect="1,347,405,315"/>
+<Texture Name="cd_ink_bg_14" Filename="UI/texture/cd_ink_bg_01.dds" Type="Image" GetRect="408,513,414,231"/>
+<Texture Name="cd_ink_tooltip_mask_00" Filename="UI/texture/cd_ink_bg_01.dds" Type="Image" GetRect="585,746,254,254"/>
+<Texture Name="cd_ink_tooltip_mask_01" Filename="UI/texture/cd_ink_bg_01.dds" Type="Image" GetRect="1,664,280,315"/>
+<Texture Name="cd_ink_tooltip_mask_02" Filename="UI/texture/cd_ink_bg_01.dds" Type="Image" GetRect="283,746,300,275"/>
+<Texture Name="cd_ink_tooltip_mask_03" Filename="UI/texture/cd_ink_bg_01.dds" Type="Image" GetRect="584,1,356,510"/>
+

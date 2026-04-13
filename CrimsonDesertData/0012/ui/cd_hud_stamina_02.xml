@@ -1,0 +1,3 @@
+﻿<Texture Name="cd_hud_stamina_bar_pc_fire_00" Filename="UI/texture/cd_hud_stamina_02.dds" Type="Image" GetRect="1,1,256,256"/>
+<Texture Name="cd_hud_stamina_bar_pc_ice_00" Filename="UI/texture/cd_hud_stamina_02.dds" Type="Image" GetRect="1,259,256,256"/>
+

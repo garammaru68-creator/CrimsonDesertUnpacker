@@ -1,0 +1,6 @@
+﻿<Texture Name="cd_ink_bg_intimacy_message_00" Filename="UI/texture/cd_ink_bg_03.dds" Type="Image" GetRect="797,1,210,200"/>
+<Texture Name="cd_ink_bg_label_01_alpha" Filename="UI/texture/cd_ink_bg_03.dds" Type="Image" GetRect="1,145,500,106"/>
+<Texture Name="cd_ink_challenge_alert_bg_center" Filename="UI/texture/cd_ink_bg_03.dds" Type="Image" GetRect="1,1,794,142"/>
+<Texture Name="cd_ink_challenge_alert_bg_left" Filename="UI/texture/cd_ink_bg_03.dds" Type="Image" GetRect="588,145,25,142"/>
+<Texture Name="cd_ink_challenge_alert_bg_right" Filename="UI/texture/cd_ink_bg_03.dds" Type="Image" GetRect="503,145,83,142"/>
+

@@ -1,0 +1,3 @@
+﻿<Texture Name="cd_hud_quest_message_main_deco_sketch" Filename="UI/texture/cd_hud_quest_message_00.dds" Type="Image" GetRect="1,1,630,550"/>
+<Texture Name="cd_hud_quest_message_normal_deco_sketch" Filename="UI/texture/cd_hud_quest_message_00.dds" Type="Image" GetRect="1,553,500,450"/>
+

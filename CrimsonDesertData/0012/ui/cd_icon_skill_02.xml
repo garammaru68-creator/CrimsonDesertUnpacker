@@ -1,0 +1,26 @@
+﻿<Texture Name="cd_icon_skill_atribute_fire" Filename="UI/texture/cd_icon_skill_02.dds" Type="Image" GetRect="1,1,200,200"/>
+<Texture Name="cd_icon_skill_atribute_ice" Filename="UI/texture/cd_icon_skill_02.dds" Type="Image" GetRect="1,203,200,200"/>
+<Texture Name="cd_icon_skill_atribute_lightning" Filename="UI/texture/cd_icon_skill_02.dds" Type="Image" GetRect="1,405,200,200"/>
+<Texture Name="cd_icon_skill_atribute_wind" Filename="UI/texture/cd_icon_skill_02.dds" Type="Image" GetRect="1,607,200,200"/>
+<Texture Name="cd_icon_skill_category_bow" Filename="UI/texture/cd_icon_skill_02.dds" Type="Image" GetRect="1,809,200,200"/>
+<Texture Name="cd_icon_skill_category_OneHandAxe" Filename="UI/texture/cd_icon_skill_02.dds" Type="Image" GetRect="203,1,200,200"/>
+<Texture Name="cd_icon_skill_category_OneHandCannon" Filename="UI/texture/cd_icon_skill_02.dds" Type="Image" GetRect="405,1,200,200"/>
+<Texture Name="cd_icon_skill_category_OneHandPistol" Filename="UI/texture/cd_icon_skill_02.dds" Type="Image" GetRect="607,1,200,200"/>
+<Texture Name="cd_icon_skill_category_Rapier" Filename="UI/texture/cd_icon_skill_02.dds" Type="Image" GetRect="809,1,200,200"/>
+<Texture Name="cd_icon_skill_category_Shield" Filename="UI/texture/cd_icon_skill_02.dds" Type="Image" GetRect="203,203,200,200"/>
+<Texture Name="cd_icon_skill_category_spear" Filename="UI/texture/cd_icon_skill_02.dds" Type="Image" GetRect="203,405,200,200"/>
+<Texture Name="cd_icon_skill_category_sword" Filename="UI/texture/cd_icon_skill_02.dds" Type="Image" GetRect="203,607,200,200"/>
+<Texture Name="cd_icon_skill_category_TwoHandAxe" Filename="UI/texture/cd_icon_skill_02.dds" Type="Image" GetRect="203,809,200,200"/>
+<Texture Name="cd_icon_skill_category_TwoHandSword" Filename="UI/texture/cd_icon_skill_02.dds" Type="Image" GetRect="405,203,200,200"/>
+<Texture Name="cd_icon_Skill_CrowWing_MoveFast" Filename="UI/texture/cd_icon_skill_02.dds" Type="Image" GetRect="607,203,200,200"/>
+<Texture Name="cd_icon_Skill_ElementalArrow" Filename="UI/texture/cd_icon_skill_02.dds" Type="Image" GetRect="809,203,200,200"/>
+<Texture Name="cd_icon_Skill_FastAvoid" Filename="UI/texture/cd_icon_skill_02.dds" Type="Image" GetRect="405,405,200,200"/>
+<Texture Name="cd_icon_Skill_Lift" Filename="UI/texture/cd_icon_skill_02.dds" Type="Image" GetRect="405,607,200,200"/>
+<Texture Name="cd_icon_Skill_LinkBand" Filename="UI/texture/cd_icon_skill_02.dds" Type="Image" GetRect="405,809,200,200"/>
+<Texture Name="cd_icon_Skill_smokebomb" Filename="UI/texture/cd_icon_skill_02.dds" Type="Image" GetRect="607,405,200,200"/>
+<Texture Name="cd_icon_Skill_SubWeaponToggle" Filename="UI/texture/cd_icon_skill_02.dds" Type="Image" GetRect="809,405,200,200"/>
+<Texture Name="cd_icon_Skill_Taeguk_Seal" Filename="UI/texture/cd_icon_skill_02.dds" Type="Image" GetRect="607,607,200,200"/>
+<Texture Name="cd_icon_Skill_Taeguk_Unleash" Filename="UI/texture/cd_icon_skill_02.dds" Type="Image" GetRect="607,809,200,200"/>
+<Texture Name="cd_icon_Skill_Tathagata" Filename="UI/texture/cd_icon_skill_02.dds" Type="Image" GetRect="809,607,200,200"/>
+<Texture Name="cd_icon_Skill_Tathagata_mini" Filename="UI/texture/cd_icon_skill_02.dds" Type="Image" GetRect="809,809,200,200"/>
+

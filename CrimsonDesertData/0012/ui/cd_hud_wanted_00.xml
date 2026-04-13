@@ -1,0 +1,13 @@
+﻿<Texture Name="cd_wanted_icon_disturbance" Filename="UI/texture/cd_hud_wanted_00.dds" Type="Image" GetRect="257,271,100,100"/>
+<Texture Name="cd_wanted_icon_thief" Filename="UI/texture/cd_hud_wanted_00.dds" Type="Image" GetRect="914,1,100,100"/>
+<Texture Name="cd_wanted_icon_vandalism" Filename="UI/texture/cd_hud_wanted_00.dds" Type="Image" GetRect="914,103,100,100"/>
+<Texture Name="cd_wanted_icon_violence" Filename="UI/texture/cd_hud_wanted_00.dds" Type="Image" GetRect="914,205,100,100"/>
+<Texture Name="cd_wanted_poster_01" Filename="UI/texture/cd_hud_wanted_00.dds" Type="Image" GetRect="402,1,254,359"/>
+<Texture Name="cd_wanted_poster_02" Filename="UI/texture/cd_hud_wanted_00.dds" Type="Image" GetRect="1,271,254,359"/>
+<Texture Name="cd_wanted_poster_03" Filename="UI/texture/cd_hud_wanted_00.dds" Type="Image" GetRect="658,1,254,359"/>
+<Texture Name="cd_wanted_poster_04" Filename="UI/texture/cd_hud_wanted_00.dds" Type="Image" GetRect="359,362,254,359"/>
+<Texture Name="cd_wanted_poster_05" Filename="UI/texture/cd_hud_wanted_00.dds" Type="Image" GetRect="1,632,254,359"/>
+<Texture Name="cd_wanted_poster_burn" Filename="UI/texture/cd_hud_wanted_00.dds" Type="Image" GetRect="615,362,254,359"/>
+<Texture Name="cd_wanted_witness_hud_ink_bg_00" Filename="UI/texture/cd_hud_wanted_00.dds" Type="Image" GetRect="1,1,399,268"/>
+<Texture Name="cd_wanted_witness_icon" Filename="UI/texture/cd_hud_wanted_00.dds" Type="Image" GetRect="914,307,90,97"/>
+

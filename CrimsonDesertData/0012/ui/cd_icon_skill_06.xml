@@ -1,0 +1,26 @@
+﻿<Texture Name="cd_icon_Skill_Damian_AirJump" Filename="UI/texture/cd_icon_skill_06.dds" Type="Image" GetRect="1,1,200,200"/>
+<Texture Name="cd_icon_Skill_Damian_ElementalReinforce_ChargeShot" Filename="UI/texture/cd_icon_skill_06.dds" Type="Image" GetRect="1,203,200,200"/>
+<Texture Name="cd_icon_Skill_Damian_ElementalReinforce_ShieldThrow" Filename="UI/texture/cd_icon_skill_06.dds" Type="Image" GetRect="1,405,200,200"/>
+<Texture Name="cd_icon_Skill_Damian_HaDongTa" Filename="UI/texture/cd_icon_skill_06.dds" Type="Image" GetRect="1,607,200,200"/>
+<Texture Name="cd_icon_Skill_Damian_QuickReload" Filename="UI/texture/cd_icon_skill_06.dds" Type="Image" GetRect="1,809,200,200"/>
+<Texture Name="cd_icon_Skill_Damian_RollShot" Filename="UI/texture/cd_icon_skill_06.dds" Type="Image" GetRect="203,1,200,200"/>
+<Texture Name="cd_icon_Skill_Damian_ShieldGlider" Filename="UI/texture/cd_icon_skill_06.dds" Type="Image" GetRect="405,1,200,200"/>
+<Texture Name="cd_icon_Skill_Damian_ShieldGlider_MoveFast" Filename="UI/texture/cd_icon_skill_06.dds" Type="Image" GetRect="607,1,200,200"/>
+<Texture Name="cd_icon_Skill_Damian_ShieldThrow_I" Filename="UI/texture/cd_icon_skill_06.dds" Type="Image" GetRect="809,1,200,200"/>
+<Texture Name="cd_icon_Skill_Damian_ShieldThrow_II" Filename="UI/texture/cd_icon_skill_06.dds" Type="Image" GetRect="203,203,200,200"/>
+<Texture Name="cd_icon_Skill_Damian_Summon_Drone" Filename="UI/texture/cd_icon_skill_06.dds" Type="Image" GetRect="203,405,200,200"/>
+<Texture Name="cd_icon_Skill_Damian_Summon_DroneAssault" Filename="UI/texture/cd_icon_skill_06.dds" Type="Image" GetRect="203,607,200,200"/>
+<Texture Name="cd_icon_Skill_ElementalReinforce_SkyKick" Filename="UI/texture/cd_icon_skill_06.dds" Type="Image" GetRect="203,809,200,200"/>
+<Texture Name="cd_icon_Skill_Oongka_CloseShot" Filename="UI/texture/cd_icon_skill_06.dds" Type="Image" GetRect="405,203,200,200"/>
+<Texture Name="cd_icon_Skill_Oongka_ElementalReinforce_CloseShot" Filename="UI/texture/cd_icon_skill_06.dds" Type="Image" GetRect="607,203,200,200"/>
+<Texture Name="cd_icon_Skill_Oongka_ExplosionJump" Filename="UI/texture/cd_icon_skill_06.dds" Type="Image" GetRect="809,203,200,200"/>
+<Texture Name="cd_icon_Skill_Oongka_HaDongTa" Filename="UI/texture/cd_icon_skill_06.dds" Type="Image" GetRect="405,405,200,200"/>
+<Texture Name="cd_icon_Skill_Oongka_Lunge" Filename="UI/texture/cd_icon_skill_06.dds" Type="Image" GetRect="405,607,200,200"/>
+<Texture Name="cd_icon_Skill_Oongka_Lunge_Expert" Filename="UI/texture/cd_icon_skill_06.dds" Type="Image" GetRect="405,809,200,200"/>
+<Texture Name="cd_icon_Skill_Oongka_Roar" Filename="UI/texture/cd_icon_skill_06.dds" Type="Image" GetRect="607,405,200,200"/>
+<Texture Name="cd_icon_Skill_Oongka_RocketPack" Filename="UI/texture/cd_icon_skill_06.dds" Type="Image" GetRect="809,405,200,200"/>
+<Texture Name="cd_icon_Skill_Oongka_RocketPack_MoveFast" Filename="UI/texture/cd_icon_skill_06.dds" Type="Image" GetRect="607,607,200,200"/>
+<Texture Name="cd_icon_Skill_Oongka_RocketPack_VerticalBoost" Filename="UI/texture/cd_icon_skill_06.dds" Type="Image" GetRect="607,809,200,200"/>
+<Texture Name="cd_icon_Skill_UnArmedCombination_I" Filename="UI/texture/cd_icon_skill_06.dds" Type="Image" GetRect="809,607,200,200"/>
+<Texture Name="cd_icon_Skill_UnArmedCombination_II" Filename="UI/texture/cd_icon_skill_06.dds" Type="Image" GetRect="809,809,200,200"/>
+

@@ -1,0 +1,21 @@
+﻿<Texture Name="cd_uitexture_minigame_duel_center_bg" Filename="UI/texture/cd_uitexture_minigame_duel.dds" Type="Image" GetRect="1,1,264,264"/>
+<Texture Name="cd_uitexture_minigame_duel_gauge_left_bg" Filename="UI/texture/cd_uitexture_minigame_duel.dds" Type="Image" GetRect="1,273,1012,44"/>
+<Texture Name="cd_uitexture_minigame_duel_gauge_left_body" Filename="UI/texture/cd_uitexture_minigame_duel.dds" Type="Image" GetRect="1,457,978,44"/>
+<Texture Name="cd_uitexture_minigame_duel_gauge_left_effect1" Filename="UI/texture/cd_uitexture_minigame_duel.dds" Type="Image" GetRect="1,641,919,44"/>
+<Texture Name="cd_uitexture_minigame_duel_gauge_left_mask" Filename="UI/texture/cd_uitexture_minigame_duel.dds" Type="Image" GetRect="1,503,978,44"/>
+<Texture Name="cd_uitexture_minigame_duel_gauge_left_tip" Filename="UI/texture/cd_uitexture_minigame_duel.dds" Type="Image" GetRect="267,141,508,44"/>
+<Texture Name="cd_uitexture_minigame_duel_gauge_name_bg" Filename="UI/texture/cd_uitexture_minigame_duel.dds" Type="Image" GetRect="267,233,482,38"/>
+<Texture Name="cd_uitexture_minigame_duel_gauge_portrait_bg" Filename="UI/texture/cd_uitexture_minigame_duel.dds" Type="Image" GetRect="267,1,457,138"/>
+<Texture Name="cd_uitexture_minigame_duel_gauge_progress_body" Filename="UI/texture/cd_uitexture_minigame_duel.dds" Type="Image" GetRect="726,1,84,44"/>
+<Texture Name="cd_uitexture_minigame_duel_gauge_progress_left_tip" Filename="UI/texture/cd_uitexture_minigame_duel.dds" Type="Image" GetRect="1,319,987,44"/>
+<Texture Name="cd_uitexture_minigame_duel_gauge_progress_right_tip copy" Filename="UI/texture/cd_uitexture_minigame_duel.dds" Type="Image" GetRect="1,365,987,44"/>
+<Texture Name="cd_uitexture_minigame_duel_gauge_progress_right_tip" Filename="UI/texture/cd_uitexture_minigame_duel.dds" Type="Image" GetRect="1,411,987,44"/>
+<Texture Name="cd_uitexture_minigame_duel_gauge_right_body" Filename="UI/texture/cd_uitexture_minigame_duel.dds" Type="Image" GetRect="1,549,978,44"/>
+<Texture Name="cd_uitexture_minigame_duel_gauge_right_effect1" Filename="UI/texture/cd_uitexture_minigame_duel.dds" Type="Image" GetRect="1,687,919,44"/>
+<Texture Name="cd_uitexture_minigame_duel_gauge_right_mask" Filename="UI/texture/cd_uitexture_minigame_duel.dds" Type="Image" GetRect="1,595,978,44"/>
+<Texture Name="cd_uitexture_minigame_duel_gauge_right_tip" Filename="UI/texture/cd_uitexture_minigame_duel.dds" Type="Image" GetRect="267,187,508,44"/>
+<Texture Name="cd_uitexture_minigame_duel_mp_gauge_left_bg" Filename="UI/texture/cd_uitexture_minigame_duel.dds" Type="Image" GetRect="1,733,1000,20"/>
+<Texture Name="cd_uitexture_minigame_duel_mp_gauge_left_body" Filename="UI/texture/cd_uitexture_minigame_duel.dds" Type="Image" GetRect="1,777,1000,12"/>
+<Texture Name="cd_uitexture_minigame_duel_mp_gauge_right_bg" Filename="UI/texture/cd_uitexture_minigame_duel.dds" Type="Image" GetRect="1,755,1000,20"/>
+<Texture Name="cd_uitexture_minigame_duel_mp_gauge_right_body" Filename="UI/texture/cd_uitexture_minigame_duel.dds" Type="Image" GetRect="1,791,1000,12"/>
+

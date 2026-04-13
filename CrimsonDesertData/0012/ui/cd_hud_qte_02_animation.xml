@@ -1,0 +1,43 @@
+﻿<Texture Name="cd_hud_keyguide_press_gauge_start" Filename="UI/texture/cd_hud_qte_02.dds" Type="Image" GetRect="123,33,30,30"/>
+<Texture Name="cd_hud_keyguide_press_gauge_00" Filename="UI/texture/cd_hud_qte_02.dds" Type="Image" GetRect="1,123,30,30"/>
+<Texture Name="cd_hud_keyguide_press_gauge_01" Filename="UI/texture/cd_hud_qte_02.dds" Type="Image" GetRect="1,155,30,30"/>
+<Texture Name="cd_hud_keyguide_press_gauge_02" Filename="UI/texture/cd_hud_qte_02.dds" Type="Image" GetRect="1,187,30,30"/>
+<Texture Name="cd_hud_keyguide_press_gauge_03" Filename="UI/texture/cd_hud_qte_02.dds" Type="Image" GetRect="1,219,30,30"/>
+<Texture Name="cd_hud_keyguide_press_gauge_04" Filename="UI/texture/cd_hud_qte_02.dds" Type="Image" GetRect="33,123,30,30"/>
+<Texture Name="cd_hud_keyguide_press_gauge_05" Filename="UI/texture/cd_hud_qte_02.dds" Type="Image" GetRect="33,155,30,30"/>
+<Texture Name="cd_hud_keyguide_press_gauge_06" Filename="UI/texture/cd_hud_qte_02.dds" Type="Image" GetRect="33,187,30,30"/>
+<Texture Name="cd_hud_keyguide_press_gauge_07" Filename="UI/texture/cd_hud_qte_02.dds" Type="Image" GetRect="33,219,30,30"/>
+<Texture Name="cd_hud_keyguide_press_gauge_08" Filename="UI/texture/cd_hud_qte_02.dds" Type="Image" GetRect="65,123,30,30"/>
+<Texture Name="cd_hud_keyguide_press_gauge_09" Filename="UI/texture/cd_hud_qte_02.dds" Type="Image" GetRect="65,155,30,30"/>
+<Texture Name="cd_hud_keyguide_press_gauge_10" Filename="UI/texture/cd_hud_qte_02.dds" Type="Image" GetRect="65,187,30,30"/>
+<Texture Name="cd_hud_keyguide_press_gauge_11" Filename="UI/texture/cd_hud_qte_02.dds" Type="Image" GetRect="65,219,30,30"/>
+<Texture Name="cd_hud_keyguide_press_gauge_12" Filename="UI/texture/cd_hud_qte_02.dds" Type="Image" GetRect="97,123,30,30"/>
+<Texture Name="cd_hud_keyguide_press_gauge_13" Filename="UI/texture/cd_hud_qte_02.dds" Type="Image" GetRect="97,155,30,30"/>
+<Texture Name="cd_hud_keyguide_press_gauge_14" Filename="UI/texture/cd_hud_qte_02.dds" Type="Image" GetRect="97,187,30,30"/>
+<Texture Name="cd_hud_keyguide_press_gauge_15" Filename="UI/texture/cd_hud_qte_02.dds" Type="Image" GetRect="97,219,30,30"/>
+<Texture Name="cd_hud_keyguide_press_gauge_16" Filename="UI/texture/cd_hud_qte_02.dds" Type="Image" GetRect="123,1,30,30"/>
+<Texture Name="cd_hud_keyguide_press_gauge_body" Filename="UI/texture/cd_hud_qte_02.dds" Type="Image" GetRect="1,1,120,120"/>
+
+
+
+<Animation name="cd_hud_keyguide_press_gauge_animation" size="256,256">
+    <Frame Texturename="cd_hud_keyguide_press_gauge_start" Time="0.07" /> 
+    <Frame Texturename="cd_hud_keyguide_press_gauge_00" Time="0.07" />
+    <Frame Texturename="cd_hud_keyguide_press_gauge_01" Time="0.07" />
+    <Frame Texturename="cd_hud_keyguide_press_gauge_02" Time="0.07" />
+    <Frame Texturename="cd_hud_keyguide_press_gauge_03" Time="0.07" />
+    <Frame Texturename="cd_hud_keyguide_press_gauge_04" Time="0.07" />
+    <Frame Texturename="cd_hud_keyguide_press_gauge_05" Time="0.07" />
+    <Frame Texturename="cd_hud_keyguide_press_gauge_06" Time="0.07" />
+    <Frame Texturename="cd_hud_keyguide_press_gauge_07" Time="0.07" />
+    <Frame Texturename="cd_hud_keyguide_press_gauge_08" Time="0.07" />
+    <Frame Texturename="cd_hud_keyguide_press_gauge_09" Time="0.07" />
+    <Frame Texturename="cd_hud_keyguide_press_gauge_10" Time="0.07" />
+    <Frame Texturename="cd_hud_keyguide_press_gauge_11" Time="0.07" />
+    <Frame Texturename="cd_hud_keyguide_press_gauge_12" Time="0.07" />
+    <Frame Texturename="cd_hud_keyguide_press_gauge_13" Time="0.07" />
+    <Frame Texturename="cd_hud_keyguide_press_gauge_14" Time="0.07" />
+    <Frame Texturename="cd_hud_keyguide_press_gauge_15" Time="0.07" />
+    <Frame Texturename="cd_hud_keyguide_press_gauge_16" Time="0.38" />
+</Animation>    
+

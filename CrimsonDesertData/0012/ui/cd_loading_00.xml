@@ -1,0 +1,3 @@
+﻿<Texture Name="cd_loading_logo" Filename="UI/texture/cd_loading_00.dds" Type="Image" GetRect="1,183,135,135"/>
+<Texture Name="cd_loading_logo_decoline" Filename="UI/texture/cd_loading_00.dds" Type="Image" GetRect="1,1,180,180"/>
+<Texture Name="cd_loading_round_00" Filename="UI/texture/cd_loading_00.dds" Type="Image" GetRect="1,320,110,110"/>

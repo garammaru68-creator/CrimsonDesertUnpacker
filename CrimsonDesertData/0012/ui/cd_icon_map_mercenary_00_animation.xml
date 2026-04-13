@@ -1,0 +1,160 @@
+﻿<!--
+Animation 태그에 들어갈 수 있는 attribute
+delay - float (0)
+direction: normal, reverse
+iteration-count: int (1)
+play-state: running, paused
+fill-mode: none, forwards
+-->
+
+<Animation name="cd_icon_map_mercenary_work_cutting_animation" size="1024,1024">
+    <Frame Texturename="cd_icon_map_mercenary_work_cutting_animation_000" Time="0.05" />
+    <Frame Texturename="cd_icon_map_mercenary_work_cutting_animation_001" Time="0.05" />
+    <Frame Texturename="cd_icon_map_mercenary_work_cutting_animation_002" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_cutting_animation_003" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_cutting_animation_004" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_cutting_animation_005" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_cutting_animation_006" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_cutting_animation_007" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_cutting_animation_008" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_cutting_animation_009" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_cutting_animation_010" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_cutting_animation_011" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_cutting_animation_012" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_cutting_animation_013" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_cutting_animation_014" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_cutting_animation_015" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_cutting_animation_016" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_cutting_animation_017" Time="0.05" />    
+</Animation>
+
+<Animation name="cd_icon_map_mercenary_work_crafting_animation" size="1024,1024">
+    <Frame Texturename="cd_icon_map_mercenary_work_crafting_animation_000" Time="0.05" />
+    <Frame Texturename="cd_icon_map_mercenary_work_crafting_animation_001" Time="0.05" />
+    <Frame Texturename="cd_icon_map_mercenary_work_crafting_animation_002" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_crafting_animation_003" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_crafting_animation_004" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_crafting_animation_005" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_crafting_animation_006" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_crafting_animation_007" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_crafting_animation_008" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_crafting_animation_009" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_crafting_animation_010" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_crafting_animation_011" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_crafting_animation_012" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_crafting_animation_013" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_crafting_animation_014" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_crafting_animation_015" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_crafting_animation_016" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_crafting_animation_017" Time="0.05" />    
+</Animation>
+
+<Animation name="cd_icon_map_mercenary_work_trading_animation" size="1024,1024">
+    <Frame Texturename="cd_icon_map_mercenary_work_trading_animation_000" Time="0.08" />
+    <Frame Texturename="cd_icon_map_mercenary_work_trading_animation_001" Time="0.08" />
+    <Frame Texturename="cd_icon_map_mercenary_work_trading_animation_002" Time="0.08" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_trading_animation_003" Time="0.08" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_trading_animation_004" Time="0.08" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_trading_animation_005" Time="0.08" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_trading_animation_006" Time="0.08" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_trading_animation_007" Time="0.08" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_trading_animation_008" Time="0.08" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_trading_animation_009" Time="0.08" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_trading_animation_010" Time="0.08" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_trading_animation_011" Time="0.08" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_trading_animation_012" Time="0.08" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_trading_animation_013" Time="0.08" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_trading_animation_014" Time="0.08" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_trading_animation_015" Time="0.08" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_trading_animation_016" Time="0.08" />
+    <Frame Texturename="cd_icon_map_mercenary_work_trading_animation_017" Time="0.08" />
+    <Frame Texturename="cd_icon_map_mercenary_work_trading_animation_018" Time="0.08" />
+    <Frame Texturename="cd_icon_map_mercenary_work_trading_animation_019" Time="0.08" />
+</Animation>
+
+<Animation name="cd_icon_map_mercenary_work_farming_animation" size="1024,1024">
+    <Frame Texturename="cd_icon_map_mercenary_work_farming_animation_000" Time="0.05" />
+    <Frame Texturename="cd_icon_map_mercenary_work_farming_animation_001" Time="0.05" />
+    <Frame Texturename="cd_icon_map_mercenary_work_farming_animation_002" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_farming_animation_003" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_farming_animation_004" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_farming_animation_005" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_farming_animation_006" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_farming_animation_007" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_farming_animation_008" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_farming_animation_009" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_farming_animation_010" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_farming_animation_011" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_farming_animation_012" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_farming_animation_013" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_farming_animation_014" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_farming_animation_015" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_farming_animation_016" Time="0.05" />     
+    <Frame Texturename="cd_icon_map_mercenary_work_farming_animation_017" Time="0.05" />     
+</Animation>
+
+<Animation name="cd_icon_map_mercenary_work_mining_animation" size="1024,1024">
+    <Frame Texturename="cd_icon_map_mercenary_work_mining_animation_000" Time="0.05" />
+    <Frame Texturename="cd_icon_map_mercenary_work_mining_animation_001" Time="0.05" />
+    <Frame Texturename="cd_icon_map_mercenary_work_mining_animation_002" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_mining_animation_003" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_mining_animation_004" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_mining_animation_005" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_mining_animation_006" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_mining_animation_007" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_mining_animation_008" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_mining_animation_009" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_mining_animation_010" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_mining_animation_011" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_mining_animation_012" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_mining_animation_013" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_mining_animation_014" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_mining_animation_015" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_mining_animation_016" Time="0.05" />      
+    <Frame Texturename="cd_icon_map_mercenary_work_mining_animation_017" Time="0.05" />
+</Animation>
+
+<Animation name="cd_icon_map_mercenary_work_upgrade_animation" size="1024,1024">
+    <Frame Texturename="cd_icon_map_mercenary_work_upgrade_animation_000" Time="0.05" />
+    <Frame Texturename="cd_icon_map_mercenary_work_upgrade_animation_001" Time="0.05" />
+    <Frame Texturename="cd_icon_map_mercenary_work_upgrade_animation_002" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_upgrade_animation_003" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_upgrade_animation_004" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_upgrade_animation_005" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_upgrade_animation_006" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_upgrade_animation_007" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_upgrade_animation_008" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_upgrade_animation_009" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_upgrade_animation_010" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_upgrade_animation_011" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_upgrade_animation_012" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_upgrade_animation_013" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_upgrade_animation_014" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_upgrade_animation_015" Time="0.05" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_upgrade_animation_016" Time="0.05" />
+    <Frame Texturename="cd_icon_map_mercenary_work_upgrade_animation_017" Time="0.05" />
+    <Frame Texturename="cd_icon_map_mercenary_work_upgrade_animation_018" Time="0.05" />
+    <Frame Texturename="cd_icon_map_mercenary_work_upgrade_animation_019" Time="0.05" />
+</Animation>
+
+<Animation name="cd_icon_map_mercenary_work_battle_animation" size="1024,1024">
+    <Frame Texturename="cd_icon_map_mercenary_work_battle_animation_000" Time="0.07" />
+    <Frame Texturename="cd_icon_map_mercenary_work_battle_animation_001" Time="0.07" />
+    <Frame Texturename="cd_icon_map_mercenary_work_battle_animation_002" Time="0.07" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_battle_animation_003" Time="0.07" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_battle_animation_004" Time="0.07" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_battle_animation_005" Time="0.03" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_battle_animation_006" Time="0.03" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_battle_animation_007" Time="0.03" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_battle_animation_008" Time="0.03" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_battle_animation_009" Time="0.03" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_battle_animation_010" Time="0.07" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_battle_animation_011" Time="0.07" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_battle_animation_012" Time="0.07" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_battle_animation_013" Time="0.03" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_battle_animation_014" Time="0.03" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_battle_animation_015" Time="0.03" />    
+    <Frame Texturename="cd_icon_map_mercenary_work_battle_animation_016" Time="0.03" />
+    <Frame Texturename="cd_icon_map_mercenary_work_battle_animation_017" Time="0.03" />
+    <Frame Texturename="cd_icon_map_mercenary_work_battle_animation_018" Time="0.07" />
+</Animation>

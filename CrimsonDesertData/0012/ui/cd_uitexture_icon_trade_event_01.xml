@@ -1,0 +1,17 @@
+﻿<Texture Name="cd_icon_trade_event_info_Large_Scale_Construction" Filename="UI/texture/cd_uitexture_icon_trade_event_01.dds" Type="Image" GetRect="1,1,98,98"/>
+<Texture Name="cd_icon_trade_event_info_Luxury_Among_The_Nobility" Filename="UI/texture/cd_uitexture_icon_trade_event_01.dds" Type="Image" GetRect="1,101,98,98"/>
+<Texture Name="cd_icon_trade_event_info_Meteorite_Fall" Filename="UI/texture/cd_uitexture_icon_trade_event_01.dds" Type="Image" GetRect="1,201,98,98"/>
+<Texture Name="cd_icon_trade_event_info_Missing_Trade" Filename="UI/texture/cd_uitexture_icon_trade_event_01.dds" Type="Image" GetRect="1,301,98,98"/>
+<Texture Name="cd_icon_trade_event_info_Noble_Party" Filename="UI/texture/cd_uitexture_icon_trade_event_01.dds" Type="Image" GetRect="1,401,98,98"/>
+<Texture Name="cd_icon_trade_event_info_Pest_Infestation" Filename="UI/texture/cd_uitexture_icon_trade_event_01.dds" Type="Image" GetRect="101,1,98,98"/>
+<Texture Name="cd_icon_trade_event_info_Prolonged_Rainy_Season" Filename="UI/texture/cd_uitexture_icon_trade_event_01.dds" Type="Image" GetRect="201,1,98,98"/>
+<Texture Name="cd_icon_trade_event_info_Royal_Hoarding" Filename="UI/texture/cd_uitexture_icon_trade_event_01.dds" Type="Image" GetRect="301,1,98,98"/>
+<Texture Name="cd_icon_trade_event_info_Scientific_Accident" Filename="UI/texture/cd_uitexture_icon_trade_event_01.dds" Type="Image" GetRect="401,1,98,98"/>
+<Texture Name="cd_icon_trade_event_info_Storm" Filename="UI/texture/cd_uitexture_icon_trade_event_01.dds" Type="Image" GetRect="101,101,98,98"/>
+<Texture Name="cd_icon_trade_event_info_Study_Flourishes" Filename="UI/texture/cd_uitexture_icon_trade_event_01.dds" Type="Image" GetRect="101,201,98,98"/>
+<Texture Name="cd_icon_trade_event_info_Sudden_Fish_Increase" Filename="UI/texture/cd_uitexture_icon_trade_event_01.dds" Type="Image" GetRect="101,301,98,98"/>
+<Texture Name="cd_icon_trade_event_info_Sudden_Fish_Shortage" Filename="UI/texture/cd_uitexture_icon_trade_event_01.dds" Type="Image" GetRect="101,401,98,98"/>
+<Texture Name="cd_icon_trade_event_info_Tradingship_Sinking" Filename="UI/texture/cd_uitexture_icon_trade_event_01.dds" Type="Image" GetRect="201,101,98,98"/>
+<Texture Name="cd_icon_trade_event_info_Treatment_Of_Bandits" Filename="UI/texture/cd_uitexture_icon_trade_event_01.dds" Type="Image" GetRect="301,101,98,98"/>
+<Texture Name="cd_icon_trade_event_info_Typhoon" Filename="UI/texture/cd_uitexture_icon_trade_event_01.dds" Type="Image" GetRect="401,101,98,98"/>
+

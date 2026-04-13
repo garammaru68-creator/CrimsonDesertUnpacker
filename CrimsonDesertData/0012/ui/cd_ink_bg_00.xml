@@ -1,0 +1,23 @@
+﻿<Texture Name="cd_cook_selectitem_bg" Filename="UI/texture/cd_ink_bg_00.dds" Type="Image" GetRect="1,899,300,96"/>
+<Texture Name="cd_ink_bg_03" Filename="UI/texture/cd_ink_bg_00.dds" Type="Image" GetRect="1,465,300,83"/>
+<Texture Name="cd_ink_bg_04" Filename="UI/texture/cd_ink_bg_00.dds" Type="Image" GetRect="503,1,508,176"/>
+<Texture Name="cd_ink_bg_05" Filename="UI/texture/cd_ink_bg_00.dds" Type="Image" GetRect="503,348,250,211"/>
+<Texture Name="cd_ink_bg_06" Filename="UI/texture/cd_ink_bg_00.dds" Type="Image" GetRect="1,1,500,375"/>
+<Texture Name="cd_ink_bg_07" Filename="UI/texture/cd_ink_bg_00.dds" Type="Image" GetRect="503,179,406,167"/>
+<Texture Name="cd_ink_bg_keyguide_02_effect" Filename="UI/texture/cd_ink_bg_00.dds" Type="Image" GetRect="1,378,380,85"/>
+<Texture Name="cd_ink_bg_keyguide_back" Filename="UI/texture/cd_ink_bg_00.dds" Type="Image" GetRect="899,370,50,54"/>
+<Texture Name="cd_ink_bg_keyguide_back_01" Filename="UI/texture/cd_ink_bg_00.dds" Type="Image" GetRect="755,348,142,54"/>
+<Texture Name="cd_ink_bg_keyguide_back_02" Filename="UI/texture/cd_ink_bg_00.dds" Type="Image" GetRect="911,283,40,85"/>
+<Texture Name="cd_ink_bg_keyguide_back_03" Filename="UI/texture/cd_ink_bg_00.dds" Type="Image" GetRect="911,179,97,50"/>
+<Texture Name="cd_ink_bg_keyguide_center" Filename="UI/texture/cd_ink_bg_00.dds" Type="Image" GetRect="1,805,415,54"/>
+<Texture Name="cd_ink_bg_keyguide_center_02" Filename="UI/texture/cd_ink_bg_00.dds" Type="Image" GetRect="303,861,241,85"/>
+<Texture Name="cd_ink_bg_keyguide_front" Filename="UI/texture/cd_ink_bg_00.dds" Type="Image" GetRect="951,419,30,54"/>
+<Texture Name="cd_ink_bg_keyguide_front_02" Filename="UI/texture/cd_ink_bg_00.dds" Type="Image" GetRect="953,283,39,85"/>
+<Texture Name="cd_ink_bg_keyguide_front_03" Filename="UI/texture/cd_ink_bg_00.dds" Type="Image" GetRect="911,231,92,50"/>
+<Texture Name="cd_ink_bg_label_00" Filename="UI/texture/cd_ink_bg_00.dds" Type="Image" GetRect="303,948,250,52"/>
+<Texture Name="cd_ink_bg_label_01" Filename="UI/texture/cd_ink_bg_00.dds" Type="Image" GetRect="1,697,649,106"/>
+<Texture Name="cd_ink_bg_label_01_3stack_gauge" Filename="UI/texture/cd_ink_bg_00.dds" Type="Image" GetRect="1,561,649,106"/>
+<Texture Name="cd_ink_bg_minimap" Filename="UI/texture/cd_ink_bg_00.dds" Type="Image" GetRect="652,697,200,200"/>
+<Texture Name="cd_ink_bg_minimap_border" Filename="UI/texture/cd_ink_bg_00.dds" Type="Image" GetRect="755,475,220,220"/>
+<Texture Name="cd_worldmap_quest_type_bg" Filename="UI/texture/cd_ink_bg_00.dds" Type="Image" GetRect="951,370,47,47"/>
+

@@ -1,0 +1,25 @@
+﻿<Texture Name="cd_icon_flag_map_quest_faction_icon_30" Filename="UI/texture/cd_icon_faction_flag_01.dds" Type="Image" GetRect="1,1,160,234"/>
+<Texture Name="cd_icon_flag_map_quest_faction_icon_32" Filename="UI/texture/cd_icon_faction_flag_01.dds" Type="Image" GetRect="1,237,160,234"/>
+<Texture Name="cd_icon_flag_map_quest_faction_icon_34" Filename="UI/texture/cd_icon_faction_flag_01.dds" Type="Image" GetRect="1,473,160,234"/>
+<Texture Name="cd_icon_flag_map_quest_faction_icon_35" Filename="UI/texture/cd_icon_faction_flag_01.dds" Type="Image" GetRect="1,709,160,234"/>
+<Texture Name="cd_icon_flag_map_quest_faction_icon_36" Filename="UI/texture/cd_icon_faction_flag_01.dds" Type="Image" GetRect="163,1,160,234"/>
+<Texture Name="cd_icon_flag_map_quest_faction_icon_37" Filename="UI/texture/cd_icon_faction_flag_01.dds" Type="Image" GetRect="163,237,160,234"/>
+<Texture Name="cd_icon_flag_map_quest_faction_icon_39" Filename="UI/texture/cd_icon_faction_flag_01.dds" Type="Image" GetRect="163,473,160,234"/>
+<Texture Name="cd_icon_flag_map_quest_faction_icon_40" Filename="UI/texture/cd_icon_faction_flag_01.dds" Type="Image" GetRect="163,709,160,234"/>
+<Texture Name="cd_icon_flag_map_quest_faction_icon_41" Filename="UI/texture/cd_icon_faction_flag_01.dds" Type="Image" GetRect="325,1,160,234"/>
+<Texture Name="cd_icon_flag_map_quest_faction_icon_43" Filename="UI/texture/cd_icon_faction_flag_01.dds" Type="Image" GetRect="487,1,160,234"/>
+<Texture Name="cd_icon_flag_map_quest_faction_icon_46" Filename="UI/texture/cd_icon_faction_flag_01.dds" Type="Image" GetRect="649,1,160,234"/>
+<Texture Name="cd_icon_flag_map_quest_faction_icon_49" Filename="UI/texture/cd_icon_faction_flag_01.dds" Type="Image" GetRect="811,1,160,234"/>
+<Texture Name="cd_icon_flag_map_quest_faction_icon_52" Filename="UI/texture/cd_icon_faction_flag_01.dds" Type="Image" GetRect="325,237,160,234"/>
+<Texture Name="cd_icon_flag_map_quest_faction_icon_53" Filename="UI/texture/cd_icon_faction_flag_01.dds" Type="Image" GetRect="325,473,160,234"/>
+<Texture Name="cd_icon_flag_map_quest_faction_icon_54" Filename="UI/texture/cd_icon_faction_flag_01.dds" Type="Image" GetRect="325,709,160,234"/>
+<Texture Name="cd_icon_flag_map_quest_faction_icon_56" Filename="UI/texture/cd_icon_faction_flag_01.dds" Type="Image" GetRect="487,237,160,234"/>
+<Texture Name="cd_icon_flag_map_quest_faction_icon_58" Filename="UI/texture/cd_icon_faction_flag_01.dds" Type="Image" GetRect="649,237,160,234"/>
+<Texture Name="cd_icon_flag_map_quest_faction_icon_60" Filename="UI/texture/cd_icon_faction_flag_01.dds" Type="Image" GetRect="811,237,160,234"/>
+<Texture Name="cd_icon_flag_map_quest_faction_icon_61" Filename="UI/texture/cd_icon_faction_flag_01.dds" Type="Image" GetRect="487,473,160,234"/>
+<Texture Name="cd_icon_flag_map_quest_faction_icon_62" Filename="UI/texture/cd_icon_faction_flag_01.dds" Type="Image" GetRect="487,709,160,234"/>
+<Texture Name="cd_icon_flag_map_quest_faction_icon_63" Filename="UI/texture/cd_icon_faction_flag_01.dds" Type="Image" GetRect="649,473,160,234"/>
+<Texture Name="cd_icon_flag_map_quest_faction_icon_64" Filename="UI/texture/cd_icon_faction_flag_01.dds" Type="Image" GetRect="811,473,160,234"/>
+<Texture Name="cd_icon_flag_map_quest_faction_icon_66" Filename="UI/texture/cd_icon_faction_flag_01.dds" Type="Image" GetRect="649,709,160,234"/>
+<Texture Name="cd_icon_flag_map_quest_faction_icon_71" Filename="UI/texture/cd_icon_faction_flag_01.dds" Type="Image" GetRect="811,709,160,234"/>
+

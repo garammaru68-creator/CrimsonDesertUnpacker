@@ -1,0 +1,10 @@
+﻿<Texture Name="cd_decoline_00" Filename="UI/texture/cd_decoline_00.dds" Type="Image" GetRect="515,326,392,346"/>
+<Texture Name="cd_decoline_01" Filename="UI/texture/cd_decoline_00.dds" Type="Image" GetRect="1,515,392,345"/>
+<Texture Name="cd_decoline_03" Filename="UI/texture/cd_decoline_00.dds" Type="Image" GetRect="1,1,512,512"/>
+<Texture Name="cd_decoline_04" Filename="UI/texture/cd_decoline_00.dds" Type="Image" GetRect="515,1,500,323"/>
+<Texture Name="cd_decoline_shop_icon_frame_back_00" Filename="UI/texture/cd_decoline_00.dds" Type="Image" GetRect="184,862,149,148"/>
+<Texture Name="cd_decoline_shop_icon_frame_front_00" Filename="UI/texture/cd_decoline_00.dds" Type="Image" GetRect="909,326,110,110"/>
+<Texture Name="cd_deco_guideline_00" Filename="UI/texture/cd_decoline_00.dds" Type="Image" GetRect="1,862,181,143"/>
+<Texture Name="cd_deco_quest_01" Filename="UI/texture/cd_decoline_00.dds" Type="Image" GetRect="909,438,100,79"/>
+<Texture Name="cd_deco_quest_02" Filename="UI/texture/cd_decoline_00.dds" Type="Image" GetRect="909,519,100,79"/>
+

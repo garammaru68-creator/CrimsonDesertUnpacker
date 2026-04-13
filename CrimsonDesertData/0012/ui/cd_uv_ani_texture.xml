@@ -1,0 +1,3 @@
+﻿<Texture Name="cd_common_pattern_flow_01" Filename="UI/texture/cd_uv_ani_texture.dds" Type="Image" GetRect="1,1,500,40"/>
+<Texture Name="cd_common_pattern_flow_01_end" Filename="UI/texture/cd_uv_ani_texture.dds" Type="Image" GetRect="501,1,500,40"/>
+

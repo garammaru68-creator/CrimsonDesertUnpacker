@@ -1,0 +1,50 @@
+﻿<!-- 전설의 동물 -->
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Legend_PureWhite_Deer" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_PureWhite_Deer.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_Vined_Deer" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_Vined_Deer.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_Black_Lion" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_Black_Lion.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_White_Lion" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_White_Lion.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_PureWhite_Bion" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_PureWhite_Bion.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_White_Moose" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_White_Moose.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_White_Crocodile" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_White_Crocodile.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_White_Stag" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_White_Stag.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_Giant_Rhino" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_Giant_Rhino.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_KingCobra" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_KingCobra.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_Redriver_hog" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_Redriver_hog.dds" Type="Image" GetRect="0,0,512,512"/> -->
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_BlackFangs_Wolf" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_BlackFangs_Wolf.dds" Type="Image" GetRect="0,0,512,512"/>
+<!-- <Texture Name="cd_knowledgeimage_Knowledge_Legend_RedEyes_Hyena" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_RedEyes_Hyena.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_PaddleFish" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_PaddleFish.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_SevenGill" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_SevenGill.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_PagrusMajor" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_PagrusMajor.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_RedOpaleye" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_RedOpaleye.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_Giant_MudFish" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_Giant_MudFish.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_SailFish" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_SailFish.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_GoldenTench" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_GoldenTench.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_Coelacanth" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_Coelacanth.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_GoldenCarp" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_GoldenCarp.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_Giant_Octopus" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_Giant_Octopus.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_FootballFish" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_FootballFish.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_Giant_Squid" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_Giant_Squid.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_Electric_Eel" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_Electric_Eel.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_Giant_Whale" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_Giant_Whale.dds" Type="Image" GetRect="0,0,512,512"/>
+ -->
+
+
+<!-- 250630전설의 동물 -->
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_Black_Lion" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_Black_Lion.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_LeeburtheShadowWolf" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_LeeburtheShadowWolf.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_PureWhite_Bion" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_PureWhite_Bion.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_PureWhite_Deer" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_PureWhite_Deer.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_Redriver_hog" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_Redriver_hog.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_Vined_Deer" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_Vined_Deer.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_White_Crocodile" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_White_Crocodile.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_White_Lion" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_White_Lion.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_White_Moose" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_White_Moose.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_White_Stag" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_White_Stag.dds" Type="Image" GetRect="0,0,512,512"/>
+
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_SilverFangsWolf" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_SilverFangsWolf.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_Animal_White_Bear_Wild_30161" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_Animal_White_Bear_Wild_30161.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_Animal_Tiger_Wild_1" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_Animal_Tiger_Wild_1.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_Animal_Unique_Giant_Bull_39009" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_Animal_Unique_Giant_Bull_39009.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_Hyena_boss" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_Hyena_boss.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_GoldenTench" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_GoldenTench.dds" Type="Image" GetRect="0,0,512,512"/>
+<Texture Name="cd_knowledgeimage_Knowledge_Legend_GoldenTench" Filename="UI/texture/Image/Knowledgeimage/cd_knowledgeimage_Knowledge_Legend_GoldenTench.dds" Type="Image" GetRect="0,0,512,512"/>

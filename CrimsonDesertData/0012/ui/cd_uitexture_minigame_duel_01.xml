@@ -1,0 +1,4 @@
+﻿<Texture Name="cd_uitexture_minigame_duel_gauge_effect_00" Filename="UI/texture/cd_uitexture_minigame_duel_01.dds" Type="Image" GetRect="1,553,319,450"/>
+<Texture Name="cd_uitexture_minigame_duel_gauge_left_body_rotate" Filename="UI/texture/cd_uitexture_minigame_duel_01.dds" Type="Image" GetRect="1,1,478,550"/>
+<Texture Name="cd_uitexture_minigame_duel_gauge_right_body_rotate" Filename="UI/texture/cd_uitexture_minigame_duel_01.dds" Type="Image" GetRect="481,1,478,550"/>
+

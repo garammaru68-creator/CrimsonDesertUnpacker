@@ -1,0 +1,15 @@
+﻿<Texture Name="cd_setting_language_ENG" Filename="UI/texture/cd_uitexture_setting_language.dds" Type="Image" GetRect="138,185,131,44"/>
+<Texture Name="cd_setting_language_FRE" Filename="UI/texture/cd_uitexture_setting_language.dds" Type="Image" GetRect="306,47,146,44"/>
+<Texture Name="cd_setting_language_GER" Filename="UI/texture/cd_uitexture_setting_language.dds" Type="Image" GetRect="289,139,139,44"/>
+<Texture Name="cd_setting_language_ITA" Filename="UI/texture/cd_uitexture_setting_language.dds" Type="Image" GetRect="1,185,135,44"/>
+<Texture Name="cd_setting_language_JPN" Filename="UI/texture/cd_uitexture_setting_language.dds" Type="Image" GetRect="1,231,104,44"/>
+<Texture Name="cd_setting_language_KOR" Filename="UI/texture/cd_uitexture_setting_language.dds" Type="Image" GetRect="107,231,100,44"/>
+<Texture Name="cd_setting_language_POL" Filename="UI/texture/cd_uitexture_setting_language.dds" Type="Image" GetRect="391,185,105,44"/>
+<Texture Name="cd_setting_language_POR-BR" Filename="UI/texture/cd_uitexture_setting_language.dds" Type="Image" GetRect="1,47,303,44"/>
+<Texture Name="cd_setting_language_RU" Filename="UI/texture/cd_uitexture_setting_language.dds" Type="Image" GetRect="296,93,144,44"/>
+<Texture Name="cd_setting_language_SPA-ES" Filename="UI/texture/cd_uitexture_setting_language.dds" Type="Image" GetRect="1,93,293,44"/>
+<Texture Name="cd_setting_language_SPA-MX" Filename="UI/texture/cd_uitexture_setting_language.dds" Type="Image" GetRect="1,1,416,44"/>
+<Texture Name="cd_setting_language_TUR" Filename="UI/texture/cd_uitexture_setting_language.dds" Type="Image" GetRect="271,185,118,44"/>
+<Texture Name="cd_setting_language_ZHO-CN" Filename="UI/texture/cd_uitexture_setting_language.dds" Type="Image" GetRect="1,139,142,44"/>
+<Texture Name="cd_setting_language_ZHO-TW" Filename="UI/texture/cd_uitexture_setting_language.dds" Type="Image" GetRect="145,139,142,44"/>
+

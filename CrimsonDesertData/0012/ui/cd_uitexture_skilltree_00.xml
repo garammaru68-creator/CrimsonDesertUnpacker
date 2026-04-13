@@ -1,0 +1,19 @@
+﻿<Texture Name="cd_skilltree_icon_bg_off_00" Filename="UI/texture/cd_uitexture_skilltree_00.dds" Type="Image" GetRect="1,273,240,240"/>
+<Texture Name="cd_skilltree_icon_bg_off_gauge_00" Filename="UI/texture/cd_uitexture_skilltree_00.dds" Type="Image" GetRect="1,515,240,240"/>
+<Texture Name="cd_skilltree_icon_bg_off_gauge_01" Filename="UI/texture/cd_uitexture_skilltree_00.dds" Type="Image" GetRect="1,757,240,240"/>
+<Texture Name="cd_skilltree_icon_bg_off_gauge_02" Filename="UI/texture/cd_uitexture_skilltree_00.dds" Type="Image" GetRect="243,273,240,240"/>
+<Texture Name="cd_skilltree_icon_bg_off_gauge_03" Filename="UI/texture/cd_uitexture_skilltree_00.dds" Type="Image" GetRect="273,1,240,240"/>
+<Texture Name="cd_skilltree_icon_bg_off_gauge_04" Filename="UI/texture/cd_uitexture_skilltree_00.dds" Type="Image" GetRect="243,515,240,240"/>
+<Texture Name="cd_skilltree_icon_bg_on_00" Filename="UI/texture/cd_uitexture_skilltree_00.dds" Type="Image" GetRect="243,757,240,240"/>
+<Texture Name="cd_skilltree_icon_bg_on_gauge_00" Filename="UI/texture/cd_uitexture_skilltree_00.dds" Type="Image" GetRect="485,243,240,240"/>
+<Texture Name="cd_skilltree_icon_bg_on_gauge_01" Filename="UI/texture/cd_uitexture_skilltree_00.dds" Type="Image" GetRect="515,1,240,240"/>
+<Texture Name="cd_skilltree_icon_bg_on_gauge_02" Filename="UI/texture/cd_uitexture_skilltree_00.dds" Type="Image" GetRect="727,243,240,240"/>
+<Texture Name="cd_skilltree_icon_bg_on_gauge_03" Filename="UI/texture/cd_uitexture_skilltree_00.dds" Type="Image" GetRect="757,1,240,240"/>
+<Texture Name="cd_skilltree_icon_bg_on_gauge_04" Filename="UI/texture/cd_uitexture_skilltree_00.dds" Type="Image" GetRect="485,485,240,240"/>
+<Texture Name="cd_skilltree_icon_skill_mark_off_00" Filename="UI/texture/cd_uitexture_skilltree_00.dds" Type="Image" GetRect="273,243,54,26"/>
+<Texture Name="cd_skilltree_icon_skill_mark_on_00" Filename="UI/texture/cd_uitexture_skilltree_00.dds" Type="Image" GetRect="329,243,54,26"/>
+<Texture Name="cd_skilltree_icon_sub_bg_ink_deco_00" Filename="UI/texture/cd_uitexture_skilltree_00.dds" Type="Image" GetRect="1,1,270,270"/>
+<Texture Name="cd_skilltree_icon_sub_bg_off_00" Filename="UI/texture/cd_uitexture_skilltree_00.dds" Type="Image" GetRect="485,727,240,240"/>
+<Texture Name="cd_skilltree_icon_sub_bg_on_00" Filename="UI/texture/cd_uitexture_skilltree_00.dds" Type="Image" GetRect="727,485,240,240"/>
+<Texture Name="cd_skilltree_sbu_deco_line_00" Filename="UI/texture/cd_uitexture_skilltree_00.dds" Type="Image" GetRect="727,727,127,286"/>
+

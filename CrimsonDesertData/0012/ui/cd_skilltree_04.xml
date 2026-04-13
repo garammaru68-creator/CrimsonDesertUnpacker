@@ -1,0 +1,12 @@
+﻿<Texture Name="cd_skilltree_abyss_artifact_info_bg_00" Filename="UI/texture/cd_skilltree_04.dds" Type="Image" GetRect="1,1,843,259"/>
+<Texture Name="cd_skilltree_bg_deco_line_pattern_00" Filename="UI/texture/cd_skilltree_04.dds" Type="Image" GetRect="1,262,521,299"/>
+<Texture Name="cd_skilltree_bg_deco_line_pattern_01" Filename="UI/texture/cd_skilltree_04.dds" Type="Image" GetRect="295,850,251,80"/>
+<Texture Name="cd_skilltree_bg_deco_line_pattern_02" Filename="UI/texture/cd_skilltree_04.dds" Type="Image" GetRect="846,57,80,4"/>
+<Texture Name="cd_skilltree_bg_deco_pattern_00" Filename="UI/texture/cd_skilltree_04.dds" Type="Image" GetRect="524,262,292,292"/>
+<Texture Name="cd_skilltree_bg_deco_pattern_01" Filename="UI/texture/cd_skilltree_04.dds" Type="Image" GetRect="524,556,292,292"/>
+<Texture Name="cd_skilltree_bg_deco_pattern_02" Filename="UI/texture/cd_skilltree_04.dds" Type="Image" GetRect="1,563,292,292"/>
+<Texture Name="cd_skilltree_bg_deco_square_00" Filename="UI/texture/cd_skilltree_04.dds" Type="Image" GetRect="846,1,54,54"/>
+<Texture Name="cd_skilltree_bg_deco_square_01" Filename="UI/texture/cd_skilltree_04.dds" Type="Image" GetRect="902,1,54,54"/>
+<Texture Name="cd_skilltree_bg_deco_square_02" Filename="UI/texture/cd_skilltree_04.dds" Type="Image" GetRect="958,1,54,54"/>
+<Texture Name="cd_skilltree_skillpoint_bg_00" Filename="UI/texture/cd_skilltree_04.dds" Type="Image" GetRect="818,262,202,219"/>
+
