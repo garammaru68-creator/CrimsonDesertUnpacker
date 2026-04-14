@@ -29,5 +29,9 @@ CrimsonDesertData/0015/
 __pycache__/
 *.pyc
 
+# Compressed archives
+*.7z.*
+*.7z
+
 # Claude Code
 .claude/
