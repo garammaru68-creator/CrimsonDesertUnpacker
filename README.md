@@ -130,6 +130,21 @@ python python/paz_repack.py modified.xml --pamt /path/to/0.pamt --paz-dir /path/
 
 See [`python/README.md`](python/README.md) for full documentation.
 
+## Extracted Game Data
+
+Some large extracted data files are not included in this repository due to GitHub size limits.
+
+| Data | Size | Location |
+|------|------|----------|
+| `CrimsonDesertData/0008` | ~2.2 GB | Included in repo |
+| `CrimsonDesertData/0012` | ~1.8 GB | Included in repo (mp4 excluded) |
+| `CrimsonDesertData/0015` | ~46.8 GB | [Google Drive](https://drive.google.com/drive/folders/TODO) |
+| `CrimsonDesertData/0019` | Small | Included in repo |
+| `CrimsonDesertData/0020` | Small | Included in repo |
+| `worldmap_extract/` | ~544 MB | Not included |
+
+To download `CrimsonDesertData/0015` level data, use the Google Drive link above and extract to `CrimsonDesertData/0015/`.
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
