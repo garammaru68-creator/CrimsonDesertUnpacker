@@ -1,5 +1,7 @@
 # Build output
 build/
+gui/bin/
+gui/obj/
 
 # Large extracted data (544MB+)
 worldmap_extract/
@@ -22,6 +24,10 @@ CMakeSettings.json
 
 # Large level data (20GB+, too large for GitHub)
 CrimsonDesertData/0015/
+
+# Python cache
+__pycache__/
+*.pyc
 
 # Claude Code
 .claude/
