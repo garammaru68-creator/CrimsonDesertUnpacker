@@ -138,12 +138,17 @@ Some large extracted data files are not included in this repository due to GitHu
 |------|------|----------|
 | `CrimsonDesertData/0008` | ~2.2 GB | Included in repo |
 | `CrimsonDesertData/0012` | ~1.8 GB | Included in repo (mp4 excluded) |
-| `CrimsonDesertData/0015` | ~46.8 GB | [Google Drive](https://drive.google.com/drive/folders/TODO) |
+| `CrimsonDesertData/0015` | ~46.8 GB (compressed: ~32 GB in 18 parts) | [Google Drive](https://drive.google.com/drive/folders/1X5WtE96dJ1sHyXo3VqSyWfq6XbQK-UP5?usp=drive_link) |
 | `CrimsonDesertData/0019` | Small | Included in repo |
 | `CrimsonDesertData/0020` | Small | Included in repo |
 | `worldmap_extract/` | ~544 MB | Not included |
 
-To download `CrimsonDesertData/0015` level data, use the Google Drive link above and extract to `CrimsonDesertData/0015/`.
+To download `CrimsonDesertData/0015` level data:
+
+1. Download all 18 split archive parts (`CrimsonDesertData_0015.7z.001` ~ `.018`) from the [Google Drive folder](https://drive.google.com/drive/folders/1X5WtE96dJ1sHyXo3VqSyWfq6XbQK-UP5?usp=drive_link).
+2. Place all parts in the same folder.
+3. Extract using 7-Zip (right-click `.7z.001` → **7-Zip → Extract Here**, or run `7z x CrimsonDesertData_0015.7z.001`).
+4. Move the extracted contents to `CrimsonDesertData/0015/`.
 
 ## License
 
