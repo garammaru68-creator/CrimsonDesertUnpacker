@@ -16,3 +16,12 @@ worldmap_rendered.png
 
 # CMake
 CMakeSettings.json
+
+# Large video files
+*.mp4
+
+# Large level data (20GB+, too large for GitHub)
+CrimsonDesertData/0015/
+
+# Claude Code
+.claude/
